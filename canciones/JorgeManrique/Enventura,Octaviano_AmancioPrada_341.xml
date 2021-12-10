@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>En ventura, Octaviano</title>
+            <author>Amancio Prada</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Coplas a la muerte de su padre</title>
+               <publisher>Musicamaina</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=M0N6DykqJZM"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Amancio Prada</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Jorge Manrique</persName>
+                  <bibl>Coplas por la muerte de su padre</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>En ventura Octaviano;</l>
+                  <l> Julio César en vencer</l>
+                  <l> y batallar;</l>
+                  <l> en la virtud, Africano;</l>
+                  <l> Aníbal en el saber</l>
+                  <l> y trabajar;</l>
+                  <l> en la bondad, un Trajano;</l>
+                  <l> Tito en liberalidad</l>
+                  <l> con alegría,</l>
+                  <l> en su brazo, Aureliano;</l>
+                  <l> Marco Atilio en la verdad</l>
+                  <l> que prometía.</l>
+               </lg>
+               <lg>
+                  <l> Antonio Pío en clemencia;</l>
+                  <l> Marco Aurelio en igualdad</l>
+                  <l> del semblante;</l>
+                  <l> Adriano en elocuencia,</l>
+                  <l> Teodosio en humanidad</l>
+                  <l> y buen talante;</l>
+                  <l> Aurelio Alejandro fue</l>
+                  <l> en disciplina y rigor</l>
+                  <l> de la guerra;</l>
+                  <l> un Constantino en la fe,</l>
+                  <l> Camilo en el gran amor</l>
+                  <l> de su tierra.</l>
+               </lg>
+               <lg>
+                  <l> No dejó grandes tesoros,</l>
+                  <l> ni alcanzó muchas riquezas</l>
+                  <l> ni vajillas;</l>
+                  <l> mas hizo guerra a los moros,</l>
+                  <l> ganando sus fortalezas</l>
+                  <l> y sus villas;</l>
+                  <l> y en las lides que venció,</l>
+                  <l> cuántos moros y caballos</l>
+                  <l> se perdieron;</l>
+                  <l> y en este oficio ganó</l>
+                  <l> las rentas y los vasallos</l>
+                  <l> que le dieron.</l>
+               </lg>
+               <lg>
+                  <l> Pues por su honra y estado,</l>
+                  <l> en otros tiempos pasados,</l>
+                  <l> ¿cómo se hubo?</l>
+                  <l> Quedando desamparado,</l>
+                  <l> con hermanos y criados</l>
+                  <l> se sostuvo.</l>
+                  <l> Después que hechos famosos</l>
+                  <l> hizo en esta misma guerra</l>
+                  <l> que hacía,</l>
+                  <l> hizo tratos tan honrosos</l>
+                  <l> que le dieron aun más tierra</l>
+                  <l> que tenía.</l>
+               </lg>
+               <lg>
+                  <l> Estas sus viejas historias</l>
+                  <l> que con su brazo pintó</l>
+                  <l> en juventud,</l>
+                  <l> con otras nuevas victorias</l>
+                  <l> ahora las renovó</l>
+                  <l> en senectud.</l>
+                  <l> Por su grande habilidad,</l>
+                  <l> por méritos y ancianía</l>
+                  <l> bien gastada,</l>
+                  <l> alcanzó la dignidad</l>
+                  <l> de la gran Caballería</l>
+                  <l> de la Espada.</l>
+               </lg>
+               <lg>
+                  <l> Y sus villas y sus tierras</l>
+                  <l> ocupadas de tiranos</l>
+                  <l> las halló;</l>
+                  <l> mas por cercos y por guerras</l>
+                  <l> y por fuerza de sus manos</l>
+                  <l> las cobró.</l>
+                  <l> Pues nuestro rey natural,</l>
+                  <l> si de las obras que obró</l>
+                  <l> fue servido,</l>
+                  <l> dígalo el de Portugal</l>
+                  <l> y en Castilla quien siguió</l>
+                  <l> su partido.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Todo el disco está dedicado a musicar las Coplas a la muerte de su padre de Jorge
+            Manrique. Esta canción abarca las coplas 27-32. </note>
+      </body>
+   </text>
+</TEI>

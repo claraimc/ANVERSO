@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La ofrenda y los ruegos</title>
+            <author>Emilio Valdeolivas</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>El cantar de mio Cid</title>
+               <publisher>Tecnosaga</publisher>
+               <date cert="low"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=el7V9-IRGnM&amp;t=1974s"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Emilio Valdeolivas</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Segundo regalo para el rey (Cantar de mio Cid)</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Si a vos ploguiere, Minaya, e non vos caya en pesar</l>
+                  <l> enbiar vos quiero a Castiella, do avemos heredad,</l>
+                  <l> al rey Alfonsso, mio señor natural</l>
+                  <l> dar le quiero çient cavallos, e vos ídgelos levar.</l>
+               </lg>
+               <lg>
+                  <l> El bueno de Minaya penssó de cavalgar,</l>
+                  <l> por mí besalde la mano e firme gelo rogad</l>
+                  <l> por mi mugier doña Ximena e mis fijas naturales,</l>
+                  <l> si fore su merçed quenlas dexe sacar.</l>
+                  <l> Enbiaré por ellas e vos sabed el mensage</l>
+                  <l> de guisa irán por ellas que a grand ondra vernán</l>
+                  <l> a estas tierras estrañas que nos pudiemos ganar.</l>
+               </lg>
+               <lg>
+                  <l> El bueno de Minaya penssó de cavalgar.</l>
+                  <l> Merçed, Minaya, cavallero de prestar</l>
+                  <l> mill marcos de plata madó a San Pero levar</l>
+                  <l> e que los quinientos diesse a don Sancho el abbat.</l>
+                  <l> A los piedes del rey Alfons con grand duolo cayó,</l>
+                  <l> fincó sos inojos, tan puosto fabló:</l>
+                  <l> Besácavos las manos mio Çid lidiadorm</l>
+                  <l> quel ayades merçed, sí vos vala el Criador.</l>
+               </lg>
+               <lg>
+                  <l> El bueno de Minaya penssó de cavalgar,</l>
+                  <l> maguer en tierra agena, de Valençia es señor,</l>
+                  <l> fevos aquí las señasm verdad vos digo yo,</l>
+                  <l> estos çient cavallos todos guarnidos son</l>
+                  <l> de siellas e de frenos, gruessos e corredores.</l>
+                  <l> Alço la mano diestra, el rey se santigó:</l>
+                  <l> reçibo estos cavallos que me envía de don.</l>
+               </lg>
+               <lg>
+                  <l> El bueno de Minaya penssó de cavalgar.</l>
+                  <l> Merçed, Minaya, cavallero de prestar,</l>
+                  <l> del monesterio saldríen, do elle las dexó,</l>
+                  <l> su mugier e sus fijas si vos cadiesse en sabor.</l>
+                  <l> Essora dixo el rey plazme de coraçone.</l>
+                  <l> Más ganaremos en esto que en otra desamor.</l>
+                  <l> Levedes un portero, tengo que vos avrá pro.</l>
+                  <l> Espidiós Minaya, pora San Pero adelinó.</l>
+               </lg>
+               <lg>
+                  <l> El bueno de Minaya penssó de cavalgar.</l>
+                  <l> Omíllome, doña Ximena, Dios vos curie de mal.</l>
+                  <l> El rey por su merçed sueltas me vos ha.</l>
+                  <l> Los quinientos marcos dio MInaya al abbat,</l>
+                  <l> de los otros quinientos dezir vos he que faze.</l>
+                  <l> Minaya Alvar Fáñez  pensolas de adobar</l>
+                  <l> de los mejores guarnimientos que en Burgos pudo fallar.</l>
+               </lg>
+               <lg>
+                  <l> El bueno de Minaya penssó de cavalgar.</l>
+                  <l> Merçed, Minaya, cavallero de prestar,</l>
+                  <l> grand duelo es al partir del abbat</l>
+                  <l> aqueste monesterio no lo quiera el Çid olbidar.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Toma los vv. 1270-1272, 1274, 1430 (siempre que aparece es, en realidad, una
+            combinación de 1430 y 1440), 1275-1278, 1280-1281, 1430, 1432, 1285-1286, 1318-1320 (con
+            cambios), 1323-1324, 1430, 1325 y 1330, 1340, 1344, (combinados en uno), 1335,
+            1336-1337, 1430, 1432, 1351-1353 (combinación libre), 1355, 1371, 1380, 1284 y 1440
+            (combinados), 14330, 1396, 1400, 1422, 1426-1427, 1430, 1432,  1441 y 1444, del cantar
+            segundo del Cantar de mio Cid, en ese orden, con modificaciones mínimas. Probablemente
+            sigue la edición de Menéndez Pidal, dado el tratamiento de -e final en varios versos,
+            pero no podemos asegurarlo por el momento. Todo el disco está dedicado al Cantar de mio
+            Cid, del que es una adaptación. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Yo escucho los cantos</title>
+            <author>Enrique Morente</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Despegando</title>
+               <publisher>CBS Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=_ULK2VnoAJk"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Enrique Morente</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Antonio Machado</persName>
+                  <bibl>[Yo escucho los cantos]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Yo escucho los cantos</l>
+                  <l> de viejas cadencias,</l>
+                  <l> que cantan los niños</l>
+                  <l> cuando en coro juegan,</l>
+                  <l> y vierten en coro</l>
+                  <l> sus almas que sueñan,</l>
+                  <l> cual vierten sus aguas</l>
+                  <l> las fuentes de piedra:</l>
+                  <l> con monotonías</l>
+                  <l> de risas eternas,</l>
+                  <l> que no son alegres,</l>
+                  <l> con lágrimas viejas,</l>
+                  <l> que no son amargas</l>
+                  <l> y dicen tristezas,</l>
+                  <l> tristezas de amores</l>
+                  <l> de antiguas leyendas.</l>
+                  <l> Y en los labios de los niños,</l>
+                  <l> las canciones llevan</l>
+                  <l> confusa la historia</l>
+                  <l> y clara la pena;</l>
+                  <l> como lleva el agua</l>
+                  <l> clara su conseja</l>
+                  <l> de viejos amores,</l>
+                  <l> que nunca se cuentan.</l>
+                  <l> De viejos amores,</l>
+                  <l> que nunca se cuentan.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción musicaliza el poema, con ligeras variaciones léxicas y supresión de algunos
+            versos. </note>
+      </body>
+   </text>
+</TEI>

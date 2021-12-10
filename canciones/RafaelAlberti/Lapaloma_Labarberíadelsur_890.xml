@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La paloma</title>
+            <author>La barbería del sur</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Negri y paquete</title>
+               <publisher>Warner Music</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=jaO3ZWaYAjQ"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>La barbería del sur</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <bibl>[Se equivocó la paloma]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Se equivocó la paloma.</l>
+                  <l> Se equivocaba.</l>
+               </lg>
+               <lg>
+                  <l> Por ir al Norte fue al Sur.</l>
+                  <l> Creyó que el trigo era agua.</l>
+                  <l> Creyó que el mar era el cielo;</l>
+                  <l> que la noche, la mañana.</l>
+                  <l> Que las estrellas, rocío;</l>
+                  <l> que la calor, la nevada.</l>
+               </lg>
+               <lg>
+                  <l> Se equivocaba.</l>
+               </lg>
+               <lg>
+                  <l> Ella se durmió en la orilla.</l>
+                  <l> Tú, en la cumbre de una rama.</l>
+               </lg>
+               <lg>
+                  <l> (Tararea)</l>
+               </lg>
+               <lg>
+                  <l> Se equivocó la paloma.</l>
+                  <l> Se equivocaba.</l>
+               </lg>
+               <lg>
+                  <l> Por ir al Norte fue al Sur.</l>
+                  <l> Creyó que el trigo era agua.</l>
+                  <l> Creyó que el mar era el cielo;</l>
+                  <l> que la noche, la mañana.</l>
+                  <l> Que las estrellas, rocío;</l>
+                  <l> que la calor, la nevada.</l>
+               </lg>
+               <lg>
+                  <l> (Se equivocó la paloma.</l>
+                  <l> Se equivocaba.)</l>
+               </lg>
+               <lg>
+                  <l> Que tu falda era su blusa;</l>
+                  <l> que tu corazón, su casa.</l>
+               </lg>
+               <lg>
+                  <l> (Creyó que el mar era el cielo;</l>
+                  <l> que la noche, la mañana.)</l>
+               </lg>
+               <lg>
+                  <l> Y ella se durmió en la orilla.</l>
+                  <l> Tú, en la cumbre de una rama.</l>
+               </lg>
+               <lg>
+                  <l> Se equivocó la paloma.</l>
+                  <l> Se equivocaba.</l>
+                  <l> Por ir al Norte fue al Sur.</l>
+                  <l> Creyó que el trigo era agua.</l>
+                  <l> Que tu falda era su blusa;</l>
+                  <l> que tu corazón, su casa.</l>
+               </lg>
+               <lg>
+                  <l> (Se equivocó la paloma.</l>
+                  <l> Se equivocaba.)</l>
+               </lg>
+               <lg>
+                  <l> Que las estrellas, rocío;</l>
+                  <l> que la calor, la nevada.</l>
+                  <l> (Se equivocó la paloma.</l>
+                  <l> Se equivocaba.)</l>
+               </lg>
+               <lg>
+                  <l> Creyó que el mar era el cielo;</l>
+                  <l> que la noche, la mañana.</l>
+               </lg>
+               <lg>
+                  <l> (Se equivocó la paloma.</l>
+                  <l> Se equivocaba.)</l>
+               </lg>
+               <lg>
+                  <l> Que mi corazón, tu casa.</l>
+               </lg>
+               <lg>
+                  <l> (Se equivocó la paloma.</l>
+                  <l> Se equivocaba.)</l>
+               </lg>
+               <lg>
+                  <l> Que las estrellas, rocío;</l>
+                  <l> que la calor, la nevada.</l>
+               </lg>
+               <lg>
+                  <l> Se equivocó.</l>
+                  <l> Se equivocó.</l>
+                  <l> Ay, la paloma.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Como casi todas las versiones de esta canción, parte de la musicalización original de
+            Carlos Gustavino para el ballet Suite Argentina (que se publicó como Se equivocó la
+            paloma: para canto y piano / poesía de Rafael Alberti, Buenos Aires: Ricordi Americana,
+            1941). Aunque el texto es el mismo que el poema y prácticamente no hay variaciones, esta
+            versión se toma más libertades, especialmente porque se reordenan los versos. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Niño marinero</title>
+            <author>Emilio José</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Poetas andaluces</title>
+               <publisher>Perfil</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=EUUfqRoW0lM"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Latina</term>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Emilio José</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <bibl>Elegía del niño marinero</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Marinerito delgado,</l>
+                  <l> Luis Gonzaga de la mar,</l>
+                  <l> ¡qué fresco era tu pescado,</l>
+                  <l> acabado de pescar!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Te fuiste, marinerito,</l>
+                  <l> en una noche lunada,</l>
+                  <l> ¡tan alegre, tan bonito,</l>
+                  <l> cantando, a la mar salada!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Qué humilde estaba la mar!</l>
+                  <l> ¡Él cómo la gobernaba!</l>
+                  <l> Tan dulce era su cantar,</l>
+                  <l> que le aire se enajenaba.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Cinco delfines remeros</l>
+                  <l> su barca le cortejaban.</l>
+                  <l> Dos ángeles marineros,</l>
+                  <l> invisibles, la guiaban.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay mi niño marinero,</l>
+                  <l> tan morenito y galán,</l>
+                  <l> tan guapo y tan pinturero,</l>
+                  <l> más puro y bueno que el pan!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Tendió las redes, ¡qué pena!,</l>
+                  <l> por sobre la mar helada.</l>
+                  <l> Y pescó la luna llena,</l>
+                  <l> sola, en su red plateada.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Qué negra quedó la mar!</l>
+                  <l> ¡La noche qué desolada!</l>
+                  <l> Derribado su cantar,</l>
+                  <l> la barca fue derribada.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Flotadora va en el viento</l>
+                  <l> la sonrisa amortajada</l>
+                  <l> de su rostro. ¡Qué lamento</l>
+                  <l> el de la noche cerrada!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay mi niño marinero,</l>
+                  <l> tan morenito y galán,</l>
+                  <l> tan guapo y tan pinturero,</l>
+                  <l> más puro y bueno que el pan!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Tendió las redes, ¡qué pena!,</l>
+                  <l> por sobre la mar helada.</l>
+                  <l> Y pescó la luna llena,</l>
+                  <l> sola, en su red plateada.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¿Qué harás, pescador de oro,</l>
+                  <l> allá en los valles salados del mar?</l>
+                  <l> ¿Del mar hallaste el tesoro</l>
+                  <l> secreto de los pescados?</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Deja, niño, el salinar</l>
+                  <l> del fondo, y súbeme al cielo</l>
+                  <l> de los peces y, en tu anzuelo,</l>
+                  <l> mi hortelanita del mar!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay mi niño marinero,</l>
+                  <l> tan morenito y galán,</l>
+                  <l> tan guapo y tan pinturero,</l>
+                  <l> más puro y bueno que el pan!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Tendió las redes, ¡qué pena!,</l>
+                  <l> por sobre la mar helada.</l>
+                  <l> Y pescó la luna llena,</l>
+                  <l> sola, en su red plateada.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay mi niño marinero,</l>
+                  <l> tan morenito y galán,</l>
+                  <l> tan guapo y tan pinturero,</l>
+                  <l> más puro y bueno que el pan!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original; la puntuación y
+                    ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Hubo dos musicalizaciones anteriores a 1975, por eso no recogidas en esta base de
+            datos: Mikaela (Mikaela canta poesías de Rafael Alberti, 1970) y Alfredo Arrebola
+            ‎(Cante a los poemas Marinero en tierra de Rafael Alberti, 1973). La principal
+            diferencia con el poema de Rafael Alberti radica en que repite la estrofa octava
+            colocándola antes de la quita y haciendo grupo con esta para repetirla posteriormente y
+            al final de la canción, donde termina con la repetición de la quinta una vez más.
+        </note>
+      </body>
+   </text>
+</TEI>

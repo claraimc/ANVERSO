@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ciudad de los gitanos</title>
+            <author>Marea</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>28.000 puñaladas</title>
+               <publisher>28.000 puñaladas</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=1wjO9w44xXU"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Marea</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Romance de la Guardia Civil española</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Los caballos negros son.</l>
+                  <l> Las herraduras son negras.</l>
+                  <l> Sobre las capas relucen</l>
+                  <l> manchas de tinta y de cera.</l>
+                  <l> Tienen, por eso no lloran,</l>
+                  <l> de plomo las calaveras.</l>
+                  <l> Con el alma de charol</l>
+                  <l> vienen por la carretera.</l>
+                  <l> ¡Oh ciudad de los gitanos!</l>
+                  <l> ¿Quién te vio y no te recuerda?</l>
+                  <l> Ciudad de dolor y almizcle,</l>
+                  <l> con las torres de canela.</l>
+                  <l> ¡Oh ciudad de los gitanos!</l>
+                  <l> ¿Quién te vio y no te recuerda?</l>
+                  <l> Apaga tus verdes luces</l>
+                  <l> que viene la benemérita.</l>
+                  <l> La ciudad libre de miedo,</l>
+                  <l> multiplicaba sus puertas.</l>
+                  <l> Cuarenta guardias civiles</l>
+                  <l> entran a saco por ellas.</l>
+                  <l> Los relojes se pararon,</l>
+                  <l> y el coñac de las botellas</l>
+                  <l> se disfrazó de noviembre</l>
+                  <l> para no infundir sospechas.</l>
+                  <l> Un vuelo de gritos largos</l>
+                  <l> se levantó en las veletas.</l>
+                  <l> Los sables cortan las brisas</l>
+                  <l> que los cascos atropellan.</l>
+                  <l> Por las calles de penumbra</l>
+                  <l> huyen las gitanas viejas</l>
+                  <l> con los caballos dormidos</l>
+                  <l> y las orzas de monedas.</l>
+                  <l> Por las calles empinadas</l>
+                  <l> suben las capas siniestras,</l>
+                  <l> dejando detrás fugaces</l>
+                  <l> remolinos de tijeras.</l>
+                  <l> ¡Oh ciudad de los gitanos!</l>
+                  <l> ¿Quién te vió y no te recuerda?</l>
+                  <l> Dejadla lejos del mar</l>
+                  <l> sin peines para sus crenchas.</l>
+                  <l> ¡Oh ciudad de los gitanos!</l>
+                  <l> ¿Quién te vió y no te recuerda?</l>
+                  <l> Que te busquen en mi frente.</l>
+                  <l> Juego de luna y arena.</l>
+                  <l> Rosa de los Camborios,</l>
+                  <l> gime sentada en su puerta</l>
+                  <l> con sus dos pechos cortados</l>
+                  <l> puestos en una bandeja.</l>
+                  <l> Pero la Guardia Civil</l>
+                  <l> avanza sembrando hogueras,</l>
+                  <l> donde joven y desnuda</l>
+                  <l> la imaginación se quema</l>
+                  <l> ¡Oh ciudad de los gitanos!</l>
+                  <l> ¿Quién te vió y no te recuerda?</l>
+                  <l> Que te busquen en mi frente.</l>
+                  <l> Juego de luna y arena.</l>
+                  <l> ¡Oh ciudad de los gitanos!</l>
+                  <l> La Guardia Civil se aleja</l>
+                  <l> por un túnel de silencio</l>
+                  <l> mientras las llamas te cercan.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio, a falta de buena fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns=""/>
+      </body>
+   </text>
+</TEI>

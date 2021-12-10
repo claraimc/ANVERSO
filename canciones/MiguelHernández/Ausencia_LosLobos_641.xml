@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ausencia</title>
+            <author>Los Lobos</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>La palabra más tuya. Cantando a Miguel Hernández</title>
+               <publisher>Factoría Autor</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/jkuiybI_lCo"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Latina</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Los Lobos</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Ausencia en todo veo]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Ausencia en todo veo:</l>
+                  <l> tus ojos la reflejan.</l>
+               </lg>
+               <lg>
+                  <l> Ausencia en todo escucho:</l>
+                  <l> tu voz a tiempo suena.</l>
+               </lg>
+               <lg>
+                  <l> Ausencia en todo aspiro:</l>
+                  <l> tu aliento huele a hierba.</l>
+               </lg>
+               <lg>
+                  <l> Ausencia en todo toco:</l>
+                  <l> tu cuerpo se despuebla, tu cuerpo se despuebla.</l>
+               </lg>
+               <lg>
+                  <l> Ausencia en todo, ausencia</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+               <lg> </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar del poema de Miguel Hernández. Para
+            componer la canción, el autor repite tres veces el poema, modificando la última estrofa:
+            «…Ausencia en todo, ausencia…», en vez de «…Ausencia en todo siento./Ausencia, ausencia,
+            ausencia…». Esta canción sería una versión nueva de la publicada por la banda en su
+            disco Vientos del pueblo, de 1972. </note>
+      </body>
+   </text>
+</TEI>

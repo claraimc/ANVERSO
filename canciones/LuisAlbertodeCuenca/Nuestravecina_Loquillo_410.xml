@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nuestra vecina</title>
+            <author>Loquillo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Su nombre era el de todas las mujeres</title>
+               <publisher>Dro</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=ZExCtcyEKZ8"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Loquillo</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Luis Alberto de Cuenca</persName>
+                  <bibl>Nuestra vecina</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Tiene, Javier, nuestra vecina un talle</l>
+                  <l> que resucita a un muerto, y unos ojos</l>
+                  <l> que derriten el plomo y dan antojos</l>
+                  <l> a quien se los tropieza por la calle.</l>
+               </lg>
+               <lg>
+                  <l> Hay que trazar un plan que no nos falle</l>
+                  <l> para descerrajarle los cerrojos</l>
+                  <l> y pasear en triunfo sus despojos</l>
+                  <l> cuidando hasta el más mínimo detalle.</l>
+               </lg>
+               <lg>
+                  <l> Tú en el portal y yo en el descansillo,</l>
+                  <l> siempre al acecho, cristalina media</l>
+                  <l> velándonos la cara y un cuchillo</l>
+               </lg>
+               <lg>
+                  <l> afilado. Si Dios no lo remedia,</l>
+                  <l> de la vecina haremos picadillo</l>
+                  <l> y de un cuento vulgar una tragedia.</l>
+               </lg>
+               <lg>
+                  <l> Tiene, Javier, nuestra vecina un talle</l>
+                  <l> que resucita a un muerto, y unos ojos</l>
+                  <l> que derriten el plomo y dan antojos.</l>
+               </lg>
+               <lg>
+                  <l> Hay que trazar un plan que no nos falle. [Verso x 3]</l>
+                  <l> Hay que trazar un plan… [Verso x 3]</l>
+                  <l> que no nos falle.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y en contraste con el poema original; a
+                    falta de fuente escrita, la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización prácticamente idéntica, excepto porque repite algunos versos. </note>
+      </body>
+   </text>
+</TEI>

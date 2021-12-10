@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Imagen de tu huella</title>
+            <author>Carmen Linares</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Remembranzas</title>
+               <publisher>Salobre</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://music.youtube.com/watch?v=kvqHKkGKx_4&amp;list=RDAMVMkvqHKkGKx_4"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+               <term>Jazz</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Carmen Linares</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Imagen de tu huella</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Mis ojos, sin tus ojos, no son ojos,</l>
+                  <l> que son dos hormigueros solitarios,</l>
+                  <l> y son mis manos sin las tuyas varios</l>
+                  <l> intratables espinos a manojos.</l>
+               </lg>
+               <lg>
+                  <l> No me encuentro los labios sin tus rojos,</l>
+                  <l> que me llenan de dulces campanarios,</l>
+                  <l> sin ti mis pensamientos son calvarios</l>
+                  <l> criando nardos y agostando hinojos.</l>
+               </lg>
+               <lg>
+                  <l> No sé qué es de mi oreja sin tu acento,</l>
+                  <l> ni hacia qué polo yerro sin tu estrella,</l>
+                  <l> y mi voz sin tu trato se afemina.</l>
+               </lg>
+               <lg>
+                  <l> Los olores persigo de tu viento</l>
+                  <l> y la olvidada imagen de tu huella,</l>
+                  <l> que en ti principia, amor, y en mí termina.</l>
+               </lg>
+               <lg>
+                  <l> No sé qué es de mi oreja sin tu acento,</l>
+                  <l> ni hacia qué polo yerro sin tu estrella,</l>
+                  <l> y mi voz sin tu trato se afemina.</l>
+               </lg>
+               <lg>
+                  <l> Los olores persigo de tu viento</l>
+                  <l> y la olvidada imagen de tu huella,</l>
+                  <l> que en ti principia, amor, y en mí termina.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción musicaliza el segundo de los sonetos de Imagen de tu huella (1934): «Mis
+            ojos, sin tus ojos, no son ojos», íntegro, pero repitiendo los dos tercetos al final. Se
+            ha puesto el título usado por Carmen Linares en Verso a verso. Canta a Miguel
+            Hernández (2017), así como esta grabación, pero en el disco donde apareció la canción
+            por primera ver (Remembranzas, 2011) el título estaba tomado del primer verso del
+            segundo soneto: «Mis ojos sin tus ojos». Hubo una primera versión de este mismo soneto a
+            cargo de Pedro Ávila en su álbum El nuevo hombre cantado (1971); sin embargo, por ser
+            anterior a 1975, esta versión no está recogida en esta base de datos. </note>
+      </body>
+   </text>
+</TEI>

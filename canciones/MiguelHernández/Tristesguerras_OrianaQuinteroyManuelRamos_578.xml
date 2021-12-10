@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tristes guerras</title>
+            <author>Oriana Quintero y Manuel Ramos</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Otros">
+               <title>Miguel Hernández</title>
+               <publisher>Ace Music</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/ZLmKgSJngmM"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Oriana Quintero y Manuel Ramos</persName>
+                  <nationality>Venezuela</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Tristes guerras]</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Tristes guerras</l>
+                  <l> si no es amor la empresa.</l>
+               </lg>
+               <lg>
+                  <l> Tristes. Tristes.</l>
+               </lg>
+               <lg>
+                  <l> Tristes armas</l>
+                  <l> si no son las palabras.</l>
+               </lg>
+               <lg>
+                  <l> Tristes. Tristes.</l>
+               </lg>
+               <lg>
+                  <l> Tristes hombres</l>
+                  <l> si no mueren de amores.</l>
+               </lg>
+               <lg>
+                  <l> Tristes. Tristes.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización idéntica del poema de Miguel Hernández. </note>
+      </body>
+   </text>
+</TEI>

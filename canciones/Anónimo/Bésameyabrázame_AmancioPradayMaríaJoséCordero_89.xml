@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bésame y abrázame</title>
+            <author>Amancio Prada y María José Cordero</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Del amor que quita el sueño (Romances y canciones desde el Reino de León)</title>
+               <publisher>Musicamaina</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=gyspbcXft_g"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Amancio Prada y María José Cordero</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Bésame y abrázame</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Bésame y abrázame,</l>
+                  <l> marido, marido mío,</l>
+                  <l> y daros he en la mañana</l>
+                  <l> camisón limpio.</l>
+               </lg>
+               <lg>
+                  <l> Yo nunca vi hombre vivo</l>
+                  <l> estar tan muerto</l>
+                  <l> ni hacer el dormido</l>
+                  <l> estando despierto.</l>
+                  <l> Andad, marido, alerta</l>
+                  <l> y tened, y tened brío,</l>
+                  <l> y daros he en la mañana</l>
+                  <l> camisón limpio.</l>
+               </lg>
+               <lg>
+                  <l> —Dime, pajarito,</l>
+                  <l> que estás en el nido,</l>
+                  <l> ¿la dama besada</l>
+                  <l> pierde marido?</l>
+                  <l> —No, la mi señora,</l>
+                  <l> si fue en escondido</l>
+                  <l> (si fue en escondido).</l>
+               </lg>
+               <lg>
+                  <l> Andad, marido, alerta</l>
+                  <l> y tened, y tened brío,</l>
+                  <l> y daros he en la mañana</l>
+                  <l> camisón limpio.</l>
+               </lg>
+               <lg>
+                  <l> Yo nunca vi hombre vivo</l>
+                  <l> estar tan muerto</l>
+                  <l> ni hacer el dormido</l>
+                  <l> estando despierto.</l>
+                  <l> Bésame y abrázame,</l>
+                  <l> marido, marido mío,</l>
+                  <l> y daros he en la mañana</l>
+                  <l> camisón limpio.</l>
+               </lg>
+               <lg>
+                  <l> Bésame y abrázame,</l>
+                  <l> marido, marido mío,</l>
+                  <l> y daros he en la mañana</l>
+                  <l> camisón limpio.</l>
+                  <l> Bésame y abrázame.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Combina dos cancioncillas tradicionales diferentes, una de las cuales (la primera)
+            tiene una tradición musical histórica.   Como señala el subtítulo del álbum, todo él
+            está dedicado a piezas de la lírica castellana medieval y temprano-moderna. </note>
+      </body>
+   </text>
+</TEI>

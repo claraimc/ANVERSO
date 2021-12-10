@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elegía</title>
+            <author>Jarcha</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Libertad sin ira</title>
+               <publisher>Novola</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=5WsgW83J1ic"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Jarcha</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Elegía [a Ramón Sijé]</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>(En Orihuela, su pueblo y el mío, se me ha muerto como el rayo Ramón Sijé, con
+                    quien tanto quería.)</l>
+               </lg>
+               <lg>
+                  <l> Yo quiero ser llorando el hortelano</l>
+                  <l> de la tierra que ocupas y estercolas,</l>
+                  <l> compañero del alma, tan temprano.</l>
+               </lg>
+               <lg>
+                  <l> Alimentando lluvias, caracolas</l>
+                  <l> y órganos mi dolor sin instrumento,</l>
+                  <l> a las desalentadas amapolas</l>
+               </lg>
+               <lg>
+                  <l> daré tu corazón por alimento.</l>
+                  <l> Tanto dolor se agrupa en mi costado,</l>
+                  <l> que por doler me duele hasta el aliento.</l>
+               </lg>
+               <lg>
+                  <l> Un manotazo duro, un golpe helado,</l>
+                  <l> un hachazo invisible y homicida,</l>
+                  <l> un empujón brutal te ha derribado.</l>
+               </lg>
+               <lg>
+                  <l> No hay extensión más grande que mi herida,</l>
+                  <l> lloro mi desventura y sus conjuntos</l>
+                  <l> y siento más tu muerte que mi vida.</l>
+               </lg>
+               <lg>
+                  <l> Ando sobre rastrojos de difuntos,</l>
+                  <l> y sin calor de nadie y sin consuelo</l>
+                  <l> voy de mi corazón a mis asuntos.</l>
+               </lg>
+               <lg>
+                  <l> Temprano levantó la muerte el vuelo,</l>
+                  <l> temprano madrugó la madrugada,</l>
+                  <l> temprano estás rodando por el suelo.</l>
+               </lg>
+               <lg>
+                  <l> No perdono a la muerte enamorada,</l>
+                  <l> no perdono a la vida desatenta,</l>
+                  <l> no perdono a la tierra ni a la nada.</l>
+               </lg>
+               <lg>
+                  <l> En mis manos levanto una tormenta</l>
+                  <l> de piedras, rayos y hachas estridentes</l>
+                  <l> sedienta de catástrofes y hambrienta.</l>
+               </lg>
+               <lg>
+                  <l> Quiero escarbar la tierra con los dientes,</l>
+                  <l> quiero apartar la tierra parte a parte</l>
+                  <l> a dentelladas secas y calientes.</l>
+               </lg>
+               <lg>
+                  <l> Quiero minar la tierra hasta encontrarte</l>
+                  <l> y besarte la noble calavera</l>
+                  <l> y desamordazarte y regresarte.</l>
+               </lg>
+               <lg>
+                  <l> Volverás a mi huerto y a mi higuera:</l>
+                  <l> por los altos andamios de las flores</l>
+                  <l> pajareará tu alma colmenera</l>
+               </lg>
+               <lg>
+                  <l> de angelicales ceras y labores.</l>
+                  <l> Volverás al arrullo de las rejas</l>
+                  <l> de los enamorados labradores.</l>
+               </lg>
+               <lg>
+                  <l> Alegrarás la sombra de mis cejas,</l>
+                  <l> y tu sangre se irán a cada lado</l>
+                  <l> disputando tu novia y las abejas.</l>
+               </lg>
+               <lg>
+                  <l> Tu corazón, ya terciopelo ajado,</l>
+                  <l> llama a un campo de almendras espumosas</l>
+                  <l> mi avariciosa voz de enamorado.</l>
+               </lg>
+               <lg>
+                  <l> A las aladas almas de las rosas</l>
+                  <l> del almendro de nata te requiero,</l>
+                  <l> que tenemos que hablar de muchas cosas,</l>
+                  <l> compañero del alma, compañero.</l>
+               </lg>
+               <lg>
+                  <l> Compañero, volverá. [Se repite varias veces hasta terminar]</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Miguel Ángel Rodríguez musicalizó por primera vez este poema de Miguel Hernádnez
+            (Manifiesto Canción del Sur, 1971), y luego lo hizo Joan Manuel Serrat (Miguel
+            Hernández, 1972). Ninguna de estados dos versiones están incluidas en esta base de datos
+            por ser anteriores a 1975. A pesar de que, como Serrat, mantiene la dedicatoria previa
+            paratextual y el texto íntegro, la versión es muy diferente. </note>
+      </body>
+   </text>
+</TEI>

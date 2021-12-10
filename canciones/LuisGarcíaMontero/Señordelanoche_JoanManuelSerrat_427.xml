@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Señor de la noche</title>
+            <author>Joan Manuel Serrat</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Versos en la boca</title>
+               <publisher>BMG Ariola</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=Uq9VnKlWV9o"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Joan Manuel Serrat</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Luis García Montero</persName>
+                  <bibl>Canción de brujería</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Señor compañero,</l>
+                  <l> señor de la noche,</l>
+                  <l> haz que vuelva su rostro</l>
+                  <l> quien no quiso mirarme.</l>
+                  <l> Que sus ojos me busquen</l>
+                  <l> sostenidos y azules</l>
+                  <l> por detrás de la barra.</l>
+                  <l> Que pregunte mi nombre</l>
+                  <l> y se acerque despacio</l>
+                  <l> a pedirme tabaco.</l>
+               </lg>
+               <lg>
+                  <l> Señor de la noche,</l>
+                  <l> dios de la barra,</l>
+                  <l> ángel del sí,</l>
+                  <l> sota de copas,</l>
+                  <l> flor del pecado:</l>
+                  <l> reza por mí [verso x 4]</l>
+               </lg>
+               <lg>
+                  <l> Si prefiere quedarse,</l>
+                  <l> haz que todos se vayan</l>
+                  <l> y este bar se despueble</l>
+                  <l> para dejarnos solos</l>
+                  <l> con la canción más lenta.</l>
+                  <l> Si decide marcharse,</l>
+                  <l> que la luna disponga</l>
+                  <l> su luz en nuestro beso</l>
+                  <l> y que las calles sepan</l>
+                  <l> también dejarnos solos.</l>
+               </lg>
+               <lg>
+                  <l> Señor de la noche,</l>
+                  <l> dios de la barra,</l>
+                  <l> ángel del sí,</l>
+                  <l> sota de copas,</l>
+                  <l> flor del pecado:</l>
+                  <l> reza por mí [verso x 4]</l>
+               </lg>
+               <lg>
+                  <l> Haz que no cante el gallo</l>
+                  <l> sobre los edificios,</l>
+                  <l> que se retrase el día</l>
+                  <l> y que duren tus sombras</l>
+                  <l> el tiempo necesario.</l>
+               </lg>
+               <lg>
+                  <l> Señor de la noche,</l>
+                  <l> rey de los forajidos,</l>
+                  <l> llévame a los jardines</l>
+                  <l> de la dulce serpiente</l>
+                  <l> y los sueños cumplidos.</l>
+               </lg>
+               <lg>
+                  <l> Señor de la noche,</l>
+                  <l> dios de la barra,</l>
+                  <l> ángel del sí,</l>
+                  <l> sota de copas,</l>
+                  <l> flor del pecado:</l>
+                  <l> reza por mí [verso x 4]</l>
+               </lg>
+               <lg>
+                  <l> Haz que vuelva su rostro</l>
+                  <l> quien no quiso mirarme.</l>
+                  <l> Que sus ojos me busquen</l>
+                  <l> sostenidos y azules</l>
+                  <l> por detrás de la barra.</l>
+                  <l> Que pregunte mi nombre</l>
+                  <l> y se acerque despacio</l>
+                  <l> a pedirme tabaco.</l>
+               </lg>
+               <lg>
+                  <l> Señor de la noche,</l>
+                  <l> dios de la barra,</l>
+                  <l> ángel del sí,</l>
+                  <l> sota de copas,</l>
+                  <l> flor del pecado:</l>
+                  <l> reza por mí [verso x 6]</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio; a falta de fuente escrita, la
+                    puntualización y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Joan Manuel Serrat pone música al poema «Canción de brujería», de Luis García Montero,
+            pero añade algunos versos propios y un estribillo. </note>
+      </body>
+   </text>
+</TEI>

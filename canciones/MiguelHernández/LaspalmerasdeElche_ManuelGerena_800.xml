@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Las palmeras de Elche</title>
+            <author>Manuel Gerena</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Manuel Gerena canta con Miguel Hernández</title>
+               <publisher>Alía Discos</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://music.youtube.com/watch?v=YZxjY65w_gg&amp;list=OLAK5uy_mNHbPoQJPB9mMkUfaTfXFR405rLr-UbY0"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Manuel Gerena</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Dátiles y gloria</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Declinación del cielo,</l>
+                  <l> Dátiles: altos bienes.</l>
+                  <l> Declinación del cielo.</l>
+               </lg>
+               <lg>
+                  <l> Troncos, no de madera,</l>
+                  <l> de equilibrio perfecto.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns=""/>
+      </body>
+   </text>
+</TEI>

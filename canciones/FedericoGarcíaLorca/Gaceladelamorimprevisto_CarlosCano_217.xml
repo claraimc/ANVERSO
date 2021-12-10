@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gacela del amor imprevisto</title>
+            <author>Carlos Cano</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Diván del Tamarit. Gacelas y Casidas.</title>
+               <publisher>Dalur Discos</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=UVOT73fTiLU&amp;list=PLDtszg9eT1fzwhPDDvl4irXJcVoUVplcY&amp;index=20"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Carlos Cano</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Gacela del amor imprevisto</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Nadie, nadie, nadie,</l>
+                  <l> nadie, nadie.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Nadie comprendía el perfume</l>
+                  <l> de la oscura magnolia de tu vientre.</l>
+                  <l> Nadie sabía que martirizabas</l>
+                  <l> un colibrí de amor entre los dientes.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Mil caballitos persas se dormían</l>
+                  <l> en la plaza con luna de tu frente,</l>
+                  <l> mientras que yo enlazaba cuatro noches</l>
+                  <l> tu cintura enemiga de la nieve.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Nadie comprendía el perfume</l>
+                  <l> de la oscura magnolia de tu vientre.</l>
+                  <l> Mil caballitos persas se dormían</l>
+                  <l> en la plaza con luna de tu frente.</l>
+                  <l> Nadie sabía que martirizabas</l>
+                  <l> un colibrí de amor entre los dientes.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Entre yeso y jazmines, tu mirada</l>
+                  <l> era un pálido ramo de simientes.</l>
+                  <l> Yo busqué para darte por mi pecho</l>
+                  <l> las letras de marfil que dicen «siempre».</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> «Siempre, siempre», jardín de mi agonía,</l>
+                  <l> tu cuerpo fugitivo para siempre.</l>
+                  <l> «Siempre, siempre», jardín de mi agonía,</l>
+                  <l> tu cuerpo fugitivo para siempre,</l>
+                  <l> la sangre de tus venas en mi boca,</l>
+                  <l> tu boca ya sin luz para mi muerte.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> La sangre de tus venas en mi boca,</l>
+                  <l> tu boca ya sin luz para mi muerte.</l>
+                  <l> La sangre de tus venas en mi boca,</l>
+                  <l> tu boca ya sin luz para mi muerte.</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Hubo una musicalización en portugués anterior a 1975, por ambas razones no está
+            recogida en esta base de datos: Dário De Barros (Canta Ary Dos Santos, António Gedeão,
+            Bertolt Brechet, Garcia Lorca, 1973).   Musicalización similar, con repetición de versos
+            y la creación de estrofas nuevas mediante la combinación de versos ya existentes.    
+        </note>
+      </body>
+   </text>
+</TEI>

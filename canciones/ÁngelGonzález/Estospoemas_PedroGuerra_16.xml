@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Estos poemas</title>
+            <author>Pedro Guerra</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>La palabra en el aire</title>
+               <publisher>El Europeo Música</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=bYm8_i2v3VI"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Pedro Guerra</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Ángel González</persName>
+                  <bibl>Estos poemas</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Estos poemas los desencadenaste tú,</l>
+                  <l> como se desencadena el viento,</l>
+                  <l> sin saber hacia dónde ni por qué.</l>
+                  <l> Son dones del azar o del destino,</l>
+                  <l> que a veces</l>
+                  <l> la soledad arremolina o barre;</l>
+                  <l> nada más que palabras que se encuentran,</l>
+                  <l> que se atraen y se juntan</l>
+                  <l> irremediablemente,</l>
+                  <l> y hacen un ruido melodioso o triste,</l>
+                  <l> lo mismo que dos cuerpos que se aman.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción musicaliza el poema original sin alteraciones textuales, excepto que se
+            repiten algunos versos. </note>
+      </body>
+   </text>
+</TEI>

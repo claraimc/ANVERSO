@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Legendario</title>
+            <author>Tierra Santa</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Legendario</title>
+               <publisher>Locomotive Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=a8F5mHlLcxQ"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Heavy metal</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Tierra Santa</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Manuel Machado</persName>
+                  <bibl>Castilla</bibl>
+                  <relation>Alusión</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Sangre y sudor,</l>
+                  <l> cabalga por Castilla su libertador</l>
+                  <l> para expulsar infieles y pedir a Dios</l>
+                  <l> que acabe de una vez con su estandarte.</l>
+               </lg>
+               <lg>
+                  <l> Le llaman el Cid,</l>
+                  <l> y lucha por reconquistar para su rey,</l>
+                  <l> la tierra que hoy esta en manos del invasor</l>
+                  <l> que lleva media luna en su estandarte.</l>
+               </lg>
+               <lg>
+                  <l> Legendario, tu destino</l>
+                  <l> te marcó para poder luchar.</l>
+                  <l> Legendario, tu camino</l>
+                  <l> te marcó para poder luchar.</l>
+               </lg>
+               <lg>
+                  <l> Legendario, tu destino</l>
+                  <l> te marcó para poder luchar.</l>
+                  <l> Legendario, tu camino</l>
+                  <l> te marcó para poder luchar.</l>
+               </lg>
+               <lg>
+                  <l> Fuerte y valiente, así fue el Cid</l>
+                  <l> y sus batallas hoy se cuentan por mil.</l>
+                  <l> Después de muerto, una guerra ganó</l>
+                  <l> con una flecha clavada en el corazón.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La cancíon comienza con una referencia –por otra parte recurrente en las canciones
+            sobre el Cid– al verso “–polvo, sudor y hierro– el Cid cabalga” (v. 8) del poema
+            Castilla de Manuel Machado. La referencia a la victoria del Cid después de muerto puede
+            hacerse depender la la leyenda cidiana, sin embargo, señalamos la relación con el
+            romance «Muerto yace ese buen Cid».   Aun así, la inspiración para la canción está
+            claramente en la película de 1961 de Anthony Mann, a juzgar por la referencia a la
+            flecha que causa la muerte del Cid. </note>
+      </body>
+   </text>
+</TEI>

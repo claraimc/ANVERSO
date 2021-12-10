@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Baladilla de los tres ríos</title>
+            <author>Eskóbula</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="ExtendedPlay(EP)">
+               <title>Eskóbula</title>
+               <publisher>Eskóbula</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=VD5AlcGk4tE&amp;list=OLAK5uy_ln7XjKanmn_ihCZ-k2xibNRaHeIz92NXg&amp;index=8"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Eskóbula</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Baladilla de los tres ríos</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>El río Guadalquivir</l>
+                  <l> va entre naranjos y olivos.</l>
+                  <l> Los dos ríos de Granada</l>
+                  <l> bajan de la nieve al trigo,</l>
+                  <l> bajan de la nieve al trigo.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Para los barcos de vela</l>
+                  <l> Sevilla tiene un camino;</l>
+                  <l> por las aguas de Granada</l>
+                  <l> solo reman los suspiros,</l>
+                  <l> solo reman los suspiros.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> El río Guadalquivir</l>
+                  <l> tiene las barbas granates.</l>
+                  <l> Los dos ríos de Granada,</l>
+                  <l> uno llanto y otro sangre,</l>
+                  <l> uno llanto y otro sangre.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Guadalquivir, altas torres</l>
+                  <l> y vientos en los naranjales,</l>
+                  <l> Darro y Genil, torrecillas</l>
+                  <l> muertas sobre los estanques,</l>
+                  <l> muertas sobre los estanques.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización similar omitiendo los estribillos «¡Ay, amor, / que se fue y no vino!»,
+            «¡Ay, amor, que se fue por el viento!» junto con los versos 25-26 y 29-30 del poema  y
+            cambiando de orden las otras estrofas con repetición del último verso, a modo de la
+            musicalización de Pata Negra, Rock Gitano, en 1983. </note>
+      </body>
+   </text>
+</TEI>

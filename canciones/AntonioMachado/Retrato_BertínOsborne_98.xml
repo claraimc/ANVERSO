@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Retrato</title>
+            <author>Bertín Osborne</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Algo contigo</title>
+               <publisher>Capitol Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=rPkJxZJDjEE"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Bertín Osborne</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Antonio Machado</persName>
+                  <bibl>Retrato</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Mi infancia son recuerdos de un patio de Sevilla,</l>
+                  <l> y un huerto claro donde madura el limonero;</l>
+                  <l> mi juventud, veinte años en tierras de Castilla;</l>
+                  <l> mi historia, algunos casos que recordar no quiero.</l>
+               </lg>
+               <lg>
+                  <l> Ni un seductor Mañara, ni un Bradomín he sido</l>
+                  <l> —ya conocéis mi torpe aliño indumentario—,</l>
+                  <l> mas recibí la flecha que me asignó Cupido,</l>
+                  <l> y amé cuanto ellas puedan tener de hospitalario.</l>
+               </lg>
+               <lg>
+                  <l> Hay en mis venas gotas de sangre jacobina,</l>
+                  <l> pero mi verso brota de manantial sereno;</l>
+                  <l> y, más que un hombre al uso que sabe su doctrina,</l>
+                  <l> soy, en el buen sentido de la palabra, bueno.</l>
+               </lg>
+               <lg>
+                  <l> Desdeño las romanzas de los tenores huecos</l>
+                  <l> y el coro de los grillos que cantan a la luna.</l>
+                  <l> A distinguir me paro las voces de los ecos,</l>
+                  <l> y escucho solamente, entre las voces, una.</l>
+               </lg>
+               <lg>
+                  <l> Converso con el hombre que siempre va conmigo</l>
+                  <l> —quien habla solo espera hablar a Dios un día—;</l>
+                  <l> mi soliloquio es plática con este buen amigo</l>
+                  <l> que me enseñó el secreto de la filantropía.</l>
+               </lg>
+               <lg>
+                  <l> Y al cabo, nada os debo; me debéis cuanto he escrito.</l>
+                  <l> A mi trabajo acudo, con mi dinero pago</l>
+                  <l> el traje que me cubre y la mansión que habito,</l>
+                  <l> el pan que me alimenta y el lecho en donde yago.</l>
+               </lg>
+               <lg>
+                  <l> Y cuando llegue el día del último vïaje,</l>
+                  <l> y esté al partir la nave que nunca ha de tornar,</l>
+                  <l> me encontraréis a bordo ligero de equipaje,</l>
+                  <l> casi desnudo, como los hijos de la mar.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y en contraste con el poema original; a
+                    falta de fuente escrita, la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">El poema había sido musicalizado por primera vez por Alberto Cortez (Poemas y
+            canciones, vol. 2, 1968), con el título de “Retrato”. Esta misma versión la usó Joan
+            Manuel Serrat un año más tarde (Dedicado a Antonio Machado, poeta, 1969). Estas
+            versiones no están recogidas en esta base de datos por ser anteriores a 1975. En esta
+            versión de Cortez/Serrat, se musicaliza literalmente el texto, excepto que se suprimen
+            algunas estrofas. Por la enorme popularidad de esta versión, Bertín Osborne se basa en
+            ella, pero con estilo musical de bolero. </note>
+      </body>
+   </text>
+</TEI>

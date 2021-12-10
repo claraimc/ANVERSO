@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dime que sí</title>
+            <author>Lauren Postigo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Alberti por bulerías</title>
+               <publisher>Factoría Autor</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=5Sk1hotvagA"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Lauren Postigo</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <bibl>Dime que sí</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Dime que sí,</l>
+                  <l> compañera,</l>
+                  <l> dime que sí.</l>
+                  <l> Dime que sí,</l>
+                  <l> compañera,</l>
+                  <l> dime que sí,</l>
+                  <l> dime que sí.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Dime que sí,</l>
+                  <l> compañera,</l>
+                  <l> marinera,</l>
+                  <l> dime que sí.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Dime que he de ver la mar,</l>
+                  <l> que en la mar he de quererte;</l>
+                  <l> compañera,</l>
+                  <l> dime que sí.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Dime que he de ver el viento,</l>
+                  <l> que en el viento he de quererte;</l>
+                  <l> marinera,</l>
+                  <l> dime que sí.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Dime que sí,</l>
+                  <l> compañera,</l>
+                  <l> dime que sí.</l>
+                  <l> Dime que sí,</l>
+                  <l> compañera,</l>
+                  <l> dime que sí,</l>
+                  <l> dime que sí.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Dime que sí,</l>
+                  <l> compañera,</l>
+                  <l> dime,</l>
+                  <l> dime que sí.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Del barco que yo tuviera,</l>
+                  <l> serías tu la costurera.</l>
+                  <l> Las jarcias, de seda fina;</l>
+                  <l> de fina Holanda, la vela.</l>
+                  <l> ¿Y el hilo, marinerito?</l>
+                  <l> Un cabello de tus trenzas.</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original; la puntuación y
+                    ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización idéntica a excepción de la introducción de una estrofa nueva, creada a
+            partir de los versos 1, 2 y 4 del poema, que aparece al principio y en mitad de la
+            musicalización. </note>
+      </body>
+   </text>
+</TEI>

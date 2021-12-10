@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poema de tuyo Cid</title>
+            <author>Leo Masliah</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Y pico</title>
+               <publisher>EPSA Music</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=3Z-eTdRn2FY"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Leo Masliah</persName>
+                  <nationality>Uruguay</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Cantar de mio Cid</bibl>
+                  <relation>Parodia</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Muchos héroes han regado con su sangre las llanuras</l>
+                  <l> De Galicia, de Castilla, Andalucía, Extremadura.</l>
+                  <l> Pero nunca hubo ninguno que tuviera las agallas</l>
+                  <l> que tuvo el Cid,</l>
+                  <l> Pero nunca hubo ninguno que ganara las batallas</l>
+                  <l> que ganó el Cid Campeador.</l>
+                  <l> Desde Vivar el Cid cabalga por toda España</l>
+                  <l> Y es vencedor por su valor y sus artimañas.</l>
+                  <l> Al gran emir Abenamic no le da respiro</l>
+                  <l> Y por piedad, ¡oh, Majestad! no le pega un tiro.</l>
+               </lg>
+               <lg>
+                  <l> Cabalga el Cid y libra a España de lo morisco,</l>
+                  <l> En adelante va a cambiar de manos el fisco,</l>
+                  <l> Y no hay perdón para el traidor, con su primo hermano</l>
+                  <l> El Campeador da muerte al vil conde de Lozano.</l>
+               </lg>
+               <lg>
+                  <l> Cabalga el hijo de Don Diego y Doña Teresa,</l>
+                  <l> Por mí, que siga cabalgando, no me interesa.</l>
+                  <l> Le da su amor la hija mayor del conde de Oviedo,</l>
+                  <l> Pero eso a mí, al fin y al cabo, me importa un bledo.</l>
+               </lg>
+               <lg>
+                  <l> Cabalga el Cid y con los moros se bate a duelo,</l>
+                  <l> Pero eso sí, lo que es a mí, no me mueve un pelo.</l>
+                  <l> Por más que el Cid gane la lid, si ése es su destino,</l>
+                  <l> O si perdió y se murió, me importa un pepino.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">El Cantar de mio Cid (también conocido como Poema de mio Cid) solo es referenciado en
+            el título. El texto de la canción es una parodia de la glorificación de Rodrigo Díaz de
+            Vivar como héroe épico español que pone de manifiesto lo poco relevante que resulta para
+            un individuo de la época actual que, además, no se identifica con esa historia de gloria
+            hispánica de la que el Cid es icono. Aun así, la letra demuestra cierto conocimiento del
+            personaje histórico, literario y legendario. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Así nunca volvió a ser</title>
+            <author>Pedro Guerra</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>La palabra en el aire</title>
+               <publisher>El Europeo Música</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=hKdPxOzcjdg"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Pedro Guerra</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Ángel González</persName>
+                  <bibl>Así nunca volvió a ser</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Como llevaba trenza</l>
+                  <l> la llamábamos trencita en la tarde del jueves.</l>
+                  <l> Jugábamos a montarnos en ella y nos llevaba</l>
+                  <l> a una extraña región de la que nunca volveríamos.</l>
+               </lg>
+               <lg>
+                  <l> Porque es casi imposible abandonar</l>
+                  <l> aquel olor a tierra de su cabello sucio,</l>
+                  <l> sus ásperas rodillas todavía con polvo</l>
+                  <l> y con sangre de la última caída</l>
+                  <l> y, sobre todo,</l>
+                  <l> la nacarada nuca donde se demoraban</l>
+                  <l> unas gotas de luz cuando ya luz no había.</l>
+               </lg>
+               <lg>
+                  <l> Allí me dejó un día de verano</l>
+                  <l> y jamás regresó</l>
+                  <l> a recoger mi insomne pensamiento</l>
+                  <l> que desde entonces vaga por sus brazos</l>
+                  <l> corrigiendo su ruta, terco y contradictorio,</l>
+                  <l> lo mismo que una hormiga que no sabe salir</l>
+                  <l> de la rama de un árbol en el que se ha perdido.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción musicaliza el poema original sin alteraciones textuales, excepto que se
+            repiten algunos versos. Pedro Guerra entona la primera estrofa, que repite a lo largo de
+            la canción a modo de estribillo, mientras que el propio Ángel González recita, con la
+            melodía de fondo, el resto de las estrofas. </note>
+      </body>
+   </text>
+</TEI>

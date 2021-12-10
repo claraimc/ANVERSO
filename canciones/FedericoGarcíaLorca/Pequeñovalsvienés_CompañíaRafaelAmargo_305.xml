@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pequeño vals vienés</title>
+            <author>Compañía Rafael Amargo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Otros">
+               <title>Poeta en Nueva York. Espectáculo musical</title>
+               <publisher>--</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=xPGwFRaPPQc"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Compañía Rafael Amargo</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Pequeño vals vienés</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Hay un fragmento de la mañana</l>
+                  <l> en el museo de la escarcha.</l>
+                  <l> Hay un salón con mil ventanas.</l>
+                  <l> ¡Ay, ay, ay, ay!</l>
+                  <l> Toma este vals… este vals</l>
+                  <l> de sí, de muerte y de coñac</l>
+                  <l> que moja su cola en el mar,</l>
+                  <l> que moja su cola en mar. [Estrofa x 2]</l>
+               </lg>
+               <lg>
+                  <l> En Viena hay cuatro espejos.</l>
+                  <l> Juegan tu boca y los ecos.</l>
+                  <l> Una muerte para piano</l>
+                  <l> pinta de azul a los muchachos.</l>
+               </lg>
+               <lg>
+                  <l> Toma este vals… este vals</l>
+                  <l> de sí, de muerte y de coñac</l>
+                  <l> que moja su cola en el mar,</l>
+                  <l> que moja su cola en mar.</l>
+               </lg>
+               <lg>
+                  <l> Toma este vals… este vals.</l>
+               </lg>
+               <lg>
+                  <l> Toma este vals… este vals</l>
+                  <l> de sí, de muerte y de coñac</l>
+                  <l> que moja su cola en el mar,</l>
+                  <l> que moja su cola en mar.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio; a falta de fuente escrita, la
+                    puntualización y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">En 1986 Leonard Cohen musicalizó por primera vez este poema, traducido al inglés y
+            titulado “Take This Waltz”. Aunque esta canción ha sido la base para la mayoría de las
+            versiones posteriores, esta de la Compañía de Rafael Amargo no sigue a Cohen. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Coplas a la muerte de su padre</title>
+            <author>Paco Damas</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Once canciones de amor y una reina</title>
+               <publisher>Autor Factoría</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target=""/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Paco Damas</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Jorge Manrique</persName>
+                  <bibl>Coplas por la muerte de su padre</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Recuerde el alma dormida,</l>
+                  <l> avive el seso y despierte</l>
+                  <l> contemplando</l>
+                  <l> cómo se pasa la vida,</l>
+                  <l> cómo se viene la muerte</l>
+                  <l> tan callando,</l>
+                  <l> cuán presto se va el placer,</l>
+                  <l> cómo, después de acordado,</l>
+                  <l> da dolor;</l>
+                  <l> cómo, a nuestro parecer,</l>
+                  <l> cualquiera tiempo pasado</l>
+                  <l> fue mejor.</l>
+                  <l> Cuán presto se va el placer,</l>
+                  <l> cómo, después de acordado,</l>
+                  <l> da dolor;</l>
+                  <l> cómo, a nuestro parecer,</l>
+                  <l> cualquiera tiempo pasado</l>
+                  <l> fue mejor.</l>
+               </lg>
+               <lg>
+                  <l> Nuestras vidas son los ríos</l>
+                  <l> que van a dar en la mar,</l>
+                  <l> que es el morir;</l>
+                  <l> allí van los señoríos</l>
+                  <l> derechos a se acabar</l>
+                  <l> y consumir;</l>
+                  <l> allí los ríos caudales,</l>
+                  <l> allá los otros medianos</l>
+                  <l> y más chicos,</l>
+                  <l> allegados, son iguales</l>
+                  <l> los que viven por sus manos</l>
+                  <l> y los ricos.</l>
+               </lg>
+               <lg>
+                  <l> Los placeres y dulzores</l>
+                  <l> de esta vida trabajada</l>
+                  <l> que tenemos,</l>
+                  <l> no son sino corredores,</l>
+                  <l> y la muerte, la celada</l>
+                  <l> en que caemos:</l>
+                  <l> No mirando a nuestro daño,</l>
+                  <l> corremos a rienda suelta</l>
+                  <l> sin parar;</l>
+                  <l> des que vemos el engaño</l>
+                  <l> y queremos dar la vuelta,</l>
+                  <l> no hay lugar.</l>
+               </lg>
+               <lg>
+                  <l> Después de puesta la vida</l>
+                  <l> tantas veces por su ley</l>
+                  <l> al tablero;</l>
+                  <l> después de tan bien servida</l>
+                  <l> la corona de su rey</l>
+                  <l> verdadero;</l>
+                  <l> después de tanta hazaña</l>
+                  <l> a que no puede bastar</l>
+                  <l> cuenta cierta,</l>
+                  <l> en la su villa de Ocaña</l>
+                  <l> vino la Muerte a llamar</l>
+                  <l> a su puerta.</l>
+               </lg>
+               <lg>
+                  <l> Así, con tal entender,</l>
+                  <l> todos sentidos humanos</l>
+                  <l> conservados,</l>
+                  <l> cercado de su mujer,</l>
+                  <l> Y de sus hijos y hermanos</l>
+                  <l> y criados,</l>
+                  <l> dio el alma a quien se la dio,</l>
+                  <l> el cual la ponga en el cielo</l>
+                  <l> y en su gloria,</l>
+                  <l> y aunque la vida perdió,</l>
+                  <l> dejónos harto consuelo</l>
+                  <l> su memoria.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musica las estrofas 1, 3, 12, 33 y 40.   Todo el álbum está dedicado a composiciones
+            de la lírica hispánica castellana medieval o temprano-moderna. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Canción del jinete</title>
+            <author>Nuestro pequeño mundo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Cantar de la tierra mía</title>
+               <publisher>Movieplay</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=4JOr8ALcw1E"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Nuestro pequeño mundo</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Canción del jinete (1860)</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>En la luna negra</l>
+                  <l> de los bandoleros,</l>
+                  <l> cantan las espuelas.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> En la luna negra</l>
+                  <l> de los bandoleros,</l>
+                  <l> cantan las espuelas.</l>
+                  <l> Ay, caballito negro.</l>
+                  <l> ¿Dónde llevas tu jinete muerto?</l>
+                  <l> ¿Dónde llevas tu jinete muerto?</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Las duras espuelas</l>
+                  <l> del bandido inmóvil</l>
+                  <l> que perdió las riendas.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Las duras espuelas</l>
+                  <l> del bandido inmóvil</l>
+                  <l> que perdió las riendas.</l>
+                  <l> Ay, caballito frío.</l>
+                  <l> ¡Qué perfume de flor de cuchillo!</l>
+                  <l> ¡Qué perfume de flor de cuchillo!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> La noche espolea</l>
+                  <l> sus negros ijares</l>
+                  <l> clavándose estrellas.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> La noche espolea</l>
+                  <l> sus negros ijares</l>
+                  <l> clavándose estrellas.</l>
+                  <l> Ay, caballito negro.</l>
+                  <l> ¿Dónde llevas tu jinete muerto?</l>
+                  <l> ¿Dónde llevas tu jinete muerto?</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> En la luna negra,</l>
+                  <l> sangraba el costado</l>
+                  <l> de Sierra Morena.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> En la luna negra,</l>
+                  <l> sangraba el costado</l>
+                  <l> de Sierra Morena.</l>
+                  <l> Ay, caballito frío.</l>
+                  <l> ¡Qué perfume de flor de cuchillo!</l>
+                  <l> ¡Qué perfume de flor de cuchillo!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> En la luna negra,</l>
+                  <l> un grito y el cuerno</l>
+                  <l> largo de la hoguera.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> En la luna negra,</l>
+                  <l> un grito y el cuerno</l>
+                  <l> largo de la hoguera.</l>
+                  <l> Ay, caballito negro.</l>
+                  <l> ¿Dónde llevas tu jinete muerto?</l>
+                  <l> ¿Dónde llevas tu jinete muerto?</l>
+                  <l> ¿Dónde llevas tu jinete muerto?</l>
+                  <l> ¿Dónde llevas tu jinete muerto?</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio, a falta de buena fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Hubo una musicalización anterior a 1975, por eso no está recogida en esta base de
+            datos: Paco Ibáñez (España de hoy y de siempre, 1964).   Esta musicalización sigue a la
+            que realizara Paco Ibáñez en 1964, tanto en la manera de composición de la canción,
+            mediante la repetición de estrofas y versos, cómo por la melodía y acompañamiento
+            musical. Sin embargo innova, en cuanto a la versión de Paco Ibáñez, en que sí reproduce
+            la estrofa de los versos de 16 al 18. </note>
+      </body>
+   </text>
+</TEI>

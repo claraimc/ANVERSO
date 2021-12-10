@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>En el fondo del hombre</title>
+            <author>Antonio Román</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="--">
+               <title>Caravaggio dijo</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/4s-TfEIBdvI"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Antonio Román</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[En el fondo del hombre]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>En el fondo del hombre</l>
+                  <l> agua removida.</l>
+               </lg>
+               <lg>
+                  <l> En el agua más clara</l>
+                  <l> quiero ver la vida.</l>
+               </lg>
+               <lg>
+                  <l> En el fondo del hombre</l>
+                  <l> agua removida.</l>
+               </lg>
+               <lg>
+                  <l> En el agua más clara</l>
+                  <l> sombra sin salida.</l>
+               </lg>
+               <lg>
+                  <l> En el fondo del hombre,</l>
+                  <l> agua removida.</l>
+               </lg>
+               <lg>
+                  <l> En el fondo del hombre</l>
+                  <l> agua removida.</l>
+               </lg>
+               <lg>
+                  <l> En el agua más clara</l>
+                  <l> quiero ver la vida.</l>
+               </lg>
+               <lg>
+                  <l> En el fondo del hombre</l>
+                  <l> agua removida.</l>
+               </lg>
+               <lg>
+                  <l> En el agua más clara</l>
+                  <l> sombra sin salida.</l>
+               </lg>
+               <lg>
+                  <l> En el fondo del hombre,</l>
+                  <l> agua removida.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar del poema de Miguel Hernández. El autor
+            repite dos veces los versos del poema para componer la canción. </note>
+      </body>
+   </text>
+</TEI>

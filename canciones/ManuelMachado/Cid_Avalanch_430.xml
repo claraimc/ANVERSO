@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cid</title>
+            <author>Avalanch</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Llanto de un héroe</title>
+               <publisher>Flame</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=7lQZPrhsOUE"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Heavy metal</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Avalanch</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Manuel Machado</persName>
+                  <bibl>Castilla</bibl>
+                  <relation>Alusión</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Camino hacia el sur sin mirar atrás,</l>
+                  <l> buscando una luz entre tanta oscuridad.</l>
+                  <l> Defendiendo una cruz,</l>
+                  <l> ¿un símbolo de libertad?</l>
+                  <l> no tengo ningún lugar al que regresar.</l>
+               </lg>
+               <lg>
+                  <l> Guerras de religión que debo sufrir</l>
+                  <l> y a cambio me expulsan de aquí…</l>
+               </lg>
+               <lg>
+                  <l> Gritos de horror</l>
+                  <l> y muertes en nombre de Dios.</l>
+                  <l> Ni soy campeador,</l>
+                  <l> ni héroe de tanto dolor.</l>
+               </lg>
+               <lg>
+                  <l> Castilla, por ti, mi vida entera perdí</l>
+                  <l> y ahora mi Rey me arroja al destierro</l>
+                  <l> y me aleja de ti.</l>
+               </lg>
+               <lg>
+                  <l> Si yo soy tu hijo mi Dios,</l>
+                  <l> ¿por que he de sufrir?</l>
+                  <l> ¿por que has de pedirme</l>
+                  <l> que viva o muera así…?</l>
+               </lg>
+               <lg>
+                  <l> Polvo, sudor y sangre obtendrás,</l>
+                  <l> a cambio de tu lealtad.</l>
+                  <l> Dicen que muerto venciste al rival…</l>
+                  <l> ni muerto te dejan en paz.</l>
+               </lg>
+               <lg>
+                  <l> Polvo, sudor y sangre obtendrás,</l>
+                  <l> a cambio de tu lealtad.</l>
+                  <l> Dicen que muerto venciste al rival…</l>
+                  <l> ni muerto te dejan en paz.</l>
+               </lg>
+               <lg>
+                  <l> Ellos eran tus hijos Señor,</l>
+                  <l> ¿por que ahora ya no?</l>
+                  <l> ¿por que no permites</l>
+                  <l> que recen a otro Dios?</l>
+               </lg>
+               <lg>
+                  <l> He ganado una guerra por ti,</l>
+                  <l> no merezco este fin, solo quiero vivir,</l>
+                  <l> e intentar de una vez ser feliz.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">En el «Polvo, sudor y sangre obtendrás,» del estribillo hay una referencia –por otra
+            parte recurrente en las canciones sobre el Cid– al verso «–polvo, sudor y hierro– el Cid
+            cabalga» (v. 8) del poema Castilla de Manuel Machado.   En el disco Llanto de un héroe,
+            esta canción viene precedida por una instrumental que precisamente se titula «Polvo,
+            sudor y sangre». </note>
+      </body>
+   </text>
+</TEI>

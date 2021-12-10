@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hoy las nubes me trajeron</title>
+            <author>Ángel Corpa</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Verte y no verte</title>
+               <publisher>INgrooves</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=TSTBLCJWNs8"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Ángel Corpa</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <bibl>Canción 8 [Hoy las nubes me trajeron]</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Hoy las nubes me trajeron,</l>
+                  <l> volando, el mapa de España.</l>
+                  <l> ¡Qué pequeño sobre el río,</l>
+                  <l> y qué grande sobre el pasto</l>
+                  <l> la sombra que proyectaba!</l>
+               </lg>
+               <lg>
+                  <l> Se le llenó de caballos</l>
+                  <l> la sombra que proyectaba.</l>
+                  <l> Yo, a caballo, por su sombra</l>
+                  <l> busqué mi pueblo y mi casa.</l>
+               </lg>
+               <lg>
+                  <l> Entré en el patio que un día</l>
+                  <l> fuera una fuente con agua.</l>
+                  <l> Y, aunque no estaba la fuente,</l>
+                  <l> la fuente siempre sonaba.</l>
+               </lg>
+               <lg>
+                  <l> Hoy las nubes me trajeron,</l>
+                  <l> volando, el mapa de España.</l>
+                  <l> ¡Qué pequeño sobre el río,</l>
+                  <l> y qué grande sobre el pasto</l>
+                  <l> la sombra que proyectaba! [Estrofa x 2]</l>
+               </lg>
+               <lg>
+                  <l> Yo, a caballo, por su sombra</l>
+                  <l> busqué mi pueblo y mi casa.</l>
+                  <l> Entré en el patio que un día</l>
+                  <l> fuera una fuente con agua.</l>
+                  <l> Aunque no estaba la fuente,</l>
+                  <l> la fuente siempre sonaba.</l>
+                  <l> Y el agua que no corría</l>
+                  <l> volvió para darme agua.</l>
+               </lg>
+               <lg>
+                  <l> Hoy las nubes me trajeron,</l>
+                  <l> volando, el mapa de España.</l>
+                  <l> ¡Qué pequeño sobre el río,</l>
+                  <l> y qué grande sobre el pasto</l>
+                  <l> la sombra que proyectaba!</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original; la puntuación y
+                    ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización prácticamente idéntica, excepto repeticiones de versos. </note>
+      </body>
+   </text>
+</TEI>

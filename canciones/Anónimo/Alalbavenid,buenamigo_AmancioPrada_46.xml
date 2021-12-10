@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Al alba venid, buen amigo</title>
+            <author>Amancio Prada</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Del amor que quita el sueño (Romances y canciones desde el Reino de León)</title>
+               <publisher>Musicamaina</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=2Qc_Zx6shU0"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Amancio Prada</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Al alba venid, buen amigo</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Al alba venid, buen amigo,</l>
+                  <l> al alba venid.</l>
+               </lg>
+               <lg>
+                  <l> Amigo el que yo más quería,</l>
+                  <l> venid al alba del día.</l>
+                  <l> Al alba venid.</l>
+               </lg>
+               <lg>
+                  <l> Amigo el que yo más amaba,</l>
+                  <l> venid a la luz del alba.</l>
+               </lg>
+               <lg>
+                  <l> Venid.</l>
+                  <l> Venid a la luz del día,</l>
+                  <l> non trayáis compañía.</l>
+               </lg>
+               <lg>
+                  <l> Al alba, venid.</l>
+                  <l> Venid a la luz del alba,</l>
+                  <l> e non traigáis gran compañía.</l>
+               </lg>
+               <lg>
+                  <l> Al alba, venid.</l>
+                  <l> Al alba, venid, buen amigo.</l>
+                  <l> Al alba, venid.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns=""> Adaptación bastante conservadora, que juega con la repetición. Como señala el
+            subtítulo del álbum, todo él está dedicado a piezas de la lírica castellana medieval y
+            temprano-moderna. Prada introduce variaciones en la estructura que convierten la fórmula
+            “al alba venid” en un elemento anafórico musical. La composición entera expone un solo
+            motivo dividido en dos partes: la segunda corresponde al verso ya apuntado y la primera
+            al resto. El sistema compositivo resulta absolutamente tonal en vez de modal, aunque la
+            austeridad y la repetición denotan la inspiración medieval. </note>
+      </body>
+   </text>
+</TEI>

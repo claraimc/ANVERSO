@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Baladilla de los tres ríos</title>
+            <author>Arcángel, Coro de Nuevas Voces Búlgaras y Georgi Petkov</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Al este del cante</title>
+               <publisher>Universal Music Spain S.L.</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=gdyGJ9icEWU"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Arcángel, Coro de Nuevas Voces Búlgaras y Georgi Petkov</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Baladilla de los tres ríos</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Y el río Guadalquivir</l>
+                  <l> va entre naranjos y olivos.</l>
+                  <l> Río Guadalquivir</l>
+                  <l> va entre naranjos y olivos,</l>
+                  <l> y los dos ríos de Granada</l>
+                  <l> bajan de la nieve al trigo.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay, amor!</l>
+                  <l> ¡Ay, amor!</l>
+                  <l> ¡Ay, amor, que se fue y no vino!</l>
+                  <l> ¡Ay, amor, que se fue y no vino!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> El río Guadalquivir</l>
+                  <l> tiene las barbas granates.</l>
+                  <l> El río Guadalquivir</l>
+                  <l> tiene las barbas granates.</l>
+                  <l> Y los dos ríos de Granada,</l>
+                  <l> uno llanto y otro sangre.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay, amor!</l>
+                  <l> ¡Ay, amor!</l>
+                  <l> ¡Ay, amor, que se fue por el aire!</l>
+                  <l> ¡Ay, amor, que se fue por el aire!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Para los barcos de vela</l>
+                  <l> Sevilla tiene un camino;</l>
+                  <l> por las aguas de Granada</l>
+                  <l> ay, solo reman los suspiros.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay, amor!</l>
+                  <l> ¡Ay, amor!</l>
+                  <l> ¡Ay, amor, que se fue y no vino!</l>
+                  <l> ¡Ay, amor, que se fue y no vino!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay, amor!</l>
+                  <l> ¡Ay, amor!</l>
+                  <l> ¡Ay, amor, que se fue y no vino!</l>
+                  <l> ¡Ay, amor, que se fue y no vino!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización similar con la omisión de las últimas estrofas del poema, siguiendo las
+            que ya se habían realizado con anterioridad.  Característica de esta musicalización es
+            la repetición de los primeros versos de cada estrofa en vez de el último como en
+            musicalizaciones anteriores.   </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El sol, la rosa y el niño</title>
+            <author>Carmen Linares</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Verso a verso (Canta a Miguel Hernández)</title>
+               <publisher>Salobre</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://music.youtube.com/watch?v=5icew-f-yxs&amp;list=RDAMVM5icew-f-yxs"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Carmen Linares</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[El sol, la rosa y el niño]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>El sol, la rosa y el niño flores</l>
+                  <l> de un día nacieron.</l>
+                  <l> Y son lo de cada día soles,</l>
+                  <l> flores, niños nuevos.</l>
+               </lg>
+               <lg>
+                  <l> Y mañana no seré yo:</l>
+                  <l> otra, otra será el verdadero.</l>
+                  <l> Y no seré más allá</l>
+                  <l> de quien quiera su recuerdo.</l>
+               </lg>
+               <lg>
+                  <l> Flor de un día es lo más grande</l>
+                  <l> al pie de lo más pequeño.</l>
+                  <l> Flor de la luz el relámpago,</l>
+                  <l> y flor del instante el tiempo.</l>
+                  <l> Entre las flores te fuiste.</l>
+                  <l> Entre las flores,</l>
+                  <l> entre las flores me quedo.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns=""/>
+      </body>
+   </text>
+</TEI>

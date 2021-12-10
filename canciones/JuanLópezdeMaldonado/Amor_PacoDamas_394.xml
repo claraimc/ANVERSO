@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Amor</title>
+            <author>Paco Damas</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Once canciones de amor y una reina</title>
+               <publisher>Autor Factoría</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target=""/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Paco Damas</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Juan López de Maldonado</persName>
+                  <bibl>¡Ay, amor, perjuro, falso y traidor!</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>¡Ay amor,</l>
+                  <l> perjuro, falso, traidor!</l>
+                  <l> Enemigo</l>
+                  <l> de todo lo que no es mal;</l>
+                  <l> desleal</l>
+                  <l> al que tiene ley contigo;</l>
+                  <l> falso amigo</l>
+                  <l> al que te das por mayor.</l>
+                  <l> ¡Ay amor,</l>
+                  <l> perjuro, falso, traidor!</l>
+               </lg>
+               <lg>
+                  <l> Tus daños</l>
+                  <l> nos dan claro a entender</l>
+                  <l> que un placer</l>
+                  <l> es pesar de cien mil años,</l>
+                  <l> y en mis daños</l>
+                  <l> esto se prueba mejor.</l>
+                  <l> ¡Ay amor,</l>
+                  <l> perjuro, falso, traidor!</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Letra idéntica al poema.   Todo el álbum está dedicado a composiciones de la lírica
+            hispánica castellana medieval o temprano-moderna. </note>
+      </body>
+   </text>
+</TEI>

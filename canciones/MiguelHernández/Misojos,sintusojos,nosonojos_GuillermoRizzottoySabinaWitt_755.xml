@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mis ojos, sin tus ojos, no son ojos</title>
+            <author>Guillermo Rizzotto y Sabina Witt</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Vistes al mar</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=IcCU7uYLrLs"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Guillermo Rizzotto y Sabina Witt</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Imagen de tu huella</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Mis ojos, sin tus ojos, no son ojos,</l>
+                  <l> que son dos hormigueros solitarios,</l>
+                  <l> y son mis manos sin las tuyas varios</l>
+                  <l> intratables espinos a manojos.</l>
+               </lg>
+               <lg>
+                  <l> No sé qué es de mi oreja sin tu acento,</l>
+                  <l> ni hacia qué polo yerro sin tu estrella,</l>
+                  <l> y mi voz sin tu trato se afemina.</l>
+                  <l> Y mi voz sin tu trato se afemina.</l>
+               </lg>
+               <lg>
+                  <l> No me encuentro los labios</l>
+                  <l> que me llenan</l>
+                  <l> No me encuentro los labios sin tus rojos,</l>
+                  <l> que me llenan de dulces campanarios.</l>
+               </lg>
+               <lg>
+                  <l> No me encuentro los labios sin tus rojos,</l>
+                  <l> que me llenan de dulces campanarios,</l>
+                  <l> sin ti mis pensamientos son calvarios</l>
+                  <l> criando nardos y agostando hinojos.</l>
+               </lg>
+               <lg>
+                  <l> Mis ojos, sin tus ojos, no son ojos,</l>
+                  <l> que son dos hormigueros solitarios.</l>
+               </lg>
+               <lg>
+                  <l> Los olores persigo de tu viento</l>
+                  <l> y la olvidada imagen de tu huella,</l>
+                  <l> que en ti principia, amor, y en mí termina.</l>
+                  <l> Que en ti principia, amor, y en mí termina.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción musicaliza el segundo de los sonetos de Imagen de tu huella (1934): “Mis
+            ojos, sin tus ojos, no son ojos”, íntegro, pero reordenando y/o repitiendo versos y
+            estrofas. Hubo una primera versión de este mismo soneto a cargo de Pedro Ávila en su
+            álbum El nuevo hombre cantado (1971); sin embargo, por ser anterior a 1975, esta versión
+            no está recogida en esta base de datos. </note>
+      </body>
+   </text>
+</TEI>

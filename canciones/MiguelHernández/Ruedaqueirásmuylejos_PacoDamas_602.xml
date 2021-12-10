@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rueda que irás muy lejos</title>
+            <author>Paco Damas</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Tristes guerras (Miguel Hernández)</title>
+               <publisher>Buho Man Discos</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/XvEobOyBGWg"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Paco Damas</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Rueda que irás muy lejos]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Rueda que irás muy lejos.</l>
+                  <l> Ala que irás muy alto.</l>
+                  <l> Torre del día, niño.</l>
+                  <l> Alborear del pájaro.</l>
+               </lg>
+               <lg>
+                  <l> Eres mañana. Ven</l>
+                  <l> con todo de la mano.</l>
+                  <l> Eres todo mi ser que vuelve</l>
+                  <l> hacia su ser más claro.</l>
+                  <l> El universo eres</l>
+                  <l> que guía esperanzado.</l>
+               </lg>
+               <lg>
+                  <l> Niño: ala, rueda, torre.</l>
+                  <l> Pie. Pluma. Espuma. Rayo.</l>
+                  <l> Ser como nunca ser.</l>
+                  <l> Nunca serás en tanto.</l>
+               </lg>
+               <lg>
+                  <l> Niño: ala, rueda, torre.</l>
+                  <l> Pie. Pluma. Espuma. Rayo.</l>
+                  <l> Ser como nunca ser.</l>
+                  <l> Nunca serás en tanto.</l>
+               </lg>
+               <lg>
+                  <l> Asciende. Rueda. Vuela,</l>
+                  <l> creador de alba y mayo.</l>
+                  <l> Galopa. Ven. Y colma.</l>
+               </lg>
+               <lg>
+                  <l> Pasión del movimiento,</l>
+                  <l> la tierra es tu caballo.</l>
+                  <l> Cabálgala. Domínala.</l>
+                  <l> Y brotará en su casco</l>
+                  <l> su piel de vida y muerte,</l>
+                  <l> de sombra y luz, piafando.</l>
+                  <l> el fondo de mis brazos.</l>
+               </lg>
+               <lg>
+                  <l> Niño: ala, rueda, torre.</l>
+                  <l> Pie. Pluma. Espuma. Rayo.</l>
+                  <l> Ser como nunca ser.</l>
+                  <l> Nunca serás en tanto.</l>
+               </lg>
+               <lg>
+                  <l> Niño: ala, rueda, torre.</l>
+                  <l> Pie. Pluma. Espuma. Rayo.</l>
+                  <l> Ser como nunca ser.</l>
+                  <l> Nunca serás en tanto.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar al poema de Miguel Hernández.  El
+            artista utiliza los versos del poema para componer la canción, pero invierte el orden de
+            estos en cada estrofa del tema. Además, utiliza los cuatro primeros versos de la segunda
+            estrofa del poema a modo de estribillo: «…Niño: ala, rueda, torre./Pie. Pluma. Espuma.
+            Rayo./Ser como nunca ser./Nunca serás en tanto…»     </note>
+      </body>
+   </text>
+</TEI>

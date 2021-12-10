@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Silbo de la llaga perfecta</title>
+            <author>Toyo Gabarrús</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Voces de romAmor</title>
+               <publisher>Roma Estudios</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=-j_X2XRn4ro"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Toyo Gabarrús</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>El silbo de la llaga perfecta</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Abre, amor, la puerta</l>
+                  <l> de la llaga perfecta.</l>
+               </lg>
+               <lg>
+                  <l> Abre, amor mío, abre</l>
+                  <l> la puerta de mi sangre.</l>
+               </lg>
+               <lg>
+                  <l> Abre, para que salgan</l>
+                  <l> todas las malas ansias.</l>
+               </lg>
+               <lg>
+                  <l> Abre, amor; abre, amor.</l>
+               </lg>
+               <lg>
+                  <l> Abre, para que huyan</l>
+                  <l> las intenciones turbias.</l>
+               </lg>
+               <lg>
+                  <l> Abre, para que sean</l>
+                  <l> fuentes puras mis venas,</l>
+               </lg>
+               <lg>
+                  <l> mis manos cardos mondos,</l>
+                  <l> pozos quietos mis ojos.</l>
+               </lg>
+               <lg>
+                  <l> Abre, amor; abre, amor.</l>
+               </lg>
+               <lg>
+                  <l> Abre, que viene el aire</l>
+                  <l> de tu palabra… ¡abre!</l>
+               </lg>
+               <lg>
+                  <l> Abre, amor, que ya entra…</l>
+                  <l> Que no se salga tu tierra. [Verso x 4]</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns=""/>
+      </body>
+   </text>
+</TEI>

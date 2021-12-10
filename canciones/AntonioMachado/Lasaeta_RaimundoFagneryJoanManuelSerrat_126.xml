@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La saeta</title>
+            <author>Raimundo Fagner y Joan Manuel Serrat</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Traduzir-se</title>
+               <publisher>CBS</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=0g4lDBZECnw"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Raimundo Fagner y Joan Manuel Serrat</persName>
+                  <nationality>Brasil y España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Antonio Machado</persName>
+                  <bibl>La saeta</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>[Fagner]</l>
+                  <l> Disse uma voz popular:</l>
+                  <l> “¿Quem me empresta uma escada,</l>
+                  <l> para subir ao altar,</l>
+                  <l> para tirar os cravos</l>
+                  <l> de Jesus o Nazareno?”</l>
+               </lg>
+               <lg>
+                  <l> [Serrat]</l>
+                  <l> ¡Oh, la saeta, el cantar</l>
+                  <l> al Cristo de los gitanos,</l>
+                  <l> siempre con sangre en las manos,</l>
+                  <l> siempre por desenclavar!</l>
+                  <l> ¡Cantar del pueblo andaluz,</l>
+                  <l> que todas las primaveras</l>
+                  <l> anda pidiendo escaleras</l>
+                  <l> para subir a la cruz!</l>
+               </lg>
+               <lg>
+                  <l> [Fagner]</l>
+                  <l> ¡Cantar de la tierra mía,</l>
+                  <l> que echa flores</l>
+                  <l> al Jesús de la agonía,</l>
+                  <l> y es la fe de mis mayores!</l>
+               </lg>
+               <lg>
+                  <l> [Serrat]</l>
+                  <l> ¡Oh, no eres tú mi cantar!</l>
+                  <l> ¡No puedo cantar, ni quiero</l>
+                  <l> a ese Jesús del madero,</l>
+                  <l> sino al que anduvo en la mar!</l>
+               </lg>
+               <lg>
+                  <l> [Fagner]</l>
+                  <l> ¡Oh, la saeta, el cantar</l>
+                  <l> al Cristo de los gitanos,</l>
+                  <l> siempre con sangre en las manos,</l>
+                  <l> siempre por desenclavar!</l>
+                  <l> ¡Cantar del pueblo andaluz,</l>
+                  <l> que todas las primaveras</l>
+                  <l> anda pidiendo escaleras</l>
+                  <l> para subir a la cruz!</l>
+               </lg>
+               <lg>
+                  <l> [Serrat]</l>
+                  <l> ¡Cantar de la tierra mía,</l>
+                  <l> que echa flores</l>
+                  <l> al Jesús de la agonía,</l>
+                  <l> y es la fe de mis mayores!</l>
+               </lg>
+               <lg>
+                  <l> [Serrat y Fagner]</l>
+                  <l> ¡Oh, no eres tú mi cantar!</l>
+                  <l> ¡No puedo cantar, ni quiero</l>
+                  <l> a ese Jesús del madero,</l>
+                  <l> sino al que anduvo en la mar! [estrofa x 6]</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción musicaliza el poema original, con apenas unos mínimos cambios léxicos y
+            repeticiones de versos. Parte de la versión de Joan Manuel Serrat de 1969, no incluida
+            en esta base de datos por ser anterior a 1975. Como en esa canción, esta versión
+            incorpora la cita previa al poema como parte de la letra, pero traducida al portugués.
+        </note>
+      </body>
+   </text>
+</TEI>

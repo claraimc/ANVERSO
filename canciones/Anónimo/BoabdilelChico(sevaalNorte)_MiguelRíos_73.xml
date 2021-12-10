@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Boabdil el Chico (se va al Norte)</title>
+            <author>Miguel Ríos</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>El año del cometa</title>
+               <publisher>PolyGram</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=tIE_DufWbeo"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Miguel Ríos</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Romance del rey Chico «El año de cuatrocientos»</bibl>
+                  <relation>Alusión</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Oh… adiós amor,</l>
+                  <l> adiós Granada.</l>
+                  <l> Oh… el viento del sur</l>
+                  <l> me aleja de casa.</l>
+               </lg>
+               <lg>
+                  <l> Y me rompe el corazón,</l>
+                  <l> me atraviesa la garganta</l>
+                  <l> y como al niño rey Boabdil</l>
+                  <l> la pena me mata.</l>
+               </lg>
+               <lg>
+                  <l> Veo la Silla del Moro</l>
+                  <l> y la sierra que queda atrás,</l>
+                  <l> veo la Alhambra que flotando se va.</l>
+                  <l> En mis ojos se funde</l>
+                  <l> la imagen de mi ciudad,</l>
+                  <l> roja y cálida desde la estación.</l>
+               </lg>
+               <lg>
+                  <l> Oh… adiós amor,</l>
+                  <l> adiós Granada.</l>
+                  <l> Oh… el viento del sur</l>
+                  <l> me aleja de casa.</l>
+               </lg>
+               <lg>
+                  <l> Y aunque sé que volveré</l>
+                  <l> harto de gloria y de frío</l>
+                  <l> también sé que ya nunca seré</l>
+                  <l> Boabdil el chico</l>
+                  <l> porque aquí en este tren</l>
+                  <l> se endurecerá mi sino,</l>
+                  <l> voy tan tejos que al volver</l>
+                  <l> ya no seré un niño.</l>
+               </lg>
+               <lg>
+                  <l> Oh… adiós amor,</l>
+                  <l> adiós Granada.</l>
+                  <l> Oh… el viento del sur</l>
+                  <l> me aleja de casa.</l>
+               </lg>
+               <lg>
+                  <l> En Atocha me bajé</l>
+                  <l> con un miedo africano,</l>
+                  <l> boquiabierto en el andén,</l>
+                  <l> la pasta en la mano.</l>
+                  <l> Y vagué por la ciudad</l>
+                  <l> extasiado en el bullicio</l>
+                  <l> en un día frío y gris</l>
+                  <l> y Madrid me quiso.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Se establece una comparación con la despedida de Boabdil y la del yo de la canción,
+            pero el tema de la caída de Granada no desempeña ningún papel. </note>
+      </body>
+   </text>
+</TEI>

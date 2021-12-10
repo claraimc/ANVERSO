@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La leyenda del tiempo</title>
+            <author>Miguel Poveda</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Nodeterminado">
+               <title>Sin álbum. Archivo de RTVE</title>
+               <publisher>RTVE</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.rtve.es/play/videos/musica-en-el-archivo-de-rtve/miguel-poveda-interpreta-leyenda-del-tiempo-2014/5581899/"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Flamenco</term>
+               <term>Jazz</term>
+               <term>Latina</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Miguel Poveda</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>[Leyenda del tiempo]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>El Sueño va sobre el Tiempo</l>
+                  <l> flotando como un velero,</l>
+                  <l> flotando como un velero.</l>
+                  <l> Nadie puede abrir semillas</l>
+                  <l> en el corazón del Sueño,</l>
+                  <l> en el corazón del Sueño.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> El Sueño va sobre el Tiempo</l>
+                  <l> hundido hasta los cabellos,</l>
+                  <l> hundido hasta los cabellos.</l>
+                  <l> Ayer y mañana comen</l>
+                  <l> oscuras flores de duelo,</l>
+                  <l> oscuras flores de duelo.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> El Sueño va sobre el Tiempo</l>
+                  <l> flotando como un velero,</l>
+                  <l> flotando como un velero.</l>
+                  <l> Nadie puede abrir semillas</l>
+                  <l> en el corazón del Sueño,</l>
+                  <l> en el corazón del Sueño.</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización similar, siguiendo la versión de Camarón de 1979, y la de Jonathan
+            Santiago del 2013, ya que cambia también el primer verso de la segunda estrofa por «El
+            Sueño va sobre el Tiempo» en vez de «El Tiempo va sobre el Sueño.     </note>
+      </body>
+   </text>
+</TEI>

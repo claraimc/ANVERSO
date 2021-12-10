@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Canción del esposo soldado</title>
+            <author>Joan Manuel Serrat</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Hijo de la luz y de la sombra (Miguel Hernández)</title>
+               <publisher>Sony Music</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/4SjcaiMW9Z8"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Joan Manuel Serrat</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Canción del esposo soldado</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>He poblado tu vientre de amor y sementera,</l>
+                  <l> he prolongado el eco de sangre a que respondo</l>
+                  <l> y espero sobre el surco como el arado espera:</l>
+                  <l> he llegado hasta el fondo.</l>
+               </lg>
+               <lg>
+                  <l> Espejo de mi carne, sustento de mis alas,</l>
+                  <l> te doy vida en la muerte que me dan y no tomo.</l>
+                  <l> Mujer, mujer, te quiero cercado por las balas,</l>
+                  <l> ansiado por el plomo.</l>
+               </lg>
+               <lg>
+                  <l> Escríbeme a la lucha, siénteme en la trinchera:</l>
+                  <l> aquí con el fusil tu nombre evoco y fijo,</l>
+                  <l> y defiendo tu vientre de pobre que me espera,</l>
+                  <l> y defiendo tu hijo.</l>
+               </lg>
+               <lg>
+                  <l> Es preciso matar para seguir viviendo.</l>
+                  <l> Un día iré a la sombra de tu pelo lejano,</l>
+                  <l> y dormiré en la sábana de almidón y de estruendo</l>
+                  <l> cosida por tu mano.</l>
+               </lg>
+               <lg>
+                  <l> Para el hijo será la paz que estoy forjando.</l>
+                  <l> Y al fin en un océano de irremediables huesos</l>
+                  <l> tu corazón y el mío naufragarán, quedando</l>
+                  <l> una mujer y un hombre gastados por los besos.</l>
+               </lg>
+               <lg>
+                  <l> He poblado tu vientre de amor y sementera….</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar del poema de Miguel Hernández. El autor
+            utiliza las estrofas primera, cuarta, séptima, novena y  décimo primera; repitiendo el
+            primer verso de la primera estrofa para terminar: «…He poblado tu vientre de amor y
+            sementera…». </note>
+      </body>
+   </text>
+</TEI>

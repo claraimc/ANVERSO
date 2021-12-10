@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Verde que te quiero verde</title>
+            <author>Manuel Carrasco</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Esa rumbita güena</title>
+               <publisher>Universal Music Spain S.L.</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=7G75O79ZQm0"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Manuel Carrasco</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Romance sonámbulo</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Yo te quiero verde.</l>
+                  <l> ¡Sí, sí!</l>
+                  <l> Yo te quiero verde.</l>
+                  <l> ¡Ay, ay, ay!</l>
+                  <l> Yo te quiero verde.</l>
+               </lg>
+               <lg>
+                  <l> Verde que te quiero verde.</l>
+                  <l> Verde viento. Verdes ramas.</l>
+                  <l> El barco sobre la mar.</l>
+                  <l> El caballo en la montaña.</l>
+                  <l> ¡Verde!</l>
+                  <l> Yo te quiero verde.</l>
+                  <l> ¡Ay! ¡Sí, sí!</l>
+                  <l> Yo te quiero verde.</l>
+                  <l> ¡Ay, ay, ay!</l>
+                  <l> Yo te quiero verde.</l>
+               </lg>
+               <lg>
+                  <l> Con la sombra en la cintura,</l>
+                  <l> ella sueña en la baranda,</l>
+                  <l> verdes ojos, negro pelo,</l>
+                  <l> su cuerpo de fría plata.</l>
+                  <l> ¡Verde!</l>
+                  <l> Yo te quiero verde.</l>
+                  <l> ¡Ay! ¡Sí, sí!</l>
+                  <l> Yo te quiero verde.</l>
+                  <l> ¡Ay, ay, ay!</l>
+                  <l> Yo te quiero verde.</l>
+               </lg>
+               <lg>
+                  <l> Compadre, quiero cambiar</l>
+                  <l> mi caballo por tu casa,</l>
+                  <l> mi montura por tu espejo,</l>
+                  <l> mi cuchillo por tu manta.</l>
+                  <l> ¡Verde!</l>
+                  <l> Yo te quiero verde.</l>
+                  <l> ¡Ay! ¡Sí, sí!</l>
+                  <l> Yo te quiero verde.</l>
+                  <l> ¡Ay, ay, ay!</l>
+                  <l> Yo te quiero verde.</l>
+               </lg>
+               <lg>
+                  <l> Compadre, vengo sangrando,</l>
+                  <l> desde los puertos de Cabra.</l>
+                  <l> Y si yo fuera mocito,</l>
+                  <l> yo este trato lo cerraba.</l>
+                  <l> ¡Verde!</l>
+                  <l> Yo te quiero verde.</l>
+                  <l> ¡Ay! ¡Sí, sí!</l>
+                  <l> Yo te quiero verde.</l>
+                  <l> ¡Ay, ay, ay!</l>
+                  <l> Yo te quiero verde.</l>
+               </lg>
+               <lg>
+                  <l> Compadre, quiero morir</l>
+                  <l> decentemente en mi cama.</l>
+                  <l> De acero, si puede ser,</l>
+                  <l> con las sábanas de holanda.</l>
+                  <l> ¡Verde!</l>
+                  <l> Yo te quiero verde.</l>
+                  <l> ¡Sí, sí!</l>
+                  <l> Yo te quiero verde.</l>
+                  <l> ¡Ay, ay, ay!</l>
+                  <l> Yo te quiero verde.</l>
+               </lg>
+               <lg>
+                  <l> ¡Compadre! ¿Dónde está, dime?</l>
+                  <l> ¿Dónde está esa niña amarga?</l>
+                  <l> ¡Cuántas veces la esperé!</l>
+                  <l> ¡Cuántas veces la esperaba!</l>
+                  <l> ¡Verde!</l>
+                  <l> Yo te quiero verde.</l>
+                  <l> ¡Ay! ¡Sí, sí!</l>
+                  <l> Yo te quiero verde.</l>
+                  <l> ¡Ay, ay, ay!</l>
+                  <l> Yo te quiero verde.</l>
+               </lg>
+               <lg>
+                  <l> Verde que te quiero verde.</l>
+                  <l> Verde viento. Verdes ramas.</l>
+                  <l> El barco sobre la mar.</l>
+                  <l> El caballo en la montaña.</l>
+                  <l> ¡Verde!</l>
+                  <l> Yo te quiero verde.</l>
+                  <l> ¡Ay! ¡Sí, sí!</l>
+                  <l> Yo te quiero verde.</l>
+                  <l> ¡Ay, ay, ay!</l>
+                  <l> Yo te quiero verde.</l>
+                  <l> [Repite los últimos versos varias veces]</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio; a falta de fuente escrita, la
+                    puntualización y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción parte de la versión que hizo Manzanita en 1978, si bien copia casi
+            literalmente la letra de la versión de Mazanita y Ketama para la película documental
+            Flamenco (1995), de Carlos Saura. </note>
+      </body>
+   </text>
+</TEI>

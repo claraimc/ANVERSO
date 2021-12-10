@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Guitarra del mesón</title>
+            <author>Pepe Suero</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Recuerdos de niños</title>
+               <publisher>Ediciones Senador</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=YSiYYoNd0Po"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Pepe Suero</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Antonio Machado</persName>
+                  <bibl>[Guitarra del mesón que hoy suenas jota]</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Guitarra del mesón que hoy suenas jota,</l>
+                  <l> mañana petenera,</l>
+                  <l> según quien llega y tañe</l>
+                  <l> las empolvadas cuerdas.</l>
+               </lg>
+               <lg>
+                  <l> Guitarra del mesón de los caminos,</l>
+                  <l> no fuiste nunca, ni serás, poeta.</l>
+               </lg>
+               <lg>
+                  <l> Tú eres alma que dice su armonía</l>
+                  <l> solitaria a las almas pasajeras…</l>
+               </lg>
+               <lg>
+                  <l> Y siempre que te escucha el caminante</l>
+                  <l> sueña sentir un aire de su tierra.</l>
+               </lg>
+               <lg>
+                  <l> [Se repite igual toda la letra una segunda vez]</l>
+               </lg>
+               <lg>
+                  <l> Guitarra del mesón que hoy suenas jota,</l>
+                  <l> no fuiste nunca, ni serás, poeta.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción se basa en la original de Joan Manuel Serrat un año más tarde (Dedicado a
+            Antonio Machado, poeta, 1969). </note>
+      </body>
+   </text>
+</TEI>

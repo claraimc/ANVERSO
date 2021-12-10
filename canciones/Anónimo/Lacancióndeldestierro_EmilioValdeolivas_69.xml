@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La canción del destierro</title>
+            <author>Emilio Valdeolivas</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>El cantar de mio Cid</title>
+               <publisher>Tecnosaga</publisher>
+               <date cert="low"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=el7V9-IRGnM&amp;t=0s"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Emilio Valdeolivas</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Salida de Burgos (Cantar de mio Cid)</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Vio puertas abiertas e uços sin cañados</l>
+                  <l> alcándaras vazías sin pielles e sin mantos</l>
+                  <l> e sin falcones e sin adtores mudados</l>
+                  <l> Meció mio Çid los ombros</l>
+                  <l> bien e tan mesurado.</l>
+                  <l> Grado a ti señor padre, que estás en lo alto.</l>
+                  <l> Esto me an buelto mios enemigos malos.</l>
+                  <l> Allí pienssan de aguijar, allí sueltan las riendas</l>
+                  <l> a la exida de Bivar ovieron la corneja diestra</l>
+                  <l> e entrando a Burgos oviéronla siniestra.</l>
+                  <l> Meció mio Çid los ombros</l>
+                  <l> y engrameó la tiesta.</l>
+                  <l> Albricia Álbar Fáñez, ca echados somos de tierra.</l>
+                  <l> Mas a grand ondra tornaremos a Castiella.</l>
+                  <l> Una niña de nuef años, a ojo se parava.</l>
+                  <l> El rey lo ha vedado anoch de él entró su carta.</l>
+                  <l> Non aosariemos abrir nin coger por nada</l>
+                  <l> si non perderíemos todo los averes e las casas.</l>
+                  <l> Çid en el nuestro mal vos non ganades nada,</l>
+                  <l> que el Criados vos vala, con sus vertudes santas.</l>
+                  <l> Mio Çid Roy Díaz por Burgos entrove</l>
+                  <l> burgueses e burguesas por las finiestras sone.</l>
+                  <l> En su compaña sessaenta poendones</l>
+                  <l> plorando de los ojos, tanto avién el dolore.</l>
+                  <l> De las sus bocas todos dizían una razóne:</l>
+                  <l> ¡Dios qué buen vasallo si oviesse buen señore!</l>
+                  <l> De los sos ojos tan fuertemientre llorando</l>
+                  <l> tornava la cabeça i estávalos catando.</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+            </lg>
+         </div>
+         <note xmlns="">Toma los vv. 3-5, 7-15, 40-48, 15-20 y 1-2, del cantar primero del Cantar de mio Cid,
+            en ese orden. Probablemente sigue la edición de Menéndez Pidal, dado el tratamiento de
+            -e final en varios versos, pero no podemos asegurarlo por el momento. Todo el disco está
+            dedicado al Cantar de mio Cid, del que es una adaptación. </note>
+      </body>
+   </text>
+</TEI>

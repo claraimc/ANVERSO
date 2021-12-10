@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La noche blanca</title>
+            <author>Loquillo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Su nombre era el de todas las mujeres</title>
+               <publisher>Dro</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=ndrLHIKjj1w"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Loquillo</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Luis Alberto de Cuenca</persName>
+                  <bibl>La noche blanca</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Cuando la sombra cae, se dilatan tus ojos,</l>
+                  <l> se hincha tu pecho joven y tiemblan las aletas</l>
+                  <l> de tu nariz, mordida por el dulce veneno,</l>
+                  <l> y, terrible y alegre, tu alma se despereza.</l>
+               </lg>
+               <lg>
+                  <l> Qué blanca está la noche del placer. Cómo invita</l>
+                  <l> a cambiar estas manos por garras de pantera</l>
+                  <l> y dibujar con ellas en tu cuerpo desnudo</l>
+                  <l> corazones partidos por delicadas flechas.</l>
+               </lg>
+               <lg>
+                  <l> Para ti, pecadora, escribo cuando el alba</l>
+                  <l> me baña en su luz pálida y tú ya te has marchado.</l>
+                  <l> Por ti, cuando el rocío bautiza las ciudades,</l>
+                  <l> tomo la pluma, lleno de tu recuerdo, y ardo.</l>
+                  <l> Tomo la pluma, lleno de tu recuerdo.</l>
+               </lg>
+               <lg>
+                  <l> Nieva sobre el espejo de las celebraciones</l>
+                  <l> y la nieve eterniza el festín de tus labios.</l>
+                  <l> Todo es furia y sonido de amor en esta hora</l>
+                  <l> que beatifica besos y canoniza abrazos.</l>
+               </lg>
+               <lg>
+                  <l> Para ti, pecadora, escribo cuando el alba</l>
+                  <l> me baña en su luz pálida y tú ya te has marchado.</l>
+                  <l> Por ti, cuando el rocío bautiza las ciudades,</l>
+                  <l> tomo la pluma, lleno de tu recuerdo.</l>
+               </lg>
+               <lg>
+                  <l> Para ti, pecadora, escribo cuando el alba</l>
+                  <l> me baña en su luz pálida y tú ya te has marchado.</l>
+                  <l> Por ti, cuando el rocío bautiza las ciudades,</l>
+                  <l> tomo la pluma, lleno de tu recuerdo, y ardo. [Verso x 4]</l>
+                  <l> [Coro] Ardo, ardo, ardo…</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y en contraste con el poema original; a
+                    falta de fuente escrita, la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización similar, excepto que la canción cambia el orden de algunas estrofas y
+            repite algunos versos. </note>
+      </body>
+   </text>
+</TEI>

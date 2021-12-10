@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nana del caballo grande</title>
+            <author>La Susi</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Por Camarón</title>
+               <publisher>Mercury</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=FTE-HdR1kiU"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Flamenco</term>
+               <term>Latina</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>La Susi</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>[Nana del caballo grande]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Nana, niño, nana</l>
+                  <l> del caballo grande</l>
+                  <l> que no quiso el agua</l>
+                  <l> que no quiso el agua.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> El agua negra</l>
+                  <l> dentro de las ramas</l>
+                  <l> cuando llega al puente</l>
+                  <l> se detiene y canta.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¿Quién dirá, mi niño,</l>
+                  <l> lo que tiene el agua</l>
+                  <l> con su larga cola</l>
+                  <l> por su verde sala?</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Duérmete, clavel,</l>
+                  <l> que el caballo no quiere beber.</l>
+                  <l> Duérmete, rosa,</l>
+                  <l> que el caballo se pone a llorar.</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio; a falta de fuente escrita, la
+                    puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización similar, siguiendo al pie de la letra y en honor a la de Camarón 
+            (posiblemente la versión que canta con la Royal Philharmonic Orchestra en 1989), tal y
+            como se titula en álbum en el que viene recogida, Por Camarón (2002). </note>
+      </body>
+   </text>
+</TEI>

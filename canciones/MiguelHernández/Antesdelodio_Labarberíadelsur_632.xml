@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Antes del odio</title>
+            <author>La barbería del sur</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Arte pop</title>
+               <publisher>WEA</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/CbtmeCLUnd4"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+               <term>Latina</term>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>La barbería del sur</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Antes del odio</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l/>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Beso soy, sombra con sombra.</l>
+               </lg>
+               <lg>
+                  <l> Beso, dolor con dolor,</l>
+                  <l> por haberme enamorado,</l>
+                  <l> corazón sin corazón,</l>
+                  <l> de las cosas, del aliento</l>
+                  <l> sin sombra de la creación.</l>
+                  <l> Sed con agua en la distancia,</l>
+                  <l> pero sed alrededor.</l>
+                  <l> Corazón en una copa</l>
+                  <l> donde me lo bebo yo</l>
+                  <l> y no se lo bebe nadie,</l>
+                  <l> nadie sabe su sabor.</l>
+                  <l> Odio, vida: ¡cuánto odio</l>
+                  <l> sólo por amor!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Quien encierra una sonrisa.</l>
+                  <l> Quien encierra una sonrisa, amuralla mi voz.</l>
+                  <l> Libre soy siénteme libre.</l>
+                  <l> No, no hay cárcel para el hombre, no podrán atar mi voz.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Quién encierra una sonrisa, quien amuralla mi voz.</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Libre soy siénteme libre.</l>
+                  <l> No, no hay cárcel para el hombre, no podrán atar mi voz.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Quién encierra una sonrisa, quien amuralla mi voz.</l>
+               </lg>
+               <lg>
+                  <l> No, no hay cárcel para el hombre no podrán atarme no.</l>
+                  <l> A este mundo de cadenas me es pequeño y exterior.</l>
+                  <l> Libertad desde mi alma clamorosa de pasión.</l>
+               </lg>
+               <lg>
+                  <l> Corazón en una copa donde me lo bebo yo</l>
+                  <l> y no se lo bebe nadie, nadie sabe su sabor.</l>
+                  <l> Odio, vida: ¡cuánto odio sólo por amor!</l>
+               </lg>
+               <lg>
+                  <l> Quien encierra una sonrisa.</l>
+                  <l> Quien encierra una sonrisa, amuralla mi voz.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Libre soy siénteme libre.</l>
+                  <l> No, no hay cárcel para el hombre, no podrán atar mi voz.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Quién encierra una sonrisa, quien amuralla mi voz.</l>
+               </lg>
+               <lg>
+                  <l> Besos soy, sombra con sombra.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg> </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar del poema de Miguel Hernández.  El
+            autor utiliza la primera estrofa del poema para empezar la canción; a partir de ahí,
+            utiliza la siguiente estrofa, compuesta de diferentes versos del poema, que repite
+            aleatoriamente hasta terminar la canción: «…Quien encierra una sonrisa./Quien encierra
+            una sonrisa, amuralla mi voz./Libre soy siénteme libre./No, no hay cárcel para el
+            hombre, no podrán atar mi voz…».   Aparecería una versión de esta canción en el disco,
+            de la misma banda, Rarezas, de 2002. </note>
+      </body>
+   </text>
+</TEI>

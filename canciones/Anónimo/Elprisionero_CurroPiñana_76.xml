@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El prisionero</title>
+            <author>Curro Piñana</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>El alma lastimada y otros poemas</title>
+               <publisher>Karonte</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=j-yfA3j1EDA"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Curro Piñana</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Romance del prisionero «Que por mayo era, por mayo»</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Triste lo dijo el mezquino</l>
+                  <l> que cayó en estas prisiones:</l>
+                  <l> —No sé cuándo es de día,</l>
+                  <l> no sé cuándo es de noche.</l>
+                  <l> Tenía tres avecicas,</l>
+                  <l> me cantaban ruiseñores,</l>
+                  <l> me cantaban a la prima</l>
+                  <l> y también de medianoche.</l>
+                  <l> Y ahora, por mi pecado,</l>
+                  <l> no sé por qué se han ido,</l>
+                  <l> si los mató el carcelero</l>
+                  <l> que tenga su merecido—.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción es por tonás y resume bastante el romance. La relacionamos con una versión
+            del romance similar pero no idéntica, ya que se trata de un romance con muchas
+            variaciones en la tradición oral. En este caso la adaptación parece mucho más libre y no
+            vinculada a una versión concreta.   La unidad conceptual del álbum viene dada por la
+            obra de Ibn Gabirol, poeta hispanohebreo. Este romance no está vinculado a la tradición
+            sefardí, ya que pertenece al romancero viejo y goza de una gran tradición. </note>
+      </body>
+   </text>
+</TEI>

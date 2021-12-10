@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>En este campo</title>
+            <author>Eduardo Rincón</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>El albun de las comendadoras</title>
+               <publisher>Columna Música</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://open.spotify.com/album/0VBLt1LpiksmzbEb3b0mGN"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Clásica</term>
+               <term>Escénica</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Eduardo Rincón</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[En este campo]</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>En este campo</l>
+                  <l> estuvo el mar.</l>
+               </lg>
+               <lg>
+                  <l> Alguna vez volverá.</l>
+                  <l> Si alguna vez una gota</l>
+                  <l> roza este campo, este campo</l>
+                  <l> siente el recuerdo del mar.</l>
+               </lg>
+               <lg>
+                  <l> Alguna vez volverá.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización idéntica del poema de Miguel Hernández. Aunque
+            el disco es de Eduardo Rincón, la intérprete de esta versión es Elena Gragera. </note>
+      </body>
+   </text>
+</TEI>

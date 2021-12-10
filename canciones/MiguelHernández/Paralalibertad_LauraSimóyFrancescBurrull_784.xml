@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Para la libertad</title>
+            <author>Laura Simó y Francesc Burrull</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Temps de pluja</title>
+               <publisher>Temps Record</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=pPq4PWIBCjc"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Laura Simó y Francesc Burrull</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>El herido</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Para la libertad sangro, lucho, pervivo.</l>
+                  <l> Para la libertad, mis ojos y mis manos,</l>
+                  <l> como un árbol carnal, generoso y cautivo,</l>
+                  <l> doy a los cirujanos.</l>
+               </lg>
+               <lg>
+                  <l> Para la libertad, siento más corazones</l>
+                  <l> que arenas en mi pecho dan espuma mis venas;</l>
+                  <l> y entro en los hospitales, y entro en los algodones,</l>
+                  <l> como en las azucenas.</l>
+               </lg>
+               <lg>
+                  <l> Porque donde unas cuencas vacías amanezcan,</l>
+                  <l> ella pondrá dos piedras de futura mirada,</l>
+                  <l> y hará que nuevos brazos y nuevas piernas crezcan</l>
+                  <l> en la carne talada.</l>
+               </lg>
+               <lg>
+                  <l> Retoñarán aladas de savia sin otoño,</l>
+                  <l> reliquias de mi cuerpo que pierdo en cada herida;</l>
+                  <l> porque soy como el árbol talado que retoño:</l>
+                  <l> aún tengo la vida.</l>
+               </lg>
+               <lg>
+                  <l> Para la libertad sangro, lucho, pervivo.</l>
+                  <l> Para la libertad, mis ojos y mis manos,</l>
+                  <l> como un árbol carnal, generoso y cautivo,</l>
+                  <l> doy a los cirujanos.</l>
+               </lg>
+               <lg>
+                  <l> Porque donde unas cuencas vacías amanezcan,</l>
+                  <l> ella pondrá dos piedras de futura mirada,</l>
+                  <l> y hará que nuevos brazos y nuevas piernas crezcan</l>
+                  <l> en la carne talada.</l>
+               </lg>
+               <lg>
+                  <l> Retoñarán aladas de savia sin otoño,</l>
+                  <l> reliquias de mi cuerpo que pierdo en cada herida;</l>
+                  <l> porque soy como el árbol talado que retoño:</l>
+                  <l> aún tengo la vida,</l>
+                  <l> aún tengo la vida.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Es una versión a partir de la que hizo por primera vez Joan Manuel Serrat (Miguel
+            Hernández, 1972), que musicaba la segunda parte del poema «El herido». La canción de
+            Serrat no está incluida en esta base de datos, por ser anterior a 1975. </note>
+      </body>
+   </text>
+</TEI>

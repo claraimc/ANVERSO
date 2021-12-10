@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Riu, riu chiu</title>
+            <author>Terry McDade and The McDades</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Midwinter</title>
+               <publisher>Free Radio Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=Q7BiHOXUTk0"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Terry McDade and The McDades</persName>
+                  <nationality>Canadá</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Riu, riu chiu</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Riu, riu, chiu, la guarda ribera,</l>
+                  <l> Dios guardó el lobo de nuestra cordera.</l>
+                  <l> Riu, riu, chiu, la guarda ribera,</l>
+                  <l> Dios guardó el lobo de nuestra cordera.</l>
+                  <l> Dios guardó el lobo de nuestra cordera.</l>
+               </lg>
+               <lg>
+                  <l> El lobo rabioso la quiso morder,</l>
+                  <l> mas Dios poderoso la supo defender.</l>
+                  <l> Quísole hazer que no pudiesse pecar,</l>
+                  <l> Ni aún original esta virgen no tuviera.</l>
+               </lg>
+               <lg>
+                  <l> Riu, riu, chiu, la guarda ribera,</l>
+                  <l> Dios guardó el lobo de nuestra cordera.</l>
+                  <l> Dios guardó el lobo de nuestra cordera.</l>
+               </lg>
+               <lg>
+                  <l> Este ques nacido es el gran monarcha,</l>
+                  <l> Christo patriarcha de carne vestido.</l>
+                  <l> A nos redimido con se hazer chiquito,</l>
+                  <l> aunque era infinito, finito se hiziera.</l>
+               </lg>
+               <lg>
+                  <l> Riu, riu, chiu, la guarda ribera,</l>
+                  <l> Dios guardó el lobo de nuestra cordera.</l>
+                  <l> Dios guardó el lobo de nuestra cordera.</l>
+               </lg>
+               <lg>
+                  <l> Muchas profecías lo an profetizado,</l>
+                  <l> Y aún en nuestros días lo hemos alcançado.</l>
+                  <l> A Dios humanado vemos en el suelo,</l>
+                  <l> y al hombre nel cielo porquel le quisiera.</l>
+               </lg>
+               <lg>
+                  <l> Riu, riu, chiu, la guarda ribera,</l>
+                  <l> Dios guardó el lobo de nuestra cordera.</l>
+                  <l> Dios guardó el lobo de nuestra cordera.</l>
+               </lg>
+               <lg>
+                  <l> Este viene a dar a los muertos vida,</l>
+                  <l> y viene a reparar de todos la caýda.</l>
+                  <l> Es la luz del día aqueste moçuelo,</l>
+                  <l> este es el cordero que San Juan dixera.</l>
+               </lg>
+               <lg>
+                  <l> Riu, riu, chiu, la guarda ribera,</l>
+                  <l> Dios guardó el lobo de nuestra cordera.</l>
+                  <l> Dios guardó el lobo de nuestra cordera.</l>
+               </lg>
+               <lg>
+                  <l> Pues que ya tenemos lo que desseamos,</l>
+                  <l> todos juntos vamos presentes llevemos;</l>
+                  <l> todos le daremos nuestra voluntad,</l>
+                  <l> pues a se igualar con el hombre viniera.</l>
+               </lg>
+               <lg>
+                  <l> Riu, riu, chiu, la guarda ribera,</l>
+                  <l> Dios guardó el lobo de nuestra cordera.</l>
+                  <l> Dios guardó el lobo de nuestra cordera.</l>
+                  <l> Riu, riu, chiu, la guarda ribera,</l>
+                  <l> Dios guardó el lobo de nuestra cordera.</l>
+                  <l> Dios guardó el lobo de nuestra cordera.</l>
+                  <l> Riu, riu, chiu, la guarda ribera,</l>
+                  <l> Dios guardó el lobo de nuestra cordera.</l>
+                  <l> Dios guardó el lobo de nuestra cordera.</l>
+                  <l> Riu, riu, chiu, la guarda ribera,</l>
+                  <l> Dios guardó el lobo de nuestra cordera.</l>
+                  <l> Dios guardó el lobo de nuestra, de nuestra, de nuestra cordera.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Respecto al texto del Cancionero de Upsala, conserva las estrofas 1, 2, 3, 5 y 7, en
+            ese orden. Parece que se estuviera intentando respetar la pronunciación arcaica de las
+            sibilantes. </note>
+      </body>
+   </text>
+</TEI>

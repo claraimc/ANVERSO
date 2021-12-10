@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nocturno</title>
+            <author>Diego Sánchez Zamora</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="--">
+               <title>Musipoemas</title>
+               <publisher>Formula Free Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=82L-tXEdG6Y"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Diego Sánchez Zamora</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <bibl>Nocturno</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Cuando tanto se sufre sin sueño y por la sangre</l>
+                  <l> se escucha que transita solamente la rabia,</l>
+                  <l> que en los tuétanos tiembla despabilado el odio</l>
+                  <l> y en las médulas arde continua la venganza,</l>
+                  <l> las palabras entonces no sirven: son palabras,</l>
+                  <l> entonces no sirven.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Balas, balas.</l>
+                  <l> Balas, balas.</l>
+                  <l> Balas, balas.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Manifiestos, artículos, comentarios, discursos,</l>
+                  <l> humaredas perdidas, neblinas estampadas;</l>
+                  <l> ¡qué dolor de papeles que ha de barrer el viento,</l>
+                  <l> qué tristeza de tinta que ha de borrar el agua!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Balas, balas.</l>
+                  <l> Balas, balas.</l>
+                  <l> Balas, balas.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Ahora sufro lo pobre, lo mezquino, lo triste,</l>
+                  <l> lo desgraciado y muerto que tiene una garganta</l>
+                  <l> cuando desde el abismo de su idioma quisiera</l>
+                  <l> gritar lo que no puede por imposible, y calla.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Siento esta noche heridas de muerte las palabras.</l>
+                  <l> Siento esta noche heridas de muerte las palabras.</l>
+                  <l> Siento esta noche heridas de muerte.</l>
+                  <l> Siento esta noche heridas de muerte.</l>
+                  <l> Siento esta noche heridas de muerte.</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y los poemas originales; la puntuación
+                    y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Hubo una musicalización anterior a 1975, por eso no está recogida en esta base de
+            datos: Paco Ibáñez (Paco Ibáñez III, 1969). Musicalización idéntica excepto por la
+            repetición de las palbras «entonces no sirven» tras el verso 5 y la repetición del verso
+            final del poema cinco veces, las últimas tres solo el principio de este quedando «siento
+            heridas de muerte», con el consecuente cambio semántico. </note>
+      </body>
+   </text>
+</TEI>

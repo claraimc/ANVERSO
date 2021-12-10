@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tango de madrugada</title>
+            <author>Pedro Guerra</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>La palabra en el aire</title>
+               <publisher>El Europeo Música</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=qYwfRxVhICw"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Pedro Guerra</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Ángel González</persName>
+                  <bibl>Tango de madrugada</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>El bandoneón recorre</l>
+                  <l> estremecidamente</l>
+                  <l> escotes y columnas vertebrales.</l>
+                  <l> Aprisionado por guitarras de amplio radio,</l>
+                  <l> por profundas y agónicas guitarras,</l>
+                  <l> el bandoneón estira</l>
+                  <l> su indolencia y su ronca</l>
+                  <l> sonoridad marina trasplantada.</l>
+               </lg>
+               <lg>
+                  <l> Hay un instante frívolo</l>
+                  <l> cuando baila la gente.</l>
+                  <l> Hay un momento turbio</l>
+                  <l> en el que desfallezco.</l>
+                  <l> Hay un minuto roto</l>
+                  <l> en el que todo es llanto.</l>
+               </lg>
+               <lg>
+                  <l> Por detrás del violín apunta la esperanza:</l>
+                  <l> una leve esperanza densamente imposible.</l>
+                  <l> “Sé que no has de volver”.</l>
+                  <l> La mujer canta.</l>
+                  <l> “Sé que no has</l>
+                  <l> de volver”. La noche</l>
+                  <l> sigue. “Sé</l>
+                  <l> que no has de volver”.</l>
+                  <l> La canción huye,</l>
+                  <l> borracha y sollozante,</l>
+                  <l> hacia la calle,</l>
+                  <l> donde el duro reflejo de unos vidrios helados</l>
+                  <l> la rechaza y la triza contra el suelo.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción musicaliza el poema original sin alteraciones textuales, excepto que se
+            repiten algunos versos. </note>
+      </body>
+   </text>
+</TEI>

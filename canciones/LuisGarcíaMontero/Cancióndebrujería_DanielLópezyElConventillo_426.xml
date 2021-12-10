@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Canción de brujería</title>
+            <author>Daniel López y El Conventillo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>De mares y caminantes</title>
+               <publisher>Ambar Producciones</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target=""/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Daniel López y El Conventillo</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Luis García Montero</persName>
+                  <bibl>Canción de brujería</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Desconocida.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">No se ha tenido acceso a la canción, así que se desconoce la letra exacta y la
+            relación musical con el poema. Tenemos noticia de esta versión a través del blog Música
+            y poesía, de José Cárdena, en este enlace. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aunque es de noche</title>
+            <author>Enrique Morente</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Cruz y luna</title>
+               <publisher>Zafiro</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=WdDoUFK0H6Q"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Enrique Morente</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Juan de la Cruz</persName>
+                  <bibl>Cantar del alma que se huelga de conocer a Dios por fe</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Qué bien sé yo la fuente que mana y corre</l>
+                  <l> Aunque es de noche</l>
+                  <l> Aquella eterna fuente está escondida</l>
+                  <l> Qué bien sé yo donde tiene su manida</l>
+                  <l> Aunque es de noche</l>
+                  <l> En esta noche oscura de esta vida</l>
+                  <l> Qué bien sé yo por fe la fuente fría</l>
+                  <l> Aunque es de noche</l>
+                  <l> Aunque es de noche</l>
+                  <l> Aunque es de noche</l>
+                  <l> Su origen no lo sé, pues no lo tiene</l>
+                  <l> Mas sé que todo origen de ella viene</l>
+                  <l> Aunque es de noche</l>
+                  <l> Sé que no puede haber cosa tan bella</l>
+                  <l> Y que cielos y tierra beben de ella</l>
+                  <l> Aunque es de noche</l>
+                  <l> Aunque es de noche</l>
+                  <l> Aunque es de noche</l>
+                  <l> Bien sé que suelo en ella no se halla</l>
+                  <l> Y que ninguno puede vadearla</l>
+                  <l> Aunque es de noche</l>
+                  <l> Su claridad nunca es oscurecida</l>
+                  <l> Y toda luz de ella es venida</l>
+                  <l> Aunque es de noche</l>
+                  <l> Y son tan caudalosas sus corrientes</l>
+                  <l> Que cielos, infiernos riegan y la gente</l>
+                  <l> Aunque es de noche</l>
+                  <l> Aunque es de noche</l>
+                  <l> Aunque es de noche</l>
+                  <l> Aunque es de noche</l>
+                  <l> La corriente que nace de esta fuente</l>
+                  <l> Bien sé que es tan capaz y omnipotente</l>
+                  <l> Aunque es de noche</l>
+                  <l> La corriente que de estas dos procede</l>
+                  <l> Sé que ninguna de ellas le precede</l>
+                  <l> Aunque es de noche</l>
+                  <l> Aquí se están llamando a las criaturas</l>
+                  <l> Y de esta agua se hartan, aunque a oscuras</l>
+                  <l> Aunque es de noche</l>
+                  <l> En esta viva fuente de deseo</l>
+                  <l> En este pan de vida, yo la veo</l>
+                  <l> Aunque es de noche</l>
+                  <l> En esta eterna fuente está escondida</l>
+                  <l> En este vivo pan por darme vida</l>
+                  <l> Aunque es de noche</l>
+                  <l> Aunque es de noche</l>
+                  <l> Aunque es de noche</l>
+                  <l> Aunque es de noche</l>
+                  <l> Aunque es de noche</l>
+                  <l> Aunque es de noche, ah ah ah ah</l>
+                  <l> Aunque es de noche</l>
+                  <l> Aunque es de noche</l>
+                  <l> Aunque es de noche, ah ah ah ah</l>
+                  <l> Aunque es de noche</l>
+                  <l> Aunque es de noche</l>
+                  <l> Aunque es de noche</l>
+                  <l> Aunque es de noche</l>
+                  <l> Aunque es de noche</l>
+                  <l> Aunque es de noche</l>
+                  <l> Aunque es de noche</l>
+                  <l> Aunque es de noche</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns=""/>
+      </body>
+   </text>
+</TEI>

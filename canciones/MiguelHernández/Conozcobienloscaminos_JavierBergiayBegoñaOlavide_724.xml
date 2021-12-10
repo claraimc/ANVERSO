@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Conozco bien los caminos</title>
+            <author>Javier Bergia y Begoña Olavide</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>A propósito de Miguel Hernández, un poeta de Orihuela</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://open.spotify.com/track/599FMJa5Hv2yYEX6o9shOM?si=3a6ddb0797e34ed9"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Javier Bergia y Begoña Olavide</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Conozco bien los caminos]</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Conozco bien los caminos</l>
+                  <l> conozco los caminantes</l>
+                  <l> del mar, del fuego, del sueño,</l>
+                  <l> de la tierra, de los aires.</l>
+                  <l> Y te conozco a ti</l>
+                  <l> que estás dentro de mi sangre. [Estrofa x 2]</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original; la puntuación y
+                    ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns=""/>
+      </body>
+   </text>
+</TEI>

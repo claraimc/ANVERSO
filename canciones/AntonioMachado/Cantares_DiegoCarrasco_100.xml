@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cantares</title>
+            <author>Diego Carrasco</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Cantares. Los artistas flamencos cantan a Serrat</title>
+               <publisher>Universal Music</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=5ozosI-g8Qw"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Diego Carrasco</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Antonio Machado</persName>
+                  <bibl>Proverbios y cantares</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Todo pasa y todo queda,</l>
+                  <l> pero lo nuestro es pasar,</l>
+                  <l> pasar haciendo caminos,</l>
+                  <l> caminos sobre la mar.</l>
+               </lg>
+               <lg>
+                  <l> Nunca perseguí la gloria,</l>
+                  <l> yo,</l>
+                  <l> ni dejar en la memoria</l>
+                  <l> y de los hombres mi canción.</l>
+                  <l> Yo.</l>
+                  <l> Porque yo amo los mundos sutiles</l>
+                  <l> ingrávidos y gentiles</l>
+                  <l> y como pompas de jabón.</l>
+               </lg>
+               <lg>
+                  <l> Me gusta verlos pintarse,</l>
+                  <l> ¡por Dios!, ¿qué?,</l>
+                  <l> de sol y grana, volar</l>
+                  <l> bajo,</l>
+                  <l> bajo el cielo azul, temblar</l>
+                  <l> súbitamente, quebrarse.</l>
+               </lg>
+               <lg>
+                  <l> Yo</l>
+                  <l> nunca perseguí la gloria,</l>
+                  <l> ¡ah!,</l>
+                  <l> ni dejar en la memoria,</l>
+                  <l> ¡ah!,</l>
+                  <l> de los hombres mi canción.</l>
+               </lg>
+               <lg>
+                  <l> Caminante, son tus huellas</l>
+                  <l> el camino y nada más;</l>
+                  <l> caminante, no hay camino,</l>
+                  <l> se hace camino al andar.</l>
+                  <l> Al andar se hace camino</l>
+                  <l> Y, al volver la vista atrás,</l>
+                  <l> se ve la senda que nunca,</l>
+                  <l> ¡nunca!,</l>
+                  <l> se ha de volver a pisar.</l>
+                  <l> Caminante, no hay camino,</l>
+                  <l> sino estelas en la mar.</l>
+               </lg>
+               <lg>
+                  <l> Y hace algún tiempo en ese lugar,</l>
+                  <l> donde los bosques se visten de espinos,</l>
+                  <l> se oyó la voz de un poeta gritar:</l>
+                  <l> “Caminante, no hay camino;</l>
+                  <l> se hace camino al andar…”</l>
+               </lg>
+               <lg>
+                  <l> (Golpe a golpe, verso a verso.</l>
+                  <l> Golpe a golpe, verso a verso.)</l>
+               </lg>
+               <lg>
+                  <l> Murió el poeta lejos del hogar,</l>
+                  <l> le cubre el polvo de un país vecino;</l>
+                  <l> al alejarse le vieron llorar:</l>
+                  <l> “Caminante, no hay camino;</l>
+                  <l> se hace camino al andar…”</l>
+               </lg>
+               <lg>
+                  <l> (Golpe a golpe, verso a verso.</l>
+                  <l> Golpe a golpe, verso a verso.</l>
+                  <l> Verso a verso, golpe a golpe.)</l>
+               </lg>
+               <lg>
+                  <l> Cuando el jilguero no puede cantar,</l>
+                  <l> cuando el poeta es un peregrino,</l>
+                  <l> porque de nada nos sirve rezar:</l>
+                  <l> “Caminante, no hay camino;</l>
+                  <l> se hace camino al andar…”</l>
+               </lg>
+               <lg>
+                  <l> (Golpe a golpe, verso a verso.</l>
+                  <l> Golpe a golpe, verso a verso.</l>
+                  <l> Golpe a golpe, verso a verso.</l>
+                  <l> Golpe a golpe, verso a verso.</l>
+                  <l> Golpe a golpe, verso a verso.)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">En realidad, es una versión de “Cantares” de Joan Manuel Serrat (Dedicado a Antonio
+            Machado, poeta, 1969), que, por razones de cronología, no aparece en esta recopilación;
+            de hecho, aparece en un disco de homenaje a Serrat. Diego Carrasco sigue de cerca el
+            modelo textual de Serrat, mezclando los mismos versos y estrofas de entre todos los
+            proverbios y cantares de Machado, pero hace algunos cambios léxicos e interpola
+            numerosas interjecciones. </note>
+      </body>
+   </text>
+</TEI>

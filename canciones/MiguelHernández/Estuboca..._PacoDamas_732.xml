@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Es tu boca...</title>
+            <author>Paco Damas</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Tristes guerras (Miguel Hernández)</title>
+               <publisher>Buho Man Discos</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=X8VTqzx9oio"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Paco Damas</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Es tu boca…</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Incendiado retazo de nube;</l>
+                  <l> corazón arrancado a un querube;</l>
+                  <l> fresco y rojo botón de rosal…</l>
+                  <l> Es tu boca, mujer, todo eso…</l>
+                  <l> Mas si cae dulcemente en un beso</l>
+                  <l> a la mía, se torna en puñal.</l>
+               </lg>
+               <lg>
+                  <l> Una herida sangrante y pequeña;</l>
+                  <l> del purpúreo coral doble rama;</l>
+                  <l> un clavel que en el alba se inflama;</l>
+                  <l> una fresa lozana y sedeña.</l>
+               </lg>
+               <lg>
+                  <l> Rubí, en dos dividido, que enseña</l>
+                  <l> si se entreabre, blanquísima escama;</l>
+                  <l> amapola, flor, cálida llama;</l>
+                  <l> nido donde el amor canta y sueña.</l>
+               </lg>
+               <lg>
+                  <l> Incendiado retazo de nube;</l>
+                  <l> corazón arrancado a un querube;</l>
+                  <l> fresco y rojo botón de rosal…</l>
+                  <l> Es tu boca, mujer, todo eso…</l>
+                  <l> Mas si cae dulcemente en un beso</l>
+                  <l> a la mía, se torna en puñal.</l>
+               </lg>
+               <lg>
+                  <l> Una herida sangrante y pequeña;</l>
+                  <l> del purpúreo coral doble rama;</l>
+                  <l> un clavel que en el alba se inflama;</l>
+                  <l> una fresa lozana y sedeña.</l>
+               </lg>
+               <lg>
+                  <l> Incendiado retazo de nube;</l>
+                  <l> corazón arrancado a un querube;</l>
+                  <l> fresco y rojo botón de rosal…</l>
+                  <l> Es tu boca, mujer, todo eso…</l>
+                  <l> Mas si cae dulcemente en un beso</l>
+                  <l> a la mía, se torna en puñal. [Estrofa x 2]</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns=""/>
+      </body>
+   </text>
+</TEI>

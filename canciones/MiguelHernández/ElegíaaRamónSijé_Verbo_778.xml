@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elegía a Ramón Sijé</title>
+            <author>Verbo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Injusticia poética</title>
+               <publisher>Rock CD Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=KerXFLQrV_0"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Verbo</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Elegía [a Ramón Sijé]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Yo quiero ser llorando el hortelano</l>
+                  <l> de la tierra que ocupas y estercolas,</l>
+                  <l> compañero del alma, tan temprano,</l>
+                  <l> Compañero del alma, compañero.</l>
+               </lg>
+               <lg>
+                  <l> Alimentando lluvias, caracolas</l>
+                  <l> y órganos mi dolor sin instrumento</l>
+                  <l> a las desalentadas amapolas</l>
+                  <l> daré tu corazón por alimento.</l>
+               </lg>
+               <lg>
+                  <l> Tanto dolor se agrupa en mi costado,</l>
+                  <l> que por doler me duele hasta el aliento.</l>
+                  <l> No hay extensión más grande que mi herida,</l>
+                  <l> y siento más tu muerte que mi vida.</l>
+               </lg>
+               <lg>
+                  <l> Ando sobre rastrojos de difuntos,</l>
+                  <l> y sin calor de nadie y sin consuelo</l>
+                  <l> voy de mi corazón a mis asuntos.</l>
+               </lg>
+               <lg>
+                  <l> Temprano levantó la muerte el vuelo,</l>
+                  <l> temprano madrugo la madrugada,</l>
+                  <l> temprano estás rodando por el suelo.</l>
+                  <l> No perdono a la muerte enamorada,</l>
+                  <l> No perdono a la tierra ni a la nada.</l>
+               </lg>
+               <lg>
+                  <l> Quiero escarbar la tierra con los dientes,</l>
+                  <l> quiero apartar la tierra parte a parte</l>
+                  <l> a dentelladas secas y calientes.</l>
+                  <l> Quiero minar la tierra hasta encontrarte.</l>
+               </lg>
+               <lg>
+                  <l> Tu corazón, ya terciopelo ajado,</l>
+                  <l> llama a un campo de almendras espumosas</l>
+                  <l> mi avariciosa voz de enamorado.</l>
+               </lg>
+               <lg>
+                  <l> A las aladas almas de las rosas…</l>
+                  <l> de almendro de nata te requiero:</l>
+                  <l> que tenemos que hablar de muchas cosas,</l>
+                  <l> compañero del alma, compañero.</l>
+                  <l> Compañero del alma, tan temprano.</l>
+               </lg>
+               <lg>
+                  <l> Compañero del alma, compañero.</l>
+                  <l> Compañero del alma, tan temprano. [Estrofa x 3]</l>
+               </lg>
+               <lg>
+                  <l> Compañero del alma, compañero.</l>
+               </lg>
+               <lg>
+                  <l> [Tararea hasta terminar]</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Miguel Ángel Rodríguez musicalizó por primera vez este poema de Miguel Hernández
+            (Manifiesto Canción del Sur, 1971), y luego lo hizo Joan Manuel Serrat (Miguel
+            Hernández, 1972). Ninguna de estados dos versiones están incluidas en esta base de datos
+            por ser anteriores a 1975. </note>
+      </body>
+   </text>
+</TEI>

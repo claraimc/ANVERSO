@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Casi-Nada</title>
+            <author>Paco Damas</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Tristes guerras (Miguel Hernández)</title>
+               <publisher>Buho Man Discos</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=HqIEov_joH0"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Paco Damas</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Casi nada</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Manantial casi fuente; casi río</l>
+                  <l> fuente; ya casi mar casi río apenas;</l>
+                  <l> mar casi océano de frío.</l>
+                  <l> Principio y Fin del agua y las arenas.</l>
+               </lg>
+               <lg>
+                  <l> Casi azul, casi cano, casi umbrío,</l>
+                  <l> casi cielo salino con antenas,</l>
+                  <l> casi diafanidad, casi vacío,</l>
+                  <l> casi lleno de arpones y ballenas.</l>
+               </lg>
+               <lg>
+                  <l> Participo del ave por el trino;</l>
+                  <l> por la proximidad, polvo, del lodo</l>
+                  <l> participas, desierto, del oasis,</l>
+               </lg>
+               <lg>
+                  <l> distancia, de la vena del camino:</l>
+                  <l> por la gracia de Dios… —¡ved!—, casi todo.</l>
+                  <l> Gran-Todo-de-la-nada-de-los-casis. [Verso x 2]</l>
+               </lg>
+               <lg>
+                  <l> ¡Casi todo! ¡Casi nada!</l>
+                  <l> ¡Casi todo! ¡Casi nada!</l>
+                  <l> Gran-Todo-de-la-nada-de-los-casis. [Estrofa x 2]</l>
+               </lg>
+               <lg>
+                  <l> Gran-Todo-de-la-nada-de-los-casis.</l>
+               </lg>
+               <lg>
+                  <l> Manantial casi fuente; casi río</l>
+                  <l> fuente; ya casi mar casi río apenas;</l>
+                  <l> mar casi océano de frío.</l>
+                  <l> Principio y Fin del agua y las arenas.</l>
+               </lg>
+               <lg>
+                  <l> Participo del ave por el trino;</l>
+                  <l> por la proximidad, polvo, del lodo</l>
+                  <l> participas, desierto, del oasis,</l>
+               </lg>
+               <lg>
+                  <l> distancia, de la vena del camino:</l>
+                  <l> por la gracia de Dios… —¡ved!—, casi todo.</l>
+                  <l> Gran-Todo-de-la-nada-de-los-casis. [Verso x 2]</l>
+               </lg>
+               <lg>
+                  <l> ¡Casi todo! ¡Casi nada!</l>
+                  <l> ¡Casi todo! ¡Casi nada!</l>
+                  <l> Gran-Todo-de-la-nada-de-los-casis. [Estrofa x 2]</l>
+               </lg>
+               <lg>
+                  <l> Gran-Todo-de-la-nada-de-los-casis.</l>
+               </lg>
+               <lg>
+                  <l> ¡Casi todo! ¡Casi nada!</l>
+                  <l> ¡Casi todo! ¡Casi nada!</l>
+                  <l> Gran-Todo-de-la-nada-de-los-casis. [Verso x 2]</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Casi todo! ¡Casi nada! [Verso x 4]</l>
+                  <l> Gran-Todo-de-la-nada-de-los-casis. [Estrofa x 2]</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Se musicaliza el soneto íntegro con ligeras variaciones léxicas y repeticiones de
+            versos y estrofas. </note>
+      </body>
+   </text>
+</TEI>

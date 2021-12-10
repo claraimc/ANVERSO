@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romance del prisionero</title>
+            <author>Amancio Prada</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Canciones de amor y celda</title>
+               <publisher>Movieplay</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=KiuIOTUAPIQ"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Amancio Prada</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Romance del prisionero «Que por mayo era, por mayo»</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Que por mayo era, por mayo,</l>
+                  <l> cuando hace la calor,</l>
+                  <l> cuando los trigos encañan</l>
+                  <l> y están los campos en flor,</l>
+                  <l> cuando canta la calandria</l>
+                  <l> y responde el ruiseñor,</l>
+                  <l> cuando los enamorados</l>
+                  <l> van a servir al amor;</l>
+                  <l> sino yo, triste y cuitado,</l>
+                  <l> que yago en esta prisión;</l>
+                  <l> que ni sé cuándo es de día</l>
+                  <l> ni cuándo las noches son,</l>
+                  <l> sino por una avecilla</l>
+                  <l> que me cantaba al albor.</l>
+                  <l> Matómela un ballestero;</l>
+                  <l> dele Dios mal galardón.</l>
+               </lg>
+               <lg>
+                  <l> Matómela un ballestero;</l>
+                  <l> dele Dios mal galardón.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Adaptación muy conservadora, con solo la repetición de los versos finales como
+            innovación. Se retoma en los ábumes Trovadores, místicos y románticos (Ariola, 1990) y
+            en Del amor que quita el sueño (Musicamaina, 2010).   En el álbum hay otras piezas de la
+            lírica castellana medieval y temprano-moderna. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Largo espectro. Verde que te quiero verde</title>
+            <author>David de Jacoba, Israel Fernández y Juan Carmona</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>27 flamenco. Un homenaje al arte y la poesía de la generación del 27</title>
+               <publisher>Piros y Juan Carmona</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=dzrVRSd4rk4"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>David de Jacoba, Israel Fernández y Juan Carmona</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Romance sonámbulo</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Largo espectro de plata conmovida</l>
+                  <l> el viento de la noche suspirando.</l>
+                  <l> Largo espectro de plata.</l>
+                  <l> Y se alejó: yo estaba deseando.</l>
+                  <l> Llaga de amor que me dará la vida</l>
+                  <l> perpetua sangre y pura luz brotando.</l>
+               </lg>
+               <lg>
+                  <l> ¡Ay!</l>
+                  <l> Verde que te quiero verde.</l>
+                  <l> Te quiero verde.</l>
+                  <l> Verde viento. Verdes ramas.</l>
+                  <l> ¡Ay!</l>
+                  <l> Verde que te quiero verde.</l>
+                  <l> El barco sobre la mar</l>
+                  <l> y el caballo en la montaña.</l>
+                  <l> ¡Ay!</l>
+                  <l> Verde que te quiero verde.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y los poemas originales; la puntuación
+                    y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Como se indica en el título, la canción alterna los dos poemas de Lorca, cambiando a
+            su vez de intérprete; de cada poema, se toman solo los versos iniciales. </note>
+      </body>
+   </text>
+</TEI>

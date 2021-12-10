@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Polo y soléa</title>
+            <author>Manuel Gerena</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Manuel Gerena canta con Miguel Hernández</title>
+               <publisher>Alía Discos</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://music.youtube.com/watch?v=O06TJJMh_Jc&amp;list=OLAK5uy_mNHbPoQJPB9mMkUfaTfXFR405rLr-UbY0"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Manuel Gerena</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>El niño Yuntero</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Nace, como la herramienta,</l>
+                  <l> a los golpes, a los golpes destinado,</l>
+                  <l> de una tierra descontenta</l>
+                  <l> y un insatisfecho, y un insatisfecho arado.</l>
+               </lg>
+               <lg>
+                  <l> Carne de yugo, ha nacido</l>
+                  <l> más humillado que bello,</l>
+                  <l> más humillado que bello,</l>
+                  <l> con el cuello perseguido</l>
+                  <l> por el yugo para el cuello.</l>
+                  <l> Carne de yugo, ha nacido</l>
+                  <l> más humillado que bello.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns=""/>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Parte I: De las altas mares</title>
+            <author>Lobera</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Maqueta/Demo">
+               <title>En una fría mañana</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://ulfvaldr.bandcamp.com/track/parte-i-de-las-altas-mares"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Heavy metal</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Lobera</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Romance de don Bueso «De las altas mares»</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>De las altas mares traen a la niña,</l>
+                  <l> cubierta la traen de oro y perlería.</l>
+                  <l> A la reina mora llevan la cautiva</l>
+                  <l> y el rey que es mancebo con amor la mira.</l>
+                  <l> La reina celosa a llorar se iba,</l>
+                  <l> los sus siervos todos así le decían:</l>
+                  <l> —Metedla, señora a lavar al vado,</l>
+                  <l> que pierda color y gane desmayos—.</l>
+                  <l> Cuanto más la meten a lavar al vado</l>
+                  <l> más de ella lucía su cuerpo galano.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Fragmento de una de las versiones posibles del romance de don Bueso. No hemos podido
+            identificar en qué versión se inspira exactamente.   Todo el disco está dedicado al tema
+            de don Bueso por su relación con el Kudrun. Ya en una demo anterior el artista había
+            dedicado un tema instrumental al romance “Camiña don Sancho” (Sin piedad, Autoeditado,
+            2018), precisamente titulada “El lamento de Kudrun”. </note>
+      </body>
+   </text>
+</TEI>

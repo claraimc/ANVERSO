@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Estrella de la mar / Doña Endrina / ¡Ay ojos, los mis ojos!</title>
+            <author>Patxi Andión</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>El libro de buen amor</title>
+               <publisher>Fonogram</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target=""/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Escénica</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Patxi Andión</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Juan Ruiz</persName>
+                  <bibl>Aquí dise de cómo fue fablar con doña Endrina el arçipreste (Libro de buen
+                amor)</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Estrella de la mar, puerto de holgura,</l>
+                  <l> de dolor y de pesar y de tristura</l>
+                  <l> venme a librar pues que de amor</l>
+                  <l> conozco la cruel tortura.</l>
+               </lg>
+               <lg>
+                  <l> Querer do non me quieren, es lucha denodada:</l>
+                  <l> responder do non nos llaman, vanidad probada.</l>
+                  <l> Bien sabe Dios que a esta dueña y a cuantas yo serví</l>
+                  <l> siempre quise guardarlas, nunca las deserví.</l>
+                  <l> Pues de dueña amada noble siempre bien escribí,</l>
+                  <l> ¿por qué trato tan duro que no merecí?</l>
+                  <l> No te quiero, Amor, ni al suspiro, tu hijo,</l>
+                  <l> tanto más me acosas cuanto más me humillo.</l>
+                  <l> Hácesme penar en balde, mas no acepto tu castigo</l>
+                  <l> no vale tu vanagloria ni un vil grano de mijo.</l>
+               </lg>
+               <lg>
+                  <l> Doña Endrina, que mora aquí, en mi vecindad,</l>
+                  <l> de hermosura, donaire, de gracia y de beldad,</l>
+                  <l> salva y vence a todas las que hay en la ciudad.</l>
+                  <l> Si amor no me engaña, os lo digo de verdad.</l>
+               </lg>
+               <lg>
+                  <l> ¡Ay, cuán hermosa viene doña Endrina por la plaza!</l>
+                  <l> ¡Qué talle, qué donaire, qué alto cuello de garza!</l>
+                  <l> ¡Qué cabello, qué boquilla, qué color, que buenandanza!</l>
+                  <l> Con saetas de amor hiere quando los ojos alza.</l>
+                  <l> A persona como ella yo no le oso hablar,</l>
+                  <l> porque es de gran linaje y tiene buen solar,</l>
+                  <l> de mejores parientes que yo, de tan gran lugar</l>
+                  <l> que a decirle lo que siento no me oso aventurar.</l>
+               </lg>
+               <lg>
+                  <l> Doña Endrina me hirió de saeta enarbolada</l>
+                  <l> atravesome el corazón, en él la traigo clavada;</l>
+                  <l> con toda mi gran fuerça no puede ser arrancada,</l>
+                  <l> la llaga más va creciendo, el dolor no mengua nada.</l>
+                  <l> De talle muy apuesta, de gestos amorosa,</l>
+                  <l> doñegil [sic], muy lozana, placentera, hermosa,</l>
+                  <l> cortés y mesurada, halaguera, donosa,</l>
+                  <l> graciosa y risueña, amor de toda cosa.</l>
+                  <l> Todas estas noblezas me la hacen querer,</l>
+                  <l> mas acercarme a ella no me puedo atrever,</l>
+                  <l> solución ya no hallo que me pueda acorrer</l>
+                  <l> solo vos, doña Venus, lo podéis hacer.</l>
+               </lg>
+               <lg>
+                  <l> ¡Ay ojos, los mis ojos! ¿por qué os fuistéis a poner</l>
+                  <l> en dueña que no os quiere desposar, ni ver?</l>
+                  <l> Ojos, por vuestra vista me habéis llegado a perder,</l>
+                  <l> penaredes, mis ojos, penad y amorteced.</l>
+                  <l> ¡Ay, lengua sin ventura! ¿por qué quieres dezir?,</l>
+                  <l> ¿por qué quieres hablar?, ¿por qué quieres departir</l>
+                  <l> con dueña que no te quiere escuchar ni oír?</l>
+                  <l> ¡Ay cuerpo tan penado, cómo te vas a morir!</l>
+                  <l> ¡Ay, corazón quejoso, cosa desaguisada!</l>
+                  <l> ¿Por qué matas el cuerpo do tienes tu morada?</l>
+                  <l> ¿Por qué amas la dueña, que no te precia nada?</l>
+                  <l> Corazón, por tu culpa vivirás vida penada.</l>
+               </lg>
+               <lg>
+                  <l> Estrella de la mar, puerto de holgura,</l>
+                  <l> de dolor y de pesar venme a librar.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Texto original (estrofas 1681; 106b y c; 107; 390; 596; 653; 598; 597; 581; 601; 788;
+            789 y 786 del Libro de buen amor, en ese orden) ligeramente modernizado y con algunas
+            modificiaciones. Pertenece a la B. S. O. de la película El libro de buen amor (1975).
+        </note>
+      </body>
+   </text>
+</TEI>

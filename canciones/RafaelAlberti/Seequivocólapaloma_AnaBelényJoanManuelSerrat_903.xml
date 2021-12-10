@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Se equivocó la paloma</title>
+            <author>Ana Belén y Joan Manuel Serrat</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Mucho más que dos</title>
+               <publisher>BMG Ariola</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=C8xAKKLGd9U"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Ana Belén y Joan Manuel Serrat</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <bibl>[Se equivocó la paloma]</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Ana Belén:</l>
+                  <l> Se equivocó la paloma.</l>
+                  <l> Se equivocaba.</l>
+                  <l> Por ir al Norte fue al Sur.</l>
+                  <l> Creyó que el trigo era agua.</l>
+                  <l> Se equivocaba.</l>
+               </lg>
+               <lg>
+                  <l> Serrat:</l>
+                  <l> Creyó que el mar era el cielo;</l>
+                  <l> que la noche, la mañana.</l>
+                  <l> Se equivocaba.</l>
+                  <l> Se equivocaba.</l>
+                  <l> Que las estrellas era rocío;</l>
+                  <l> que la calor, la nevada.</l>
+               </lg>
+               <lg>
+                  <l> Ana Belén:</l>
+                  <l> Se equivocaba.</l>
+                  <l> Se equivocaba.</l>
+               </lg>
+               <lg>
+                  <l> Serrat:</l>
+                  <l> Que tu falda era tu blusa;</l>
+                  <l> que tu corazón, su casa.</l>
+                  <l> Se equivocaba.</l>
+                  <l> Se equivocaba.</l>
+               </lg>
+               <lg>
+                  <l> Ana Belén: </l>
+                  <l> Ella se durmió en la orilla.</l>
+                  <l> Tú, en la cumbre de una rama.</l>
+               </lg>
+               <lg>
+                  <l> (Instrumental)</l>
+               </lg>
+               <lg>
+                  <l> Ana Belén:</l>
+                  <l> Se equivocaba.</l>
+                  <l> Se equivocaba.</l>
+               </lg>
+               <lg>
+                  <l> Serrat:</l>
+                  <l> Que tu falda era tu blusa;</l>
+                  <l> que tu corazón, su casa.</l>
+                  <l> Se equivocaba.</l>
+               </lg>
+               <lg>
+                  <l> Ana Belén:</l>
+                  <l> Se equivocaba.</l>
+                  <l> Se equivocaba.</l>
+               </lg>
+               <lg>
+                  <l> Ambos:</l>
+                  <l> Se equivocaba.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Prácticamente sin variaciones respecto del poema, excepto que repite algunos versos y
+            hay ligeros cambios léxicos. Como casi todas las versiones de esta canción, parte de la
+            musicalización original de Carlos Gustavino para el ballet Suite Argentina (que se
+            publicó como Se equivocó la paloma: para canto y piano / poesía de Rafael
+            Alberti, Buenos Aires: Ricordi Americana, 1941). En este caso, se adapta a estilo
+            folk-pop, como puesta al día de las versiones que, anteriormente, por separado, habían
+            hecho Ana Belén (Géminis, 1984) y Serrat (La paloma, 1969, no incluida en esta base de
+            datos por estar fuera del rango de fechas). </note>
+      </body>
+   </text>
+</TEI>

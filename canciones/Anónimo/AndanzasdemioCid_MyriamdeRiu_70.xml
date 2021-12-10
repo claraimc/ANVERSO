@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Andanzas de mio Cid</title>
+            <author>Myriam de Riu</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Myriam de Riu</title>
+               <publisher>Beverly Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target=""/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Myriam de Riu</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Episodio del conde de Barcelona (Cantar de mio Cid)</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Los mandados son idos</l>
+                  <l> a las partes todas;</l>
+                  <l> llegaron las nuevas</l>
+                  <l> al conde de Barçilona;</l>
+                  <l> que mio Çid Ruy Diaz</l>
+                  <l> que le corrie la tierra toda;</l>
+                  <l> hobo gran pesar</l>
+                  <l> e tovoselo a grand fonta.</l>
+                  <l> El conde es muy follon</l>
+                  <l> et dixo una vanidad.</l>
+                  <l> Grandes tuertos me tiene</l>
+                  <l> mio Çid el de Bivar;</l>
+                  <l> dentro en mi cort</l>
+                  <l> tuerto me tovo grand,</l>
+                  <l> firiome el sobrino</l>
+                  <l> y no lo enmendo mas;</l>
+                  <l> antes que ellos lleguen al llano,</l>
+                  <l> presentemosles las lanças,</l>
+                  <l> ¡Vera Remon Verengel</l>
+                  <l> tras quien vino en alcança!</l>
+                  <l> Todos son adobados,</l>
+                  <l> quando mio Çid esto hobo fablado,</l>
+                  <l> las armas habian presas</l>
+                  <l> y sedién sobre los caballos,</l>
+                  <l> vieron la cuesta yuso</l>
+                  <l> çerca es del llano,</l>
+                  <l> mandolos ferir mio Çid,</l>
+                  <l> el que en buen hora nasco.</l>
+                  <l> Al conde don Remon</l>
+                  <l> a preson le ha tomado;</l>
+                  <l> hy gano a Colada</l>
+                  <l> que mas vale de mill marcos.</l>
+                  <l> Hy vençio esta batalla</l>
+                  <l> por do hondro su barba.</l>
+                  <l> Prisolo al conde,</l>
+                  <l> para su tienda lo llevaba.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Adaptación de un fragmento del Poema de mio Cid (vv. 956-963, 996, 998, 1000-1004,
+            1009-1012). A juzgar por el tratamiento de -e final diríamos que sigue la edición de
+            Menéndez Pidal, pero el texto está sometido a algunas adaptaciones. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gacela del amor con cien años</title>
+            <author>Carlos Cano</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Diván del Tamarit. Gacelas y Casidas.</title>
+               <publisher>Dalur Discos</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=PpwR6sZUtB4"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Carlos Cano</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Gacela del amor con cien años</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Suben por la calle los cuatro galanes,</l>
+                  <l> por la calle suben los cuatro galanes.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay, ay, ay, ay!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Por la calle abajo van los tres galanes,</l>
+                  <l> por la calle abajo van los tres galanes.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay, ay, ay!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Se ciñen el talle</l>
+                  <l> esos dos galanes.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay, ay!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Cómo vuelve el rostro</l>
+                  <l> un galán y el aire!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Por los arrayanes</l>
+                  <l> se pasea nadie.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Sin acompañamiento instrumental, únicamente vocal. Musicalización idéntica excepto por
+            la repetición de las dos primeras estrofas y la sutil variación de las palabras en la
+            segunda repetición de la primera.   </note>
+      </body>
+   </text>
+</TEI>

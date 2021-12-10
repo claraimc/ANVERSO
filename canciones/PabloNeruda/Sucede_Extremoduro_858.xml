@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sucede</title>
+            <author>Extremoduro</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Agila</title>
+               <publisher>Discos Radiactivos Organizados</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=nV-F1WSpJIA"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Extremoduro</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Pablo Neruda</persName>
+                  <bibl>Walking around</bibl>
+                  <relation>Cita</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Sucede que me canso de ser hombre.</l>
+                  <l> Sucede que me canso de mi piel y de mi cara</l>
+                  <l> Sucede que se me ha alegrado el día, ¡coño!,</l>
+                  <l> al ver al sol secándose, en tu ventana, tus bragas.</l>
+                  <l> Empiezo a solas, sigo por ti, y no comprendo nada.</l>
+                  <l> Desato tormentas sin rechistar.</l>
+                  <l> Sácame algún día del corral, necesito salir.</l>
+                  <l> ¡Eh, lejos de mí!</l>
+                  <l> Deja que corra el aire, no te quemes, va a salir el sol.</l>
+                  <l> ¡Sol!, ¡déjame en paz!</l>
+                  <l> La luna me ilumina, en esta ruina entra la claridad.</l>
+                  <l> ¿Quién quiere saber</l>
+                  <l> si estoy quemado o escondo un corazón helado</l>
+                  <l> y quema mi ser?</l>
+                  <l> No he vuelto a ser el mismo</l>
+                  <l> desde que se fue</l>
+                  <l> Gillespie, Zappa, Mercury, Camarón.</l>
+                  <l> Y me siento mejor</l>
+                  <l> si sé que tengo una estrellita pequeñita, pero firme.</l>
+                  <l> Pero firme.</l>
+                  <l> Pero firme.</l>
+                  <l> Yo me quedé con su olor, ella me arrancó la piel.</l>
+                  <l> Me dijo justo al final: “no quiero volverte a ver”.</l>
+                  <l> ¡Eh, lejos de mí!</l>
+                  <l> Deja que corra el aire, no te quemes, va a salir el sol.</l>
+                  <l> ¡Sol!, ¡déjame en paz!</l>
+                  <l> La luna me ilumina, en esta ruina entra la claridad.</l>
+                  <l> ¿Quién quiere saber</l>
+                  <l> si estoy quemado o escondo un corazón helado</l>
+                  <l> y quema mi ser?</l>
+                  <l> No he vuelto a ser el mismo</l>
+                  <l> desde que se fue</l>
+                  <l> Gillespie, Zappa, Mercury, Camarón.</l>
+                  <l> Y me siento mejor</l>
+                  <l> si sé que tengo una estrellita pequeñita, pero firme.</l>
+                  <l> Pero firme.</l>
+                  <l> Pero firme.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Incluye el verso “Sucede que me canso de ser hombre”. </note>
+      </body>
+   </text>
+</TEI>

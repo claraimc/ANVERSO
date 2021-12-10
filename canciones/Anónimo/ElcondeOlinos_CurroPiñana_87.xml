@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El conde Olinos</title>
+            <author>Curro Piñana</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>El alma lastimada y otros poemas</title>
+               <publisher>Karonte</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=kevIJlloAKY"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Curro Piñana</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Romance del Conde Olinos «Madrugaba el Conde Olinos»</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Madrugaba el Conde Olinos</l>
+                  <l> mañanita de San Juan</l>
+                  <l> a dar agua a su caballo</l>
+                  <l> a la orillita del mar.</l>
+                  <l> Mientras el caballo bebe</l>
+                  <l> canta un hermoso cantar.</l>
+               </lg>
+               <lg>
+                  <l> Desde las torres mas altas</l>
+                  <l> la reina le oyó cantar.</l>
+                  <l> —Mira hija como canta</l>
+                  <l> la sirena de la mar.</l>
+                  <l> —No es la sirena, madre,</l>
+                  <l> ni menos es su cantar,</l>
+                  <l> que es la voz del conde Olinos</l>
+                  <l> que por mí penando está.</l>
+               </lg>
+               <lg>
+                  <l> —Si es la voz del conde Olinos,</l>
+                  <l> yo le mandaré matar,</l>
+                  <l> que para casar contigo</l>
+                  <l> le falta sangre real.</l>
+               </lg>
+               <lg>
+                  <l> —No le mande matar, madre,</l>
+                  <l> que si al conde Olinos mata</l>
+                  <l> a mí la muerte me da—.</l>
+               </lg>
+               <lg>
+                  <l> La infantita con gran pena,</l>
+                  <l> no cesaba de llorar.</l>
+                  <l> El murió a la medianoche</l>
+                  <l> y ella a los gallos cantar.</l>
+               </lg>
+               <lg>
+                  <l> Madrugaba el Conde Olinos</l>
+                  <l> mañanita de San Juan</l>
+                  <l> a dar agua a su caballo</l>
+                  <l> a la orillita del mar.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns=""> La canción es por bulerías y abrevia el romance. La relacionamos con una versión del
+            romance similar pero no idéntica, ya que se trata de un romance con muchas variaciones
+            en la tradición oral.   La unidad conceptual del álbum viene dada por la obra de Ibn
+            Gabirol, poeta hispanohebreo. Este romance encaja en este concepto en cuanto que ha
+            sobrevivido (también) en la tradición sefardí. </note>
+      </body>
+   </text>
+</TEI>

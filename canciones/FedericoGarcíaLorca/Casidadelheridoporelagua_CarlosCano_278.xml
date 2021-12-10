@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Casida del herido por el agua</title>
+            <author>Carlos Cano</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Diván del Tamarit. Gacelas y Casidas.</title>
+               <publisher>Dalur Discos</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=6-AlOancBpY"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Flamenco</term>
+               <term>Latina</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Carlos Cano</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Casida del herido por el agua</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Quiero bajar al pozo,</l>
+                  <l> quiero subir los muros de Granada</l>
+                  <l> para mirar el corazón pasado</l>
+                  <l> por el punzón oscuro de las aguas.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Quiero bajar al pozo,</l>
+                  <l> quiero morir mi muerte a bocanadas,</l>
+                  <l> quiero llenar mi corazón de musgo</l>
+                  <l> para ver al herido por el agua.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> El niño herido gemía</l>
+                  <l> con una corona de escarcha.</l>
+                  <l> Estanques, aljibes y fuentes</l>
+                  <l> levantaban al aire su espada.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> El niño estaba solo</l>
+                  <l> con la ciudad dormida en la garganta.</l>
+                  <l> Un surtidor que viene de los sueños</l>
+                  <l> lo defiende del hambre de las algas.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> El niño y su agonía frente a frente</l>
+                  <l> eran dos verdes lluvias enlazadas.</l>
+                  <l> El niño se tendía por la tierra</l>
+                  <l> y su agonía, ¡ay!, se curvaba.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay, qué furia de amor, qué hiriente filo,</l>
+                  <l> qué nocturno rumor, qué muerte blanca!</l>
+                  <l> ¡Qué desierto de luz  iban hundiendo</l>
+                  <l> los arenales de la madrugada!</l>
+                  <l> Los arenales de la madrugada.</l>
+                  <l> Los arenales de la madrugada.</l>
+                  <l> Los arenales de la madrugada.</l>
+                  <l> Los arenales de la madrugada.</l>
+                  <l> Los arenales de la madrugada.</l>
+                  <l> Los arenales de la madrugada.</l>
+                  <l> Los arenales de la madrugada.</l>
+                  <l> Los arenales de la madrugada.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas)</l>
+               </lg>
+               <lg> </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización idéntica excepto en una variación del orden de las estrofas y la
+            repetición del último verso de la canción (v. 12 del poema). La segunda estrofa de la
+            canción es la última del poema y los versos del 9 al 12 se colocan al final con la
+            repetición de este último. </note>
+      </body>
+   </text>
+</TEI>

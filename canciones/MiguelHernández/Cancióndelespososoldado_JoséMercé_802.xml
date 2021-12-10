@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Canción del esposo soldado</title>
+            <author>José Mercé</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>El canto que no cesa. Homenaje a Miguel Hernández</title>
+               <publisher>Diputación de Jaen</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://music.youtube.com/watch?v=cN_IJw_4_G8&amp;list=RDAMVMcN_IJw_4_G8"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>José Mercé</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Canción del esposo soldado</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l/>
+                  <l> He poblado tu vientre de amor y sementera,</l>
+                  <l> he prolongado el eco de sangre a que respondo</l>
+                  <l> y espero sobre el surco como el arado espera:</l>
+                  <l> he llegado hasta el fondo, hasta el fondo.</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Ya me parece que eres un cristal delicado,</l>
+               </lg>
+               <lg>
+                  <l> temo que te me rompas al más leve tropiezo,</l>
+                  <l> y al reforzar tus venas con mi piel de soldado</l>
+                  <l> fuera como el cerezo.</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Morena de altas torres, alta luz y ojos claros,</l>
+                  <l> esposa de mi piel, gran trago de mi vida,</l>
+                  <l> tus pechos locos crecen hacia mí dando saltos</l>
+                  <l> de cierva concebida, concebida.</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Sobre los ataúdes feroces en acecho,</l>
+                  <l> sobre los mismos muertos sin remedio y sin fosa</l>
+                  <l> te quiero, y te quisiera besar con todo el pecho</l>
+                  <l> hasta en el polvo, esposa.</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> He poblado tu vientre de amor y sementera,</l>
+                  <l> he prolongado el eco de sangre a que respondo</l>
+                  <l> y espero sobre el surco como el arado espera:</l>
+                  <l> he llegado hasta el fondo, hasta el fondo.</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">    </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mi corza</title>
+            <author>Lauren Postigo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Alberti por bulerías</title>
+               <publisher>Factoría Autor</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=vNo7YjeDFlo"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Lauren Postigo</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <bibl>Mi corza</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Mi corza, buen amigo,</l>
+                  <l> mi corza blanca.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Los lobos la mataron</l>
+                  <l> al pie del agua.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Los lobos, buen amigo,</l>
+                  <l> que huyeron por el río.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Los lobos la mataron</l>
+                  <l> dentro del agua.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Mi corza, buen amigo,</l>
+                  <l> mi corza blanca.</l>
+                  <l> Los lobos la mataron</l>
+                  <l> al pie del agua.</l>
+                  <l> Mi corza, buen amigo,</l>
+                  <l> mi corza blanca.</l>
+                  <l> Los lobos la mataron</l>
+                  <l> al pie del agua.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Mi corza, buen amigo,</l>
+                  <l> mi corza blanca.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Los lobos la mataron</l>
+                  <l> al pie del agua.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Los lobos, buen amigo,</l>
+                  <l> que huyeron por el río.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Los lobos la mataron</l>
+                  <l> dentro del agua.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Mi corza, buen amigo,</l>
+                  <l> mi corza blanca.</l>
+                  <l> Los lobos la mataron</l>
+                  <l> al pie del agua.</l>
+                  <l> Mi corza, buen amigo,</l>
+                  <l> mi corza blanca.</l>
+                  <l> Los lobos la mataron</l>
+                  <l> al pie del agua.</l>
+               </lg>
+               <lg>
+                  <l> (Los lobos la mataron)</l>
+               </lg>
+               <lg>
+                  <l> Mi corza, buen amigo,</l>
+                  <l> mi corza blanca.</l>
+                  <l> Los lobos la mataron</l>
+                  <l> al pie del agua.</l>
+               </lg>
+               <lg>
+                  <l> (mi corza blanca)</l>
+               </lg>
+               <lg>
+                  <l> Mi corza, buen amigo,</l>
+                  <l> mi corza blanca.</l>
+                  <l> Los lobos la mataron</l>
+                  <l> al pie del agua.</l>
+               </lg>
+               <lg>
+                  <l> (los lobos la mataron)</l>
+               </lg>
+               <lg>
+                  <l> Mi corza, buen amigo,</l>
+                  <l> mi corza blanca.</l>
+                  <l> Los lobos la mataron</l>
+                  <l> al pie del agua.</l>
+               </lg>
+               <lg>
+                  <l> (dentro del agua)</l>
+               </lg>
+               <lg>
+                  <l> Mi corza, buen amigo,</l>
+                  <l> mi corza blanca.</l>
+                  <l> Los lobos la mataron</l>
+                  <l> al pie del agua.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original; la puntuación y
+                    ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Hubo dos musicalizaciones anteriores a 1975, por eso no recogidas en esta base de
+            datos: Los lobos (Vientos del pueblo, 1972) y Francisco Curto (La Guerre Civile
+            Espagnole – Histoire De La Guerre D’spagne, 1974). La principal diferencia con el poema
+            de Rafael Alberti es en la repetición de la canción unida por un estribillo creado a
+            partir de los versos 1-4 repetida dos veces. </note>
+      </body>
+   </text>
+</TEI>

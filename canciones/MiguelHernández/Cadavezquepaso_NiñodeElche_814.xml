@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cada vez que paso</title>
+            <author>Niño de Elche</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Sí, a Miguel Hernández</title>
+               <publisher>Niño de Elche</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://music.youtube.com/watch?v=cRWr5v0cT08&amp;list=RDAMVMcRWr5v0cT08"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Niño de Elche</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Cada vez que paso]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Cada vez que paso</l>
+                  <l> bajo tu ventana,</l>
+                  <l> me azota el aroma</l>
+                  <l> que aún flota en tu casa.</l>
+               </lg>
+               <lg>
+                  <l> Cada vez que paso</l>
+                  <l> junto al cementerio,</l>
+                  <l> cada vez que paso</l>
+                  <l> junto al cementerio</l>
+                  <l> a mí me arrastra,</l>
+                  <l> a mí me arrastra la fuerza que</l>
+                  <l> aún sopla en tus huesos.</l>
+                  <l> Cada vez que yo paso</l>
+                  <l> junto al cementerio.</l>
+                  <l> Qué ilusos. Nunca aprenderán que los poetas no callan. Que los poetas son
+                    libres, viento sin rejas ni murallas. Libre eres, Miguel. Siéntete libre.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns=""/>
+      </body>
+   </text>
+</TEI>

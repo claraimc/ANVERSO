@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El pastorcico</title>
+            <author>Paco Ibáñez</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>A flor de tiempo</title>
+               <publisher>Ariola Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=se0fcCvKqzY"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Paco Ibáñez</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Juan de la Cruz</persName>
+                  <bibl>Otras a lo divino de Cristo y el alma del mismo</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Un pastorcico, solo, está penado,</l>
+                  <l> ajeno de placer y de contento,</l>
+                  <l> y en su pastora puesto el pensamiento,</l>
+                  <l> y el pecho del amor muy lastimado. ¡Ay!</l>
+                  <l> No llora por haberle amor llagado,</l>
+                  <l> que no le pena verse así afligido,</l>
+                  <l> aunque en el corazón está herido;</l>
+                  <l> mas llora por pensar que está olvidado. ¡Ay!</l>
+                  <l> Que solo de pensar que está olvidado</l>
+                  <l> de su bella pastora, con gran pena</l>
+                  <l> se deja maltratar en tierra ajena,</l>
+                  <l> el pecho del amor muy lastimado. ¡Ay!</l>
+                  <l> Y dice el pastorcico: «¡Ay, desdichado</l>
+                  <l> de aquel que de mi amor ha hecho ausencia</l>
+                  <l> y no quiere gozar la mi presencia,</l>
+                  <l> y el pecho por su amor muy lastimado! ¡Ay!</l>
+                  <l> Y a cabo de un gran rato, se ha encumbrado</l>
+                  <l> sobre un árbol, donde abrió sus brazos bellos,</l>
+                  <l> y muerto se ha quedado asido dellos,</l>
+                  <l> el pecho del amor muy lastimado. ¡Ay!</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns=""/>
+      </body>
+   </text>
+</TEI>

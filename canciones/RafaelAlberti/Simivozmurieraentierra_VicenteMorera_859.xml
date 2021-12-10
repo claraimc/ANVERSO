@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Si mi voz muriera en tierra</title>
+            <author>Vicente Morera</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Nodeterminado">
+               <title>--</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=hLdTPvtpG44"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Vicente Morera</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <bibl>[Si mi voz muriera en tierra]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Si mi voz muriera en tierra,</l>
+                  <l> llevadla al nivel del mar</l>
+                  <l> llevadla al nivel del mar</l>
+                  <l> y dejadla en la ribera.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Llevadla al nivel del mar</l>
+                  <l> y nombradla capitana</l>
+                  <l> y nombradla capitana</l>
+                  <l> de un blanco bajel de guerra.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Oh mi voz condecorada</l>
+                  <l> con la insignia marinera:</l>
+                  <l> sobre el corazón un ancla,</l>
+                  <l> y sobre el ancla una estrella,</l>
+                  <l> y sobre la estrella el viento,</l>
+                  <l> y sobre el viento una vela!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Oh mi voz condecorada</l>
+                  <l> con la insignia marinera:</l>
+                  <l> sobre el corazón un ancla,</l>
+                  <l> y sobre el ancla una estrella,</l>
+                  <l> y sobre la estrella el viento,</l>
+                  <l> y sobre el viento una vela!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original; la puntuación y
+                    ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Hubo dos musicalizaciones anteriores a 1975, por eso no recogidas en esta base de
+            datos: Guillermina Motta i Cardona (single, 1969) y Los lobos (Vientos del pueblo,
+            1972). Varía con respecto al poema de Rafael Alberti la repetición de los versos 2 y 5,
+            y la estrofa al final cerrando la canción. </note>
+      </body>
+   </text>
+</TEI>

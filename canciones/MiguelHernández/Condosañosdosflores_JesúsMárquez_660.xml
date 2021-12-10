@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Con dos años dos flores</title>
+            <author>Jesús Márquez</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Otros">
+               <title>Nanas para un niño recién soñado</title>
+               <publisher>SGAE</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target=""/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pop</term>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Jesús Márquez</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Con dos años, dos flores]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>No se ha podido tener acceso a la letra.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Aunque tenemos prueba directa de la existencia del disco donde se encuentra esta
+            versión, no hemos podido encontrar, entre los recursos digitales que tenemos a
+            disposición, muestras musicales. Se puede consultar toda la información de este disco en
+            el siguiente enlace. </note>
+      </body>
+   </text>
+</TEI>

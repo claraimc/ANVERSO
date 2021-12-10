@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romance del mio Cid</title>
+            <author>Jorge Calvo y Los Andariques</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>En el reino de Tristia</title>
+               <publisher>Rock CD Records</publisher>
+               <date cert="low"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=8riBDrxY0gE"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Jorge Calvo y Los Andariques</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Romance de la venganza del joven Cid «Pensativo estaba el Cid»</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Pensativo está Rodrigo</l>
+                  <l> viéndose de pocos años</l>
+                  <l> para vengar a su padre</l>
+                  <l> matando al conde Lozano.</l>
+                  <l> Todo le parece poco</l>
+                  <l> respecto de aquel agravio,</l>
+                  <l> el primero que se ha hecho</l>
+                  <l> a la sangre de Laín Clavo.</l>
+                  <l> Al cielo pide justicia,</l>
+                  <l> a la tierra pide campo,</l>
+                  <l> al viejo padre licencia</l>
+                  <l> y, a la honra, esfuerzo y brazo.</l>
+                  <l> Descolgó una espada antigua</l>
+                  <l> de Mudarra, el castellano,</l>
+                  <l> que estaba vieja y mohosa</l>
+                  <l> y así le dice turbado:</l>
+                  <l> —Haz cuenta, valiente espada,</l>
+                  <l> que es de Mudarra mi brazo,</l>
+                  <l> y que su brazo te tiene,</l>
+                  <l> porque suyo es el agravio.</l>
+                  <l> Tan fuerte como tu acero</l>
+                  <l> me veas en campo armado;</l>
+                  <l> tan bueno como el primero</l>
+                  <l> segundo dueño has cobrado.</l>
+                  <l> Vamos al campo, que es hora</l>
+                  <l> de dar al conde Lozano</l>
+                  <l> el castigo que merece</l>
+                  <l> tan infame lengua y mano—.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La versión lo es en realidad de «Rodrigo venga a su padre» de Joaquín Díaz en Romances
+            del Cid (Pneuma, 1998). </note>
+      </body>
+   </text>
+</TEI>

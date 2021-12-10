@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Canción del esposo soldado</title>
+            <author>Adolfo Celdran</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Al borde del principio</title>
+               <publisher>Movieplay</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/1eBE-9O1yyU"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Adolfo Celdran</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Canción del esposo soldado</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>He poblado tu vientre de amor y sementera,</l>
+                  <l> he prolongado el eco de sangre a que respondo</l>
+                  <l> y espero sobre el surco como el arado espera:</l>
+                  <l> he llegado hasta el fondo.</l>
+               </lg>
+               <lg>
+                  <l> Morena de altas torres, alta luz y altos ojos,</l>
+                  <l> esposa de mi piel, gran trago de mi vida,</l>
+                  <l> tus pechos locos crecen hacia mí dando saltos</l>
+                  <l> de cierva concebida.</l>
+               </lg>
+               <lg>
+                  <l> Ya me parece que eres un cristal delicado,</l>
+                  <l> temo que te me rompas al más leve tropiezo,</l>
+                  <l> y a retorzar tus venas con mi piel de soldado</l>
+                  <l> fuera como el cerezo.</l>
+               </lg>
+               <lg>
+                  <l> Espejo de mi carne, sustento de mis alas,</l>
+                  <l> te doy vida en la muerte que me dan y no tomo.</l>
+                  <l> Mujer, mujer, te quiero cercado por las balas,</l>
+                  <l> ansiado por el plomo.</l>
+               </lg>
+               <lg>
+                  <l> Sobre los ataúdes feroces en acecho,</l>
+                  <l> sobre los mismos muertos sin remedio y sin fosa</l>
+                  <l> te quiero, y te quisiera besar con todo el pecho</l>
+                  <l> hasta en el polvo, esposa.</l>
+               </lg>
+               <lg>
+                  <l> Cuando junto a los campos de combate te piensa</l>
+                  <l> mi frente que no enfría ni aplaca tu figura,</l>
+                  <l> le acercas hacia mí como una boca inmensa</l>
+                  <l> de hambrienta dentadura.</l>
+               </lg>
+               <lg>
+                  <l> Escríbeme a la lucha, siénteme en la trinchera:</l>
+                  <l> aquí con el fusil tu nombre evoco y fijo,</l>
+                  <l> y defiendo tu vientre de pobre que me espera,</l>
+                  <l> y defiendo tu hijo.</l>
+               </lg>
+               <lg>
+                  <l> He poblado tu vientre de amor y sementera,</l>
+                  <l> he prolongado el eco de sangre a que respondo</l>
+                  <l> y espero sobre el surco como el arado espera:</l>
+                  <l> he llegado hasta el fondo.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar al poema de Miguel Hernández. El autor
+            utiliza, para componer la canción, de la primera a la séptima, repitiendo la primera
+            estrofa para terminar el tema:  «…He poblado tu vientre de amor y sementera,/he
+            prolongado el eco de sangre a que respondo/y espero sobre el surco como el arado
+            espera:/he llegado hasta el fondo. </note>
+      </body>
+   </text>
+</TEI>

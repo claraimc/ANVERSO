@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Silbo del dale</title>
+            <author>Jarcha</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Jarcha a Miguel Hernández. El rayo que no cesa</title>
+               <publisher>--</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=mV4Vqhh-iJs"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Jarcha</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>El silbo del dale</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Dale que dale, dale,</l>
+                  <l> molino, piedra, aire,</l>
+                  <l> cabrero, monte, astro,</l>
+                  <l> dale que dale, largo. [Estrofa x 2]</l>
+               </lg>
+               <lg>
+                  <l> Dale al aspa, molino,</l>
+                  <l> hasta nevar el trigo.</l>
+               </lg>
+               <lg>
+                  <l> Dale a la piedra, agua,</l>
+                  <l> hasta ponerla mansa.</l>
+               </lg>
+               <lg>
+                  <l> Dale al molino, aire,</l>
+                  <l> hasta lo inacabable.</l>
+               </lg>
+               <lg>
+                  <l> Dale al aire, cabrero,</l>
+                  <l> hasta que silbe tierno.</l>
+               </lg>
+               <lg>
+                  <l> Dale al cabrero, monte,</l>
+                  <l> hasta dejarle inmóvil.</l>
+               </lg>
+               <lg>
+                  <l> Dale al monte, lucero,</l>
+                  <l> hasta que se haga cielo.</l>
+               </lg>
+               <lg>
+                  <l> Dale, Dios, a mi alma,</l>
+                  <l> hasta perfeccionarla.</l>
+               </lg>
+               <lg>
+                  <l> Dale al aspa, molino,</l>
+                  <l> hasta nevar el trigo.</l>
+               </lg>
+               <lg>
+                  <l> Dale a la piedra, agua,</l>
+                  <l> hasta ponerla mansa.</l>
+               </lg>
+               <lg>
+                  <l> Dale al molino, aire,</l>
+                  <l> hasta lo inacabable.</l>
+               </lg>
+               <lg>
+                  <l> Dale al aire, cabrero,</l>
+                  <l> hasta que silbe tierno.</l>
+               </lg>
+               <lg>
+                  <l> Dale al cabrero, monte,</l>
+                  <l> hasta dejarlo inmóvil.</l>
+               </lg>
+               <lg>
+                  <l> Dale al monte, lucero,</l>
+                  <l> hasta que se haga cielo.</l>
+               </lg>
+               <lg>
+                  <l> Dale, Dios, a mi alma,</l>
+                  <l> hasta perfeccionarla.</l>
+               </lg>
+               <lg>
+                  <l> Dale que dale, dale,</l>
+                  <l> molino, piedra, aire,</l>
+                  <l> cabrero, monte, astro,</l>
+                  <l> dale que dale, largo. [Estrofa x2]</l>
+               </lg>
+               <lg>
+                  <l> Dale que dale, Dios,</l>
+                  <l> hasta la perfección. [Estrofa x 3]</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La musicalización es casi idéntica, excepto por repeticiones de versos. </note>
+      </body>
+   </text>
+</TEI>

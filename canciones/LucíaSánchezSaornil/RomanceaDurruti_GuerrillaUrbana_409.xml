@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romance a Durruti</title>
+            <author>Guerrilla Urbana</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>La venganza de los pueblos</title>
+               <publisher>Potencial Hardcore</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=XGfd88S7w9g"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rock</term>
+               <term>Punk y punk-rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Guerrilla Urbana</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Lucía Sánchez Saornil</persName>
+                  <bibl>Romance de Durruti</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>¿Qué bala te cortó el paso, maldición de aquella hora</l>
+                  <l> Atardecer de noviembre camino de la victoria?</l>
+                  <l> Durruti, hermano Durruti, jamás se vio otra congoja</l>
+                  <l> Más amarga que tu muerte sobre la tierra española.</l>
+                  <l> Rostros curtidos del Cierzo quiebran su durez de roca</l>
+                  <l> Como tallos quebradizos hasta la tierra se doblan</l>
+                  <l> Hércules de firme acero, hombres de hierro sollozan</l>
+                  <l> Fúnebres tambores baten apisonando la fosa.</l>
+                  <l> ¡Durruti ha muerto!</l>
+                  <l> Se buscan manos tendidas, los odios se desmoronan,</l>
+                  <l> Y en las trincheras profundas cuajan realidades hondas</l>
+                  <l> Porque a la faz de la muerte los imposibles se agotan.</l>
+                  <l> Toma mi diestra mi hermano, calma tu sed en mi boca</l>
+                  <l> Mezcla tu sangre a la mía y tu aliento a mi voz ronca.</l>
+                  <l> Durruti bajo la tierra, en esto espera su honra.</l>
+                  <l> Rugen los pechos hermanos, las armas al aire chocan.</l>
+                  <l> Sobre las rudas cabezas, sólo una enseña tremola.</l>
+                  <l> ¡Durruti ha muerto!</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción toma versos del poema y los dispone en orden diferente, eliminando muchos
+            de ellos. Todos los versos están tomados del poema. En algunos hay pequeñas variaciones:
+            «Durruti ha muerto» es en el poema «Durruti es muerto», y «Toma mi diestra mi hermano»
+            es en el poema «Aquí está mi diestra, hermano». </note>
+      </body>
+   </text>
+</TEI>

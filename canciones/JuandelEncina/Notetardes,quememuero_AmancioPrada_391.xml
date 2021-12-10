@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>No te tardes, que me muero</title>
+            <author>Amancio Prada</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Canciones de amor y celda</title>
+               <publisher>Movieplay</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=wC8M3VGXs3w"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Amancio Prada</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Juan del Encina</persName>
+                  <bibl>No te tardes que me muero</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>No te tardes que me muero,</l>
+                  <l> carcelero,</l>
+                  <l> no te tardes que me muero.</l>
+               </lg>
+               <lg>
+                  <l> Apresura tu venida</l>
+                  <l> porque no pierda la vida,</l>
+                  <l> que la fe no está perdida,</l>
+                  <l> carcelero,</l>
+                  <l> no te tardes que me muero.</l>
+               </lg>
+               <lg>
+                  <l> Bien sabes que la tardanza</l>
+                  <l> trae gran desconfianza;</l>
+                  <l> ven y cumple mi esperanza,</l>
+                  <l> carcelero,</l>
+                  <l> no te tardes que me muero.</l>
+               </lg>
+               <lg>
+                  <l> La llave para soltarme</l>
+                  <l> ha de ser galardonarme,</l>
+                  <l> proponiendo no olvidarme.</l>
+                  <l> Carcelero,</l>
+                  <l> no te tardes que me muero.</l>
+               </lg>
+               <lg>
+                  <l> Sácame desta cadena,</l>
+                  <l> que recibo muy gran pena,</l>
+                  <l> pues tu tardar me condena.</l>
+                  <l> Carcelero,</l>
+                  <l> no te tardes que me muero.</l>
+               </lg>
+               <lg>
+                  <l> Y siempre cuanto vivieres</l>
+                  <l> haré lo que tú quisieres</l>
+                  <l> si merced hacerme quieres.</l>
+                  <l> Carcelero,</l>
+                  <l> no te tardes que me muero.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns=""> Adaptación conservadora a nivel textual que coloca las estrofas en el orden 1, 2 , 5
+            y cabo. Se retoma en los ábumes Trovadores, místicos y románticos (Ariola, 1990) y en
+            Del amor que quita el sueño (Musicamaina, 2010).   En el álbum hay otras piezas de la
+            lírica castellana medieval y temprano-moderna. </note>
+      </body>
+   </text>
+</TEI>

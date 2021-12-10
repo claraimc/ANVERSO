@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Inventario</title>
+            <author>Joaquín Sabina</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Inventario</title>
+               <publisher>Movieplay</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=0YO5NjszwTc"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Joaquín Sabina</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Pablo Neruda</persName>
+                  <bibl>15 [«Me gustas cuando callas…»]</bibl>
+                  <relation>Intertextualidad</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Las cosas que me dices cuando callas,</l>
+                  <l> los pájaros que anidan en tus manos,</l>
+                  <l> el hueco de tu cuerpo entre las sábanas,</l>
+                  <l> el tiempo que pasamos insultándonos.</l>
+               </lg>
+               <lg>
+                  <l> El miedo a la vejez, los almanaques,</l>
+                  <l> los taxis que corrían despavoridos,</l>
+                  <l> la dignidad perdida en cualquier parque,</l>
+                  <l> el violinista loco, los abrigos.</l>
+               </lg>
+               <lg>
+                  <l> Las lunas que he besado yo en tus ojos,</l>
+                  <l> el denso olor a semen desbordado,</l>
+                  <l> la historia que se mofa de nosotros,</l>
+                  <l> las bragas que olvidaste en el armario.</l>
+               </lg>
+               <lg>
+                  <l> El espacio que ocupas en mi alma,</l>
+                  <l> la muñeca salvada del incendio,</l>
+                  <l> la locura acechando agazapada,</l>
+                  <l> la batalla diaria entre dos cuerpos.</l>
+               </lg>
+               <lg>
+                  <l> Mi habitación con su cartel de toros,</l>
+                  <l> el llanto en las esquinas del olvido,</l>
+                  <l> la ceniza que queda, los despojos,</l>
+                  <l> el hijo que jamás hemos tenido.</l>
+               </lg>
+               <lg>
+                  <l> El tiempo del dolor, los agujeros,</l>
+                  <l> el gato que maullaba en el tejado,</l>
+                  <l> el pasado ladrando como un perro,</l>
+                  <l> el exilio, la dicha, los retratos.</l>
+               </lg>
+               <lg>
+                  <l> La lluvia, el desamparo, los discursos,</l>
+                  <l> los papeles que nunca nos unieron,</l>
+                  <l> la redención que busco entre tus muslos,</l>
+                  <l> tu nombre en la cubierta del cuaderno.</l>
+               </lg>
+               <lg>
+                  <l> Tu modo de abrigarme el corazón,</l>
+                  <l> la celda que ocupaste en una cárcel,</l>
+                  <l> mi barca a la deriva, mi canción,</l>
+                  <l> el bramido del viento entre los árboles.</l>
+               </lg>
+               <lg>
+                  <l> El silencio que eximes como un muro,</l>
+                  <l> tantas cosas hermosas que se han muerto,</l>
+                  <l> el tiránico imperio del absurdo,</l>
+                  <l> los oscuros desvanes del deseo.</l>
+               </lg>
+               <lg>
+                  <l> El padre que murió cuando eras niña,</l>
+                  <l> el beso que se pudre en nuestros labios,</l>
+                  <l> la cal de las paredes, la desidia,</l>
+                  <l> la playa que habitaban los gusanos.</l>
+               </lg>
+               <lg>
+                  <l> El naufragio de tantas certidumbres,</l>
+                  <l> el derrumbe de dioses y de mitos,</l>
+                  <l> la oscuridad en torno como un túnel,</l>
+                  <l> la cama navegando en el vacío.</l>
+               </lg>
+               <lg>
+                  <l> El desmoronamiento de la casa,</l>
+                  <l> el sexo rescatándonos del tedio,</l>
+                  <l> el grito que horadó la madrugada,</l>
+                  <l> el amor como un rito en torno al juego.</l>
+               </lg>
+               <lg>
+                  <l> El insomnio, la ausencia, las colillas,</l>
+                  <l> el arduo aprendizaje del respeto,</l>
+                  <l> las heridas que ya ni Dios nos quita,</l>
+                  <l> la mierda que arrastramos sin remedio.</l>
+               </lg>
+               <lg>
+                  <l> Todo lo que nos dieron y quitaron,</l>
+                  <l> los años transcurridos tan deprisa,</l>
+                  <l> el pan que compartimos, las caricias,</l>
+                  <l> el peso que llevamos en las manos.</l>
+               </lg>
+               <lg>
+                  <l> [Letra tomada de Joaquín Sabina, Con buena letra (Madrid: Temas de Hoy, 2002),
+                    p. 23]</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Sabina relaciona intertextualmente la letra de su canción con el famoso poema número
+            15 de Pablo Neruda en Veinte poemas de amor y una canción desesperada. Este poema
+            empieza con el verso: «Me gustas cuando callas porque estás como ausente», que se repite
+            igual en el verso 17 y de manera ligeramente distinta en el verso 9: «Me gustas cuando
+            callas y estás como distante». Asimismo, Neruda explica que: «Como todas las cosas están
+            llenas de mi alma / emerges de las cosas, llena del alma mía». De manera parecida,
+            Sabina comienza su canción apelando a «Las cosas que me dices cuando callas», y
+            reivindica: «El espacio que ocupas en mi alma». La relación intertextual se reafirma a
+            través de la similar estructura de ambas composiciones: estrofas de cuatro versos de
+            arte mayor con rima asonante o consonante. Neruda se vale de versos alejandrinos con
+            rima solo en los pares (-A-A);  por su parte, Sabina usa endecasílabos y establece la
+            rima entre los versos pares y entre los versos impares (ABAB), excepto en la última
+            estrofa, donde la rima es ABBA. </note>
+      </body>
+   </text>
+</TEI>

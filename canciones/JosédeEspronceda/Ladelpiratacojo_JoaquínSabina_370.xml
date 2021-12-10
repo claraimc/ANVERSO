@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La del pirata cojo</title>
+            <author>Joaquín Sabina</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Física y química</title>
+               <publisher>Ariola Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://music.youtube.com/watch?v=2yKgQ88CC7c&amp;list=OLAK5uy_nnbpZuROT8Q1ppZ8LKE8C-qIYJIhtplMw"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Joaquín Sabina</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>José de Espronceda</persName>
+                  <bibl>Canción del pirata</bibl>
+                  <relation>Intertextualidad</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>No soy un fulano con la lagrima fácil</l>
+                  <l> de esos que se quejan solo por vicio.</l>
+                  <l> Si la vida se deja, yo le meto mano,</l>
+                  <l> Y, si no, aún me excita mi oficio.</l>
+                  <l> Y como además sale gratis soñar</l>
+                  <l> y no creo en la reencarnación,</l>
+                  <l> con un poco de imaginación</l>
+                  <l> partiré de viaje enseguida</l>
+                  <l> a vivir otras vidas,</l>
+                  <l> a probarme otros nombres,</l>
+                  <l> a colarme en el traje y la piel</l>
+                  <l> de todos los hombres</l>
+                  <l> que nunca seré:</l>
+               </lg>
+               <lg>
+                  <l> Al Capone en Chicago,</l>
+                  <l> legionario en Melilla,</l>
+                  <l> pintor en Montparnesse,</l>
+               </lg>
+               <lg>
+                  <l> mercader en Damasco,</l>
+                  <l> costalero en Sevilla,</l>
+                  <l> negro en nueva Orleans,</l>
+               </lg>
+               <lg>
+                  <l> viejo verde en Sodoma</l>
+                  <l> deportado en Siberia,</l>
+                  <l> sultán en un harén,</l>
+               </lg>
+               <lg>
+                  <l> ¿policía?, ni en broma,</l>
+                  <l> triunfador de la feria,</l>
+                  <l> gitanito en Jerez,</l>
+               </lg>
+               <lg>
+                  <l> tahúr en Montecarlo,</l>
+                  <l> cigarrillo en tu boca,</l>
+                  <l> taxista en Nueva York,</l>
+               </lg>
+               <lg>
+                  <l> el más chulo del barrio,</l>
+                  <l> tiro porque me toca,</l>
+                  <l> suspenso en religión,</l>
+               </lg>
+               <lg>
+                  <l> confesor de la reina,</l>
+                  <l> banderillero en Cádiz,</l>
+                  <l> tabernero en Dublín,</l>
+               </lg>
+               <lg>
+                  <l> comunista en Las Vegas,</l>
+                  <l> ahogado en el Titanic,</l>
+                  <l> flautista en Hamelín.</l>
+               </lg>
+               <lg>
+                  <l> Pero si me dan a elegir</l>
+                  <l> entre todas las vidas, yo escojo</l>
+                  <l> la del pirata cojo</l>
+                  <l> con pata de palo,</l>
+                  <l> con parche en el ojo,</l>
+                  <l> con cara de malo,</l>
+                  <l> el viejo truhan, capitán</l>
+                  <l> de un barco que tuviera</l>
+                  <l> por bandera</l>
+                  <l> un par de tibias y una calavera.</l>
+               </lg>
+               <lg>
+                  <l> La, la,</l>
+                  <l> la del pirata cojo</l>
+                  <l> con pata de palo,</l>
+                  <l> con parche en el ojo,</l>
+                  <l> con cara de malo.</l>
+               </lg>
+               <lg>
+                  <l> Cantando alegre en la popa,</l>
+                  <l> Asia a un lado, a otro Europa,</l>
+                  <l> y allá a su frente Estambul. </l>
+               </lg>
+               <lg>
+                  <l> Billarista a tres bandas,</l>
+                  <l> insumiso en el cielo,</l>
+                  <l> dueño de un cabaret,</l>
+               </lg>
+               <lg>
+                  <l> arañazo en tu espalda,</l>
+                  <l> tenor en Rigoletto,</l>
+                  <l> pianista de un burdel,</l>
+               </lg>
+               <lg>
+                  <l> bongosero en La Habana,</l>
+                  <l> Casanova en Venecia,</l>
+                  <l> anciano en Shangri-La,</l>
+               </lg>
+               <lg>
+                  <l> polizón en tu cama,</l>
+                  <l> vocalista de orquesta,</l>
+                  <l> mejor tiempo en Le Mans,</l>
+               </lg>
+               <lg>
+                  <l> cronista de sucesos,</l>
+                  <l> detective en apuros,</l>
+                  <l> conservado en alcohol,</l>
+               </lg>
+               <lg>
+                  <l> violador en tus sueños,</l>
+                  <l> suicida en el viaducto,</l>
+                  <l> guapo en un culebrón,</l>
+               </lg>
+               <lg>
+                  <l> morfinómano en China,</l>
+                  <l> desertor en la guerra,</l>
+                  <l> boxeador en Detroit,</l>
+               </lg>
+               <lg>
+                  <l> cazador en la India,</l>
+                  <l> marinero en Marsella,</l>
+                  <l> fotógrafo en Play Boy.</l>
+               </lg>
+               <lg>
+                  <l> Pero si me dan a elegir</l>
+                  <l> entre todas las vidas, yo escojo</l>
+                  <l> la del pirata cojo</l>
+                  <l> con pata de palo,</l>
+                  <l> con parche en el ojo,</l>
+                  <l> con cara de malo,</l>
+                  <l> el viejo truhan, capitán</l>
+                  <l> de un barco que tuviera</l>
+                  <l> por bandera</l>
+                  <l> un par de tibias y una calavera.</l>
+               </lg>
+               <lg>
+                  <l> La, la,</l>
+                  <l> la del pirata cojo</l>
+                  <l> con pata de palo,</l>
+                  <l> con parche en el ojo,</l>
+                  <l> con cara de malo,</l>
+                  <l> el viejo truhan, capitán</l>
+                  <l> de un barco que tuviera</l>
+                  <l> por bandera</l>
+                  <l> un par de tibias y una calavera.</l>
+               </lg>
+               <lg>
+                  <l> La del pirata cojo.</l>
+                  <l> La del pirata cojo.</l>
+                  <l> Del uno al otro confín.</l>
+               </lg>
+               <lg>
+                  <l> La del pirata cojo. [Varias veces hasta terminar la canción]</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción original de Sabina en 1992 solo indirectamente permitía suponer una alusión
+            a la «Canción del pirata» de Espronceda, por el tratamiento del tema: partiendo de la
+            idealización romántica del personaje marginal del pirata (que en la España de los 90 se
+            conocía ampliamente por el poema de Espronceda, a través de los planes de estudio de la
+            educación primaria y secundaria), Sabina propone la idealización de otros personajes
+            marginales equivalentes y más actuales. En la versión de esta canción de la gira Sabina
+            y Cía. Nos sobran los motivos, publicada como LP en 2001 (Ariola Records), Sabina hace
+            más explícita la relación mediante la inclusión en el estribillo de algunos versos del
+            poema de Espronceda: primero, «Cantando alegre en la popa, / Asia a un lado, a otro
+            Europa, / y allá a su frente Estambul», y, luego, «Del uno al otro confín». Para mostrar
+            estas citas, aquí, aunque se ofrecen los datos de publicación de la canción original de
+            1992, se transcribe la letra de la versión en directo publicada en 2001. </note>
+      </body>
+   </text>
+</TEI>

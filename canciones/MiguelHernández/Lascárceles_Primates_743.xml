@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Las cárceles</title>
+            <author>Primates</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Hasta que reviente</title>
+               <publisher>Grita o muere records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=rfsM03DMgcU"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Punk y punk-rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Primates</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Las cárceles</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Las cárceles [texto en francés]</l>
+                  <l> buscan a un hombre, buscan a un pueblo, lo persiguen,</l>
+                  <l> lo absorben, se lo tragan.</l>
+               </lg>
+               <lg>
+                  <l> Se da contra las piedras la libertad, el día,</l>
+                  <l> el paso galopante de un hombre, la cabeza,</l>
+                  <l> la boca con la espuma, con decisión de espuma,</l>
+                  <l> la libertad, un hombre.</l>
+               </lg>
+               <lg>
+                  <l> Son los encadenados por siempre desde siempre.</l>
+                  <l> Ser libre es una cosa que sólo un hombre sabe:</l>
+                  <l> sólo el hombre que advierto dentro de esa mazmorra</l>
+                  <l> como si yo estuviera.</l>
+               </lg>
+               <lg>
+                  <l> Cierra las puertas, echa la aldaba, carcelero.</l>
+                  <l> Ata duro a ese hombre: no le atarás el alma.</l>
+                  <l> Son muchas llaves, muchos cerrojos, injusticias:</l>
+                  <l> no le atarás el alma.</l>
+                  <l> No le atarás el alma.</l>
+               </lg>
+               <lg>
+                  <l> Cierra las puertas, echa la aldaba, carcelero.</l>
+                  <l> Ata duro a ese hombre: no le atarás el alma.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Elisa Serna hizo la primera versión musicada de este poema (Quejido, 1972), con solo
+            algunos de los últimos versos de la segunda parte. También hizo una versión Francisco
+            Curto (Miguel Hernández, 1974). Sin embargo, como estas versiones son anteriores a 1975,
+            no están recogidas dentro de esta base de datos. </note>
+      </body>
+   </text>
+</TEI>

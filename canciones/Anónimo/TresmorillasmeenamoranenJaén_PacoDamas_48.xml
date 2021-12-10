@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tres morillas me enamoran en Jaén</title>
+            <author>Paco Damas</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Once canciones de amor y una reina</title>
+               <publisher>Autor Factoría</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target=""/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Paco Damas</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Tres morillas me enamoran</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Tres morillas me enamoran</l>
+                  <l> en Jaén,</l>
+                  <l> Axa y Fátima y Marién.</l>
+               </lg>
+               <lg>
+                  <l> Tres morillas tan garridas</l>
+                  <l> iban a coger olivas,</l>
+                  <l> y la hallaban cogidas</l>
+                  <l> en Jaén,</l>
+                  <l> Axa y Fátima y Marién.</l>
+               </lg>
+               <lg>
+                  <l> Y las hallaban cogidas,</l>
+                  <l> y tornaban desmaídas</l>
+                  <l> y las colores perdidas</l>
+                  <l> en Jaén,</l>
+                  <l> Axa y Fátima y Marién.</l>
+               </lg>
+               <lg>
+                  <l> Tres morillas me enamoran</l>
+                  <l> en Jaén,</l>
+                  <l> Axa y Fátima y Marién.</l>
+               </lg>
+               <lg>
+                  <l> Tres moricas tan lozanas,</l>
+                  <l> tres moricas tan lozanas,</l>
+                  <l> iban a coger manzanas</l>
+                  <l> a Jaén:</l>
+                  <l> Axa y Fátima y Marién.</l>
+               </lg>
+               <lg>
+                  <l> Tres moricas tan lozanas</l>
+                  <l> iban a coger manzanas,</l>
+                  <l> y cogidas las hallaban</l>
+                  <l> en Jaén,</l>
+                  <l> Axa y Fátima y Marién.</l>
+               </lg>
+               <lg>
+                  <l> Tres morillas me enamoran</l>
+                  <l> en Jaén,</l>
+                  <l> Axa y Fátima y Marién.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Adaptación fiel del original que convierte la cabeza en estribillo recurrente para
+            adaptarlo mejor a la música.   Todo el álbum está dedicado a composiciones de la lírica
+            hispánica castellana medieval o temprano-moderna. </note>
+      </body>
+   </text>
+</TEI>

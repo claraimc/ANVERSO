@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cada vez que paso</title>
+            <author>Carmen Linares</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Verso a verso (Canta a Miguel Hernández)</title>
+               <publisher>Salobre</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://music.youtube.com/watch?v=-WXR4XwO2RQ&amp;list=RDAMVM-WXR4XwO2RQ"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Carmen Linares</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Cada vez que paso]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Cada vez que yo paso</l>
+                  <l> bajo tu ventana,</l>
+                  <l> a mí me azota,</l>
+                  <l> a mí me azota el aroma que hay,</l>
+                  <l> que aún flota en tu casa.</l>
+               </lg>
+               <lg>
+                  <l> Cada vez que yo paso</l>
+                  <l> junto al cementerio</l>
+                  <l> la fuerza a mí me arrastra,</l>
+                  <l> me arrastra,</l>
+                  <l> la fuerza,</l>
+                  <l> que, que aún sopla en tus huesos.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns=""/>
+      </body>
+   </text>
+</TEI>

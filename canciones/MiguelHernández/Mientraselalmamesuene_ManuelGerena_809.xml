@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mientras el alma me suene</title>
+            <author>Manuel Gerena</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Manuel Gerena canta con Miguel Hernández</title>
+               <publisher>Alía Discos</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://music.youtube.com/watch?v=l32Ijm9N9M8&amp;list=OLAK5uy_mNHbPoQJPB9mMkUfaTfXFR405rLr-UbY0"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Manuel Gerena</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Sentado sobre los muertos</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Me suene,</l>
+                  <l> y mientras el alma me suene</l>
+                  <l> y aqui estoy yo pa vivir</l>
+                  <l> y aqui estoy yo pa morir</l>
+                  <l> cuando la horita me llegue</l>
+                  <l> y aqui estoy yo pa morir.</l>
+               </lg>
+               <lg>
+                  <l> Desde ahora y desde siempre</l>
+                  <l> en los veneros del pueblo,</l>
+                  <l> desde ahora y desde siempre</l>
+                  <l> que varios tragos es la vida</l>
+                  <l> un solo trago la muerte</l>
+                  <l> en los veneros del pueblo.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns=""/>
+      </body>
+   </text>
+</TEI>

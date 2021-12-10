@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Los placeres y dulzores</title>
+            <author>Amancio Prada</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Coplas a la muerte de su padre</title>
+               <publisher>Musicamaina</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=0QY24CK5mcs"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Amancio Prada</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Jorge Manrique</persName>
+                  <bibl>Coplas por la muerte de su padre</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Los placeres y dulzores</l>
+                  <l> de esta vida trabajada</l>
+                  <l> que tenemos,</l>
+                  <l> no son sino corredores,</l>
+                  <l> y la muerte, la celada</l>
+                  <l> en que caemos.</l>
+                  <l> No mirando a nuestro daño,</l>
+                  <l> corremos a rienda suelta</l>
+                  <l> sin parar;</l>
+                  <l> desque vemos el engaño</l>
+                  <l> y queremos dar la vuelta,</l>
+                  <l> no hay lugar.</l>
+               </lg>
+               <lg>
+                  <l> Si fuese en nuestro poder</l>
+                  <l> hacer la cara hermosa</l>
+                  <l> corporal,</l>
+                  <l> como podemos hacer</l>
+                  <l> el alma tan gloriosa,</l>
+                  <l> angelical,</l>
+                  <l> ¡qué diligencia tan viva</l>
+                  <l> tuviéramos toda hora,</l>
+                  <l> y tan presta,</l>
+                  <l> en componer la cautiva,</l>
+                  <l> dejándonos la señora</l>
+                  <l> descompuesta!</l>
+               </lg>
+               <lg>
+                  <l> Esos reyes poderosos</l>
+                  <l> que vemos por escrituras</l>
+                  <l> ya pasadas,</l>
+                  <l> con casos tristes, llorosos,</l>
+                  <l> fueron sus buenas venturas</l>
+                  <l> trastornadas;</l>
+                  <l> así que no hay cosa fuerte,</l>
+                  <l> que a papas y emperadores</l>
+                  <l> y prelados,</l>
+                  <l> así los trata la Muerte</l>
+                  <l> como a los pobres pastores</l>
+                  <l> de ganados.</l>
+               </lg>
+               <lg>
+                  <l> Dejemos a los troyanos,</l>
+                  <l> que sus males no los vimos,</l>
+                  <l> ni sus glorias;</l>
+                  <l> dejemos a los romanos,</l>
+                  <l> aunque oímos y leímos</l>
+                  <l> sus historias;</l>
+                  <l> no curemos de saber</l>
+                  <l> lo de aquel siglo pasado</l>
+                  <l> qué fue de ello;</l>
+                  <l> vengamos a lo de ayer,</l>
+                  <l> que también es olvidado</l>
+                  <l> como aquello.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Todo el disco está dedicado a musicar las Coplas a la muerte de su padre de Jorge
+            Manrique. Esta canción abarca las coplas 12-15. </note>
+      </body>
+   </text>
+</TEI>

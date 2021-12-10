@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cuando vivías en la Castellana</title>
+            <author>Loquillo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Su nombre era el de todas las mujeres</title>
+               <publisher>Dro</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=xdWh4IPAMiU"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Loquillo</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Luis Alberto de Cuenca</persName>
+                  <bibl>Cuando vivías en la Castellana</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Cuando vivías en la Castellana</l>
+                  <l> usabas un perfume tan amargo</l>
+                  <l> que mis manos sufrían al rozarte</l>
+                  <l> y se me ahogaban de melancolía.</l>
+                  <l> Si íbamos a cenar, o si las gordas</l>
+                  <l> daban alguna fiesta, tu perfume</l>
+                  <l> lo echaba a perder todo. No sé dónde</l>
+                  <l> compraste aquel extracto de tragedia.</l>
+               </lg>
+               <lg>
+                  <l> Cuando vivías en la Castellana. [x 3]</l>
+               </lg>
+               <lg>
+                  <l> Cuando vivías en la Castellana.</l>
+                  <l> Aquel ácido aroma de martirio</l>
+                  <l> lo que sé es que lo huelo todavía,</l>
+                  <l> cuando paseo por la Castellana,</l>
+                  <l> muerto de amor, junto al antiguo hipódromo,</l>
+                  <l> y me sigue matando su veneno.</l>
+               </lg>
+               <lg>
+                  <l> Cuando paseo por la Castellana</l>
+                  <l> aún me sigue matando su veneno.</l>
+               </lg>
+               <lg>
+                  <l> Cuando vivías en la Castellana. [Verso x 3]</l>
+                  <l> Tu perfume tan amargo.</l>
+                  <l> Cuando paseo por la Castellana.</l>
+                  <l> Y mi melancolía.</l>
+                  <l> Cuando paseo por la Castellana.</l>
+                  <l> Tu perfume.</l>
+                  <l> Cuando paseo por la Castellana.</l>
+                  <l> Tan amargo.</l>
+                  <l> Cuando paseo por la Castellana.</l>
+                  <l> Aún me sigue matando.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y en contraste con el poema original; a
+                    falta de fuente escrita, la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización similar, excepto que la canción repite algunos versos. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romance del rey Don Sancho</title>
+            <author>Amancio Prada</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Del amor que quita el sueño (Romances y canciones desde el Reino de León)</title>
+               <publisher>Musicamaina</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=FdGHj9VCB5E"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Amancio Prada</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>¡Rey don Sancho, rey Don Sancho!</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>—¡Rey don Sancho, rey don Sancho!,</l>
+                  <l> no digas que no te aviso,</l>
+                  <l> que de dentro de Zamora</l>
+                  <l> un alevoso ha salido;</l>
+                  <l> llámase Vellido Dolfos,</l>
+                  <l> hijo de Dolfos Vellido,</l>
+                  <l> cuatro traiciones ha hecho,</l>
+                  <l> y con esta serán cinco.</l>
+                  <l> Y con esta serán cinco.</l>
+                  <l> Si gran traidor fue el padre,</l>
+                  <l> mayor traidor es el hijo—.</l>
+                  <l> Gritos dan en el real:</l>
+                  <l> —¡A don Sancho han mal herido!</l>
+                  <l> ¡A don Sancho han mal herido!</l>
+                  <l> Muerto le ha Vellido Dolfos,</l>
+                  <l> ¡gran traición ha cometido!—.</l>
+                  <l> Desque le tuviera muerto,</l>
+                  <l> metiose por un postigo.</l>
+                  <l> Metiose por un postigo.</l>
+                  <l> Por las calle de Zamora</l>
+                  <l> va dando voces y gritos:</l>
+                  <l> —Tiempo era, doña Urraca,</l>
+                  <l> de cumplir lo prometido—.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Versión bastante conservadora con el texto original.   Como señala el subtítulo del
+            álbum, todo él está dedicado a piezas de la lírica castellana medieval y
+            temprano-moderna. </note>
+      </body>
+   </text>
+</TEI>

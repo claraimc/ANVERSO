@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Campo de amor</title>
+            <author>Rosa León</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Oído por ahí</title>
+               <publisher>Ariola</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://music.youtube.com/watch?v=v4pTDncJ2P0&amp;list=RDAMVMv4pTDncJ2P0"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Rosa León</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Blas de Otero</persName>
+                  <bibl>Campo de amor</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Si me muero, que sepan que he vivido</l>
+                  <l> luchando por la vida y por la paz.</l>
+                  <l> Apenas he podido con la pluma,</l>
+                  <l> apláudanme el cantar,</l>
+                  <l> apláudanme el cantar.</l>
+               </lg>
+               <lg>
+                  <l> Si me muero, será porque he nacido</l>
+                  <l> para pasar el tiempo a los de atrás.</l>
+                  <l> Confío que entre todos dejaremos</l>
+                  <l> al hombre en su lugar,</l>
+                  <l> al hombre en su lugar.</l>
+               </lg>
+               <lg>
+                  <l> Si me muero, ya sé que no veré</l>
+                  <l> naranjas de la china, ni el trigal.</l>
+                  <l> He levantado el rastro, esto me basta.</l>
+                  <l> Otros ahecharán,</l>
+                  <l> otros ahecharán.</l>
+               </lg>
+               <lg>
+                  <l> Si me muero, que no me mueran antes</l>
+                  <l> de abriros el balcón de par en par.</l>
+                  <l> Un niño, acaso un niño, está mirándome</l>
+                  <l> el pecho de cristal,</l>
+                  <l> el pecho de cristal.</l>
+               </lg>
+               <lg>
+                  <l> Si me muero, que sepan que he nacido</l>
+                  <l> para pasar el tiempo a los de atrás.</l>
+                  <l> Confío que entre todos dejaremos</l>
+                  <l> al hombre en su lugar,</l>
+                  <l> al hombre en su lugar.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio; a falta de fuente escrita, la
+                    puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción aparece en 1976 en el LP mencionado en la ficha y también en un single de
+            Ariola que contiene las canciones “Campo de amor” y “Las cosas van cambiando”. También,
+            forma parte de los CDs Tiempo Nuevo (Ariola, España, 2001) y La palabra más tuya.
+            Cantando a Blas de Otero y Celaya (Iberautor Promociones Culturales, 2006). Esta versión
+            supone una musicalización similar del poema de Blas de Otero. Las cuatro primeras
+            estrofas son idénticas al poema, pero en la canción se repite cada vez el último verso
+            dos veces. La otra diferencia es que la canción agrega una estrofa extra, que es una
+            repetición exacta de la segunda estrofa del poema (con el último verso repetido de
+            nuevo). </note>
+      </body>
+   </text>
+</TEI>

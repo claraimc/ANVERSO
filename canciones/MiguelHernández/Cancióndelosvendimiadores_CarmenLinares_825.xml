@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Canción de los vendimiadores</title>
+            <author>Carmen Linares</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Verso a verso (Canta a Miguel Hernández)</title>
+               <publisher>Salobre</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=YahD8WYIRtk"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Carmen Linares</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Canción de los vendimiadores]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Si vas a la vendimia,</l>
+                  <l> mi niña, sola,</l>
+                  <l> si vas a la vendimia,</l>
+                  <l> mi niña, sola,</l>
+                  <l> llegarás con la saya</l>
+                  <l> de cualquier forma.</l>
+                  <l> Y a los pocos meses</l>
+                  <l> te rondarán el talle</l>
+                  <l> sandías verdes,</l>
+                  <l> sandías verdes.</l>
+               </lg>
+               <lg>
+                  <l> De la vendimia vengo</l>
+                  <l> sola, mi niño,</l>
+                  <l> De la vendimia vengo,</l>
+                  <l> sola, mi niño,</l>
+                  <l> con la saya arreglada</l>
+                  <l> y el talle fino.</l>
+                  <l> De la vendimia</l>
+                  <l> vuelve revuelto el talle</l>
+                  <l> que se malicia.</l>
+                  <l> De la vendimia</l>
+                  <l> vuelve revuelto el talle</l>
+                  <l> que se malicia.</l>
+               </lg>
+               <lg>
+                  <l> A la vendimia, niñas</l>
+                  <l> vendimiadoras,</l>
+                  <l> vendimiadoras.</l>
+                  <l> A la vendimia, niñas,</l>
+                  <l> que ya es la hora,</l>
+                  <l> que ya es la hora.</l>
+               </lg>
+               <lg>
+                  <l> A la vendimia, niña,</l>
+                  <l> si vendimiara,</l>
+                  <l> si vendimiara</l>
+                  <l> el ramo de tu pecho</l>
+                  <l> y de tu cara,</l>
+                  <l> y de tu cara.</l>
+               </lg>
+               <lg>
+                  <l> A la vendimia, niños,</l>
+                  <l> niños,</l>
+                  <l> vendimiadores,</l>
+                  <l> vendimiadores,</l>
+                  <l> vendimiadores.</l>
+                  <l> ¡Ay!, a la vendimia,</l>
+                  <l> mi niño, niño</l>
+                  <l> van mis amores.</l>
+                  <l> ¡Ay!, mas con él cuido</l>
+                  <l> de no perder las hojas</l>
+                  <l> ni los racimos.</l>
+               </lg>
+               <lg>
+                  <l> Enriquezco tu mano</l>
+                  <l> cogiendo uvas,</l>
+                  <l> cubiertas por los soles</l>
+                  <l> y por las lunas.</l>
+                  <l> ¡Ay!, si quisieras</l>
+                  <l> que cortara tus besos</l>
+                  <l> con mis tijeras.</l>
+               </lg>
+               <lg>
+                  <l> Niña, niña,</l>
+                  <l> vendimiadora.</l>
+                  <l> ¡Ay!, a la vendimia, mi niña,</l>
+                  <l> que ya es la hora.</l>
+                  <l> Si vendimiara</l>
+                  <l> el amo de tu pecho</l>
+                  <l> y de tu cara.</l>
+                  <l> ¡Ay!, cortando aceitunas,</l>
+                  <l> tu abarca verde</l>
+                  <l> tu pie se vuelve sangre,</l>
+                  <l> mi sangre nieve.</l>
+                  <l> Pisa las uvas, niña,</l>
+                  <l> pisa las uvas,</l>
+                  <l> ¡ay!, que como mis amores,</l>
+                  <l> que mis amores,</l>
+                  <l> ya están maduras.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión parte de la que hizo por primera vez Luis Pastor para el grupo Jarcha en
+            2011. </note>
+      </body>
+   </text>
+</TEI>

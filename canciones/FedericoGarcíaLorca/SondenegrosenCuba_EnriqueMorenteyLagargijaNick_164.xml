@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Son de negros en Cuba</title>
+            <author>Enrique Morente y Lagargija Nick</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Omega</title>
+               <publisher>El Europeo Música</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=r0c2TcDZB8g"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Enrique Morente y Lagargija Nick</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Son de negros en Cuba</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Cuando llegue la luna llena iré a Santiago de Cuba,</l>
+                  <l> en un coche de agua negra,</l>
+                  <l> iré a Santiago,</l>
+                  <l> cantarán los techos de palmera,</l>
+                  <l> iré a Santiago.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Cuando la palma quiere ser cigüeña</l>
+                  <l> iré a Santiago</l>
+                  <l> y cuando quiere ser medusa el plátano</l>
+                  <l> iré a Santiago.</l>
+                  <l> Y con la rubia cabeza de Fonseca,</l>
+                  <l> iré a Santiago.</l>
+                  <l> Y con la rosa de Romeo y Julieta</l>
+                  <l> iré a Santiago.</l>
+                  <l> Mar de papel y plata de monedas.</l>
+                  <l> Iré a Santiago.</l>
+                  <l> ¡Oh Cuba! ¡Oh ritmo de semillas secas!</l>
+                  <l> Iré a Santiago.</l>
+                  <l> ¡Oh cintura caliente y gota de madera!</l>
+                  <l> Iré a Santiago en coche de agua negra.</l>
+                  <l> Arpa de troncos vivos. Caimán. Flor de tabaco.</l>
+                  <l> Iré a Santiago cuando llegue la luna llena.</l>
+                  <l> ¡Oh cintura caliente y gota de madera!</l>
+                  <l> Iré a Santiago en coche de agua negra.</l>
+                  <l> Arpa de troncos vivos. Caimán. Flor de tabaco.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Siempre dije que yo iría a Santiago</l>
+                  <l> en un coche de agua negra,</l>
+                  <l> brisa y alcohol en las ruedas.</l>
+                  <l> Iré a Santiago.</l>
+                  <l> Mi coral en la tiniebla.</l>
+                  <l> Iré a Santiago.</l>
+                  <l> El mar ahogado en la arena,</l>
+                  <l> iré a Santiago,</l>
+                  <l> calor blanco, fruta muerta.</l>
+                  <l> Iré a Santiago.</l>
+                  <l> ¡Oh Cuba! ¡Oh curva de suspiro y barro!</l>
+                  <l> Iré a Santiago.</l>
+                  <l> ¡Oh cintura caliente y gota de madera!</l>
+                  <l> Iré a Santiago en coche de agua negra.</l>
+                  <l> Arpa de troncos vivos. Caimán. Flor de tabaco.</l>
+                  <l> Iré a Santiago cuando llegue la luna llena.</l>
+                  <l> ¡Oh cintura caliente y gota de madera!</l>
+                  <l> Iré a Santiago en coche de agua negra.</l>
+                  <l> Arpa de troncos vivos. Caimán. Flor de tabaco.</l>
+                  <l> Iré a Santiago.</l>
+                  <l> Iré a Santiago.</l>
+                  <l> Viene la luna llena</l>
+                  <l> Iré a Santiago.</l>
+                  <l> Santiago de Cuba</l>
+                  <l> Iré a Santiago.</l>
+                  <l> En coche de agua negra</l>
+                  <l> Iré a Santiago.</l>
+                  <l> Cantarán los techos de palmeras.</l>
+                  <l> Iré a Santiago.</l>
+                  <l> Iré a Santiago.</l>
+                  <l> Iré a Santiago.</l>
+                  <l> Iré a Santiago de Cuba.</l>
+                  <l> Yo iré a Santiago.</l>
+                  <l> Iré a Santiago de Cuba.</l>
+                  <l> Yo iré a Santiago.</l>
+                  <l> Iré a Santiago de Cuba.</l>
+                  <l> Yo iré a Santiago.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">— </note>
+      </body>
+   </text>
+</TEI>

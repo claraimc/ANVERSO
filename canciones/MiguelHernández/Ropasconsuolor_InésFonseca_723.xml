@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ropas con su olor</title>
+            <author>Inés Fonseca</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Vuelo</title>
+               <publisher>Editorial Universidad de Cantabria</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="http://www.cancioncontodos.com/disco/vuelo-miguel-hern%C3%A1ndez"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Inés Fonseca</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Ropas con su olor]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>No se ha tenido acceso al audio, ni a la letra.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">No se ha tenido acceso al audio, ni a la letra. </note>
+      </body>
+   </text>
+</TEI>

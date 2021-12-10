@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Casida de la mujer tendida</title>
+            <author>Carlos Cano</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Diván del Tamarit. Gacelas y Casidas.</title>
+               <publisher>EMI</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=OSo9HSCxCC4"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Carlos Cano</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Casida de la mujer desnuda</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>(Voz de mujer cantando en árabe).</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Verte desnuda es recordar la tierra</l>
+                  <l> la tierra lisa, limpia de caballos,</l>
+                  <l> la tierra sin un junco, forma pura,</l>
+                  <l> cerrada al porvenir: confín de plata.</l>
+                  <l> Verte desnuda es comprender el ansia</l>
+                  <l> de la lluvia que busca débil talle</l>
+                  <l> o la fiebre del mar de inmenso rostro</l>
+                  <l> sin encontrar la luz de su mejilla.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Verte desnuda,</l>
+                  <l> verte desnuda,</l>
+                  <l> verte desnuda.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Verte desnuda es recordar la tierra,</l>
+                  <l> la tierra lisa, limpia de caballos.</l>
+                  <l> Verte desnuda es comprender el ansia</l>
+                  <l> de la lluvia que busca débil talle,</l>
+                  <l> la tierra sin un junco, forma pura,</l>
+                  <l> cerrada al porvenir: confín de plata</l>
+                  <l> o la fiebre del mar de inmenso rostro</l>
+                  <l> sin encontrar la luz de su mejilla.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Verte desnuda,</l>
+                  <l> verte desnuda,</l>
+                  <l> verte desnuda.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> La sangre sonará por las alcobas</l>
+                  <l> y vendrá con espadas fulgurantes,</l>
+                  <l> pero tu no sabrás donde se oculta</l>
+                  <l> el corazón de sapo o la violeta.</l>
+                  <l> Tu vientre es una lucha de raíces,</l>
+                  <l> tus labios son un alba sin contornos.</l>
+                  <l> Bajo las rosas tibias de la cama</l>
+                  <l> los muertos gimen esperando turno.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Voz de mujer cantando en árabe).</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Verte desnuda es comprender el ansia</l>
+                  <l> de la lluvia que busca débil talle</l>
+                  <l> o la fiebre del mar de inmenso rostro</l>
+                  <l> sin encontrar la luz de su mejilla.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Verte desnuda,</l>
+                  <l> verte desnuda,</l>
+                  <l> verte desnuda.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Verte desnuda.</l>
+                  <l> Verte desnuda.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Dentro de la musicalización idéntica, el artista, convierte en estribillo la primera
+            estrofa del poema, que canta a coro con Santiago Auserón y que en su última repetición
+            resumen solo a los últimos cuatro.   Así mismo introduce un segundo estribillo: «Verte
+            desnuda, verte desnuda, verte desnuda».   La voz de la mujer que canta en árabe es de la
+            cantante Rasha, que interpreta la segunda estrofa traducida al árabe.   </note>
+      </body>
+   </text>
+</TEI>

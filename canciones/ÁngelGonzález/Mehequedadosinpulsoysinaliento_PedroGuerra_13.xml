@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Me he quedado sin pulso y sin aliento</title>
+            <author>Pedro Guerra</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>La palabra en el aire</title>
+               <publisher>El Europeo Música</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=Y3lbPlmaHnQ"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Pedro Guerra</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Ángel González</persName>
+                  <bibl>[Me he quedado sin pulso y sin aliento]</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Me he quedado sin pulso y sin aliento</l>
+                  <l> separado de ti. Cuando respiro,</l>
+                  <l> el aire se me vuelve en un suspiro</l>
+                  <l> y en polvo el corazón, de desaliento.</l>
+               </lg>
+               <lg>
+                  <l> No es que sienta tu ausencia el sentimiento.</l>
+                  <l> Es que la siente el cuerpo. No te miro.</l>
+                  <l> No te puedo tocar por más que estiro</l>
+                  <l> los brazos como un ciego contra el viento.</l>
+               </lg>
+               <lg>
+                  <l> Todo estaba detrás de tu figura.</l>
+                  <l> Ausente tú, detrás todo de nada,</l>
+                  <l> borroso yermo en el que desespero.</l>
+               </lg>
+               <lg>
+                  <l> Ya no tiene paisaje mi amargura.</l>
+                  <l> Prendida de tu ausencia mi mirada,</l>
+                  <l> contra todo me doy, ciego me hiero.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción musicaliza el poema original sin alteraciones textuales, excepto que se
+            repiten algunos versos. </note>
+      </body>
+   </text>
+</TEI>

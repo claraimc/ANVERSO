@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cantar</title>
+            <author>Olga Manzano y Manuel Picón</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Aguardiente</title>
+               <publisher>Movieplay</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/9JrSLNiehsE"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Olga Manzano y Manuel Picón</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Cantar</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Es la casa un palomar</l>
+                  <l> y la cama un jazminero.</l>
+                  <l> Las puertas de par en par</l>
+                  <l> y en el fondo el mundo entero.</l>
+               </lg>
+               <lg>
+                  <l> El hijo, tu corazón.</l>
+                  <l> Madre que se ha engrandecido.</l>
+                  <l> Dentro de la habitación</l>
+                  <l> todo lo que ha florecido.</l>
+               </lg>
+               <lg>
+                  <l> El hijo te hace un jardín,</l>
+                  <l> y tú has hecho al hijo, esposa,</l>
+                  <l> la habitación del jazmín,</l>
+                  <l> el palomar de la rosa.</l>
+               </lg>
+               <lg>
+                  <l> Alrededor de tu piel</l>
+                  <l> ato y desato la mía.</l>
+                  <l> Un mediodía de miel</l>
+                  <l> rezumas: un mediodía.</l>
+               </lg>
+               <lg>
+                  <l> ¿Quién en esta casa entró</l>
+                  <l> y la apartó del desierto?</l>
+                  <l> Para que me acuerde yo</l>
+                  <l> alguien que soy yo y ha muerto.</l>
+               </lg>
+               <lg>
+                  <l> Viene la luz más redonda</l>
+                  <l> a los almendros más blancos.</l>
+                  <l> La vida, la luz se ahonda</l>
+                  <l> entre muertos y barrancos.</l>
+               </lg>
+               <lg>
+                  <l> Venturoso es el futuro,</l>
+                  <l> como aquellos horizontes</l>
+                  <l> de pórfido y mármol puro</l>
+                  <l> donde respiran los montes.</l>
+               </lg>
+               <lg>
+                  <l> Arde la casa encendida</l>
+                  <l> de besos y sombra amante.</l>
+                  <l> No puede pasar la vida</l>
+                  <l> más honda y emocionante.</l>
+               </lg>
+               <lg>
+                  <l> Desbordadamente sorda</l>
+                  <l> la leche alumbra tus huesos.</l>
+                  <l> Y la casa se desborda</l>
+                  <l> con ella, el hijo y los besos.</l>
+               </lg>
+               <lg>
+                  <l> Tú, tu vientre caudaloso,</l>
+                  <l> el hijo y el palomar.</l>
+                  <l> Esposa, sobre tu esposo</l>
+                  <l> suenan los pasos del mar.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización idéntica del poema de Miguel Hernández. Existe,
+            además, una reedición de esta canción en el disco coral La palabra más tuya. Cantando a
+            Miguel Hernández de 2006 </note>
+      </body>
+   </text>
+</TEI>

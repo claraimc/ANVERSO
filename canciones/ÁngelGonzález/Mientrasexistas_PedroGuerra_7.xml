@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mientras existas</title>
+            <author>Pedro Guerra</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>La palabra en el aire</title>
+               <publisher>El Europeo Música</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=fOyleR36rQo"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Pedro Guerra</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Ángel González</persName>
+                  <bibl>[Mientras tú existas]</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Mientras tú existas,</l>
+                  <l> mientras mi mirada</l>
+                  <l> te busque más allá de las colinas,</l>
+                  <l> mientras nada</l>
+                  <l> me llene el corazón,</l>
+                  <l> si no es tu imagen, y haya</l>
+                  <l> una remota posibilidad de que estés viva</l>
+                  <l> en algún sitio, iluminada</l>
+                  <l> por una luz —cualquiera…</l>
+                  <l> Mientras</l>
+                  <l> yo presienta que eres y te llamas</l>
+                  <l> así, con ese nombre tuyo</l>
+                  <l> tan pequeño,</l>
+                  <l> seguiré como ahora, amada</l>
+                  <l> mía,</l>
+                  <l> transido de distancia,</l>
+                  <l> bajo ese amor que crece y no se muere,</l>
+                  <l> bajo ese amor que sigue y nunca acaba.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción musicaliza el poema original sin alteraciones textuales, excepto que se
+            repiten algunos versos. </note>
+      </body>
+   </text>
+</TEI>

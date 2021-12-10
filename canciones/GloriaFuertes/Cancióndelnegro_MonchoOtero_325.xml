@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Canción del negro</title>
+            <author>Moncho Otero</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Moncho Otero canta a Gloria Fuertes</title>
+               <publisher>Oecus</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=BmeVjKJSBvE&amp;list=OLAK5uy_m4XDnualm8lOW7bS50PgF37chqW2ooe9A&amp;index=44"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Moncho Otero</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Gloria Fuertes</persName>
+                  <bibl>Canción del negro</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Yo nací negro y libre en África del Sur,</l>
+                  <l> yo vivo negro y libre en la América del Norte.</l>
+                  <l> Los blancos me quitaron la libertad</l>
+                  <l> pero no pudieron contra mi piel.</l>
+               </lg>
+               <lg>
+                  <l> Yo sigo negro y libre en la América del Norte.</l>
+                  <l> Mis abuelos del África del Sur</l>
+                  <l> aún rizan el cabello de mis hijos</l>
+                  <l> en el vientre de mi mujer.</l>
+               </lg>
+               <lg>
+                  <l> Yo nací negro y libre en el África del Sur,</l>
+                  <l> ahora soy un ciudadano norteamericano.</l>
+                  <l> Tengo que seguir siendo fuerte, negro y libre</l>
+                  <l> y nunca contar a mis hijos que sus amigos</l>
+                  <l> son biznietos de los que… me hicieron esclavo.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La musicalización sigue de forma bastante fiel el texto original de Gloria Fuertes,
+            salvo por la alteración en el número de versos que componen cada estrofa. Así, cada una
+            de ellas, pasa a estar encabezada por un verso que, con ligeras variaciones, se repite
+            enfáticamente a lo largo del poema. De esta manera, Moncho Otero consigue dotarlo de una
+            mayor fuerza, ayudado por  la melodía que, a modo de estribillo, separa cada una de las
+            estrofas. Además, al último verso se le añade una pausa que puede servir para dotar de
+            suspense y fuerza al cierre de la canción. Este tema pertenece a un disco doble que
+            recoge los poemas musicalizados de Gloria Fuertes por Moncho Otero. Incluye, además,
+            grabaciones originales del recital que la poeta y el cantante dieron el 3 de enero de
+            1998 en el café Soto Mesa de Madrid. Gloria Fuertes y Moncho Otero realizaron varios
+            recitales conjuntos entre los años 1996 y 1998. </note>
+      </body>
+   </text>
+</TEI>

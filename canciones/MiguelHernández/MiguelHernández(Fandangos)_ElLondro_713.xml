@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Miguel Hernández (Fandangos)</title>
+            <author>El Londro</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Otros">
+               <title>Luna de enero</title>
+               <publisher>Carta Blanca Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/Tn7Y-osOta0"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>El Londro</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Carta</bibl>
+                  <relation>Cita</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Mientras los colmillos crecen,</l>
+                  <l> cada vez más cerca siento.</l>
+                  <l> Mientras los colmillos crecen,</l>
+                  <l> la leve voz de tu carta</l>
+                  <l> igual que un clamor inmenso.</l>
+                  <l> La recibiré dormido,</l>
+                  <l> si no es posible despierto.</l>
+                  <l> Y mis heridas serán</l>
+                  <l> los derramados tinteros.</l>
+                  <l> Y mis heridas serán</l>
+                  <l> las bocas estremecidas de rememorar tus besos,</l>
+                  <l> y con su inaudita voz</l>
+                  <l> han de repetir: te quiero.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción supone la musicalización de la última estrofa del poema; la letra es
+            idéntica al fragmento, con la sola variación de repetir 2 veces los versos «… Mientras
+            los colmillos crecen…» y «… Y mis heridas serán…». </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Leyenda y realidad</title>
+            <author>Klanghör</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Maqueta/Demo">
+               <title>Zamora</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=-e8deSI_aKs"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Heavy metal</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Klanghör</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Juan de Escobar</persName>
+                  <bibl>Afuera, afuera, Rodrigo</bibl>
+                  <relation>Alusión</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Grandes hazañas te han llevado a aparecer</l>
+                  <l> en leyendas y romances,</l>
+                  <l> magnate de la batalla y el poder</l>
+                  <l> al que cantan los juglares.</l>
+               </lg>
+               <lg>
+                  <l> Regresará,</l>
+                  <l> lo veremos</l>
+                  <l> armado caballero.</l>
+               </lg>
+               <lg>
+                  <l> La adversa vida le obligó a crecer</l>
+                  <l> a su morada distante.</l>
+                  <l> Instruido junto al hijo del rey,</l>
+                  <l> después portador de su estandarte.</l>
+               </lg>
+               <lg>
+                  <l> Recordarás,</l>
+                  <l> su arma ciñe,</l>
+                  <l> espuelas de oro viste.</l>
+               </lg>
+               <lg>
+                  <l> Entre polvo cabalga,</l>
+                  <l> empuñando la guarnición</l>
+                  <l> de su espada aguzada.</l>
+                  <l> Desterrado, entre aflicción,</l>
+                  <l> llega el Cid Campeador.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La relación con el romance se limita a la referencia de las espuelas de oro, que es
+            característica de este. Esto nos lleva a pensar que todo el álbum, dedicado al cerco de
+            Zamora, está inspirado en las versiones de los romances cidianos de Juan de Escobar en
+            Historia del muy noble y valeroso cavallero, el Cid Ruy Diez de Bivar en romances en
+            lenguaje antiguo (1605). </note>
+      </body>
+   </text>
+</TEI>

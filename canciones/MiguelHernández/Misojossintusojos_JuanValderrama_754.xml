@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mis ojos sin tus ojos</title>
+            <author>Juan Valderrama</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Sonidos blancos</title>
+               <publisher>Digimusic</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://open.spotify.com/track/2C27wig5sumyVubhFHj7vv?si=d605c6165be34dba"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Juan Valderrama</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Imagen de tu huella</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>No se ha tenido acceso a la letra ni el audio.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción musicaliza el segundo de los sonetos de Imagen de tu huella (1934): “Mis
+            ojos, sin tus ojos, no son ojos”. Hubo una primera versión de este mismo soneto a cargo
+            de Pedro Ávila en su álbum El nuevo hombre cantado (1971); sin embargo, por ser anterior
+            a 1975, esta versión no está recogida en esta base de datos. </note>
+      </body>
+   </text>
+</TEI>

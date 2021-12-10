@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Con dos años, dos flores</title>
+            <author>Miguel Ríos</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>El canto que no cesa. Homenaje a Miguel Hernández</title>
+               <publisher>Dulcimer Songs</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/O2PuaVrO1Eg"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Miguel Ríos</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Con dos años, dos flores]</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Con dos años, dos flores</l>
+                  <l> cumples ahora.</l>
+                  <l> Dos alondras llenando</l>
+                  <l> toda tu aurora.</l>
+                  <l> Niño radiante:</l>
+                  <l> va mi sangre contigo</l>
+                  <l> siempre adelante.</l>
+               </lg>
+               <lg>
+                  <l> Sangre mía, adelante,</l>
+                  <l> no retrocedas.</l>
+                  <l> La luz rueda en el mundo,</l>
+                  <l> mientras tú ruedas.</l>
+                  <l> Todo te mueve,</l>
+                  <l> universo de un cuerpo</l>
+                  <l> dorado y leve.</l>
+               </lg>
+               <lg>
+                  <l> Herramienta es tu risa,</l>
+                  <l> luz que proclama</l>
+                  <l> la victoria del trigo</l>
+                  <l> sobre la grama.</l>
+                  <l> Ríe. Contigo</l>
+                  <l> venceré siempre al tiempo</l>
+                  <l> que es mi enemigo.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización idéntica al poema de Miguel Hernández. </note>
+      </body>
+   </text>
+</TEI>

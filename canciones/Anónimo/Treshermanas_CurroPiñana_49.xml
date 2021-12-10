@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tres hermanas</title>
+            <author>Curro Piñana</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>El alma lastimada y otros poemas</title>
+               <publisher>Karonte</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=69FSp__Htlg"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Curro Piñana</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Romance de «Nacido nos ha un bailico»</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Y a su hermanico el mayor,</l>
+                  <l> mató a su padre y a su madre.</l>
+                  <l> Tres hermanas que tenía</l>
+                  <l> puso al oficio trotón.</l>
+                  <l> Ole, anda,</l>
+                  <l> a mal negocio las metió.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns=""> La canción es por fandango y reduce el romance a su mínima expresión, a pesar de lo
+            cual es reconocible. La relacionamos con una versión del romance similar pero no
+            idéntica, ya que se trata de un romance con muchas variaciones en la tradición oral.  
+            La unidad conceptual del álbum viene dada por la obra de Ibn Gabirol, poeta
+            hispanohebreo. Este romance encaja en este concepto en cuanto que ha sobrevivido en la
+            tradición sefardí. </note>
+      </body>
+   </text>
+</TEI>

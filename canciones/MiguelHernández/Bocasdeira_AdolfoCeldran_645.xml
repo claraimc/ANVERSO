@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bocas de ira</title>
+            <author>Adolfo Celdran</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Al borde del precipicio</title>
+               <publisher>Movieplay</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/nB60pURNX3M"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Adolfo Celdran</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Bocas de ira]</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Bocas de ira.</l>
+                  <l> Ojos de acecho.</l>
+                  <l> Perros aullando.</l>
+                  <l> Perros y perros.</l>
+                  <l> Todo baldío.</l>
+                  <l> Todo reseco.</l>
+                  <l> Cuerpos y campos,</l>
+                  <l> cuerpos y cuerpos.</l>
+                  <l> ¡Qué mal camino,</l>
+                  <l> qué ceniciento</l>
+                  <l> corazón tuyo,</l>
+                  <l> fértil y tierno!</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización idéntica del poema de Miguel Henández. El dico
+            donde aparece esta canción sería reeditado en 2010, y es de este trabajo de donde
+            sacamos el archivo sonoro del tema. </note>
+      </body>
+   </text>
+</TEI>

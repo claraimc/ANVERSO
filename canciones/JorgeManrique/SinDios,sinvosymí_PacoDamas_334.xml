@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sin Dios, sin vos y mí</title>
+            <author>Paco Damas</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Once canciones de amor y una reina</title>
+               <publisher>Autor Factoría</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target=""/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Paco Damas</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Jorge Manrique</persName>
+                  <bibl>Yo soy quien libre me vi</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Yo soy quien libre me vi,</l>
+                  <l> yo quien pudiera oluidaros,</l>
+                  <l> yo so el que por amaros</l>
+                  <l> estoy desque os conoscí,</l>
+                  <l> sin Dios y sin vos y mí.</l>
+               </lg>
+               <lg>
+                  <l> Sin Dios, porqu’en vos adoro,</l>
+                  <l> sin vos, pues no me queréys,</l>
+                  <l> pues sin mí ya está de coro</l>
+                  <l> que vos soys quien me tenéys.</l>
+               </lg>
+               <lg>
+                  <l> Assí que triste nascí,</l>
+                  <l> pues que pudiera oluidaros,</l>
+                  <l> yo so el que por amaros</l>
+                  <l> estó, desque os conoscí,</l>
+                  <l> sin Dios y sin vos y mí.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Todo el álbum está dedicado a composiciones de la lírica hispánica castellana medieval
+            o temprano-moderna. </note>
+      </body>
+   </text>
+</TEI>

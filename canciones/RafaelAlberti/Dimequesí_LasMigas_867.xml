@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dime que sí</title>
+            <author>Las Migas</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Nosotras somos</title>
+               <publisher>Chesapik</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=jIaxlpFQnDo"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+               <term>Latina</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Las Migas</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <bibl>Dime que sí</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Dime que sí,</l>
+                  <l> dime que sí,</l>
+                  <l> compañerito,</l>
+                  <l> que dime que sí.</l>
+                  <l> Dime, dime, dime que sí</l>
+                  <l> dime que sí,</l>
+                  <l> compañerito,</l>
+                  <l> que dime que sí.</l>
+                  <l> Dime que sí,</l>
+                  <l> dime que sí,</l>
+                  <l> compañerito,</l>
+                  <l> mi compañero,</l>
+                  <l> che, dime que sí.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Dime que he de ver el viento,</l>
+                  <l> y que en el viento he de quererte;</l>
+                  <l> dime que he de ver la mar,</l>
+                  <l> y que en la mar he de quererte.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Que del barco que yo tuviera,</l>
+                  <l> serías tu la costurera.</l>
+                  <l> Las jarcias, de seda fina;</l>
+                  <l> de fina Holanda, la vela.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Que del barco que yo tuviera,</l>
+                  <l> serías tu la costurera.</l>
+                  <l> Las jarcias, de seda fina;</l>
+                  <l> de fina Holanda, la vela.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Ay, un cabello de tus trenzas.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Dime que sí,</l>
+                  <l> dime que sí,</l>
+                  <l> compañerito,</l>
+                  <l> que dime que sí.</l>
+                  <l> Dime, dime, dime que sí</l>
+                  <l> dime que sí,</l>
+                  <l> compañerito,</l>
+                  <l> que dime que sí.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Dime que sí,</l>
+                  <l> dime que sí,</l>
+                  <l> compañerito,</l>
+                  <l> que dime que sí.</l>
+                  <l> Dime, dime, dime que sí</l>
+                  <l> dime que sí,</l>
+                  <l> compañerito,</l>
+                  <l> que dime que sí.</l>
+                  <l> Dime que sí,</l>
+                  <l> dime que sí,</l>
+                  <l> compañerito,</l>
+                  <l> mi compañero,</l>
+                  <l> dime que sí.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Que del barco que yo tuviera,</l>
+                  <l> serías tu la costurera.</l>
+                  <l> Las jarcias, de seda fina;</l>
+                  <l> de fina Holanda, la vela.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Que del barco que yo tuviera,</l>
+                  <l> serías tu la costurera.</l>
+                  <l> Las jarcias, de seda fina;</l>
+                  <l> compañerito,</l>
+                  <l> mi compañero,</l>
+                  <l> che, dime que sí.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original; la puntuación y
+                    ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción se construye sobre los versos del poema de Alberti pero alterando el orden
+            y el género de algunas palabras: «compañera, marinera» por «compañero, compañerito».
+            Además se realizan las siguientes variaciones con respecto al poema de Alberti: La
+            primera estrofa de la canción está construida en base a los versos 1, 2 y 4 y/o los
+            versos 15-16 del poema, con repeticiones de versos y palabras haciéndola sustancialmente
+            más larga. Se omiten los versos 3, 7, 8, 11, 12 y 21. Los dos primeros versos de la
+            estrofa segunda y tercera del poema se cambian de orden, poniendo primero los de la
+            tercera y luego los de la segunda para crear una estrofa nueva. </note>
+      </body>
+   </text>
+</TEI>

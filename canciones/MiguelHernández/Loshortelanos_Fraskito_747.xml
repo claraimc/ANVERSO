@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Los hortelanos</title>
+            <author>Fraskito</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Tierra y sangre (Un homenaje Miguel Hernández)</title>
+               <publisher>Frasko Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=jTdMfK2C6n4"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Fraskito</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Por una senda van los hortelanos]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Por una senda van los hortelanos,</l>
+                  <l> que ya es la hora del regreso,</l>
+                  <l> por una senda van los hortelanos,</l>
+                  <l> con la sangre injuriada por el peso</l>
+                  <l> de inviernos, primaveras y veranos.</l>
+               </lg>
+               <lg>
+                  <l> Por una senda van los hortelanos.</l>
+               </lg>
+               <lg>
+                  <l> Vienen de hacer esfuerzos sobrehumanos</l>
+                  <l> y van a la canción, y van al beso,</l>
+                  <l> y van dejando por el aire impreso</l>
+                  <l> un olor de herramientas y de manos.</l>
+               </lg>
+               <lg>
+                  <l> Por una senda van los hortelanos,</l>
+                  <l> que ya es la hora del regreso,</l>
+                  <l> por una senda van los hortelanos,</l>
+                  <l> con la sangre injuriada por el peso</l>
+                  <l> de inviernos, primaveras y veranos.</l>
+               </lg>
+               <lg>
+                  <l> Por una senda van los hortelanos.</l>
+               </lg>
+               <lg>
+                  <l> Murió. Nadie [ininteligible] su vecino</l>
+                  <l> que en la taberna murió</l>
+                  <l> [ininteligible]</l>
+                  <l> dentro de un vaso de vino.</l>
+                  <l> En la taberna murió.</l>
+               </lg>
+               <lg>
+                  <l> Por una senda van los hortelanos,</l>
+                  <l> que ya es la hora del regreso,</l>
+                  <l> por una senda van los hortelanos,</l>
+                  <l> con la sangre injuriada por el peso</l>
+                  <l> de inviernos, primaveras y veranos.</l>
+               </lg>
+               <lg>
+                  <l> Por una senda van los hortelanos.</l>
+               </lg>
+               <lg>
+                  <l> Por una senda van los hortelanos,</l>
+                  <l> que ya es la hora del regreso,</l>
+                  <l> por una senda van los hortelanos,</l>
+                  <l> con la sangre injuriada por el peso</l>
+                  <l> de inviernos, primaveras y veranos.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas; las partes no basadas en el
+                    poema de Miguel Hernández son en su mayoría ininteligibles al oído, de modo que,
+                    a falta de fuente escrita, no se han podido trascribir)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Fraskito no musicaliza el poema entero, sino solo las dos primeras estrofas del
+            soneto, con repeticiones de versos. Inserta texto no contenido en el poema de Miguel
+            Hernández, pero esas partes son prácticamente ininteligibles al oído, de modo que, a
+            falta de fuente escrita, no se han podido transcribir. La primera versión musical de
+            este poema fue de Amancio Prada (Vida e morte, 1974), pero, al ser anterior a 1975, no
+            está recogida en esta base de datos. </note>
+      </body>
+   </text>
+</TEI>

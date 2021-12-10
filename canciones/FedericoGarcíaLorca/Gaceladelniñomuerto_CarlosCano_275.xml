@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gacela del niño muerto</title>
+            <author>Carlos Cano</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Diván del Tamarit. Gacelas y Casidas.</title>
+               <publisher>Dalur Discos</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=c9e3RDMBL4o"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Carlos Cano</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Gacela del niño muerto</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Los muertos llevan alas de musgo.</l>
+                  <l> El viento nublado y el viento limpio</l>
+                  <l> son dos faisanes que vuelan por las torres</l>
+                  <l> y el día es un muchacho herido.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> No quedaba en el aire ni una brizna de alondra</l>
+                  <l> cuando yo te encontré por las grutas del vino.</l>
+                  <l> No quedaba en la tierra ni una miga de nube</l>
+                  <l> cuando te ahogabas por el río.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Todas las tardes en Granada,</l>
+                  <l> todas las tardes muere un niño.</l>
+                  <l> Todas las tardes el agua se sienta</l>
+                  <l> a conversar con sus amigos.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Un gigante de agua cayó sobre los montes</l>
+                  <l> y el valle fue rodando con perros y con lirios.</l>
+                  <l> Tu cuerpo, con la sombra violeta de mis manos</l>
+                  <l> era, muerto en la orilla, un arcángel de frío.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Todas las tardes en Granada</l>
+                  <l> todas las tardes muere un niño.</l>
+                  <l> Todas las tardes el agua se sienta</l>
+                  <l> a conversar con sus amigos.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Todas las tardes en Granada</l>
+                  <l> todas las tardes muere un niño</l>
+                  <l> todas las tardes el agua se sienta</l>
+                  <l> a conversar con sus amigos.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización idéntica a excepción de cambio de lugar de la primera estrofa del poema
+            (tercera de la canción) y su repetición a modo de estribillo. </note>
+      </body>
+   </text>
+</TEI>

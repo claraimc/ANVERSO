@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hoy te la meto hasta las orejas</title>
+            <author>Extremoduro</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Yo, minoría absoluta</title>
+               <publisher>Discos Radiactivos Organizados</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=CVueVtbagZY"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Extremoduro</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>José Zorrilla</persName>
+                  <bibl>Don Juan Tenorio IV 3</bibl>
+                  <relation>Cita</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Soñar despierto con la luz de su sonrisa.</l>
+                  <l> Soñé en hablarle de su pelo y ser la brisa.</l>
+                  <l> Pensé decirle que la vida era su boca, y no</l>
+                  <l> pasa a mi lado su olor,</l>
+                  <l> y contengo la respiración.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Sufre Julieta en su balcón,</l>
+                  <l> viendo escalar a su galán.</l>
+                  <l> Pensé decirle: “Más clara la luna brilla”, y dar</l>
+                  <l> contra el suelo, otra vez más;</l>
+                  <l> al contacto con la realidad.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Hoy te la meto de todas, todas!</l>
+                  <l> ¿Por qué anda sola esta amapola?</l>
+                  <l> ¡Hoy te la meto de mil maneras!</l>
+                  <l> Y ya anda con la lengua fuera.</l>
+                  <l> ¡Hoy te la meto hasta las orejas!</l>
+                  <l> Solito con mover las cejas.</l>
+                  <l> ¡Hoy te la meto hasta el mismo corazón!</l>
+                  <l> Solo con que digas: “¡Calor!”</l>
+                  <l> ¡Calor!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Planeo el atraco a mano armada de su corazón.</l>
+                  <l> Cada palabra he calculado, ahora falta el valor.</l>
+                  <l> Planeo decirle que la vida era su boca, y no</l>
+                  <l> pasa a mi lado su olor,</l>
+                  <l> y contengo la respiración.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Y ¿cómo haremos pa’ llegar</l>
+                  <l> al mismo tiempo tú, que yo?</l>
+                  <l> Sincronicemos los latidos con la boca,</l>
+                  <l> y, tic-tac, tic-tac,</l>
+                  <l> pobre aguja del reloj:</l>
+                  <l> nunca atravesará una tentación.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Hoy te la meto de todas, todas!</l>
+                  <l> ¿Por qué anda sola esta amapola?</l>
+                  <l> ¡Hoy te la meto de mil maneras!</l>
+                  <l> Y ya anda con la lengua fuera.</l>
+                  <l> ¡Hoy te la meto hasta las orejas!</l>
+                  <l> Solito con mover las cejas.</l>
+                  <l> ¡Hoy te la meto hasta el mismo corazón!</l>
+                  <l> Solo con que digas: “¡Calor!”</l>
+                  <l> ¡Calor!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Hoy te la meto de todas, todas!</l>
+                  <l> ¿Por qué anda sola esta amapola?</l>
+                  <l> ¡Hoy te la meto de mil maneras!</l>
+                  <l> Y ya anda con la lengua fuera.</l>
+                  <l> ¡Hoy te la meto hasta las orejas!</l>
+                  <l> Solito con mover las cejas.</l>
+                  <l> ¡Hoy te la meto hasta el mismo corazón!</l>
+                  <l> Solo con que digas: “¡Calor!”</l>
+                  <l> ¡Calor!</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La letra de la canción incluye una cita parcial e inexacta, pero evidente, del verso
+            263, “más pura la luna brilla”, del Don Juan Tenorio, de José Zorrilla, ampliamente
+            extendido en el imaginario colectivo español. Aunque cita, su uso es de trasposición
+            paródica, porque dentro de la letra el verso adquiere un nuevo sentido provocador y
+            burlesco, frente a la tradición literaria establecida. Además, la canción contiene una
+            alusión (igualmente paródica) a Romeo y Julieta, de William Shakespeare, pero no se
+            explicita dentro de esta base de datos por no referirse a ningún verso en concreto.
+        </note>
+      </body>
+   </text>
+</TEI>

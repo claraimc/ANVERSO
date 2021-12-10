@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Eras jardín de naranjas</title>
+            <author>Laurentino</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Rafael Alberti. El poeta en la calle</title>
+               <publisher>Le Chant Du Monde</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=apHcAwn3N0M"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Laurentino</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <bibl>[Eras jardín de naranjas]</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Eras jardín de naranjas.</l>
+                  <l> Huerta de mares abiertos.</l>
+                  <l> Tiemblo de olivas y pámpanos,</l>
+                  <l> los verdes cuernos.</l>
+               </lg>
+               <lg>
+                  <l> Con pólvora te regaron.</l>
+                  <l> Y fuiste toro de fuego.</l>
+               </lg>
+               <lg>
+                  <l> Con pólvora te regaron.</l>
+                  <l> Y fuiste toro del pueblo.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original; la puntuación y
+                    ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Se musicaliza el poema de manera idéntica, excepto que en la canción se repiten los
+            dos últimos versos cambiando «de fuego» por «del pueblo». </note>
+      </body>
+   </text>
+</TEI>

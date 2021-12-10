@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nubes negras</title>
+            <author>La Bien Querida</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Brujería</title>
+               <publisher>Elefant Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=UVERiRzvtfk"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>La Bien Querida</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Luis Alberto de Cuenca</persName>
+                  <bibl>In illo tempore</bibl>
+                  <relation>Cita</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Las nubes negras han borrado las estrellas</l>
+                  <l> Qué me importa que se caigan todas ellas</l>
+                  <l> Contigo estaba justo en el sitio que quería estar</l>
+                  <l> Pero ahora ya no estás</l>
+                  <l> El bosque en llamas de mi fantasía</l>
+                  <l> El único mar en el que yo quería naufragar</l>
+                  <l> Mi vida entera si pudiera volver a empezar</l>
+                  <l> Contigo hasta el final</l>
+               </lg>
+               <lg>
+                  <l> Lejos de los ojos de la gente</l>
+                  <l> Y darte el amor que tú mereces</l>
+                  <l> Y si no puede ser, y si no puede ser</l>
+                  <l> Ayúdame, ayúdame a olvidarte</l>
+               </lg>
+               <lg>
+                  <l> Nos besábamos como en las películas</l>
+                  <l> Nos queríamos como en las canciones</l>
+                  <l> El punto exacto en el que todo se echó a perder</l>
+                  <l> Quisiera yo saber</l>
+               </lg>
+               <lg>
+                  <l> Lejos de los ojos de la gente</l>
+                  <l> Y darte el amor que tú mereces</l>
+                  <l> Y si no puede ser, y si no puede ser</l>
+                  <l> Ayúdame, ayúdame a olvidarte</l>
+                  <l> Ayúdame, ayúdame a olvidarte</l>
+                  <l> Ayúdame, ayúdame a olvidarte</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción contiene dos versos del poema «In illo tempore«, de Luis Alberto de Cuenca.
+            La letra de la canción está tomada de la página web de la discrográfica:
+            https://elefant.com/es/letra/5866. </note>
+      </body>
+   </text>
+</TEI>

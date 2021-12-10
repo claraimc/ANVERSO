@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cornearás aún - Laurentino</title>
+            <author>Laurentino</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Rafael Alberti. El poeta en la calle</title>
+               <publisher>Le Chant Du Monde</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=eIcHhKWQsZM"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Laurentino</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <bibl>[Cornearás aún y más que nunca]</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Cornearás aún y más que nunca,</l>
+                  <l> desdoblando los campos de tu frente,</l>
+                  <l> y salpicando valles y laderas</l>
+                  <l> te elevarás de nuevo toro verde.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Las aldeas</l>
+                  <l> perderán sus senderos para verte.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Se asomarán los hombros de los ríos,</l>
+                  <l> y las espadas frías de las fuentes</l>
+                  <l> manos muertas harán salir del suelo,</l>
+                  <l> enramadas de júbilo y laureles.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Los ganados</l>
+                  <l> perderán sus pastores para verte.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Te cantarán debajo tus dos mares,</l>
+                  <l> y para ti los trigos serán puentes</l>
+                  <l> por donde saltes, nuevo toro libre,</l>
+                  <l> dueño de ti y de todo para siempre.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Los caminos</l>
+                  <l> perderán sus ciudades para verte.</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y los poemas originales; la puntuación
+                    y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">— </note>
+      </body>
+   </text>
+</TEI>

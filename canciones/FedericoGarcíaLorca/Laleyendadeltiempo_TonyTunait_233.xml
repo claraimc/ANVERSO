@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La leyenda del tiempo</title>
+            <author>Tony Tunait</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="ExtendedPlay(EP)">
+               <title>Pensión Agustina</title>
+               <publisher>Estudios Eureka</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=hTEvLOX-oQY&amp;list=PLjycfWfwWd8tTJS1wOuBu_sti4CKFhENo&amp;index=4"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Flamenco</term>
+               <term>Jazz</term>
+               <term>Latina</term>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Tony Tunait</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>[Leyenda del tiempo]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>El Sueño va sobre el Tiempo</l>
+                  <l> flotando como un velero,</l>
+                  <l> flotando como un velero.</l>
+                  <l> Nadie puede abrir semillas</l>
+                  <l> en el corazón del Sueño,</l>
+                  <l> en el corazón del Sueño.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> El Tiempo va sobre el Sueño</l>
+                  <l> hundido hasta los cabellos,</l>
+                  <l> hundido hasta los cabellos.</l>
+                  <l> Ayer y mañana comen</l>
+                  <l> oscuras flores de duelo,</l>
+                  <l> oscuras flores de duelo.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> El Sueño va sobre el Tiempo</l>
+                  <l> flotando como un velero,</l>
+                  <l> flotando como un velero.</l>
+                  <l> Nadie puede abrir semillas</l>
+                  <l> en el corazón del Sueño,</l>
+                  <l> en el corazón del Sueño.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Sobre la misma columna,</l>
+                  <l> abrazados Sueño y Tiempo,</l>
+                  <l> abrazados Sueño y Tiempo,</l>
+                  <l> cruza el gemido del niño,</l>
+                  <l> la lengua rota del viejo,</l>
+                  <l> la lengua rota del viejo.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> El Sueño va sobre el Tiempo</l>
+                  <l> flotando como un velero,</l>
+                  <l> flotando como un velero.</l>
+                  <l> Nadie puede abrir semillas</l>
+                  <l> en el corazón del Sueño,</l>
+                  <l> en el corazón del Sueño.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Y si el Sueño finge muros</l>
+                  <l> en la llanura del Tiempo,</l>
+                  <l> en la llanura del Tiempo,</l>
+                  <l> el Tiempo le hace creer</l>
+                  <l> que nace en aquel momento,</l>
+                  <l> ay, que nace en aquel momento.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> El Sueño va sobre el Tiempo</l>
+                  <l> flotando como un velero,</l>
+                  <l> flotando como un velero.</l>
+                  <l> Nadie puede abrir semillas</l>
+                  <l> en el corazón del Sueño,</l>
+                  <l> en el corazón del Sueño.</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Sigue la versión primera que hizo Camarón de la Isla en 1979 del fragmento de la
+            obra Así que pasen cinco años de Federico García Lorca. </note>
+      </body>
+   </text>
+</TEI>

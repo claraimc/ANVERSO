@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>No cesará</title>
+            <author>Jarcha</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Jarcha a Miguel Hernández. El rayo que no cesa</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://open.spotify.com/album/0Paql3xZvAdI6FTdwWN1Qm#login"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Jarcha</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[¿No cesará este rayo que me habita?]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Me llamo barro aunque Miguel me llame.</l>
+                  <l> Barro es mi profesión y mi destino</l>
+                  <l> Que mancha con su lengua cuanto lame.</l>
+                  <l> Soy un triste instrumento del camino.</l>
+               </lg>
+               <lg>
+                  <l> ¿No cesará este rayo que me habita</l>
+                  <l> el corazón de exasperadas fieras</l>
+                  <l> y de fraguas coléricas y herreras</l>
+                  <l> donde el metal más fresco se marchita?</l>
+               </lg>
+               <lg>
+                  <l> ¿No cesará esta terca estalactita</l>
+                  <l> de cultivar sus duras cabelleras</l>
+                  <l> como espadas y rígidas hogueras</l>
+                  <l> hacia mi corazón que muge y grita?</l>
+               </lg>
+               <lg>
+                  <l> Este rayo ni cesa ni se agota:</l>
+                  <l> de mí mismo tomó su procedencia</l>
+                  <l> y ejercita en mí mismo sus furores.</l>
+               </lg>
+               <lg>
+                  <l> Esta obstinada piedra de mí brota</l>
+                  <l> y sobre mí dirige la insistencia</l>
+                  <l> de sus lluviosos rayos destructores.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Ésta versión supone una musicalización similar al poema de Miguel Hernández. Le única
+            diferencia es que la canción se introduce recitándose, hablado, los cuatro primeros
+            versos de otro poema de Miguel Hernández, a saber, Me llamo barro aunque Miguel me
+            llame. </note>
+      </body>
+   </text>
+</TEI>

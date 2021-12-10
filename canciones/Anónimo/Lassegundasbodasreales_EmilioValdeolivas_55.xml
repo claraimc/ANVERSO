@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Las segundas bodas reales</title>
+            <author>Emilio Valdeolivas</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>El cantar de mio Cid</title>
+               <publisher>Tecnosaga</publisher>
+               <date cert="low"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=el7V9-IRGnM&amp;t=4159s"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Emilio Valdeolivas</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Conclusión (Cantar de mio Cid)</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Dexémonos de pleitos de ifantes de Cariión,</l>
+                  <l> de lo que an preso much an mal sabor,</l>
+                  <l> fablemos nos d’aqueste que en buen hora naçió.</l>
+                  <l> Grandes son los gozos en Valençia la mayor.</l>
+                  <l> Porque tan ondrados foron los del Campeador.</l>
+                  <l> Prisos a la barba Roy Díaz so señor.</l>
+                  <l> ¡Grado al rey del çielo, mis fijas vengadas son!</l>
+                  <l> Andidieron en pleytos con Alfons el de León,</l>
+                  <l> Ojarra a ifante de Navarra e Ximenones de Aragón.</l>
+                  <l> Sin vergüença las casaré o a qui pese o a quí non.</l>
+                  <l> Fizieron sos casamientos don Elvira e doña Sol,</l>
+                  <l> los primeros foron grandes, mejores aquestos son.</l>
+                  <l> A mayor ondra las casa que lo que primero fo</l>
+                  <l> quando señoras son sues fijas de Navarra e de Aragón.</l>
+                  <l> Por que oy los reyes d’España sos parientes son.</l>
+                  <l> A todos alcança ondra, ¡de Cristus aya perdón!</l>
+                  <l> Passado es deste sieglo mio Çid de Valençia señor.</l>
+                  <l> Assí ffagamos nós todos justos e peccadores.</l>
+                  <l> Estas son las nuevas de mio Çid el Campeador.</l>
+                  <l> En cinquaesma en este logar se acaba esta razón.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Toma los vv. 3708-3714, 3716, 3719-3721, 3723-3725, 3737 (combinado con 3725), 3726,
+            3728-3729, 3730 (con interferencia de 3727),  del cantar tercero del Cantar de mio Cid,
+            en ese orden, con modificaciones mínimas. Probablemente sigue la edición de Menéndez
+            Pidal, dado el tratamiento de -e final en varios versos, pero no podemos asegurarlo por
+            el momento. Todo el disco está dedicado al Cantar de mio Cid, del que es una adaptación.
+            La referencia a los emisarios Ojarra y Ximenones proviene de los vv. 3392-3426. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El enamorado y la muerte</title>
+            <author>Amancio Prada</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Trovadores, místicos y románticos</title>
+               <publisher>Ariola</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=UZOqhbq8MF8"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Amancio Prada</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Juan del Encina</persName>
+                  <bibl>Romance del enamorado y la muerte</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Yo me estaba reposando</l>
+                  <l> anoche como solía,</l>
+                  <l> no sé qué sueño soñaba</l>
+                  <l> que los ojos se me abrían.</l>
+                  <l> Vi entrar señora tan blanca</l>
+                  <l> muy más que la nieve fría.</l>
+                  <l> —¿Por dónde has entrado, amor?</l>
+                  <l> ¿Por dónde has entrado, vida?</l>
+                  <l> Cerradas están las puertas,</l>
+                  <l> ventanas y celosías.</l>
+                  <l> —No soy el amor, amante:</l>
+                  <l> la muerte que Dios te envía.</l>
+                  <l> —¡Oh Muerte tan rigurosa,</l>
+                  <l> déjame vivir un día!</l>
+                  <l> —Un día no puedo darte,</l>
+                  <l> una hora tienes de vida.</l>
+                  <l> Muy deprisa se levanta,</l>
+                  <l> más deprisa se vestía.</l>
+                  <l> Ya se va para la calle,</l>
+                  <l> en donde su amor vivía.</l>
+                  <l> —¡Ábreme la puerta, blanca,</l>
+                  <l> ábreme la puerta, niña!</l>
+                  <l> —¿La puerta cómo he de abrirte</l>
+                  <l> si no es la hora convenida?</l>
+                  <l> Mi padre no fue a palacio,</l>
+                  <l> mi madre no está dormida.</l>
+                  <l> —Si no me abres esta noche,</l>
+                  <l> ya nunca más me abrirías;</l>
+                  <l> la Muerte me anda buscando,</l>
+                  <l> junto a ti vida sería.</l>
+                  <l> —Vete bajo la ventana</l>
+                  <l> Donde bordaba y cosía,</l>
+                  <l> te echaré cordel de seda</l>
+                  <l> para que subas arriba,</l>
+                  <l> si la seda no alcanzara,</l>
+                  <l> mis trenzas añadiría.</l>
+                  <l> Ya trepa por el cordel,</l>
+                  <l> ya toca la barandilla,</l>
+                  <l> la fina seda se rompe,</l>
+                  <l> él como plomo caía.</l>
+                  <l> La Muerte le está esperando</l>
+                  <l> abajo en la tierra fría:</l>
+                  <l> —Vamos, el enamorado,</l>
+                  <l> la hora ya está cumplida.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">No sabemos si la modificación de los versos 3 y 4 es innovación del artista o
+            pertenece a una tradición diferente de la de los textos consultados, por eso seguimos
+            considerando que la musicalización es idéntica a pesar de esa variación.   Se retoma en
+            el ábum Del amor que quita el sueño (Musicamaina, 2010).   En el álbum hay otras piezas
+            de la lírica castellana medieval y temprano-moderna.   </note>
+      </body>
+   </text>
+</TEI>

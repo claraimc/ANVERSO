@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La canción del pirata</title>
+            <author>Sangre Azul</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="--">
+               <title>--</title>
+               <publisher>--</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=fmwURENWm2Q"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Sangre Azul</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>José de Espronceda</persName>
+                  <bibl>Canción del pirata</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Con diez cañones por banda,</l>
+                  <l> viento en popa a toda vela,</l>
+                  <l> no corta el mar si no vuela</l>
+                  <l> un velero bergantín.</l>
+                  <l> Bajel pirata que llaman</l>
+                  <l> por su bravura “El Temido”,</l>
+                  <l> en todo el mar conocido</l>
+                  <l> del uno al otro confín.</l>
+               </lg>
+               <lg>
+                  <l> En la lona gime el viento</l>
+                  <l> y alza el blando movimiento</l>
+                  <l> olas de plata, de plata y azul.</l>
+                  <l> Y va el capitán pirata,</l>
+                  <l> cantando alegre en la popa,</l>
+                  <l> Asia a un lado, al otro Europa</l>
+                  <l> y allá a su frente está tú.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Adaptación del poema de Espronceda para el programa de radio Emision Pirata del año
+            1988. Además de truncado, el poema está ligeramente modificado. </note>
+      </body>
+   </text>
+</TEI>

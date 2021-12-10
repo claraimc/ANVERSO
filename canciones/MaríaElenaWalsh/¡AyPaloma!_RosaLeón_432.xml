@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>¡Ay Paloma!</title>
+            <author>Rosa León</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Sencillo(single)">
+               <title>¡Ay Paloma!</title>
+               <publisher>Movieplay S.A.</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=r8_1G5Iemkk&amp;ab_channel=RosaLe%C3%B3n-Topic"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Rosa León</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>María Elena Walsh</persName>
+                  <bibl>Endecha española</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Ay paloma</l>
+                  <l> que bajas a las Ramblas</l>
+                  <l> de Barcelona</l>
+                  <l> con la muerte en las alas,</l>
+                  <l> sola.</l>
+               </lg>
+               <lg>
+                  <l> Ay cigüeña</l>
+                  <l> que sobre un campanario</l>
+                  <l> por Valdepeñas,</l>
+                  <l> asoleando tu nido,</l>
+                  <l> sueñas.</l>
+               </lg>
+               <lg>
+                  <l> Fui peregrina feliz, de luz española y después,</l>
+                  <l> con muerte en el alma,</l>
+                  <l> ave que se desploma.</l>
+                  <l> Tanto amor quién me lo quita.</l>
+                  <l> Tanta dicha quién me roba.</l>
+               </lg>
+               <lg>
+                  <l> Ay gaviota,</l>
+                  <l> San Fernando de Cádiz,</l>
+                  <l> deslumbradora,</l>
+                  <l> te esperó como blanca</l>
+                  <l> proa.</l>
+               </lg>
+               <lg>
+                  <l> Golondrinas</l>
+                  <l> que volverán oscuras</l>
+                  <l> siempre a Sevilla</l>
+                  <l> dibujando en el cielo:</l>
+                  <l> “Rimas”.</l>
+               </lg>
+               <lg>
+                  <l> Fui peregrina feliz, de luz española y después,</l>
+                  <l> con muerte en el alma,</l>
+                  <l> ave que se desploma.</l>
+                  <l> Tanto amor quién me lo quita.</l>
+                  <l> Tanta dicha quién me roba.</l>
+               </lg>
+               <lg>
+                  <l> Tanto amor quién me lo quita.</l>
+                  <l> Tanta dicha quién me roba.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    una fuente escrita entera; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">El título de la canción de Rosa León toma un verso del poema de Walsh. La canción
+            también ignora las primeras tres estrofas del poema y empieza en la cuarta. Además, se
+            invierte el orden de algunas estrofas. Por ejemplo, en el poema aparece primero la
+            estrofa que dice “Golondrinas / que volverán oscuras / siempre a Sevilla / dibujando en
+            el cielo: /ʽRimas’”, seguida de la estrofa “Ay gaviota, / San Fernando de Cádiz, /
+            deslumbradora, / te esperó como blanca /proa”. En la canción el orden de estas dos
+            estrofas es el inverso. Más allá del orden de las estrofas, León utiliza casi las mismas
+            palabras que Walsh (salvo algunas pequeñas distinciones, por ejemplo, hace plural
+            “Rambla” que pasan a ser “las Ramblas”). La canción termina con los mismos dos versos
+            que el poema (“Tanto amor quién me lo quita. / Tanta dicha quién me roba.”) pero en la
+            canción se cantan dos veces. </note>
+      </body>
+   </text>
+</TEI>

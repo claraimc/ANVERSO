@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La casada infiel</title>
+            <author>Julián Estrada</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Reflejo de luna y sal</title>
+               <publisher>Fods Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=WqtrYL_HIhw"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Flamenco</term>
+               <term>Latina</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Julián Estrada</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>La casada infiel</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Fue la noche de Santiago</l>
+                  <l> y casi por compromiso.</l>
+                  <l> Se apagaron los faroles</l>
+                  <l> y se encendieron los grillos.</l>
+                  <l> En las últimas esquinas</l>
+                  <l> toqué sus pechos dormidos,</l>
+                  <l> y se me abrieron de pronto</l>
+                  <l> como ramos de jacintos.</l>
+                  <l> El almidón de su enagua</l>
+                  <l> me sonaba en el oído,</l>
+                  <l> como una pieza de seda</l>
+                  <l> rasgada por diez cuchillos.</l>
+                  <l> Sin luz de plata en sus copas</l>
+                  <l> los árboles han crecido,</l>
+                  <l> y un horizonte de perros</l>
+                  <l> ladra muy lejos del río.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Que yo me la llevé al río</l>
+                  <l> creyendo, madre, que era mozuela.</l>
+                  <l> Que yo me la llevé al río</l>
+                  <l> creyendo, madre, que era mozuela,</l>
+                  <l> creyendo que era mozuela,</l>
+                  <l> creyendo que era mozuela,</l>
+                  <l> pero tenía marido.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Pasadas las zarzamoras,</l>
+                  <l> los juncos y los espinos,</l>
+                  <l> bajo su mata de pelo</l>
+                  <l> hice un hoyo sobre el limo.</l>
+                  <l> Yo me quite la corbata.</l>
+                  <l> Ella se quitó el vestido.</l>
+                  <l> Yo el cinturón con revólver.</l>
+                  <l> Ella sus cuatro corpiños.</l>
+                  <l> Ni nardos ni caracolas</l>
+                  <l> tienen el cutis tan fino,</l>
+                  <l> ni los cristales con luna</l>
+                  <l> relumbran con ese brillo.</l>
+                  <l> ni los cristales con luna</l>
+                  <l> relumbran con ese brillo.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Que yo me la llevé al río</l>
+                  <l> creyendo, madre, que era mozuela.</l>
+                  <l> Que yo me la llevé al río</l>
+                  <l> creyendo, madre, que era mozuela,</l>
+                  <l> creyendo que era mozuela,</l>
+                  <l> creyendo que era mozuela,</l>
+                  <l> pero tenía marido.</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Hubo dos musicalizaciones anteriores a 1975, por eso no recogidas en esta base de
+            datos: Pepe Albaicín (Sin título, 1964) y Pepe de Córdoba (Canta a Federico García
+            Lorca, 1972). La principal variación con el poema de Lorca es la omisión de los últimos
+            versos del poema (vv. 32-55) y el cambio de los tres primeros de posición para
+            convertirlos en un estribillo compuesto mediante repetición de versos. </note>
+      </body>
+   </text>
+</TEI>

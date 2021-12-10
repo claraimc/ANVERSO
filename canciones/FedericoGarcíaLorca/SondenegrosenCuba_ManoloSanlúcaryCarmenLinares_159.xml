@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Son de negros en Cuba</title>
+            <author>Manolo Sanlúcar y Carmen Linares</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Locura de brisa y trino</title>
+               <publisher>Mercury</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=LXO3sjtc62M"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+               <term>Latina</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Manolo Sanlúcar y Carmen Linares</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Son de negros en Cuba</bibl>
+                  <relation>Cita</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Yo iré, iré,</l>
+                  <l> iré a Santiago, iré.</l>
+                  <l> Yo iré, iré,</l>
+                  <l> iré a Santiago iré.</l>
+                  <l> Yo iré, iré,</l>
+                  <l> iré a Santiago iré.</l>
+                  <l> Yo iré, iré,</l>
+                  <l> iré a Santiago iré.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Yo iré, iré,</l>
+                  <l> iré a Santiago iré.</l>
+                  <l> Yo iré, iré,</l>
+                  <l> iré a Santiago iré.</l>
+                  <l> Yo iré, iré,</l>
+                  <l> iré a Santiago iré.</l>
+                  <l> Yo iré, iré,</l>
+                  <l> iré a Santiago iré.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Cuando llegue la luna, la luna nueva,</l>
+                  <l> en un coche de agua, de agua negra,</l>
+                  <l> ¡Ay de agua negra! ¡Ay de agua negra!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Yo iré, iré,</l>
+                  <l> iré a Santiago iré.</l>
+                  <l> Yo iré, iré,</l>
+                  <l> iré a Santiago iré.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Yo iré, iré,</l>
+                  <l> iré a Santiago iré.</l>
+                  <l> Yo iré, iré,</l>
+                  <l> iré a Santiago iré.</l>
+                  <l> Yo iré, iré,</l>
+                  <l> iré a Santiago iré.</l>
+                  <l> Yo iré, iré,</l>
+                  <l> iré a Santiago iré.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Cuando llegue la luna, la luna nueva,</l>
+                  <l> en un coche de agua, de agua negra,</l>
+                  <l> ¡Ay de agua negra! ¡Ay de agua negra!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Yo iré, iré,</l>
+                  <l> iré a Santiago iré.</l>
+                  <l> Yo iré, iré,</l>
+                  <l> iré a Santiago iré.</l>
+                  <l> Yo iré, iré,</l>
+                  <l> iré a Santiago iré.</l>
+                  <l> Yo iré, iré,</l>
+                  <l> iré a Santiago iré.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Yo iré.</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Solo utiliza los tres primeros versos del poema de Lorca para componer la canción,
+            transformándolos en el proceso. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Al lado estaba el mar</title>
+            <author>Lucía Caramés</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Moncho Otero canta a Gloria Fuertes</title>
+               <publisher>Oecus</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=7FpC6bC-8Uw&amp;list=OLAK5uy_m4XDnualm8lOW7bS50PgF37chqW2ooe9A&amp;index=45"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Lucía Caramés</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Gloria Fuertes</persName>
+                  <bibl>Cuatro poemas recuperados</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Al lado estaba el mar  y me besabas,</l>
+                  <l> hablaba el mar y no podía oírte,</l>
+                  <l> por eso decidí lo indecible,</l>
+                  <l> perderme por tu oscura cabellera.</l>
+                  <l> Subirnos, y subimos pilotando</l>
+                  <l> el invisible coche de la noche,</l>
+                  <l> aterrizamos con luces de contacto</l>
+                  <l> entrada muy entrada la mañana.</l>
+               </lg>
+               <lg>
+                  <l> El amor me ha vendado antes de herirme</l>
+                  <l> me ha cegado los ojos y no veo;</l>
+                  <l> desgarré la ilusión de un manotazo,</l>
+                  <l> tras la ilusión-pasión, aún te quiero.</l>
+               </lg>
+               <lg>
+                  <l> Si tú ocupas mi mente</l>
+                  <l> si me peino y me ducho</l>
+                  <l> si ya quiero vivir,</l>
+                  <l> mi amor es poco aunque sea mucho. [Estrofa x 2]</l>
+               </lg>
+               <lg>
+                  <l> Venciste tú como eres</l>
+                  <l> y no como quisiera yo que fueras.</l>
+                  <l> ¡Qué fuerte debe ser, de todas formas</l>
+                  <l> no sé si durará, de esta manera!</l>
+               </lg>
+               <lg>
+                  <l> Es imposible amor quererte poco</l>
+                  <l> desde esta gran locura controlada</l>
+                  <l> decido…(es un decir) y tu mirada,</l>
+                  <l> echa abajo mi decisión de loco.</l>
+                  <l> Resulta que no es nada lo que toco</l>
+                  <l> si no toco tus manos o tu boca,</l>
+                  <l> es cuerda mi locura si estoy loca,</l>
+                  <l> es cierto ya mi amor si me sofoco.</l>
+               </lg>
+               <lg>
+                  <l> Si tú ocupas mi mente</l>
+                  <l> si me peino y me ducho</l>
+                  <l> si ya quiero vivir,</l>
+                  <l> mi amor es poco aunque sea mucho. [Estrofa x 2]</l>
+               </lg>
+               <lg>
+                  <l> Resulta que no es nada lo que toco</l>
+                  <l> si no toco tus manos o tu boca,</l>
+                  <l> es cuerda mi locura si estoy loca,</l>
+                  <l> es cierto ya mi amor si me sofoco.</l>
+               </lg>
+               <lg>
+                  <l> Cuando dejé de amar</l>
+                  <l> me puse a morir,</l>
+                  <l> fue solo breve hora,</l>
+                  <l> pero,</l>
+                  <l> ¡Qué malita se puso servidora! [Estrofa x 2]</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Gloria Fuertes;
+                    la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Este tema pertenece a un disco doble que recoge los poemas musicalizados de Gloria
+            Fuertes por Moncho Otero. Incluye, además, grabaciones originales del recital que la
+            poeta y el cantante dieron el 3 de enero de 1998 en el café Soto Mesa de Madrid. Gloria
+            Fuertes y Moncho Otero realizaron varios recitales conjuntos entre los años 1996 y 1998.
+            Aunque la autoría de la musicalización del poema corresponde a Moncho Otero,  la
+            intérprete, en esta ocasión, es Lucía Caramés que se une a otras tres voces femeninas
+            presentes en el disco. Según las declaraciones del propio Moncho Otero, siempre deseó
+            que, aquellos poemas musicalizados donde el yo poético femenino está más presente,
+            fuesen interpretados por una mujer. La musicalización convierte los Cuatro poemas
+            recuperados en un único texto y altera levemente el texto original, pues el autor
+            utiliza algunos versos a modo de estribillo y repite aquellas estrofas cuyo mensaje
+            desea enfatizar.   </note>
+      </body>
+   </text>
+</TEI>

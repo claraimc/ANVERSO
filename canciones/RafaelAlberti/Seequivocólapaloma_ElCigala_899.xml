@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Se equivocó la paloma</title>
+            <author>El Cigala</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Otros">
+               <title>--</title>
+               <publisher>--</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=jn66ljZ86N8"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+               <term>Jazz</term>
+               <term>Latina</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>El Cigala</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <bibl>[Se equivocó la paloma]</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Se equivocó la paloma.</l>
+                  <l> Se equivocaba.</l>
+               </lg>
+               <lg>
+                  <l> Por ir al Norte fue al Sur.</l>
+                  <l> Creyó que el trigo era agua.</l>
+                  <l> Se equivocaba.</l>
+               </lg>
+               <lg>
+                  <l> Creyó que el mar era el cielo;</l>
+                  <l> que la noche, la mañana.</l>
+                  <l> Se equivocaba.</l>
+                  <l> Se equivocaba.</l>
+               </lg>
+               <lg>
+                  <l> Que las estrellas, rocío;</l>
+                  <l> que la calor, la nevada.</l>
+                  <l> Se equivocaba.</l>
+                  <l> Se equivocaba.</l>
+               </lg>
+               <lg>
+                  <l> Que tu falda era su blusa;</l>
+                  <l> que tu corazón, su casa.</l>
+                  <l> Se equivocaba.</l>
+               </lg>
+               <lg>
+                  <l> Ella se durmió en la orilla.</l>
+                  <l> Tú, en la cumbre de una rama.</l>
+                  <l> Se equivocaba.</l>
+               </lg>
+               <lg>
+                  <l> (Tararea)</l>
+               </lg>
+               <lg>
+                  <l> Que tu falda era su blusa;</l>
+                  <l> que tu corazón, su casa.</l>
+                  <l> Se equivocaba. (x3)</l>
+               </lg>
+               <lg>
+                  <l> (Tararea)</l>
+               </lg>
+               <lg>
+                  <l> Ella se durmió en la orilla.</l>
+                  <l> Tú, en la cumbre de una rama.</l>
+                  <l> Que tu falda era su blusa;</l>
+                  <l> que tu corazón, su casa.</l>
+               </lg>
+               <lg>
+                  <l> (Tararea)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Prácticamente sin variaciones respecto del poema, excepto que repite algunos versos.
+            Como casi todas las versiones de esta canción, parte de la musicalización original de
+            Carlos Gustavino para el ballet Suite Argentina (que se publicó como Se equivocó la
+            paloma: para canto y piano / poesía de Rafael Alberti, Buenos Aires: Ricordi Americana,
+            1941). En este caso, se adapta a estilo flamenco fusión. La canción se emitió en el
+            programa de la televisión argentina Encuentro en el estudio (temporada 7). </note>
+      </body>
+   </text>
+</TEI>

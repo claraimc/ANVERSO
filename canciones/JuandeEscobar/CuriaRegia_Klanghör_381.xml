@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Curia Regia</title>
+            <author>Klanghör</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Maqueta/Demo">
+               <title>Zamora</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target=""/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Heavy metal</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Klanghör</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Juan de Escobar</persName>
+                  <bibl>Acababa el rey Fernando</bibl>
+                  <relation>Alusión</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>En la ardiente era del medievo,</l>
+                  <l> tiempo de muerte y de miedo,</l>
+                  <l> un anciano rey castellano</l>
+                  <l> repartió sus posesiones.</l>
+                  <l> El polémico y fatal reparto</l>
+                  <l> “Curia regia” fue llamado.</l>
+               </lg>
+               <lg>
+                  <l> Nos cuenta el romance</l>
+                  <l> que su hija se enojó</l>
+                  <l> porque ella no obtuvo</l>
+                  <l> ningún poder ni atención.</l>
+                  <l> A esto el rey maldijo</l>
+                  <l> y expuso su intención.</l>
+               </lg>
+               <lg>
+                  <l> Curia regia, partición;</l>
+                  <l> curia regia, el dolor;</l>
+                  <l> quedando en entredicho</l>
+                  <l> jurar su posición.</l>
+               </lg>
+               <lg>
+                  <l> Curia regia, partición;</l>
+                  <l> curia Regia, el dolor;</l>
+                  <l> ardor en el veneno</l>
+                  <l> que induce a la opresión.</l>
+               </lg>
+               <lg>
+                  <l> El rey ha muerto dejando en pie</l>
+                  <l> envidias y amenazas.</l>
+                  <l> La avaricia ha hecho hincapié</l>
+                  <l> entre hermanos que rechazan</l>
+                  <l> el foro que no está en sus manos</l>
+                  <l> para poder apropiárselo.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Aunque no hay ninguna referencia explícita a ningún romance, puesto que la banda basa
+            otras canciones en las versiones de los romances cidianos de Juan de Escobar en Historia
+            del muy noble y valeroso cavallero, el Cid Ruy Diez de Bivar en romances en lenguaje
+            antiguo (1605), asociamos la canción con el poema correspondiente de dicha edición.  
+            Todo el ábum trata el tema del cerco de Zamora. </note>
+      </body>
+   </text>
+</TEI>

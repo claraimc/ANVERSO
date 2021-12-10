@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lo que hace el dinero</title>
+            <author>G.R.B.</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Maqueta/Demo">
+               <title>G.R.B.</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="low"/>
+            </bibl>
+            <bibl>
+               <link target=""/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Punk y punk-rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>G.R.B.</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Juan Ruiz</persName>
+                  <bibl>Enxiemplo de la propiedat que el dinero ha (Libro de buen amor)</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Hace mucho el dinero, mucho se le ha de amar;</l>
+                  <l> al torpe hace discreto, y hombre de respetar,</l>
+                  <l> hace correr al cojo, y al mudo le hace hablar;</l>
+                  <l> quien no tiene dinero, no es de sí señor.</l>
+               </lg>
+               <lg>
+                  <l> También al hombre necio y rudo labrador</l>
+                  <l> dineros le convierten en hidalgo doctor;</l>
+                  <l> cuanto más rico es uno, más grande es su valor,</l>
+                  <l> quien no tiene dineros no es de sí señor.</l>
+               </lg>
+               <lg>
+                  <l> Y si tienes dinero, tendrás consolación,</l>
+                  <l> placeres y alegrías y del Papa ración,</l>
+                  <l> comprarás paraíso, ganarás la salvación:</l>
+                  <l> donde hay mucho dinero, hay mucha bendición.</l>
+               </lg>
+               <lg>
+                  <l> Él crea los priores, los obispos, los abades,</l>
+                  <l> arzobispos, doctores, patriarcas, potestades,</l>
+                  <l> a los clérigos necios da muchas dignidades.</l>
+                  <l> De verdad hace mentiras y de mentiras hace verdades.</l>
+               </lg>
+               <lg>
+                  <l> Él hace muchos clérigos y muchos ordenados,</l>
+                  <l> muchos monjes y monjas, religiosos sagrados:</l>
+                  <l> el dinero les da por bien examinados;</l>
+                  <l> a los pobres les dicen que no son ilustrados.</l>
+               </lg>
+               <lg>
+                  <l> Yo he visto a muchos curas en sus predicaciones</l>
+                  <l> denostar al dinero, también sus tentaciones,</l>
+                  <l> pero, al fin, por dinero otorgan los perdones,</l>
+                  <l> absuelven los ayunos y ofrecen oraciones.</l>
+               </lg>
+               <lg>
+                  <l> Dicen frailes y clérigos que aman a Dios servir,</l>
+                  <l> mas si huelen que el rico está para morir</l>
+                  <l> y oyen que su dinero empieza a retiñir,</l>
+                  <l> por quién ha de cogerlo empiezan a reñir.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La versión lo es en realidad de la de Paco Ibáñez (Paco Ibáñez 3, Polydor, 1969), sin
+            la última estrofa, que no recojemos en esta versión de la base de datos por estar fuera
+            de su rango cronológico.   Lo más interesante tal vez sea el intento de melodía
+            medievalizante con el que abre y cierra la canción. </note>
+      </body>
+   </text>
+</TEI>

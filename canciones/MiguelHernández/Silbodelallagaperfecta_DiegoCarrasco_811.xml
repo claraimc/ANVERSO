@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Silbo de la llaga perfecta</title>
+            <author>Diego Carrasco</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>A tiempo</title>
+               <publisher>Polydor</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://music.youtube.com/watch?v=s8RHlEE4v_0&amp;list=RDAMVMs8RHlEE4v_0"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Diego Carrasco</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>El silbo de la llaga perfecta</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Abreme, amor, la puerta</l>
+                  <l> de la llaga perfecta,</l>
+                  <l> de la llaga perfecta.</l>
+               </lg>
+               <lg>
+                  <l> Abre, amor mío, abre</l>
+                  <l> la puerta de mi sangre,</l>
+                  <l> la puerta de mi sangre.</l>
+               </lg>
+               <lg>
+                  <l> Abre, para que salgan</l>
+                  <l> todas las malas ansias.</l>
+               </lg>
+               <lg>
+                  <l> Abre, para que huyan</l>
+                  <l> las intenciones turbias.</l>
+               </lg>
+               <lg>
+                  <l> Abre, amor mío, abre</l>
+                  <l> la puerta de mi sangre,</l>
+                  <l> la puerta de mi sangre.</l>
+               </lg>
+               <lg>
+                  <l> Abre, amor mío, abre</l>
+                  <l> la puerta de mi sangre,</l>
+                  <l> la puerta de mi sangre.</l>
+               </lg>
+               <lg>
+                  <l> Abre, para que sean</l>
+                  <l> fuentes puras mi venas,</l>
+                  <l> mis manos cardos mondos,</l>
+                  <l> pozos quietos mis ojos.</l>
+               </lg>
+               <lg>
+                  <l> Abre, amor mío, abre</l>
+                  <l> la puerta de mi sangre,</l>
+                  <l> la puerta de mi sangre.</l>
+               </lg>
+               <lg>
+                  <l> Abre, que viene el aire</l>
+                  <l> de tus palabras…¡Abre!</l>
+               </lg>
+               <lg>
+                  <l> Abre, amor, que ya entra…</l>
+                  <l> ¡Ay!</l>
+                  <l> Que no se salga… ¡Cierra!</l>
+               </lg>
+               <lg>
+                  <l> Abre, amor mío, abre</l>
+                  <l> la puerta de mi sangre,</l>
+                  <l> la puerta de mi sangre.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">    </note>
+      </body>
+   </text>
+</TEI>

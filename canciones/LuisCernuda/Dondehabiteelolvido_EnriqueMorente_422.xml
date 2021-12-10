@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Donde habite el olvido</title>
+            <author>Enrique Morente</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Sueña la Alhambra</title>
+               <publisher>Warner Music</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=uhB3U-wn5-A"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Enrique Morente</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Luis Cernuda</persName>
+                  <bibl>Donde habite el olvido</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Donde habite el olvido</l>
+                  <l> Donde habite el olvido</l>
+                  <l> Donde habite el olvido</l>
+                  <l> Donde habite el olvido,</l>
+                  <l> En los vastos jardines sin aurora;</l>
+                  <l> Donde yo sólo sea</l>
+                  <l> Memoria de una piedra sepultada entre ortigas</l>
+                  <l> Sobre la cual el viento escapa a sus insomnios.</l>
+                  <l> Donde habite el olvido</l>
+                  <l> Donde habite el olvido</l>
+                  <l> Donde mi nombre deje</l>
+                  <l> Al cuerpo que designa en brazos de los siglos,</l>
+                  <l> Donde el deseo no exista.</l>
+                  <l> Donde habite el olvido</l>
+                  <l> Donde habite el olvido</l>
+                  <l> En esa gran región donde el amor, ángel terrible,</l>
+                  <l> No esconda como acero</l>
+                  <l> En mi pecho su ala,</l>
+                  <l> Sonriendo lleno de gracia aérea mientras crece el tormento.</l>
+                  <l> Donde habite el olvido</l>
+                  <l> Donde habite el olvido</l>
+                  <l> Allá donde termine este afán que exige un dueño a imagen suya,</l>
+                  <l> Sometiendo a otra vida su vida,</l>
+                  <l> Sin más horizonte que otros ojos frente a frente.</l>
+                  <l> Donde penas y dichas no sean más que nombres,</l>
+                  <l> Cielo y tierra nativos en torno de un recuerdo;</l>
+                  <l> Donde al fin quede libre sin saberlo yo mismo,</l>
+                  <l> Disuelto en niebla, ausencia,</l>
+                  <l> Ausencia leve como carne de niño.</l>
+                  <l> Allá, allá lejos;</l>
+                  <l> Donde habite el olvido</l>
+                  <l> Donde habite el olvido</l>
+                  <l> Donde habite el olvido</l>
+                  <l> Donde habite el olvido</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio; a falta de fuente escrita, la
+                    puntualización y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Pese a que la musicalización que realiza Enrique Morente del poema de Luis Cernuda es
+            idéntica, conviene señalar que el cantaor usa el verso que da título al poema, «Donde
+            habite el olvido», de manera repetida a modo de estribillo, al principio, al final y en
+            momentos intermedios de la canción. Aunque es una musicalización del poema de Cernuda,
+            este, a su vez, parte de Gustavo Adolfo Bécquer, cuando este, ante la pregunta de «¿A
+            dónde voy?», responde: «donde habite el olvido, / allí estará mi tumba».   </note>
+      </body>
+   </text>
+</TEI>

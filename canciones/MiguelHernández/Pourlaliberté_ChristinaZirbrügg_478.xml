@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pour la liberté</title>
+            <author>Christina Zirbrügg</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Lorca &amp; more</title>
+               <publisher>Gams Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/T9nSaE5C-K8"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Christina Zirbrügg</persName>
+                  <nationality>Suiza</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>El herido</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>La letra está en francés, por lo que no nos es posible transcribirla
+                    fielmente.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Aunque la canción está en francés, podemos suponer que, como la mayoría de
+            musicalizaciónes de este poema, utiliza las 5 estrofas de la segunda parte del mismo.
+        </note>
+      </body>
+   </text>
+</TEI>

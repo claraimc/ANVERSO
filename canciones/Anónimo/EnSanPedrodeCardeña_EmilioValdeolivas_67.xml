@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>En San Pedro de Cardeña</title>
+            <author>Emilio Valdeolivas</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>El cantar de mio Cid</title>
+               <publisher>Tecnosaga</publisher>
+               <date cert="low"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=el7V9-IRGnM&amp;t=562s"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Emilio Valdeolivas</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Visita a San Pedro de Cardeña (Cantar de mio Cid)</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Tornavas don Martino a Burgos e mio Çid aguijó</l>
+                  <l> pora San Pero de Cardeña quanto pudo a espolón,</l>
+                  <l> con estos cavalleros quel sirven a so sabor,</l>
+                  <l> Apriessa cantan los gallos e quieren crebar albores</l>
+                  <l> quando llegó a San Pero el buen Campeador</l>
+                  <l> y estava doña Ximena con çinco dueñas de pro,</l>
+                  <l> rogando a san Pero e al Criador</l>
+                  <l> tú que a todos guías, val a mio Çid el Campeador.</l>
+                  <l> Llamavan a la puerta i sopieron el mandado</l>
+                  <l> con lumbres e con candelas al corral dieron salto</l>
+                  <l> gracias don Sancho, e so vuestro pagado</l>
+                  <l> mas por que me vo de tierra, dovos çinquaenta marcos</l>
+                  <l> dellas e de mi mugier fagades todo recabdo.</l>
+                  <l> Dues fijas dexo niñas e prendetlas en los braços</l>
+                  <l> por un marco que despendades al monesterio daré yo cuatro</l>
+                  <l> bien las abastad, yo ansí vos lo mando.</l>
+                  <l> Merçed, Campeador, en buena ora fostes nado</l>
+                  <l> por malos mestureros de tierra sodes echado.</l>
+                  <l> Merçed ya, Çid, barba tan complida.</l>
+                  <l> Fem ante vos yo e vuestras ffijas</l>
+                  <l> con aquestas mis dueñas de quien yo so servida</l>
+                  <l> iffantes son e de días chicas.</l>
+                  <l> Yo lo veo que estades cos en ida</l>
+                  <l> e non de vos partir nos hemos en vida.</l>
+                  <l> Encliní las manos la barba vellida</l>
+                  <l> a las sues fijas en braço las prendía</l>
+                  <l> llególas al coraçón, ca mucho las quería.</l>
+                  <l> Llora de los ojos, tan fuerte mientre sospira:</l>
+                  <l> Ya doña Ximena, la mi muger complida,</l>
+                  <l> commo a la mie alma yo tanto vos quería.</l>
+                  <l> Yo iré y vos fincaredes remanida.</l>
+                  <l> Plega a Dios e a Santa María</l>
+                  <l> que aun con mis manos case estas mis fijas.</l>
+                  <l> Y a vos, mugier ondrada, de mí seades servida.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Toma los vv. 231-236, 239-244, 248-250, 257, 255, 260, 259 267-272, 274-279, 281-282b
+            y 284, del cantar primero del Cantar de mio Cid, en ese orden, con modificaciones
+            mínimas. Probablemente sigue la edición de Menéndez Pidal, dado el tratamiento de -e
+            final en varios versos, pero no podemos asegurarlo por el momento. Todo el disco está
+            dedicado al Cantar de mio Cid, del que es una adaptación. </note>
+      </body>
+   </text>
+</TEI>

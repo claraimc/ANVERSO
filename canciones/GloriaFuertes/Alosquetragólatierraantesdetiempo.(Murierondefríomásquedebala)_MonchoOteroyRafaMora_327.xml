@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A los que tragó la tierra antes de tiempo. (Murieron de frío más que de bala)</title>
+            <author>Moncho Otero y Rafa Mora</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Moncho Otero canta a Gloria Fuertes</title>
+               <publisher>Oecus</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=LZMrkEMkkxY&amp;list=OLAK5uy_m4XDnualm8lOW7bS50PgF37chqW2ooe9A&amp;index=43"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Moncho Otero y Rafa Mora</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Gloria Fuertes</persName>
+                  <bibl>A los que tragó la tierra antes de tiempo. (Murieron de frío más que de
+                bala)</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>A los que tragó la tierra antes de tiempo.</l>
+                  <l> (Murieron de frío más que de bala).</l>
+               </lg>
+               <lg>
+                  <l> Los abetos del bosque piden palomas,</l>
+                  <l> de puntillas se empinan sobre las lomas,</l>
+                  <l> a ver si vienen…</l>
+               </lg>
+               <lg>
+                  <l> Los chopos del pradillo chopos dorados,</l>
+                  <l> Se empinan por si vuelven…</l>
+                  <l> No vuelven los soldados.</l>
+               </lg>
+               <lg>
+                  <l> Por tierras de Teruel</l>
+                  <l> se quedaron helados.</l>
+                  <l> El Ebro sabe mucho</l>
+                  <l> de muchachos ahogados.</l>
+               </lg>
+               <lg>
+                  <l> Y la tierra,</l>
+                  <l> no sabía qué hacer</l>
+                  <l> con tanto precoz muerto.</l>
+               </lg>
+               <lg>
+                  <l> Y no os vale de nada que os recuerde</l>
+                  <l> que queríais vivir.</l>
+               </lg>
+               <lg>
+                  <l> ¡Bien lo recuerdo!</l>
+                  <l> ¡Bien lo recuerdo!</l>
+                  <l> ¡Bien lo recuerdo!</l>
+               </lg>
+               <lg>
+                  <l> Los abetos del bosque piden palomas,</l>
+                  <l> de puntillas se empinan sobre las lomas,</l>
+                  <l> a ver si vienen…</l>
+               </lg>
+               <lg>
+                  <l> Los chopos del pradillo chopos dorados,</l>
+                  <l> se empinan por si vuelven…</l>
+                  <l> No vuelven los soldados.</l>
+               </lg>
+               <lg>
+                  <l> Por tierras de Teruel</l>
+                  <l> se quedaron helados.</l>
+                  <l> El Ebro sabe mucho de muchachos ahogados.</l>
+               </lg>
+               <lg>
+                  <l> Y la tierra,</l>
+                  <l> no sabía qué hacer</l>
+                  <l> con tanto precoz muerto.</l>
+               </lg>
+               <lg>
+                  <l> Y no os vale de nada que os recuerde</l>
+                  <l> que queríais vivir.</l>
+               </lg>
+               <lg>
+                  <l> ¡Bien lo recuerdo!</l>
+                  <l> ¡Bien lo recuerdo!</l>
+                  <l> ¡Bien lo recuerdo!</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio; a falta de fuente escrita, la
+                    puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">El título del poema se recita a modo de introducción con los primeros acordes de la
+            canción. La musicalización sigue sin apenas alteraciones el texto original de Gloria
+            Fuertes, salvo el último verso que se repite tres veces.  El poema se canta dos veces
+            consecutivas, correspondiendo a Moncho Otero la voz principal en la primera vuelta y a
+            Rafa Mora en la segunda. Ciertos versos destacados a modo de estribillo son cantados al
+            unísono. Este tema pertenece a un disco doble que recoge los poemas musicalizados de
+            Gloria Fuertes por Moncho Otero. Incluye, además, grabaciones originales del recital que
+            la poeta y el cantante dieron el 3 de enero de 1998 en el café Soto Mesa de Madrid.
+            Gloria Fuertes y Moncho Otero realizaron varios recitales conjuntos entre los años 1996
+            y 1998.   </note>
+      </body>
+   </text>
+</TEI>

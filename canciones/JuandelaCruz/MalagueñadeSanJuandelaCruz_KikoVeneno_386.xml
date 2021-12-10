@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Malagueña de San Juan de la Cruz</title>
+            <author>Kiko Veneno</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Sensación térmica</title>
+               <publisher>DRO-Warner</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=-64AH3DlyQk"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Kiko Veneno</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Juan de la Cruz</persName>
+                  <bibl>Cántico espiritual</bibl>
+                  <relation>Trasposición</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>¿Adonde te escondiste, / y me dejaste con gemido?</l>
+                  <l> Como el ciervo huiste / después de haberme herido.</l>
+                  <l> Salí tras ti clamando / ¡Ya te habías ido!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Buscando mis amores / iré por esos montes y riberas</l>
+                  <l> ni cogeré las flores / ni temeré las fieras</l>
+                  <l> y pasaré los fuertes y fronteras.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Oh cristalina fuente, / si en esos tus semblantes plateados</l>
+                  <l> formaras de repente / el rostro deseado</l>
+                  <l> que tengo en mis entrañas / en mis entrañas dibujado.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Descubre tu presencia</l>
+                  <l> y que me maten tu vista y hermosura.</l>
+                  <l> Mira que la dolencia de amor que no se cura</l>
+                  <l> sino con la presencia, la presencia y la figura,</l>
+                  <l> la presencia y la figura.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión selecciona fragmentos del Cántico espiritual de san Juan de la Cruz, que
+            no aparece de forma completa. La referencia al poeta aparece también como parte del
+            título de la canción, que no respeta el título original del poema y por tanto hace
+            explícita la relación con el texto fuente. </note>
+      </body>
+   </text>
+</TEI>

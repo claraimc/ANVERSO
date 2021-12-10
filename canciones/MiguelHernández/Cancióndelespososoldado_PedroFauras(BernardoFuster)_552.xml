@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Canción del esposo soldado</title>
+            <author>Pedro Fauras (Bernardo Fuster)</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Manifiesto</title>
+               <publisher>Neue Welt</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/eHCHbCDAU-U"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Pedro Fauras (Bernardo Fuster)</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Canción del esposo soldado</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>He poblado tu vientre de amor y sementera,</l>
+                  <l> he prolongado el eco de sangre a que respondo</l>
+                  <l> y espero sobre el surco como el arado espera:</l>
+                  <l> he llegado hasta el fondo, he llegado hasta el fondo.</l>
+               </lg>
+               <lg>
+                  <l> Escríbeme a la lucha, siénteme en la trinchera:</l>
+                  <l> aquí con el fusil tu nombre evoco y fijo,</l>
+                  <l> y defiendo tu vientre de pobre que me espera,</l>
+                  <l> y defiendo tu hijo, y defiendo tu hijo</l>
+               </lg>
+               <lg>
+                  <l> Nacerá nuestro hijo con el puño cerrado,</l>
+                  <l> envuelto en un clamor de victoria y guitarras,</l>
+                  <l> y dejare a tu puerta mi vida de soldado</l>
+                  <l> sin colmillos ni garras, sin colmillos ni garras</l>
+               </lg>
+               <lg>
+                  <l> Es preciso matar para seguir viviendo.</l>
+                  <l> Un día iré a la sombra de tu pelo lejano,</l>
+                  <l> y dormiré en la sábana de almidón y de estruendo</l>
+                  <l> cosida por tu mano, cosida por tu mano.</l>
+               </lg>
+               <lg>
+                  <l> Para el hijo será la paz que estoy forjando.</l>
+                  <l> Y al fin en un océano de irremediables huesos</l>
+                  <l> tu corazón y el mío naufragarán, quedando</l>
+                  <l> una mujer y un hombre gastados por los besos,</l>
+                  <l> una mujer y un hombre gastados por los besos.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar del poema de Miguel Hernández. El autor
+            utiliza, para componer la canción, las estrofas primera, séptima, octava, novena y
+            undécima; además, se repite el último verso de cada estrofas: «…Es preciso matar para
+            seguir viviendo./Un día iré a la sombra de tu pelo lejano,/y dormiré en la sábana de
+            almidón y de estruendo/cosida por tu mano, cosida por tu mano…». Ante la imposibilidad
+            de encontrar el archivo de audio perteneciente a la primera versión del
+            disco Manifiesto, de 1975, hemos adjuntado el enlace para una canción perteneciente a un
+            disco recopilatorio del autor, Que el tiempo no borre. </note>
+      </body>
+   </text>
+</TEI>

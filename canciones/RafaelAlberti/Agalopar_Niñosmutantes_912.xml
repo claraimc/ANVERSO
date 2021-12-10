@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A galopar</title>
+            <author>Niños mutantes</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="ExtendedPlay(EP)">
+               <title>Diez &amp; Medio</title>
+               <publisher>Ernie Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=Q-yYG68A8Jk"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pop</term>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Niños mutantes</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <bibl>Galope</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Las tierras, las tierras, las tierras, las tierras de España,</l>
+                  <l> las grandes, las solas, desiertas llanuras.</l>
+                  <l> Galopa, caballo cuatralbo,</l>
+                  <l> jinete del pueblo, al sol y a la luna.</l>
+                  <l> A corazón, suenan, resuenan,</l>
+                  <l> las tierras de España en las herraduras.</l>
+                  <l> Galopa caballo cuatralbo,</l>
+                  <l> jinete del pueblo, caballo de espuma.</l>
+                  <l> A galopar, a galopar, hasta enterrarlos en el mar.</l>
+                  <l> A galopar, a galopar, hasta enterrarlos en el mar.</l>
+                  <l> Nadie, nadie, nadie, que enfrente no hay nadie;</l>
+                  <l> que es nadie la muerte si va en tu montura.</l>
+                  <l> Galopa caballo cuatralbo, jinete del pueblo,</l>
+                  <l> que la tierra es tuya.</l>
+                  <l> A galopar, a galopar, hasta enterrarlos en el mar.</l>
+                  <l> A galopar, a galopar, hasta enterrarlos en el mar.</l>
+                  <l> Hasta enterrarlos en el mar.</l>
+                  <l> Hasta enterrarlos en el mar.</l>
+                  <l> Nadie, nadie, nadie, que enfrente no hay nadie,</l>
+                  <l> que es nadie la muerte si va en tu montura.</l>
+                  <l> Galopa caballo cuatralbo, jinete del pueblo,</l>
+                  <l> que la tierra es tuya.</l>
+                  <l> A galopar, a galopar, hasta enterrarlos en el mar.</l>
+                  <l> A galopar, a galopar, hasta enterrarlos en el mar.</l>
+                  <l> A galopar, a galopar.</l>
+                  <l> A galopar, a galopar.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Parte de la versión de Paco Ibáñez de “A galopar” en su álbum Paco Ibáñez 3 (1969),
+            tanto en los acordes básicos como en el texto. Para adaptarlo a la melodía, en la
+            canción se producen variaciones mínimas respecto del poema en el texto, repeticiones de
+            versos y/o palabras y alteraciones de la métrica. La pieza, aunque aporta en
+            instrumentación un carácter pop, mantiene el esquema armónico y melódico (ambos de
+            carácter tonal) del original de Paco Ibáñez, que, a su vez, estructuraba la composición
+            según la forma canción (que también representa el poema de Alberti): alternancia de un
+            tema A de letra variable de cinco versos y un tema B (“A galopar, a galopar, hasta
+            enterrarlos en el mar”) que actúa como estribillo. </note>
+      </body>
+   </text>
+</TEI>

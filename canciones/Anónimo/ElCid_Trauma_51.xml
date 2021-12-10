@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El Cid</title>
+            <author>Trauma</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>El Cid</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target=""/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Heavy metal</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Trauma</persName>
+                  <nationality>Costa Rica</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Cantar de mio Cid</bibl>
+                  <relation>Intertextualidad</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Era la mano derecha del rey,</l>
+                  <l> era su hombre de confianza.</l>
+                  <l> Una duda cegó sus ojos</l>
+                  <l> sin percibir que era venganza.</l>
+               </lg>
+               <lg>
+                  <l> Por su destierro inesperado,</l>
+                  <l> él quería saber la razón.</l>
+                  <l> El monarca aún cegado,</l>
+                  <l> él sentía dolor en su corazón.</l>
+               </lg>
+               <lg>
+                  <l> Su fuerza de guerrero</l>
+                  <l> le hizo reaccionar:</l>
+                  <l> conquistaría tierras lejanas</l>
+                  <l> para a su señor agradar.</l>
+               </lg>
+               <lg>
+                  <l> Eran grandes sus amores,</l>
+                  <l> su esposa, sus hijas y el rey,</l>
+                  <l> pero debía partir de Castilla</l>
+                  <l> para implantar su propia ley.</l>
+               </lg>
+               <lg>
+                  <l> Era su espada tan grande</l>
+                  <l> como la misma verdad.</l>
+                  <l> Su vida era luchar,</l>
+                  <l> esa es la realidad.</l>
+               </lg>
+               <lg>
+                  <l> Regresose al fin a Castilla</l>
+                  <l> el gran guerrero, el mio Cid.</l>
+                  <l> Su rey al fin sonreía,</l>
+                  <l> tomarían el fruto de la vid.</l>
+               </lg>
+               <lg>
+                  <l> El gran guerrero lo logró,</l>
+                  <l> muchos tesoros y una gran fe.</l>
+                  <l> Su honor reconquistó</l>
+                  <l> e implantó su propia ley.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Aunque no hay referencias expícitas al Cantar de mio Cid, la letra muy claramente hace
+            referencia a la caracterización de Rodrigo Díaz de Vivar en el mismo, particularmente en
+            el primer cantar, pero también al perdón real en el segundo cantar. </note>
+      </body>
+   </text>
+</TEI>

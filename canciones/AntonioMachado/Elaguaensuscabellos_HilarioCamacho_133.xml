@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El agua en sus cabellos</title>
+            <author>Hilario Camacho</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>De paso</title>
+               <publisher>Movieplay</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=TUpBpjMc2dQ"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Hilario Camacho</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Antonio Machado</persName>
+                  <bibl>[Desgarrada la nube; el arco iris]</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Desgarrada la nube; el arco iris</l>
+                  <l> brillando ya en el cielo,</l>
+                  <l> y en un fanal de lluvias</l>
+                  <l> y de sol el campo envuelto.</l>
+                  <l> Y en un fanal de lluvias</l>
+                  <l> y de sol el campo envuelto.</l>
+               </lg>
+               <lg>
+                  <l> Desperté.</l>
+                  <l> ¿Quién enturbia ya mi sueño?</l>
+                  <l> Mi corazón latía</l>
+                  <l> atónito y disperso.</l>
+               </lg>
+               <lg>
+                  <l> ¡Y el limonar florido,</l>
+                  <l> y el cipresal del huerto,</l>
+                  <l> el prado verde, el sol, el agua, el iris!</l>
+                  <l> El agua en sus cabellos…</l>
+                  <l> Y todo en la memoria se perdía</l>
+                  <l> como una pompa de jabón al viento.</l>
+               </lg>
+               <lg>
+                  <l> Desperté.</l>
+                  <l> ¿Quién enturbia ya mi sueño?</l>
+                  <l> Mi corazón latía</l>
+                  <l> atónito y disperso.</l>
+               </lg>
+               <lg>
+                  <l> ¡Y el limonar florido,</l>
+                  <l> y el cipresal del huerto,</l>
+                  <l> el prado verde, el sol, el agua, el iris!</l>
+                  <l> El agua en sus cabellos…</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La letra de la canción es prácticamente igual al poema, excepto que algunos versos se
+            repiten, para ajustarse a la melodía, y los versos 5 y 6 del original sufren ligeras
+            variaciones. </note>
+      </body>
+   </text>
+</TEI>

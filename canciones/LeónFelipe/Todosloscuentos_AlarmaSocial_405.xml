@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Todos los cuentos</title>
+            <author>Alarma Social</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>En defensa de la verdad</title>
+               <publisher>No Tomorrow</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target=""/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Punk y punk-rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Alarma Social</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>León Felipe</persName>
+                  <bibl>Sé todos los cuentos</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Yo no sé muchas cosas, es verdad.</l>
+                  <l> Yo no sé.</l>
+                  <l> Digo tan sólo lo que he visto.</l>
+                  <l> Digo tan sólo lo que he visto.</l>
+                  <l> Y he visto:</l>
+                  <l> Y he visto:</l>
+                  <l> que la cuna del hombre la mecen</l>
+                  <l> con cuentos,</l>
+                  <l> que los gritos de angustia los ahogan</l>
+                  <l> con cuentos,</l>
+                  <l> que el llanto del hombre lo taponan</l>
+                  <l> con cuentos,</l>
+                  <l> que los huesos del hombre los entierran</l>
+                  <l> con cuentos,</l>
+                  <l> y que el miedo del hombre</l>
+                  <l> ha creado</l>
+                  <l> los cuentos.</l>
+               </lg>
+               <lg>
+                  <l> Yo no sé muchas cosas, es verdad.</l>
+                  <l> Yo no sé.</l>
+                  <l> Digo tan sólo lo que he visto.</l>
+                  <l> Digo tan sólo lo que he visto.</l>
+                  <l> Y he visto:</l>
+                  <l> Y he visto:</l>
+                  <l> que la cuna del hombre la mecen</l>
+                  <l> con cuentos,</l>
+                  <l> que los gritos de angustia los ahogan</l>
+                  <l> con cuentos,</l>
+                  <l> que el llanto del hombre lo taponan</l>
+                  <l> con cuentos,</l>
+                  <l> que los huesos del hombre los entierran</l>
+                  <l> con cuentos,</l>
+                  <l> y que el miedo del hombre</l>
+                  <l> ha creado</l>
+                  <l> los cuentos.</l>
+               </lg>
+               <lg>
+                  <l> Yo no sé muchas cosas, es verdad,</l>
+                  <l> pero me han dormido con todos los cuentos</l>
+                  <l> y me sé</l>
+                  <l> todos los cuentos.</l>
+                  <l> Los cuentos, los cuentos…</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Mediante la repetición, alargan el poema al que, por lo demás, se mantienen fieles.
+        </note>
+      </body>
+   </text>
+</TEI>

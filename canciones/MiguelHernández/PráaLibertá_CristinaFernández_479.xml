@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prá a Libertá</title>
+            <author>Cristina Fernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Lembranza</title>
+               <publisher>Ediciones Tacuabé SRL</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://open.spotify.com/album/0gplNw5tujia415VbjkEGF"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Cristina Fernández</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>El herido</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Pra liberdade, sangro, loito, sobrevivo.</l>
+                  <l> Pra liberdade, os meus ollos e as miñas mans.</l>
+                  <l> Como unha árbore carnal, xenerosa e cativa.</l>
+                  <l> Eu dou cirurxiáns Pra liberdade sinto máis corazóns.</l>
+                  <l> Que area no meu peito: dan espumas As miñas veas,</l>
+                  <l> e entro en hospitais, e entro Algodóns Como nos lírios.</l>
+                  <l> Porque onde unhas pías baleiras amanecer.</l>
+                  <l> Ela porá dúas pedras de aspecto futuro</l>
+                  <l> e fará novas armas e novas</l>
+               </lg>
+               <lg>
+                  <l> As pernas medran Na carne cortada.</l>
+                  <l> A savia alada brotará sen outono</l>
+                  <l> reliquias do meu corpo nas que perdo cada ferida.</l>
+                  <l> Porque son como a árbore derrubada Que xunta.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar del poema de Miguel Hernández. La
+            canción, interpretada en gallego, utiliza las cinco estrofas de la segunda parte del
+            poema. </note>
+      </body>
+   </text>
+</TEI>

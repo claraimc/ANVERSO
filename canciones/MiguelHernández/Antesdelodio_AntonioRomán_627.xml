@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Antes del odio</title>
+            <author>Antonio Román</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Caravaggio dijo</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/mtoRwgDyv94"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Antonio Román</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Antes del odio</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Beso soy, sombra con sombra.</l>
+                  <l> Beso, dolor con dolor,</l>
+                  <l> por haberme enamorado,</l>
+                  <l> corazón sin corazón,</l>
+                  <l> de las cosas, del aliento</l>
+                  <l> sin sombra de la creación.</l>
+                  <l> Corazón en una copa</l>
+                  <l> donde me lo bebo yo</l>
+                  <l> y no se lo bebe nadie,</l>
+                  <l> nadie sabe su sabor.</l>
+                  <l> Odio, vida: ¡cuánto odio</l>
+                  <l> sólo por amor!</l>
+               </lg>
+               <lg>
+                  <l> Sed con agua en la distancia,</l>
+                  <l> pero sed alrededor.</l>
+               </lg>
+               <lg>
+                  <l> No es posible acariciarte</l>
+                  <l> con las manos que me dio</l>
+                  <l> el fuego de más deseo,</l>
+                  <l> el ansia de más ardor.</l>
+                  <l> Varias alas, varios vuelos</l>
+                  <l> abaten en ellas hoy</l>
+                  <l> hierros que cercan las venas</l>
+                  <l> y las muerden con rencor.</l>
+               </lg>
+               <lg>
+                  <l> Sed con agua en la distancia,</l>
+                  <l> pero sed alrededor.</l>
+               </lg>
+               <lg>
+                  <l> No, no hay cárcel para el hombre.</l>
+                  <l> No podrán atarme, no.</l>
+                  <l> Este mundo de cadenas</l>
+                  <l> me es pequeño y exterior.</l>
+                  <l> ¿Quién encierra una sonrisa?</l>
+                  <l> ¿Quién amuralla una voz?</l>
+                  <l> A lo lejos tú, más sola</l>
+                  <l> que la muerte, la una y yo.</l>
+                  <l> A lo lejos tú, sintiendo</l>
+                  <l> en tus brazos mi prisión,</l>
+                  <l> en tus brazos donde late</l>
+                  <l> la libertad de los dos.</l>
+                  <l> Libre soy. Siénteme libre.</l>
+                  <l> Sólo por amor.</l>
+               </lg>
+               <lg>
+                  <l> Sed con agua en la distancia,</l>
+                  <l> pero sed alrededor.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar al poema de Miguel Hernández. El autor
+            utiliza las estrofas primera, segunda y última del poema; usando, además, los versos de
+            la primera estrofa «…Sed con agua en la distancia,/pero sed alrededor…», a modo de
+            estribillo. </note>
+      </body>
+   </text>
+</TEI>

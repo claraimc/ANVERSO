@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pastoril</title>
+            <author>Oriana Quintero</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Miguel Hernández</title>
+               <publisher>--</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=gywpZfYNSYk"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Oriana Quintero</persName>
+                  <nationality>Venezuela</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Pastoril</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Junto al río transparente</l>
+                  <l> que el astro rubio colora</l>
+                  <l> y riza el aura naciente</l>
+                  <l> llora Leda la pastora.</l>
+               </lg>
+               <lg>
+                  <l> De amarga hiel es su llanto.</l>
+                  <l> ¿Qué llora la pastorcilla?</l>
+                  <l> ¿Qué pena, qué gran quebranto</l>
+                  <l> puso blanca su mejilla?</l>
+               </lg>
+               <lg>
+                  <l> ¡Su pastor la ha abandonado!</l>
+                  <l> A la ciudad se marchó</l>
+                  <l> y solita la dejó</l>
+                  <l> a la vera del ganado.</l>
+               </lg>
+               <lg>
+                  <l> ¡Ya no comparte su choza</l>
+                  <l> ni amamanta su cordero!</l>
+                  <l> ¡Ya no le dice: “Te quiero”,</l>
+                  <l> y llora y llora la moza!</l>
+               </lg>
+               <lg>
+                  <l> Decía que me quería</l>
+                  <l> tu boca de fuego llena.</l>
+                  <l> ¡Mentira! –dice con pena–</l>
+                  <l> ¡ay! ¿por qué me lo decía?</l>
+               </lg>
+               <lg>
+                  <l> Yo que ciega te creí,</l>
+                  <l> yo que abandoné mi tierra</l>
+                  <l> para seguirte a tu sierra</l>
+                  <l> ¡me veo dejada de ti!…</l>
+               </lg>
+               <lg>
+                  <l> Junto al río transparente</l>
+                  <l> que la noche va sombreando</l>
+                  <l> y riza el aura de Oriente,</l>
+                  <l> sigue la infeliz llorando.</l>
+               </lg>
+               <lg>
+                  <l> Ya la tierna y blanca flor</l>
+                  <l> no camina hacia la choza</l>
+                  <l> cuando el sol la sierra roza</l>
+                  <l> al lado de su pastor.</l>
+               </lg>
+               <lg>
+                  <l> Ahora va sola al barranco</l>
+                  <l> y al llano regresa sola,</l>
+                  <l> marcha y vuelve triste y bola</l>
+                  <l> tras de su rebaño blanco.</l>
+               </lg>
+               <lg>
+                  <l> ¿Por qué, pastor descastado,</l>
+                  <l> abandonas tu pastora</l>
+                  <l> que sin ti llora y más llora</l>
+                  <l> a la vera del ganado?</l>
+               </lg>
+               <lg>
+                  <l> La noche viene corriendo</l>
+                  <l> el azul cielo enlutando:</l>
+                  <l> el río sigue pasando</l>
+                  <l> y la pastora gimiendo.</l>
+               </lg>
+               <lg>
+                  <l> Mas cobra su antiguo brío,</l>
+                  <l> y hermosamente serena,</l>
+                  <l> sepulta su negra pena</l>
+                  <l> entre las aguas del río.</l>
+               </lg>
+               <lg>
+                  <l> Reina un silencio sagrado…</l>
+                  <l> ¡Ya no llora la pastora!</l>
+                  <l> ¡Después parece que llora</l>
+                  <l> llamándola, su ganado!</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Hubo una primera versión de Francisco Curto (Miguel Hernández, 1974), pero, al ser
+            anterior a 1975, no está recogida en esta base de datos. </note>
+      </body>
+   </text>
+</TEI>

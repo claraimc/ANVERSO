@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Casida de las palomas oscuras</title>
+            <author>Jarcha</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>A la memoria de Federico García Lorca</title>
+               <publisher>Kraken</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=6-C-79tKHG4"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Jarcha</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Casida de las palomas oscuras</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Luz de luna</l>
+                  <l> luna hechicera.</l>
+                  <l> Luz de luna,</l>
+                  <l> noche encantada.</l>
+                  <l> Luz de luna y Federico,</l>
+                  <l> luz de luna,</l>
+                  <l> García Lorca.</l>
+                  <l> Luz de luna</l>
+                  <l> luna hechicera.</l>
+                  <l> Luz de luna,</l>
+                  <l> noche encantada.</l>
+                  <l> Luz de luna y Federico,</l>
+                  <l> luz de luna,</l>
+                  <l> García Lorca.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Por las ramas de un laurel</l>
+                  <l> vi dos palomas oscuras:</l>
+                  <l> la una era el sol,</l>
+                  <l> la otra la luna.</l>
+                  <l> «Vecinitas», les dije,</l>
+                  <l> «¿dónde está mi sepultura?»</l>
+                  <l> «En mi cola», dijo el Sol,</l>
+                  <l> «en mi garganta», dijo la Luna.</l>
+                  <l> «En mi cola», dijo el Sol,</l>
+                  <l> «en mi garganta», dijo la Luna.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Luz de luna</l>
+                  <l> luna hechicera.</l>
+                  <l> Luz de luna,</l>
+                  <l> noche encantada.</l>
+                  <l> Luz de luna y Federico,</l>
+                  <l> luz de luna,</l>
+                  <l> García Lorca.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Y yo que estaba caminando</l>
+                  <l> con la tierra por la cintura</l>
+                  <l> vi dos águilas de nieve</l>
+                  <l> y una muchacha desnuda.</l>
+                  <l> La una era la otra</l>
+                  <l> y la muchacha era ninguna.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> «Aguilitas» les dije,</l>
+                  <l> «¿dónde está mi sepultura?»</l>
+                  <l> «En mi cola», dijo el Sol,</l>
+                  <l> «en mi garganta», dijo la Luna.</l>
+                  <l> «En mi cola», dijo el Sol,</l>
+                  <l> «en mi garganta», dijo la Luna.</l>
+                  <l> Por las ramas del laurel</l>
+                  <l> vi dos palomas desnudas.</l>
+                  <l> La una era la otra</l>
+                  <l> y las dos eran ninguna.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Luz de luna</l>
+                  <l> luna hechicera.</l>
+                  <l> Luz de luna,</l>
+                  <l> noche encantada.</l>
+                  <l> Luz de luna y Federico,</l>
+                  <l> luz de luna,</l>
+                  <l> García Lorca.</l>
+                  <l> Luz de luna</l>
+                  <l> luna hechicera.</l>
+                  <l> Luz de luna,</l>
+                  <l> noche encantada.</l>
+                  <l> Luz de luna y Federico,</l>
+                  <l> luz de luna,</l>
+                  <l> García Lorca.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio, a falta de buena fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Hubo una musicalización anterior a 1975, por eso no recogida en esta base de datos:
+            Paco Ibáñez (Paco Ibañez – 1. Poemas de Federico García Lorca y Luis de Góngora, 1964).
+              Musicalización similar con la introducción de un estribillo que no aparece en el poema
+            original. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tus cartas son un vino</title>
+            <author>Lianny Otero</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Una canción para Miguel</title>
+               <publisher>A Guitarra Limpia (Centro Pablo) y SGAE</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/mjBPh_rW8qo"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Lianny Otero</persName>
+                  <nationality>Cuba</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>A mi gran Josefina adorada</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Tus cartas son un vino</l>
+                  <l> que me trastorna y son</l>
+                  <l> el único alimento</l>
+                  <l> para mi corazón.</l>
+               </lg>
+               <lg>
+                  <l> Desde que estoy ausente</l>
+                  <l> no sé sino soñar,</l>
+                  <l> igual que el mar tu cuerpo,</l>
+                  <l> amargo igual que el mar.</l>
+               </lg>
+               <lg>
+                  <l> Tus cartas apaciento</l>
+                  <l> metido en un rincón</l>
+                  <l> y por redil y hierba</l>
+                  <l> les doy mi corazón.</l>
+               </lg>
+               <lg>
+                  <l> Aunque bajo la tierra</l>
+                  <l> mi amante cuerpo esté,</l>
+                  <l> escríbeme, paloma,</l>
+                  <l> que yo te escribiré.</l>
+               </lg>
+               <lg>
+                  <l> Cuando me falte sangre</l>
+                  <l> con zumo de clavel,</l>
+                  <l> y encima de mis huesos</l>
+                  <l> de amor cuando papel.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización idéntica del poema de Miguel Hernández.  
+        </note>
+      </body>
+   </text>
+</TEI>

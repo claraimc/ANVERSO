@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A la soledad me vine</title>
+            <author>Miguel Poveda</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Poemas del exilio. Rafael Alberti</title>
+               <publisher>Harmonia Mundi</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=6QoTVhOpct8"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Clásica</term>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Miguel Poveda</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <bibl>Canción 17 [A la soledad me vine]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>A la soledad me vine</l>
+                  <l> por ver si encontraba el río.</l>
+                  <l> Por ver…</l>
+                  <l> Por ver si encontraba el río</l>
+                  <l> del olvido.</l>
+                  <l> A la soledad me vine.</l>
+                  <l> Y en la soledad no había</l>
+                  <l> más que soledad…</l>
+                  <l> más que soledad sin río.</l>
+               </lg>
+               <lg>
+                  <l> ¡Ayyyyy!</l>
+               </lg>
+               <lg>
+                  <l> Cuando se ha visto…</l>
+                  <l> Cuando se ha visto la sangre,</l>
+                  <l> en la soledad no hay río</l>
+                  <l> del olvido.</l>
+                  <l> Lo hubiera, y nunca sería</l>
+                  <l> el del olvido.</l>
+               </lg>
+               <lg>
+                  <l> Ya no me importa ser nuevo,</l>
+                  <l> ser viejo ni estar pasado.</l>
+                  <l> Lo que me importa es la vida</l>
+                  <l> que se me va en cada canto.</l>
+               </lg>
+               <lg>
+                  <l> La vida de cada canto.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y los poemas originales; la puntuación
+                    y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Poveda fusiona dos poemas de Baladas y canciones del Paraná de Alberti que tienen el
+            tema común del exilio, pero usa de título común el primer verso de la «Canción 17 [A la
+            soledad me vine]»; la musicalización es casi idéntica, excepto por algunas variaciones
+            léxicas mínimas. </note>
+      </body>
+   </text>
+</TEI>

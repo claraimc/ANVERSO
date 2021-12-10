@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Donde habita el olvido</title>
+            <author>Joaquín Sabina</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>19 días y 500 noches</title>
+               <publisher>BMG Ariola</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=32dLjYOVJWU"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Joaquín Sabina</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Luis Cernuda</persName>
+                  <bibl>Donde habite el olvido</bibl>
+                  <relation>Intertextualidad</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Cuando se despertó,</l>
+                  <l> no recordaba nada</l>
+                  <l> de la noche anterior,</l>
+                  <l> “demasiadas cervezas”,</l>
+                  <l> dijo al ver mi cabeza</l>
+                  <l> al lado de la suya, en la almohada…</l>
+                  <l> y la besé otra vez,</l>
+                  <l> pero ya no era ayer</l>
+                  <l> sino mañana.</l>
+                  <l> Y un insolente sol,</l>
+                  <l> como un ladrón, entró</l>
+                  <l> por la ventana.</l>
+               </lg>
+               <lg>
+                  <l> El día que llegó</l>
+                  <l> tenía ojeras malvas</l>
+                  <l> y barro en el tacón,</l>
+                  <l> desnudos, pero extraños,</l>
+                  <l> nos vio, roto el engaño</l>
+                  <l> de la noche, la cruda luz del alba.</l>
+                  <l> Era la hora de huir</l>
+                  <l> y se fue sin decir</l>
+                  <l> “llámame un día”.</l>
+                  <l> Desde el balcón la vi</l>
+                  <l> perderse en el trajín</l>
+                  <l> de la Gran Vía.</l>
+               </lg>
+               <lg>
+                  <l> Y la vida siguió</l>
+                  <l> como siguen las cosas que no</l>
+                  <l> tienen mucho sentido,</l>
+                  <l> una vez me contó,</l>
+                  <l> un amigo común, que la vio</l>
+                  <l> donde habita el olvido.</l>
+               </lg>
+               <lg>
+                  <l> La pupila archivó</l>
+                  <l> un semáforo rojo,</l>
+                  <l> una mochila, un peugeot</l>
+                  <l> y aquellos ojos</l>
+                  <l> miopes</l>
+                  <l> y la sangre al galope</l>
+                  <l> por mis venas</l>
+                  <l> y una nube de arena</l>
+                  <l> dentro del corazón</l>
+                  <l> y esta racha de amor</l>
+                  <l> sin apetito.</l>
+                  <l> Los besos que perdí,</l>
+                  <l> por no saber decir</l>
+                  <l> “te necesito”.</l>
+               </lg>
+               <lg>
+                  <l> Y la vida siguió</l>
+                  <l> como siguen las cosas que no</l>
+                  <l> tienen mucho sentido,</l>
+                  <l> una vez me contó</l>
+                  <l> un amigo común, que la vio</l>
+                  <l> donde habita el olvido.</l>
+               </lg>
+               <lg>
+                  <l> [Letra tomada de Joaquín Sabina, Con buena letra (Madrid: Temas de Hoy, 2002),
+                    p. 196]</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">El título de la canción de Sabina, que se repite en el estribillo, se inspira en el
+            libro de Luis Cernuda, Donde habite el olvido (1934) y en el poema homónimo ahí
+            incluido; a su vez, ambos se remontan a la rima LXVI de Gustavo Adolfo Bécquer, cuando
+            este, ante la pregunta de «¿A dónde voy?», responde: «donde habite el olvido, / allí
+            estará mi tumba». Nótese que en los textos de Bécquer y Cernuda se usa olvidar en
+            presente de subjuntivo, mientras que Sabina lo usa en indicativo. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Como el toro he nacido para el luto</title>
+            <author>Inés Fonseca</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Vuelo</title>
+               <publisher>Editorial Universidad de Cantabria</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=OrsvyMzQyFg&amp;t=54s"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Jazz</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Inés Fonseca</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Como el toro he nacido para el luto]</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Como el toro he nacido para el luto</l>
+                  <l> y el dolor, como el toro estoy marcado</l>
+                  <l> por un hierro infernal en el costado</l>
+                  <l> y por varón en la ingle con un fruto.</l>
+               </lg>
+               <lg>
+                  <l> Como el toro lo encuentra diminuto</l>
+                  <l> todo mi corazón desmesurado,</l>
+                  <l> y del rostro del beso enamorado,</l>
+                  <l> como el toro a tu amor se lo disputo.</l>
+               </lg>
+               <lg>
+                  <l> Como el toro me crezco en el castigo,</l>
+                  <l> y la lengua en corazón tengo bañada</l>
+                  <l> y llevo al cuello un vendaval sonoro.</l>
+               </lg>
+               <lg>
+                  <l> Como el toro te sigo y te persigo,</l>
+                  <l> y dejas mi deseo en una espada,</l>
+                  <l> como el toro burlado, como el toro. [Verso x 4]</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">El álbum es, en realidad, un libro-disco, editado por la Universidad de Cantabria, con
+            ilustraciones de Luis Quintanilla y fragmentos de su epistolario, realizada con motivo
+            del centenario del nacimiento de Miguel Hernández. Musicalización idéntica, excepto que
+            repite cuatro veces el último verso. Hubo una primera versión musicada de Pedro Ávila
+            (El hombre nuevo cantado, 1971); sin embargo, por ser anterior a 1975, no está recogida
+            en esta base de datos. </note>
+      </body>
+   </text>
+</TEI>

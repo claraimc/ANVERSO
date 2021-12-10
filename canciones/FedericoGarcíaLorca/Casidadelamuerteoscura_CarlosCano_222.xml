@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Casida de la muerte oscura</title>
+            <author>Carlos Cano</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Diván del Tamarit. Gacelas y Casidas.</title>
+               <publisher>Dalur Discos</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=sgbfrr6D1nE&amp;list=PLDtszg9eT1fzwhPDDvl4irXJcVoUVplcY&amp;index=14"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Carlos Cano</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Gacela de la muerte oscura</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Quiero dormir el sueño de las manzanas,</l>
+                  <l> alejarme del tumulto de los cementerios.</l>
+                  <l> Quiero dormir el sueño de aquel niño</l>
+                  <l> que quería cortarse el corazón en alta mar.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> No quiero que me repita que los muertos no pierden la sangre,</l>
+                  <l> que la boca podrida sigue pidiendo agua.</l>
+                  <l> No quiero enterarme de los martirios que da la hierba</l>
+                  <l> ni de la luna con boca de serpiente</l>
+                  <l> que trabaja antes del amanecer.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Quiero dormir un rato,</l>
+                  <l> un rato, un minuto, un siglo,</l>
+                  <l> pero que todos sepan, ay, que no he muerto</l>
+                  <l> que hay un establo de oro en mis labios</l>
+                  <l> que soy el pequeño amigo del viento Oeste</l>
+                  <l> que soy la sombra inmensa de mis lágrimas,</l>
+                  <l> que soy la sombra inmensa de mis lágrimas.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Cúbreme por la aurora con un velo</l>
+                  <l> porque me arrojará puñados de hormigas</l>
+                  <l> y moja con agua dura mis zapatos</l>
+                  <l> para que resbale la pinza de su alacrán.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Porque quiero dormir el sueño de las manzanas</l>
+                  <l> para aprender un llanto que me limpie de tierra,</l>
+                  <l> porque quiero vivir con aquel niño oscuro</l>
+                  <l> que quería cortarse el corazón en alta mar.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Quiero dormir un rato,</l>
+                  <l> un rato, un minuto, un siglo,</l>
+                  <l> pero que todos sepan, ay, que no he muerto</l>
+                  <l> que hay un establo de oro en mis labios</l>
+                  <l> que soy el pequeño amigo del viento Oeste</l>
+                  <l> que soy la sombra inmensa de mis lágrimas,</l>
+                  <l> que soy la sombra inmensa de mis lágrimas.</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización similar con repetición de algunos versos, y la repetición final de la
+            tercera estrofa. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romance del infante Arnaldos</title>
+            <author>Amancio Prada</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Del amor que quita el sueño (Romances y canciones desde el Reino de León)</title>
+               <publisher>Musicamaina</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=aUFqENpSC6Q"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Amancio Prada</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Romance del conde Arnaldos «Quién hubiese tal ventura»</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>¡Quién hubiera tal ventura sobre las aguas del mar</l>
+                  <l> como hubo el conde Arnaldos la mañana de San Juan!</l>
+                  <l> Yendo a buscar la caza para su falcón cebar,</l>
+                  <l> vio venir una galera que a tierra quiere llegar;</l>
+                  <l> las velas trae de seda, jarcias de oro torzal,</l>
+                  <l> áncoras tiene de plata, tablas de fino coral.</l>
+                  <l> Marinero que la guía, diciendo viene un cantar,</l>
+                  <l> que la mar ponía en calma, los vientos hace amainar;</l>
+                  <l> las aves que van volando, al mástil vienen posar.</l>
+                  <l> los peces que andan al fondo, arriba los hace andar;</l>
+                  <l> Allí habló el infante Arnaldos, bien oiréis lo que dirá:</l>
+                  <l> —Por tu vida, el marinero, dígasme ora ese cantar—.</l>
+                  <l> Respondiole el marinero, tal respuesta le fue a dar:</l>
+                  <l> —Yo no canto mi canción sino a quién conmigo va—.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">No hemos podido localizar la versión exacta que sigue el artista.   Como señala el
+            subtítulo del álbum, todo él está dedicado a piezas de la lírica castellana medieval y
+            temprano-moderna. </note>
+      </body>
+   </text>
+</TEI>

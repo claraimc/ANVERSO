@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A galopar</title>
+            <author>Ataque 77</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Otras canciones</title>
+               <publisher>BMG Ariola</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=rjWBxHJzrCY"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Punk y punk-rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Ataque 77</persName>
+                  <nationality>Argentina</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <bibl>Galope</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Las tierras, las tierras de España,</l>
+                  <l> la grandes, las solas, desiertas llanuras.</l>
+                  <l> Galopa, caballo cuatralbo,</l>
+                  <l> jinete del pueblo,</l>
+                  <l> que la tierra es tuya.</l>
+               </lg>
+               <lg>
+                  <l> A galopar, a galopar, hasta enterrarlos en el mar.</l>
+                  <l> A galopar, a galopar, hasta enterrarlos en el mar.</l>
+               </lg>
+               <lg>
+                  <l> A corazón, suenan, resuenan,</l>
+                  <l> las tierras de España en las herraduras.</l>
+                  <l> Galopa, caballo cuadralbo,</l>
+                  <l> jinete del pueblo, caballo de espuma.</l>
+               </lg>
+               <lg>
+                  <l> A galopar, a galopar, hasta enterrarlos en el mar.</l>
+                  <l> A galopar, a galopar, hasta enterrarlos en el mar.</l>
+               </lg>
+               <lg>
+                  <l> Nadie, que enfrente no hay nadie;</l>
+                  <l> que es nada la muerte si va en tu montura.</l>
+                  <l> Galopa, caballo cuatralbo,</l>
+                  <l> jinete del pueblo,</l>
+                  <l> que la tierra es tuya.</l>
+               </lg>
+               <lg>
+                  <l> A galopar, a galopar, hasta enterrarlos en el mar.</l>
+                  <l> A galopar, a galopar, hasta enterrarlos en el mar.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La versión lo es en realidad de la de Paco Ibáñez (Paco Ibáñez 3, Moshé-Naïm, 1969),
+            que por razones cronológicas queda fuera del rango de este proyecto. Incluye algunos
+            cambios en el orden de los sintagmas respecto a su modelo. Todo el álbum está dedicado a
+            versiones de canciones de fuera del punk-rock. El aspecto instrumental, propio del
+            estilo punk, adquiere protagonismo en esta versión que, no obstante, se mantiene fiel al
+            original de Paco Ibáñez en forma (alternancia de A -de letra variable- y B o estribillo
+            -”A galopar, a galopar, hasta enterrarlos en el mar”-), armonía y melodía. </note>
+      </body>
+   </text>
+</TEI>

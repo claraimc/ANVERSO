@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Canción última</title>
+            <author>Colectivo de Músicas Mestizas</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Otros">
+               <title>Las tres heridas</title>
+               <publisher>Solfatara</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://datos.bne.es/edicion/a5161241.html"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Colectivo de Músicas Mestizas</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Canción última</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>No se ha podido tener acceso a la letra.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta musicalización formaba parte de un acto multidisciplinar realizado en el Cine
+            Víctor Espacio Multicultural de Santa Cruz de Tenerife, los días 29 y 30 de octubre de
+            2010 (multimedia Las 3 heridas), y para la gala artística del Festival 3 orillas (La
+            Laguna Capital Mundial de la Poesía) del 12 de noviembre de 2010 en el Paraninfo de la
+            Universidad de La Laguna. </note>
+      </body>
+   </text>
+</TEI>

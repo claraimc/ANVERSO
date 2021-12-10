@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A un olmo seco</title>
+            <author>Calixto Sánchez</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Antonio Machado. Retrato flamenco</title>
+               <publisher>Pasarela</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=woANfUsRTxQ"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Calixto Sánchez</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Antonio Machado</persName>
+                  <bibl>A un olmo seco</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Al olmo viejo, hendido por el rayo</l>
+                  <l> y en su mitad podrido,</l>
+                  <l> con las lluvias de abril y el sol de mayo,</l>
+                  <l> algunas hojas verdes le han salido.</l>
+               </lg>
+               <lg>
+                  <l> ¡Al olmo centenario y en la colina</l>
+                  <l> que lame el Duero! Y un musgo amarillento</l>
+                  <l> le cubre la corteza blanquecina</l>
+                  <l> al tronco carcomido y polvoriento.</l>
+               </lg>
+               <lg>
+                  <l> No será, cual los álamos cantores</l>
+                  <l> que guardan el camino y la ribera,</l>
+                  <l> habitado de pardos ruiseñores.</l>
+               </lg>
+               <lg>
+                  <l> Ejército de hormigas en hilera</l>
+                  <l> va trepando por él, y en sus entrañas</l>
+                  <l> urden sus telas grises las arañas.</l>
+               </lg>
+               <lg>
+                  <l> Antes que te derribe, olmo del Duero,</l>
+                  <l> con su hacha el leñador, y el carpintero</l>
+                  <l> te convierta en melena de campana,</l>
+                  <l> lanza de carro o yugo de carreta;</l>
+                  <l> antes que rojo en el hogar, mañana,</l>
+                  <l> ardas de alguna mísera caseta,</l>
+                  <l> y al borde de un camino;</l>
+                  <l> antes que te descuaje un torbellino</l>
+                  <l> y tronche el soplo de las sierras blancas;</l>
+                  <l> antes que el río hasta la mar te empuje</l>
+                  <l> por valles y barrancas,</l>
+                  <l> olmo, quiero anotar en mi cartera</l>
+                  <l> la gracia de tu rama verdecida.</l>
+                  <l> Mi corazón espera</l>
+                  <l> también, hacia la luz y hacia la vida,</l>
+                  <l> otro milagro de la primavera.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y en contraste con el poema original; a
+                    falta de fuente escrita, la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción pone música al poema casi sin alteraciones, excepto alguna variación
+            léxica. Joan Manuel Serrat había musicado este poema antes (Dedicado a Antonio Machado,
+            poeta, 1969); esta versión no está recogida en esta base de datos por ser anterior a
+            1975. No parece que la versión de Calixto Sánchez se base en esta, aunque es probable
+            que la elección de musicar el poema se deba a la fama que obtuvo gracias a Serrat.
+        </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Uno de aquellos</title>
+            <author>Joan Manuel Serrat</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Hijo de la luz y de la sombra (Miguel Hernández)</title>
+               <publisher>Sony Music</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/4bMTXB6NygQ"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Joan Manuel Serrat</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Al soldado internacional caído en España</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Si hay hombres que contienen un alma sin fronteras.</l>
+                  <l> Una esparcida frente de mundiales cabellos,</l>
+                  <l> cubierta de horizontes, barcos y cordilleras.</l>
+                  <l> Con arena y con nieve, tú eres uno de aquellos.</l>
+               </lg>
+               <lg>
+                  <l> Uno de aquellos, uno de aquellos.</l>
+                  <l> Si hay hombres que contienen un alma sin fronteras.</l>
+                  <l> Tú eres uno de aquellos, uno de aquellos.</l>
+                  <l> Las patrias te llamaron con todas sus banderas.</l>
+               </lg>
+               <lg>
+                  <l> Las patrias te llamaron con todas sus banderas,</l>
+                  <l> que tu aliento llenara de movimientos bellos.</l>
+                  <l> Quisiste apaciguar la sed de las panteras</l>
+                  <l> y flameaste henchido contra sus atropellos.</l>
+               </lg>
+               <lg>
+                  <l> Uno de aquellos, uno de aquellos.</l>
+                  <l> Si hay hombres que contienen un alma sin fronteras.</l>
+                  <l> Tú eres uno de aquellos, uno de aquellos.</l>
+                  <l> Las patrias te llamaron con todas sus banderas.</l>
+               </lg>
+               <lg>
+                  <l> Con un sabor a todos los soles y los mares,</l>
+                  <l> tu majestad de árbol que abraza un continente.</l>
+                  <l> A través de tus huesos Irán los olivares,</l>
+                  <l> abrazando a los hombres universal, fielmente.</l>
+               </lg>
+               <lg>
+                  <l> Uno de aquellos, uno de aquellos.</l>
+                  <l> Si hay hombres que contienen un alma sin fronteras.</l>
+                  <l> Tú eres uno de aquellos, uno de aquellos.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Supone una musicalización que utiliza directamente los versos del poema, pero
+            modificando el orden en algunos casos. </note>
+      </body>
+   </text>
+</TEI>

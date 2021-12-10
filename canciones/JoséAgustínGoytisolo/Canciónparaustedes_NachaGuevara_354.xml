@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Canción para ustedes</title>
+            <author>Nacha Guevara</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Canciones para mis hijos</title>
+               <publisher>Music Hall</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=D0Qr8zWOvPY"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Nacha Guevara</persName>
+                  <nationality>Argentina</nationality>
+               </person>
+               <person role="poet">
+                  <persName>José Agustín Goytisolo</persName>
+                  <bibl>Palabras para Julia</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Ya no pueden volver atrás</l>
+                  <l> porque la vida los empuja</l>
+                  <l> como un aullido interminable.</l>
+               </lg>
+               <lg>
+                  <l> Hijos míos es mejor vivir</l>
+                  <l> con la alegría de los hombres</l>
+                  <l> que llorar ante el muro,</l>
+                  <l> ante el muro ciego.</l>
+               </lg>
+               <lg>
+                  <l> Hay momentos felices</l>
+                  <l> pero el dolor también depara</l>
+                  <l> otros caminos sin salida.</l>
+               </lg>
+               <lg>
+                  <l> Se sentirán acorralados</l>
+                  <l> por el miedo y la incertidumbre</l>
+                  <l> desearán no haber nacido.</l>
+               </lg>
+               <lg>
+                  <l> Yo sé muy bien que les dirán</l>
+                  <l> que la vida no tiene objeto</l>
+                  <l> que es un asunto desgraciado,</l>
+                  <l> desgraciado.</l>
+               </lg>
+               <lg>
+                  <l> Pero entonces acuérdense</l>
+                  <l> de lo que un día yo canté</l>
+                  <l> pensando en ustedes,</l>
+                  <l> como ahora pienso.</l>
+               </lg>
+               <lg>
+                  <l> Un hombre solo una mujer</l>
+                  <l> así tomados de uno en uno</l>
+                  <l> son como polvo no son nada.</l>
+               </lg>
+               <lg>
+                  <l> Pero cuando les hablo a ustedes</l>
+                  <l> cuando les canto de este modo</l>
+                  <l> pienso también en otros hijos,</l>
+                  <l> en otros hijos.</l>
+               </lg>
+               <lg>
+                  <l> Toda la historia del hombre</l>
+                  <l> está en la historia de uno solo</l>
+                  <l> como la mies dentro del grano.</l>
+               </lg>
+               <lg>
+                  <l> Nunca se entreguen ni se aparte</l>
+                  <l> junto al camino nunca digan</l>
+                  <l> no puedo más y aquí me quedo.</l>
+               </lg>
+               <lg>
+                  <l> Vuestro destino está en los demás</l>
+                  <l> vuestro futuro es la vida</l>
+                  <l> vuestra dignidad es la de todos.</l>
+               </lg>
+               <lg>
+                  <l> Ellos esperan que resistan</l>
+                  <l> que les ayude vuestra alegría.</l>
+                  <l> La vida es bella ya verán</l>
+                  <l> como a pesar de los pesares</l>
+                  <l> tendrán amor tendrán amigos,</l>
+                  <l> a pesar de los pesares.</l>
+               </lg>
+               <lg>
+                  <l> Por lo demás no hay elección</l>
+                  <l> y este mundo tal cual es</l>
+                  <l> será tal cual es</l>
+                  <l> vuestro patrimonio.</l>
+               </lg>
+               <lg>
+                  <l> Perdónenme no sé decirles nada más</l>
+                  <l> pero comprendan que yo</l>
+                  <l> aún estoy en el camino…</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio; a falta de fuente escrita, la
+                    puntualización y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Aunque la primera versión musical del poema de Goytisolo la hizo Paco Ibáñez (Paco
+            Ibáñez 3, Polydor, 1969), y de ahí parten prácticamente todas las versiones posteriores,
+            no es el caso de esta de Nacha Guevara, que es independiente, tanto en la melodía como
+            en el texto. De hecho, Guevara cambia el título de «Palabras para Julia» por el de
+            «Canción para ustedes» e incluye versos de producción propia. </note>
+      </body>
+   </text>
+</TEI>

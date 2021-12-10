@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Compañero</title>
+            <author>Carmen Linares y Arcángel</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Verso a verso (Canta a Miguel Hernández)</title>
+               <publisher>Salobre</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://music.youtube.com/watch?v=cH8zMDxAv1c&amp;list=RDAMVMcH8zMDxAv1c"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Carmen Linares y Arcángel</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Elegía [a Ramón Sijé]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Yo quiero ser llorando el hortelano</l>
+                  <l> de la tierra que ocupas y estercolas,</l>
+                  <l> compañero del alma, tan temprano.</l>
+                  <l> Tanto dolor se agrupa en mi costado,</l>
+                  <l> que por dolor me duele hasta el aliento.</l>
+               </lg>
+               <lg>
+                  <l> Un manotazo duro, un golpe helado,</l>
+                  <l> un hachazo invisible y homicida,</l>
+                  <l> un empujón brutal te ha derribado.</l>
+                  <l> No hay extensión más grande que mi herida,</l>
+               </lg>
+               <lg>
+                  <l> Ando sobre rastrojos de difuntos,</l>
+                  <l> y sin calor de nadie y de sin consuelo</l>
+                  <l> voy de mi corazón a mis asuntos.</l>
+               </lg>
+               <lg>
+                  <l> No perdono a la muere enamorada,</l>
+                  <l> no perdono a la vida desatenta,</l>
+                  <l> no perdono a la tierra ni a la nada.</l>
+               </lg>
+               <lg>
+                  <l> En mis manos levanto una tormenta</l>
+                  <l> de piedras, rayos y hachas estridentes</l>
+                  <l> sedienta de catástrofes y hambrienta.</l>
+               </lg>
+               <lg>
+                  <l> Volverás a mi huerto y a mi higuera:</l>
+                  <l> por los altos andamios de las flores</l>
+                  <l> pajareará tu alma colmenera</l>
+               </lg>
+               <lg>
+                  <l> de angelicales ceras y labores.</l>
+                  <l> Volverás al arrullo de las rejas</l>
+                  <l> de los enamorados labradores.</l>
+               </lg>
+               <lg>
+                  <l> A las aladas almas de las rosas</l>
+                  <l> del almendro de nata te requiero,</l>
+                  <l> que tenemos que hablar de muchas cosas,</l>
+                  <l> compañero.</l>
+                  <l> que tenemos que hablar,</l>
+                  <l> compañero de alma,</l>
+                  <l> compañero de alma, compañero.</l>
+               </lg>
+               <lg>
+                  <l> (Letra tomada de Quedeletras.com y corregida a partir del audio, la puntuación y
+                    ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Miguel Ángel Rodríguez musicalizó por primera vez este poema de Miguel Hernádnez
+            (Manifiesto Canción del Sur, 1971), y luego lo hizo Joan Manuel Serrat (Miguel
+            Hernández, 1972). Ninguna de estados dos versiones están incluidas en esta base de datos
+            por ser anteriores a 1975. </note>
+      </body>
+   </text>
+</TEI>

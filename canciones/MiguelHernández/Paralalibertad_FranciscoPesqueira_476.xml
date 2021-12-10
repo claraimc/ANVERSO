@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Para la libertad</title>
+            <author>Francisco Pesqueira</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Dame la mano, poemas y canciones</title>
+               <publisher>Acqua Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/iXywxRhbsi4"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Francisco Pesqueira</persName>
+                  <nationality>Argentina</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>El herido</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>El hambre de tu niño me pertenece,</l>
+                  <l> quiebra el eje de mi esperanza.</l>
+                  <l> El sentido de tu libertad abre toda poesía.</l>
+                  <l> Me siento padre sin tener hijos,</l>
+                  <l> me siento hijo hambriento en el</l>
+                  <l> descomunal mundo del abandono.</l>
+                  <l> Siendo tu pastor,</l>
+                  <l> soy rebaño de sombras y palabras.</l>
+                  <l> Sombra que me ampara en el hueco injusto</l>
+                  <l> que no lo llenan ni el campo ni la siembra.</l>
+                  <l> Quiero gritar siendo hombre, madre,</l>
+                  <l> y sin querer me torno niño con amparo de desierto.</l>
+                  <l> Injusto tono que la paloma muerta</l>
+                  <l> lanza en elegía al viento.</l>
+                  <l> Ave que se vuelve oscura viendo</l>
+                  <l> las tumbas de las cebollas.</l>
+                  <l> Y sarcófago donde habitan las risas</l>
+                  <l> y el funeral de cada nana.</l>
+                  <l> Para la libertad sangro, lucho, pervivo,</l>
+                  <l> para la libertad, mis ojos y mis manos,</l>
+                  <l> como un árbol carnal, generoso y cautivo,</l>
+                  <l> doy a los cirujanos.</l>
+                  <l> Para la libertad siento más corazones</l>
+                  <l> que arenas en mi pecho: dan espumas mis venas,</l>
+                  <l> y entro en los hospitales, y entro en los algodones</l>
+                  <l> como en las azucenas.</l>
+                  <l> Porque donde unas cuencas vacías amanezcan,</l>
+                  <l> ella pondrá dos piedras de futura mirada</l>
+                  <l> y hará que nuevos brazos y nuevas piernas crezcan</l>
+                  <l> en la carne talada.</l>
+                  <l> Retoñarán aladas de savia sin otoño</l>
+                  <l> reliquias de mi cuerpo que pierdo en cada herida.</l>
+                  <l> Porque soy como el árbol talado, que retoño:</l>
+                  <l> porque aún tengo la vida.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar del poema de Miguel Hernández. El autor
+            empieza la canción con un poema propio dedicado a Miguel Hernandez, el cual recita, para
+            continuar con la segunda parte del poema, omitiéndose la tercera estrofa del mismo:
+            «…Para la libertad me desprendo a balazos/de los que han revolcado su estatua por el
+            lodo./Y me desprendo a golpes de mis pies, de mis brazos,/de mi casa, de todo…» </note>
+      </body>
+   </text>
+</TEI>

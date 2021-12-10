@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Joselito en su gloria</title>
+            <author>Gabriela Orteaga</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Gabriela Orteaga interpreta a Rafael Alberti</title>
+               <publisher>Alba (4)</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=G4YueUmJig0&amp;list=OLAK5uy_kjEwoNM-BrW1iJFqHPIsrauX6Lhf-TYhg&amp;index=8"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+               <term>Latina</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Gabriela Orteaga</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <bibl>Joselito en su gloria</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Llora, Giraldilla mora,</l>
+                  <l> lágrimas en tu pañuelo.</l>
+                  <l> Mira cómo sube al cielo</l>
+                  <l> la gracia toreadora.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Niño de amaranto y oro,</l>
+                  <l> cómo llora tu cuadrilla</l>
+                  <l> y cómo llora Sevilla,</l>
+                  <l> despidiéndote del toro.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Tu río, de tanta pena,</l>
+                  <l> deshoja sus olivares</l>
+                  <l> y riega los azahares</l>
+                  <l> de su frente, por la arena.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Dile adiós, torero mío,</l>
+                  <l> dile adiós a mis veleros</l>
+                  <l> y adiós a mis marineros,</l>
+                  <l> que ya no quiero ser río.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Cuatro arcángeles bajaban</l>
+                  <l> y, abriendo surcos de flores,</l>
+                  <l> al rey de los matadores</l>
+                  <l> en hombros se lo llevaban.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Virgen de la Macarena,</l>
+                  <l> mírame tú cómo vengo,</l>
+                  <l> tan sin sangre, que ya tengo</l>
+                  <l> blanca mi color morena.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Mírame así, chorreado</l>
+                  <l> de un borbotón de rubíes</l>
+                  <l> que ciñe de carmesíes</l>
+                  <l> rosas mi talle quebrado.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Ciérrame con tus collares</l>
+                  <l> lo cóncavo de esta herida,</l>
+                  <l> ¡que se me escapa la vida</l>
+                  <l> por entre los alamares!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Virgen del Amor, clavada,</l>
+                  <l> lo mismo que un toro al seno!</l>
+                  <l> Pon a tu espadita bueno</l>
+                  <l> y dale otra vez su espada.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Que pueda, Virgen, que pueda</l>
+                  <l> volver con sangre a Sevilla</l>
+                  <l> y al frente de mi cuadrilla</l>
+                  <l> lucirme por la Alameda.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Hubo tres musicalizaciones anteriores a 1975, por eso no recogidas en esta base de
+            datos: Francisco Valladares (Los toros en la poesía española, 1968), Mikaela (Mikaela
+            canta poesías de Rafael Alberti, 1970) y Diego Gómez (A mis poetas. Colección flamenco,
+            vol. 12, 1971). </note>
+      </body>
+   </text>
+</TEI>

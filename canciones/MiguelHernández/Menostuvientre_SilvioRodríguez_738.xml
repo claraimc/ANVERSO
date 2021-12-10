@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Menos tu vientre</title>
+            <author>Silvio Rodríguez</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Cuba le canta a Serrat</title>
+               <publisher>Zunzún Cuba y DiscMedi Blau</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=Bfs_tMNENvY"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Silvio Rodríguez</persName>
+                  <nationality>Cuba</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Menos tu vientre]</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Menos tu vientre,</l>
+                  <l> todo es confuso.</l>
+               </lg>
+               <lg>
+                  <l> Menos tu vientre,</l>
+                  <l> todo es futuro</l>
+                  <l> fugaz, pasado</l>
+                  <l> baldío y turbio.</l>
+               </lg>
+               <lg>
+                  <l> Menos tu vientre,</l>
+                  <l> todo es oculto.</l>
+               </lg>
+               <lg>
+                  <l> Menos tu vientre,</l>
+                  <l> todo inseguro,</l>
+                  <l> todo postrero,</l>
+                  <l> polvo sin mundo.</l>
+               </lg>
+               <lg>
+                  <l> Menos tu vientre,</l>
+                  <l> todo es oscuro.</l>
+                  <l> Menos tu vientre</l>
+                  <l> claro y profundo. [Estrofa x 2]</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción musicaliza exactamente el poema. Se trata de un homenaje a Joan Manuel
+            Serrat, de modo que se basa en versión que él había hecho (Miguel Hernández, 1972); sin
+            embargo, esta versión no está recogida en esta base de datos por ser anterior a 1975.
+            Hubo también otra versión anterior a 1975 no recogida aquí por la misma razón: Lucecita
+            Benítez (En las manos del pueblo. Vol. I, Puerto Rico, 1974). </note>
+      </body>
+   </text>
+</TEI>

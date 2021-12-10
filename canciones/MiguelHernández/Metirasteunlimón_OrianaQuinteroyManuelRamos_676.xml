@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Me tiraste un limón</title>
+            <author>Oriana Quintero y Manuel Ramos</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Otros">
+               <title>Miguel Hernández</title>
+               <publisher>Ace Music</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/3yovFldP1lw"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Oriana Quintero y Manuel Ramos</persName>
+                  <nationality>Venezuela</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Me tiraste un limón, y tan amargo]</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Me tiraste un limón, y tan amargo,</l>
+                  <l> con una mano cálida, y tan pura,</l>
+                  <l> que no menoscabó su arquitectura</l>
+                  <l> y probé su amargura sin embargo.</l>
+               </lg>
+               <lg>
+                  <l> Con el golpe amarillo, de un letargo</l>
+                  <l> dulce pasó a una ansiosa calentura</l>
+                  <l> mi sangre, que sintió la mordedura</l>
+                  <l> de una punta de seno duro y largo.</l>
+               </lg>
+               <lg>
+                  <l> Pero al mirarte y verte la sonrisa</l>
+                  <l> que te produjo el limonado hecho,</l>
+                  <l> a mi voraz malicia tan ajena,</l>
+               </lg>
+               <lg>
+                  <l> se me durmió la sangre en la camisa,</l>
+                  <l> y se volvió el poroso y áureo pecho</l>
+                  <l> una picuda y deslumbrante pena.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización idéntica del poema de Miguel Hernández. </note>
+      </body>
+   </text>
+</TEI>

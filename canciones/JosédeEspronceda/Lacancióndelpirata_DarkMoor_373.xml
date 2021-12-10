@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La canción del pirata</title>
+            <author>Dark Moor</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Ancestral Romance</title>
+               <publisher>Scarlet Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=X7Y1W1guzB0"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Dark Moor</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>José de Espronceda</persName>
+                  <bibl>Canción del pirata</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Con diez cañones por banda,</l>
+                  <l> viento en popa, a toda vela,</l>
+                  <l> no corta el mar, sino vuela</l>
+                  <l> un velero bergatín.</l>
+                  <l> Bajel pirata que llaman,</l>
+                  <l> por su bravura «El Temido»,</l>
+                  <l> en todo mar conocido</l>
+                  <l> del uno al otro confín.</l>
+                  <l> —Navega, velero mío</l>
+                  <l> sin temor,</l>
+                  <l> que ni enemigo navío,</l>
+                  <l> ni tormenta, ni bonanza,</l>
+                  <l> tu rumbo a torcer alcanza,</l>
+                  <l> ni a sujetar tu valor.</l>
+               </lg>
+               <lg>
+                  <l> Veinte presas</l>
+                  <l> hemos hecho</l>
+                  <l> a despecho</l>
+                  <l> del inglés</l>
+                  <l> y han rendido</l>
+                  <l> sus pendones</l>
+                  <l> cien naciones</l>
+                  <l> a mis pies.</l>
+               </lg>
+               <lg>
+                  <l> Que es mi barco mi tesoro,</l>
+                  <l> que es mi dios la libertad,</l>
+                  <l> mi ley, la fuerza y el viento,</l>
+                  <l> mi única patria, la mar—.</l>
+               </lg>
+               <lg>
+                  <l> La luna en el mar riela,</l>
+                  <l> en la lona gime el viento</l>
+                  <l> y alza en blando movimiento</l>
+                  <l> olas de plata y azul.</l>
+                  <l> Y va el capitán pirata,</l>
+                  <l> cantando alegre en la popa,</l>
+                  <l> Asia a un lado, al otro Europa,</l>
+                  <l> y allá a su frente Istambul.</l>
+                  <l> —Allá muevan feroz guerra</l>
+                  <l> ciegos reyes</l>
+                  <l> por un palmo más de tierra,</l>
+                  <l> que yo aquí; tengo por mío</l>
+                  <l> cuanto abarca el mar bravío,</l>
+                  <l> a quien nadie impuso leyes.</l>
+                  <l> Y no hay playa,</l>
+                  <l> sea cualquiera,</l>
+                  <l> ni bandera</l>
+                  <l> de esplendor,</l>
+                  <l> que no sienta</l>
+                  <l> mi derecho</l>
+                  <l> y dé pechos mi valor.</l>
+                  <l> En las presas</l>
+                  <l> yo divido</l>
+                  <l> lo cogido</l>
+                  <l> por igual;</l>
+                  <l> solo quiero</l>
+                  <l> por riqueza</l>
+                  <l> la belleza</l>
+                  <l> sin rival.</l>
+               </lg>
+               <lg>
+                  <l> Que es mi barco mi tesoro,</l>
+                  <l> que es mi dios la libertad,</l>
+                  <l> mi ley, la fuerza y el viento,</l>
+                  <l> mi única patria, la mar.</l>
+               </lg>
+               <lg>
+                  <l> ¡Sentenciado estoy a muerte!</l>
+                  <l> Yo me río.</l>
+                  <l> No me abandone la suerte</l>
+                  <l> y al mismo que me condena</l>
+                  <l> colgaré de alguna entena,</l>
+                  <l> quizá en su propio navío.</l>
+                  <l> Y si caigo,</l>
+                  <l> ¿qué es la vida?</l>
+                  <l> Por perdida</l>
+                  <l> ya la di,</l>
+                  <l> cuando el yugo</l>
+                  <l> del esclavo</l>
+                  <l> como un bravo</l>
+                  <l> sacudí.</l>
+                  <l> Y del trueno</l>
+                  <l> al son violento,</l>
+                  <l> y del viento</l>
+                  <l> al rebramar,</l>
+                  <l> yo me duermo</l>
+                  <l> sosegado,</l>
+                  <l> arrullado</l>
+                  <l> por el mar.</l>
+               </lg>
+               <lg>
+                  <l> Que es mi barco mi tesoro,</l>
+                  <l> que es mi dios la libertad,</l>
+                  <l> mi ley, la fuerza y el viento,</l>
+                  <l> mi única patria, la mar—.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Altera el orden de sessiones del poema y omite otras. Por ejemplo, pasa de «La luna en
+            el mar rïela» a «Y allá a su frente Estambul» después del primer estribillo, y salta de
+            «y dé pecho / a mi valor» a «En las presas / yo divido» y de «como un bravo / sacudí» a
+            «Y del trueno / al son violento».   Aun así, respeta mejor la cadencia del poema que
+            otras versiones. </note>
+      </body>
+   </text>
+</TEI>

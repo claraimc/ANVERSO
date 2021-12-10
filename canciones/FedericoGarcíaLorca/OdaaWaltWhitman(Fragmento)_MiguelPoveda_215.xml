@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oda a Walt Whitman (Fragmento)</title>
+            <author>Miguel Poveda</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Enlorquecido</title>
+               <publisher>Concert Music Entertainment</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=VxhSZpMGhHs"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Miguel Poveda</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Oda a Walt Whitman</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Por eso no levanto mi voz, viejo Walt Whitman,</l>
+                  <l> contra el niño que escribe</l>
+                  <l> nombre de niña en su almohada;</l>
+                  <l> ni contra el muchacho que se viste de novia</l>
+                  <l> en la oscuridad del ropero;</l>
+                  <l> ni contra los solitarios de los casinos</l>
+                  <l> que beben con asco el agua de la prostitución;</l>
+                  <l> ni contra los hombres de mirada verde</l>
+                  <l> que aman al hombre y queman sus labios en silencio.</l>
+                  <l> Pero sí, pero sí, contra vosotros, maricas, maricas de las ciudades</l>
+                  <l> de carne tumefacta y pensamiento inmundo.</l>
+                  <l> Madres de lodo. Arpías. Enemigos sin sueño</l>
+                  <l> del amor, del amor,</l>
+                  <l> del amor que reparte,</l>
+                  <l> que reparte coronas de alegría,</l>
+                  <l> del amor, que del amor,</l>
+                  <l> del amor que reparte,</l>
+                  <l> que reparte coronas de alegría,</l>
+                  <l> que del amor, del amor, que del amor</l>
+                  <l> del amor que reparte, que reparte coronas de alegría,</l>
+                  <l> que reparte coronas de alegría,</l>
+                  <l> que reparte coronas de alegría.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización de la estrofa 17 del poema, omitiendo todo lo demás. </note>
+      </body>
+   </text>
+</TEI>

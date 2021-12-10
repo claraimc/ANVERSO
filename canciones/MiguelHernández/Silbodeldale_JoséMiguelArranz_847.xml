@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Silbo del dale</title>
+            <author>José Miguel Arranz</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Miguel Hernández, sublime</title>
+               <publisher>--</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=yqRhNmlQzyk"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>José Miguel Arranz</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>El silbo del dale</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Dale al aspa, molino,</l>
+                  <l> hasta nevar el trigo.</l>
+               </lg>
+               <lg>
+                  <l> Dale a la piedra, agua,</l>
+                  <l> hasta ponerla mansa.</l>
+               </lg>
+               <lg>
+                  <l> Dale al molino, aire,</l>
+                  <l> hasta lo inacabable.</l>
+               </lg>
+               <lg>
+                  <l> Dale al aire, cabrero,</l>
+                  <l> hasta que silbe tierno.</l>
+               </lg>
+               <lg>
+                  <l> Dale al molino, aire,</l>
+                  <l> hasta lo inacabable.</l>
+               </lg>
+               <lg>
+                  <l> Dale al aire, cabrero,</l>
+                  <l> hasta que silbe tierno.</l>
+               </lg>
+               <lg>
+                  <l> Dale al cabrero, monte,</l>
+                  <l> hasta dejarlo inmóvil.</l>
+               </lg>
+               <lg>
+                  <l> Dale al monte, lucero,</l>
+                  <l> hasta que se haga el cielo.</l>
+               </lg>
+               <lg>
+                  <l> Dale, Dios, a mi alma,</l>
+                  <l> hasta perfeccionarla.</l>
+                  <l> Dale que dale, dale,</l>
+                  <l> molino, piedra, aire.</l>
+               </lg>
+               <lg>
+                  <l> Dale, Dios, a mi alma,</l>
+                  <l> hasta perfeccionarla.</l>
+                  <l> cabrero, monte, astro,</l>
+                  <l> dale que dale, largo.</l>
+               </lg>
+               <lg>
+                  <l> Dale que dale, Dios,</l>
+                  <l> ay, hasta la perfección. [Estrofa x 4]</l>
+               </lg>
+               <lg>
+                  <l> Ábreme, amor, la puerta</l>
+                  <l> de la llaga perfecta.</l>
+               </lg>
+               <lg>
+                  <l> Abre, amor mío, abre</l>
+                  <l> la puerta de mi sangre.</l>
+               </lg>
+               <lg>
+                  <l> Abre, para que salgan</l>
+                  <l> todas las malas ansias.</l>
+                  <l> Abre, para que huyan</l>
+                  <l> las intenciones turbias. [Estrofa x 2]</l>
+               </lg>
+               <lg>
+                  <l> Abre, para que sean</l>
+                  <l> fuentes puras mis venas;</l>
+                  <l> mis manos, cardos mondos;</l>
+                  <l> pozos quietos, mis ojos.</l>
+               </lg>
+               <lg>
+                  <l> Abre, que viene el aire</l>
+                  <l> de tu palabra… ¡Abre!</l>
+                  <l> Abre, amor, que ya entra…</l>
+                  <l> Que no salga… ¡Cierra! [Estrofa x 2]</l>
+               </lg>
+               <lg>
+                  <l> Dale que dale, Dios,</l>
+                  <l> ay, hasta la perfección. [Estrofa x 4]</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción funde «El silbo del dale» y «El silbo de la llaga perfecta», respectando
+            muy de cerca el texto, pero repitiendo algunos versos. </note>
+      </body>
+   </text>
+</TEI>

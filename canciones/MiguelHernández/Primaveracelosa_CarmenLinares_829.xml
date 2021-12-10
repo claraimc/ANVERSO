@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Primavera celosa</title>
+            <author>Carmen Linares</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Verso a verso (Canta a Miguel Hernández)</title>
+               <publisher>Salobre</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://music.youtube.com/watch?v=H0lPiW56TBI&amp;list=RDAMVMH0lPiW56TBI"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Carmen Linares</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Primavera celosa</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Corazón,</l>
+                  <l> me cogiste el corazón,</l>
+                  <l> y hoy precipitas su vuelo</l>
+                  <l> con un abril de pasión</l>
+                  <l> y con un mayo de celo.</l>
+                  <l> Y hoy precipitas su vuelo</l>
+                  <l> con un abril de pasión</l>
+                  <l> y con un mayo de celo.</l>
+               </lg>
+               <lg>
+                  <l> Del abril al mayo voy</l>
+                  <l> más celoso que moreno</l>
+                  <l> y más que celoso  que estoy</l>
+                  <l> en mi corazón ameno.</l>
+                  <l> Y más que celoso  que estoy</l>
+                  <l> en mi corazón ameno.</l>
+               </lg>
+               <lg>
+                  <l> Como de un fácil vergel,</l>
+                  <l> se apropian de ti y de mí</l>
+                  <l> la vehemencia del clavel</l>
+                  <l> y el vellón del alhelí.</l>
+                  <l> La vehemencia del clavel</l>
+                  <l> y el vellón del alhelí.</l>
+               </lg>
+               <lg>
+                  <l> Hay gallos de altanería,</l>
+                  <l> hay gallos de altanería</l>
+                  <l> alardeando en mis venas</l>
+                  <l> y en la frondosa alma mía,</l>
+                  <l> y en la frondosa alma mía</l>
+                  <l> mejoranas y azucenas.</l>
+                  <l> Y en la frondosa alma mía</l>
+                  <l> mejoranas y azucenas.</l>
+               </lg>
+               <lg>
+                  <l> Beso y quiero, quiero y muero;</l>
+                  <l> si nos parte en dos la ausencia,</l>
+                  <l> pues con vehemencia te quiero,</l>
+                  <l> me moriré con vehemencia.</l>
+                  <l> Con vehemencia te quiero,</l>
+                  <l> me moriré con vehemencia.</l>
+                  <l> Me moriré con vehemencia.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns=""/>
+      </body>
+   </text>
+</TEI>

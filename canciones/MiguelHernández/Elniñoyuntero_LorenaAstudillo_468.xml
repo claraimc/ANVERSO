@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El niño yuntero</title>
+            <author>Lorena Astudillo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Tras de una ausencia</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/J6EW_bG0tiA"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Lorena Astudillo</persName>
+                  <nationality>Argentina</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>El niño Yuntero</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Carne de yugo, ha nacido</l>
+                  <l> más humillado que bello,</l>
+                  <l> con el cuello perseguido</l>
+                  <l> por el yugo para el cuello.</l>
+               </lg>
+               <lg>
+                  <l> Empieza a vivir, y empieza</l>
+                  <l> a morir de punta a punta</l>
+                  <l> levantando la corteza</l>
+                  <l> de su madre con la yunta.</l>
+               </lg>
+               <lg>
+                  <l> Contar sus años no sabe,</l>
+                  <l> y ya sabe que el sudor</l>
+                  <l> es una corona grave</l>
+                  <l> de sal para el labrador.</l>
+               </lg>
+               <lg>
+                  <l> Me duele este niño hambriento</l>
+                  <l> como una grandiosa espina,</l>
+                  <l> y su vivir ceniciento</l>
+                  <l> revuelve mi alma de encina.</l>
+               </lg>
+               <lg>
+                  <l> Contar sus años no sabe,</l>
+                  <l> y ya sabe que el sudor</l>
+                  <l> es una corona grave</l>
+                  <l> de sal para el labrador.</l>
+               </lg>
+               <lg>
+                  <l> ¿Quién salvará este chiquillo</l>
+                  <l> menor que un grano de avena?</l>
+                  <l> ¿De dónde saldrá el martillo</l>
+                  <l> verdugo de esta cadena?</l>
+               </lg>
+               <lg>
+                  <l> Que salga del corazón</l>
+                  <l> de los hombre jornaleros,</l>
+                  <l> que antes de ser hombres son</l>
+                  <l> y han sido niños yunteros.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar del poema de Miguel Hernández. El autor
+            utiliza, para componer la canción las estrofas primera, cuarta, sexta, decimoprimera,
+            decimocuarta y decimoquinta. </note>
+      </body>
+   </text>
+</TEI>

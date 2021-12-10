@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Batalla con el conde de Barcelona</title>
+            <author>Emilio Valdeolivas</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="ExtendedPlay(EP)">
+               <title>El cantar de mio Cid</title>
+               <publisher>Tecnosaga</publisher>
+               <date cert="low"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=el7V9-IRGnM&amp;t=975s"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Emilio Valdeolivas</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Episodio del conde de Barcelona (Cantar de mio Cid)</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>El conde es muy follón e dixo una vanidat:</l>
+                  <l> Grandes tuertos me tiene mio Çid el de Bivar.</l>
+                  <l> Dentro en mi cort tuerto me tovo grand</l>
+                  <l> agora córrem las tierras que en mi enpara están</l>
+                  <l> non lo desafié nil torné amistad,</l>
+                  <l> mas quando él me lo busca, ir gelo he yo demandar.</l>
+                  <l> Del conde don Remont venido lês mensaje</l>
+                  <l> mio Çid quando lo oyó, enbió pora allá:</l>
+                  <l> DIgades al conde non lo tenga a mal,</l>
+                  <l> de lo so non lievo nada, déxem ir en paz.</l>
+                  <l> Respuso el conde tódom lo pechará</l>
+                  <l> sabrá el salido a quien vino a desondrar.</l>
+                  <l> Vidieron cuesta yuso la fuerça de los francos,</l>
+                  <l> mandólos ferir mio Çid, de voluntad e de grado,</l>
+                  <l> los pendones e las lanças tan bien las van enpleando</l>
+                  <l> a los unos firiendo e a los otros derrocando.</l>
+                  <l> Vençido a esta batalla al conde don Remont,</l>
+                  <l> hi gañó a Colada que más vale de mil marcos.</l>
+                  <l> Comede, don ROdrigo, e penssedes de folgar,</l>
+                  <l> que yo dexar me morir, que non quiero comer al</l>
+                  <l> el conde deon Remont non gelo preçia nada</l>
+                  <l> él non quiere comer por quanto ha en toda España.</l>
+                  <l> Comed, conde, deste pan e beved deste vino</l>
+                  <l> si non, en vuestros dias non veredes cristianismo</l>
+                  <l> e si vos comiéredes don yo sea pagado</l>
+                  <l> quitarvos e los cuerpos e darvos e de mano.</l>
+                  <l> Si lo fiziéredes, Çid, lo que avedes fablado,</l>
+                  <l> tanto quanto yo biva seré dent maravillado.</l>
+                  <l> Mas quanto avedes perdido e yo gané en campo,</l>
+                  <l> sabet, non daré a vos, de ello un dinero malo.</l>
+                  <l> Ido es el conde, tornós el de Bivar,</l>
+                  <l> juntós con sus mesnadas, conpeçós de alegrar</l>
+                  <l> de la ganançia que han fecha maravillosa e grand</l>
+                  <l> tan ricos son los sos que non saben qué se an.</l>
+                  <l> Aguijava el conde e penssava de andar,</l>
+                  <l> miedo iva aviendo que mio Çid se repintrá.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Toma los vv. 960-966, 975-981 (979 y 980 combinados en un verso), 1002, 1004 y 1005
+            (combinados en uno), 1006-1011 (versos 1008 y 1009 fundidos en uno), 1028-1029, 1018,
+            1020-1021 (combinados en uno), 1025, 1026, 1034-1035, 1037-1038, 1041-1042, 1082,
+            1082-1086,  1077 y 1079, del cantar primero del Cantar de mio Cid, en ese orden, con
+            modificaciones mínimas. Probablemente sigue la edición de Menéndez Pidal, dado el
+            tratamiento de -e final en varios versos, pero no podemos asegurarlo por el momento.
+            Todo el disco está dedicado al Cantar de mio Cid, del que es una adaptación. </note>
+      </body>
+   </text>
+</TEI>

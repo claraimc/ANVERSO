@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Citación final</title>
+            <author>Lola Montenegro</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>El corazón es agua. Lola Montenegro canta a Miguel Hernández</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=qK6X5VuFAUA"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Lola Montenegro</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Como el toro he nacido para el luto]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Se citaron los dos para en la plaza</l>
+                  <l> tal día, y a tal hora, y en tal suerte:</l>
+                  <l> una vida de muerte</l>
+                  <l> y una muerte de raza.</l>
+               </lg>
+               <lg>
+                  <l> Puerta del ruedo, un sol que daba pena,</l>
+                  <l> se hacía más redondo y amarillo</l>
+                  <l> en la inquietud inmóvil de la arena</l>
+                  <l> con Dios alrededor, perfecto anillo.</l>
+               </lg>
+               <lg>
+                  <l> Fuera, arriba, en el palco y en la grada.</l>
+                  <l> deseos con mantillas.</l>
+                  <l> Salió la muerte astada,</l>
+                  <l> palco de banderillas.</l>
+               </lg>
+               <lg>
+                  <l> Como el toro he nacido para el luto</l>
+                  <l> y el dolor, como el toro estoy marcado</l>
+                  <l> por un hierro infernal en el costado</l>
+                  <l> y por varón en la ingle con un fruto.</l>
+               </lg>
+               <lg>
+                  <l> Como el toro te sigo y te persigo,</l>
+                  <l> y dejo mi deseo en una espada,</l>
+                  <l> como el toro burlado, como el toro.</l>
+               </lg>
+               <lg>
+                  <l> Se citaron los dos para en la plaza</l>
+                  <l> tal día, y a tal hora, y en tal suerte:</l>
+                  <l> una vida de muerte</l>
+                  <l> y una muerte de raza.</l>
+               </lg>
+               <lg>
+                  <l> Puerta del ruedo, un sol que daba pena,</l>
+                  <l> se hacía más redondo y amarillo</l>
+                  <l> en la inquietud inmóvil de la arena</l>
+                  <l> con Dios alrededor, perfecto anillo.</l>
+               </lg>
+               <lg>
+                  <l> Fuera, arriba, en el palco y en la grada.</l>
+                  <l> deseos con mantillas.</l>
+                  <l> Salió la muerte astada,</l>
+                  <l> palco de banderillas.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Aunque toma el título del poema «Citación final», solo toma de aquí las tres primeras
+            estrofas y las fusiona con dos estrofas del poema «Como el toro he nacido para el luto».
+        </note>
+      </body>
+   </text>
+</TEI>

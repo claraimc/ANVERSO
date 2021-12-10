@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Casida del sueño al aire libre</title>
+            <author>Carlos Cano</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Diván del Tamarit. Gacelas y Casidas.</title>
+               <publisher>Dalur Discos</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=5qi_G-UPrqo"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Carlos Cano</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Casida del sueño al aire libre</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Flor de jazmín y toro degollado.</l>
+                  <l> Pavimento infinito, mapa, sala, arpa, alba.</l>
+                  <l> La niña sueña un toro de jazmines</l>
+                  <l> y el toro es un sangriento crepúsculo quebrado.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Si el cielo fuera un niño pequeñito</l>
+                  <l> los jazmines tendrían mitad de noche oscura</l>
+                  <l> y el toro circo azul sin lidiadores,</l>
+                  <l> corazón al pie de una columna.</l>
+               </lg>
+               <lg>
+                  <l> Pero el cielo es un elefante</l>
+                  <l> y el jazmín es un agua sin sangre,</l>
+                  <l> y la niña es un ramo nocturno</l>
+                  <l> por el inmenso pavimento oscuro.</l>
+               </lg>
+               <lg>
+                  <l> Entre el jazmín y el toro</l>
+                  <l> o garfios de marfil o gente dormida.</l>
+                  <l> En el jazmín un elefante y nubes</l>
+                  <l> y en el toro el esqueleto de la niña.</l>
+               </lg>
+               <lg>
+                  <l> Entre el jazmín y el toro</l>
+                  <l> o garfios de marfil o gente dormida.</l>
+                  <l> En el jazmín un elefante y nubes</l>
+                  <l> y en el toro el esqueleto de la niña.</l>
+               </lg>
+               <lg>
+                  <l> Entre el jazmín y el toro</l>
+                  <l> o garfios de marfil o gente dormida.</l>
+                  <l> En el jazmín un elefante y nubes</l>
+                  <l> y en el toro el esqueleto de la niña.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización idéntica a excepción de una variante en los dos últimos versos de la
+            primera estrofa que en el poema de Lorca dicen así:   «La niña es un toro de jazmines y
+            el toro es un sangriento crepúsculo que brama»   (Federico García Lorca, Diván del
+            Tamarit – Sonetos del amor oscuro, Barcelona, Lumen – Penguin Random House, 2015, p.37)
+        </note>
+      </body>
+   </text>
+</TEI>

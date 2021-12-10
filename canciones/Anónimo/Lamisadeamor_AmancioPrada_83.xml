@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La misa de amor</title>
+            <author>Amancio Prada</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Del amor que quita el sueño (Romances y canciones desde el Reino de León)</title>
+               <publisher>Musicamaina</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=-502Dw-etig"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Amancio Prada</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Romance de la misa de amor «Mañanita de San Juan»</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Mañanita de San Juan,</l>
+                  <l> mañanita de primor,</l>
+                  <l> cuando damas y galanes</l>
+                  <l> van a oír misa mayor.</l>
+                  <l> Allá va la mi señora,</l>
+                  <l> entre todas la mejor;</l>
+                  <l> viste saya sobre saya,</l>
+                  <l> mantellín de tornasol,</l>
+                  <l> camisa con oro y perlas</l>
+                  <l> bordada en el cabezón.</l>
+                  <l> En la su boca muy linda</l>
+                  <l> lleva un poco de dulzor;</l>
+                  <l> en la su cara tan blanca,</l>
+                  <l> un poquito de arrebol,</l>
+                  <l> y en los sus ojuelos garzos</l>
+                  <l> lleva un poco de alcohol.</l>
+                  <l> Así entraba por la iglesia</l>
+                  <l> reluciente como sol.</l>
+                  <l> Las damas mueren de envidia,</l>
+                  <l> y los galanes de amor.</l>
+                  <l> El que cantaba en el coro,</l>
+                  <l> en el credo se perdió.</l>
+                  <l> El abad que dice misa,</l>
+                  <l> ha trocado la lección;</l>
+                  <l> monaguillos que le ayudan,</l>
+                  <l> no aciertan responder, non,</l>
+                  <l> por decir amén, amén,</l>
+                  <l> decían amor, amor.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">El artista sigue fielmente la versión editada por Menéndez Pidal en Flor nueva de
+            romances viejos.   Como señala el subtítulo del álbum, todo él está dedicado a piezas de
+            la lírica castellana medieval y temprano-moderna. </note>
+      </body>
+   </text>
+</TEI>

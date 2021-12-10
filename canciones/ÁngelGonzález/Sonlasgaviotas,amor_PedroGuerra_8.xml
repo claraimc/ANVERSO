@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Son las gaviotas, amor</title>
+            <author>Pedro Guerra</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>La palabra en el aire</title>
+               <publisher>El Europeo Música</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=Icxi_BkgZI0"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Pedro Guerra</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Ángel González</persName>
+                  <bibl>[Son las gaviotas, amor]</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Son las gaviotas, amor.</l>
+                  <l> Las lentas, altas gaviotas.</l>
+               </lg>
+               <lg>
+                  <l> Mar de invierno. El agua gris</l>
+                  <l> mancha de frío las rocas.</l>
+                  <l> Tus piernas, tus dulces piernas,</l>
+                  <l> enternecen a las olas.</l>
+                  <l> Un cielo sucio se vuelca</l>
+                  <l> sobre el mar. El viento borra</l>
+                  <l> el perfil de las colinas</l>
+                  <l> de arena. Las tediosas</l>
+                  <l> charcas de sal y de frío</l>
+                  <l> copian tu luz y tu sombra.</l>
+                  <l> Algo gritan, en lo alto,</l>
+                  <l> que tú no escuchas, absorta.</l>
+               </lg>
+               <lg>
+                  <l> Son las gaviotas, amor.</l>
+                  <l> Las lentas, altas gaviotas.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción musicaliza el poema original sin alteraciones textuales, excepto que se
+            repiten algunos versos. Además, junto a Pedro Guerra, en la canción también interviene
+            el propio Ángel González, recitando parte del poema. </note>
+      </body>
+   </text>
+</TEI>

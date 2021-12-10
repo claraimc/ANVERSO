@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Yo no quiero más luz que tu cuerpo</title>
+            <author>Joaquín Lera</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Laberinto de poetas 2008</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/_VcGhk7L1rs"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Joaquín Lera</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Yo no quiero más luz que tu cuerpo ante el mío</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Yo no quiero más luz que tu cuerpo ante el mío:</l>
+                  <l> claridad absoluta, transparencia redonda.</l>
+                  <l> Limpidez cuya extraña, como el fondo del río,</l>
+                  <l> con el tiempo se afirma, con la sangre se ahonda..</l>
+                  <l> ¿Qué lucientes materias duraderas te han hecho,</l>
+                  <l> corazón de alborada, carnación matutina?</l>
+                  <l> Yo no quiero más día que el que exhala tu pecho.</l>
+                  <l> Tu sangre es la mañana que jamás se termina.</l>
+                  <l> No hay más luz que tu cuerpo, no hay más sol: todo ocaso.</l>
+                  <l> Yo no veo las cosas a otra luz que tu frente.</l>
+                  <l> La otra luz es fantasma, nada más, de tu paso.</l>
+                  <l> Tu insondable mirada nunca gira al poniente.</l>
+                  <l> Claridad sin posible declinar. Suma esencia</l>
+                  <l> del fulgor que ni cede ni abandona la cumbre.</l>
+                  <l> Juventud. Limpidez. Claridad. Transparencia</l>
+                  <l> acercando los astros más lejanos de lumbre.</l>
+                  <l> Claro cuerpo moreno de calor fecundante.</l>
+                  <l> Hierba negra el origen; hierba negra las sienes.</l>
+                  <l> Trago negro los ojos, la mirada distante.</l>
+                  <l> Día azul. Noche clara. Sombra clara que vienes.</l>
+                  <l> Yo no quiero más luz que tu sombra dorada</l>
+                  <l> donde brotan anillos de una hierba sombría.</l>
+                  <l> En mi sangre, fielmente por tu cuerpo abrasada,</l>
+                  <l> para siempre es de noche: para siempre es de día.</l>
+               </lg>
+               <lg>
+                  <l> (Letra tomada de la web del artista).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización idéntica del poema de Miguel Hernández. La
+            referencia al disco donde aparece esta canción la tomamos de esta fuente; no obstante,
+            siguiendo el blog albergado en la web del autor, esta canción podría ser en realidad
+            parte de un evento en directo donde se musicalizaron poemas de Miguel Hernandez, y no un
+            disco en sí mismo. </note>
+      </body>
+   </text>
+</TEI>

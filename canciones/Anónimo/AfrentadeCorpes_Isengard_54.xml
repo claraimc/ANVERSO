@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Afrenta de Corpes</title>
+            <author>Isengard</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Maqueta/Demo">
+               <title>Olges</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=w2GiEHGn_H8"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Heavy metal</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Isengard</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Afrenta de Corpes (Cantar de mio Cid)</bibl>
+                  <relation>Cita</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>“Entrados son los Ifantes al Robredo de Corpes</l>
+                  <l> Los montes son altos, las ramas pujan con las nuoves,</l>
+                  <l> A las bestias fieras que andan derredor.</l>
+                  <l> Fallaron un vergel con una limpia fuont.</l>
+                  <l> Mandan fincar la tienda Ifantes de Carrión</l>
+                  <l> Con quantos que ellos traen yazen essa noch.</l>
+                  <l> Con sus mugieres en braços demuestranles amor.</l>
+                  <l> ¡Mal gelo cumplieron, quanto salie el sol!”</l>
+               </lg>
+               <lg>
+                  <l> Ordenan que se marchen todos,</l>
+                  <l> ellos cuatro a solas se quedan.</l>
+                  <l> Creed lo que os va a pasar,</l>
+                  <l> ultrajadas en los montes de Dios.</l>
+                  <l> Poco a poco las van quitando,</l>
+                  <l> sin sus ropas las van dejando.</l>
+                  <l> ¡Vejadas hasta morir!</l>
+               </lg>
+               <lg>
+                  <l> Miradas vacías de odio,</l>
+                  <l> las caras de ellos demuestran,</l>
+                  <l> Sus sonrisas se expresan muertas,</l>
+                  <l> presagian lo inevitable.</l>
+                  <l> ¡Qué cobardes que llegan a ser!</l>
+                  <l> Sus mujeres van a padecer</l>
+                  <l> La ebriedad del odio.</l>
+               </lg>
+               <lg>
+                  <l> Os lo rogamos, por mor de vuestras espadas,</l>
+                  <l> podréis los dos.</l>
+                  <l> Quitadnos la vida con ellas</l>
+                  <l> y nuestra honra no se perderá.</l>
+               </lg>
+               <lg>
+                  <l> De nada sirvió, cada golpe que ellos daban,</l>
+                  <l> Con más gusto el otro realizaban,</l>
+                  <l> y más fuerza empleaban.</l>
+                  <l> No comprenden el por qué de la acción,</l>
+                  <l> por ello sufren en su corazón</l>
+                  <l> la ira de aquellos dos.</l>
+               </lg>
+               <lg>
+                  <l> Heridas de roja sangre</l>
+                  <l> manan de las cinchas de cuero.</l>
+                  <l> Lluvia de azotes va cayendo</l>
+                  <l> y sus cuerpos quedan destrozados.</l>
+                  <l> Dadas por muertas son dejadas,</l>
+                  <l> a su suerte abandonadas,</l>
+                  <l> en aquel robledo.</l>
+               </lg>
+               <lg>
+                  <l> Os lo rogamos, por mor de vuestras espadas,</l>
+                  <l> podréis los dos.</l>
+                  <l> Quitadnos la vida con ellas</l>
+                  <l> y nuestra honra no se perderá.</l>
+                  <l> Mas esto así no quedará,</l>
+                  <l> a oídos del Cid todo llegará.</l>
+                  <l> Proclama Cortes su querido rey,</l>
+                  <l> prepara venganza contra aquellos.</l>
+                  <l> En duelo retan sus validos,</l>
+                  <l> su honra espera recuperar,</l>
+                  <l> En peleas que acaecieron,</l>
+                  <l> justicia y ley se proclamarán.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Los versos introductorios están tomados literalmente de la edición de Menéndez Pidal,
+            vv. 2697-2704. Luego se desarrolla libremente el episodio, con formulación en ocasiones
+            inspirada en el texto original. La alternancia entre texto original y añadido marca la
+            estructura musical de esta composición. La primera cita del texto original (“Entrados
+            son los Ifantes al Robredo de Corpes… ¡Mal gel cumplieron, quanto salie el sol!”) actúa
+            como introducción de ritmo moderado. La segunda cita del original (“Os lo rogamos, por
+            mor de vuestras espadas, podréis los dos. Quitadnos la vida con ellas y nuestra honra no
+            se perderá”) constituye el estribillo, que aparece en dos ocasiones. El resto de la
+            obra, correspondiente con el texto nuevo, se reparte en episodios muy segmentados, de
+            intensidad gradual y pequeñas diferencias melódicas y armónicas, rasgo característico de
+            la música punk. El primero ocupa siete versos (“Ordenan que se marchen todos… ¡Vejadas
+            hasta morir!”, al igual que el segundo, inmediatamente posterior (“Miradas vacías de
+            odio… La ebriedad del odio”). El tercero, tras la primera aparición del estribillo,
+            ocupa seis versos (“De nada sirvió, cada golpe que ellos daban… la ira de aquellos
+            dos”), y el cuarto, a continuación, siete de nuevo (“Heridas de roja sangre… en aquel
+            robledo”). Tras la segunda y última aparición del estribillo, una serie de ocho versos
+            nuevos adquieren el papel de coda o conclusión (“Mas esto así no quedará… justicia y ley
+            se proclamarán”), con un carácter repetitivo. El estilo, pese a las posibles
+            distorsiones instrumentales, resulta puramente tonal, tanto melódica como armónicamente.
+        </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Riu, riu chiu</title>
+            <author>Bruce Cockburn</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Christmas</title>
+               <publisher>True North Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=_JPqO6TsPEs"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Bruce Cockburn</persName>
+                  <nationality>Estados Unidos</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Riu, riu chiu</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Riu riu chiu, la guarda ribera;</l>
+                  <l> Dios guardó el lobo de nuestra cordera,</l>
+                  <l> Dios guardó el lobo de nuestra cordera.</l>
+               </lg>
+               <lg>
+                  <l> El lobo rabioso la quiso morder,</l>
+                  <l> mas Dios poderoso la supo defender.</l>
+                  <l> Quísola hazer que no pudiese pecar,</l>
+                  <l> ni aun original esta Virgen no tuviera.</l>
+               </lg>
+               <lg>
+                  <l> Riu riu chiu, la guarda ribera;</l>
+                  <l> Dios guardó el lobo de nuestra cordera,</l>
+                  <l> Dios guardó el lobo de nuestra cordera.</l>
+               </lg>
+               <lg>
+                  <l> Este viene a dar a los muertos vida</l>
+                  <l> y viene a reparar de todos la caída.</l>
+                  <l> Es la luz del día aqueste mozuelo,</l>
+                  <l> este es el cordero que san Juan dijera.</l>
+               </lg>
+               <lg>
+                  <l> Riu riu chiu, la guarda ribera;</l>
+                  <l> Dios guardó el lobo de nuestra cordera,</l>
+                  <l> Dios guardó el lobo de nuestra cordera.</l>
+               </lg>
+               <lg>
+                  <l> Muchas profecías lo han profetizado,</l>
+                  <l> y ahora en nuestros días lo hemos alcanzado.</l>
+                  <l> A Dios humanado vemos en el suelo</l>
+                  <l> y al hombre en el cielo porque él le quisiera.</l>
+               </lg>
+               <lg>
+                  <l> Riu riu chiu, la guarda ribera;</l>
+                  <l> Dios guardó el lobo de nuestra cordera,</l>
+                  <l> Dios guardó el lobo de nuestra cordera.</l>
+               </lg>
+               <lg>
+                  <l> Yo vi mil garzones que andaban cantando</l>
+                  <l> por aquí volando haciendo mil sones,</l>
+                  <l> diciendo a gascones “Gloria sea en el Cielo,</l>
+                  <l> y paz en el suelo pues Jesús naciera”.</l>
+               </lg>
+               <lg>
+                  <l> Riu riu chiu, la guarda ribera;</l>
+                  <l> Dios guardó el lobo de nuestra cordera,</l>
+                  <l> Dios guardó el lobo de nuestra cordera.</l>
+               </lg>
+               <lg>
+                  <l> Mira bien que os cuadre que ansina lo oyera,</l>
+                  <l> que Dios no pudiera hacerla mas que madre.</l>
+                  <l> El que era su padre hoy de ella nació</l>
+                  <l> y el que la crió su hijo so dijera.</l>
+               </lg>
+               <lg>
+                  <l> Riu riu chiu, la guarda ribera;</l>
+                  <l> Dios guardó el lobo de nuestra cordera,</l>
+                  <l> Dios guardó el lobo de nuestra cordera.</l>
+               </lg>
+               <lg>
+                  <l> Riu riu chiu, la guarda ribera;</l>
+                  <l> Dios guardó el lobo de nuestra cordera,</l>
+                  <l> Dios guardó el lobo de nuestra cordera.</l>
+               </lg>
+               <lg>
+                  <l> Dios guardó el lobo de nuestra cordera.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Todas las versiones de Riu, riu chiu del folk estadounidense se remontan a la de The
+            Kinsgton Trio (Goin’ places, Capitol, 1961), sin embargo, el orden de las estrofas es
+            variable y no se corresponde con el del Cancionero de Upsala en casi todos los casos.
+            Aun así, mantienen la melodía histórica.   Respecto al texto del Cancionero de Upsala,
+            esta versión recoge las estrofas 7, 4, 2, 3 y 5, en ese orden.   La canción ha pasado a
+            ser una canción de navidad en el contexto estadounidense. </note>
+      </body>
+   </text>
+</TEI>

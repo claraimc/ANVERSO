@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Joselito en su gloria</title>
+            <author>Rosa León</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Paloma desesperada</title>
+               <publisher>ION Música</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/Bwpv0YYE6Ik?t=2989"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Rosa León</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <bibl>Joselito en su gloria</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Llora, Giraldilla mora,</l>
+                  <l> lágrimas en tu pañuelo.</l>
+                  <l> Mira cómo sube al cielo</l>
+                  <l> la gracia toreadora.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Niño de amaranto y oro,</l>
+                  <l> cómo llora tu cuadrilla</l>
+                  <l> y cómo llora Sevilla,</l>
+                  <l> despidiéndote del toro.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Tu río, de tanta pena,</l>
+                  <l> deshoja sus olivares</l>
+                  <l> y riega los azahares</l>
+                  <l> de su frente, por la arena.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Dile adiós, torero mío,</l>
+                  <l> dile adiós a mis veleros</l>
+                  <l> y adiós a mis marineros,</l>
+                  <l> que ya no quiero ser río.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Cuatro arcángeles bajaban</l>
+                  <l> y, abriendo surcos de flores,</l>
+                  <l> al rey de los matadores</l>
+                  <l> en hombros se lo llevaban.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Virgen de la Macarena,</l>
+                  <l> mírame tú cómo vengo,</l>
+                  <l> tan sin sangre, que ya tengo</l>
+                  <l> blanca mi color morena.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Ciérrame con tus collares</l>
+                  <l> lo cóncavo de esta herida,</l>
+                  <l> ¡que se me escapa la vida</l>
+                  <l> por entre los alamares!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Virgen del Amor, clavada,</l>
+                  <l> lo mismo que un toro el seno!</l>
+                  <l> Pon a tu espadita bueno</l>
+                  <l> y dale otra vez su espada.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Que pueda, Virgen, que pueda</l>
+                  <l> volver con sangre a Sevilla</l>
+                  <l> y al frente de mi cuadrilla</l>
+                  <l> lucirme por la Alameda.</l>
+                  <l> Y al frente de mi cuadrilla</l>
+                  <l> lucirme por la Alameda.</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Hubo tres musicalizaciones anteriores a 1975, por eso no recogidas en esta base de
+            datos: Francisco Valladares (Los toros en la poesía española, 1968), Mikaela (Mikaela
+            canta poesías de Rafael Alberti, 1970) y Diego Gómez (A mis poetas. Colección flamenco,
+            vol. 12, 1971). La principal diferencia con el poema de Rafael Alberti radica en la
+            omisión de la séptima estrofa del poema y la repetición de los dos últimos versos.
+        </note>
+      </body>
+   </text>
+</TEI>

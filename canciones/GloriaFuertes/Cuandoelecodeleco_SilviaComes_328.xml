@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cuando el eco del eco</title>
+            <author>Silvia Comes</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Fuertes</title>
+               <publisher>Satélite K</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=VCBB1ylQtPQ"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Silvia Comes</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Gloria Fuertes</persName>
+                  <bibl>Cuando el eco del eco huele a grito</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Cuando el eco del eco huele a grito</l>
+                  <l> y nadie huele nada, nada.</l>
+                  <l> Y el náufrago se rompe entre las rocas</l>
+                  <l> y grita y le entra agua, agua.</l>
+               </lg>
+               <lg>
+                  <l> ¿Acaso la belleza no tiene corazón?</l>
+                  <l> El mar es bello y mata.</l>
+                  <l> ¿Acaso la belleza no tiene corazón?</l>
+                  <l> La gente es bella y calla, y calla.</l>
+               </lg>
+               <lg>
+                  <l> Cuando el eco del eco huele a grito</l>
+                  <l> y ponemos la radio alta, alta.</l>
+               </lg>
+               <lg>
+                  <l> Cuando el eco del eco huele a grito</l>
+                  <l> y nadie huele nada, nada.</l>
+                  <l> Y el náufrago se rompe entre las rocas</l>
+                  <l> y grita y le entra agua, agua.</l>
+               </lg>
+               <lg>
+                  <l> ¿Acaso la belleza no tiene corazón?</l>
+                  <l> El mar es bello y mata.</l>
+                  <l> ¿Acaso la belleza no tiene corazón?</l>
+                  <l> La gente es bella y calla, y calla, y calla.</l>
+               </lg>
+               <lg>
+                  <l> Cuando el eco del eco huele a grito</l>
+                  <l> y ponemos la radio alta, alta.</l>
+                  <l> Cuando el eco, el eco</l>
+                  <l> Huele a, huele a grito, grito</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio; a falta de fuente escrita, la
+                    puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">«Cuando el eco del eco» pertenece a un conjunto de trece poemas de Gloria Fuertes
+            musicalizados por Silvia Comes que, bajo el título de Fuertes, sirven de homenaje a la
+            poeta. La presentación de este trabajo tuvo lugar en 2013 en un espectáculo musical que
+            fue premiado por el Festival de BarnaSants de ese mismo año.   </note>
+      </body>
+   </text>
+</TEI>

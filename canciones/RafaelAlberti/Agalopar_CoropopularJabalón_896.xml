@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A galopar</title>
+            <author>Coro popular Jabalón</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Cantos De La Resistencia Española</title>
+               <publisher>Nevada</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=RzrvAj2LBRQ"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Coro popular Jabalón</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <bibl>Galope</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Las tierras, las tierras, las tierras de España,</l>
+                  <l> las grandes, las solas, desiertas llanuras.</l>
+                  <l> Galopa, caballo cuatralbo,</l>
+                  <l> jinete del pueblo, al sol y a la luna.</l>
+               </lg>
+               <lg>
+                  <l> A galopar, a galopar, hasta enterrarlos en el mar.</l>
+                  <l> A galopar, a galopar, hasta enterrarlos en el mar.</l>
+               </lg>
+               <lg>
+                  <l> A corazón, suenan, resuenan, resuenan</l>
+                  <l> las tierras de España en sus herraduras.</l>
+                  <l> Galopa caballo cuatralbo,</l>
+                  <l> jinete del pueblo, caballo de espuma.</l>
+               </lg>
+               <lg>
+                  <l> A galopar, a galopar, hasta enterrarlos en el mar.</l>
+                  <l> A galopar, a galopar, hasta enterrarlos en el mar.</l>
+               </lg>
+               <lg>
+                  <l> Nadie, nadie, nadie, que enfrente no hay nadie;</l>
+                  <l> que es nadie la muerte si va en tu montura.</l>
+                  <l> Galopa caballo cuatralbo, jinete del pueblo,</l>
+                  <l> que la tierra es tuya.</l>
+               </lg>
+               <lg>
+                  <l> A galopar, a galopar, hasta enterrarlos en el mar.</l>
+                  <l> A galopar, a galopar, hasta enterrarlos en el mar.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Parte de la versión de Paco Ibáñez de “A galopar” en su álbum Paco Ibáñez 3 (1969),
+            tanto en los acordes básicos como en el texto. Para adaptarlo a la melodía, en la
+            canción se producen variaciones mínimas respecto del poema en el texto, repeticiones de
+            versos y/o palabras y alteraciones de la métrica. </note>
+      </body>
+   </text>
+</TEI>

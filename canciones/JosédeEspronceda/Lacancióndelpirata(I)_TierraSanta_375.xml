@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La canción del pirata (I)</title>
+            <author>Tierra Santa</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Tierras de leyenda</title>
+               <publisher>Locomotive Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=fJ9WhUfR7D4"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Heavy metal</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Tierra Santa</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>José de Espronceda</persName>
+                  <bibl>Canción del pirata</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Con diez cañones por banda,</l>
+                  <l> viento en popa a toda vela,</l>
+                  <l> no corta el mar si no vuela</l>
+                  <l> un velero bergantín.</l>
+                  <l> Bajel pirata que llaman</l>
+                  <l> por su bravura «El Temido»,</l>
+                  <l> en todo el mar conocido</l>
+                  <l> del uno al otro confín.</l>
+               </lg>
+               <lg>
+                  <l> La luna en el mar riela,</l>
+                  <l> en la lona gime el viento</l>
+                  <l> y alza el blando movimiento</l>
+                  <l> olas de plata y azul.</l>
+                  <l> Y va el capitán pirata,</l>
+                  <l> cantando alegre en la popa,</l>
+                  <l> Asia a un lado, al otro Europa</l>
+                  <l> y allá a su frente Estambul.</l>
+               </lg>
+               <lg>
+                  <l> —Navega velero mío,</l>
+                  <l> sin temor, que ni enemigo navío,</l>
+                  <l> ni tormenta ni bonanza</l>
+                  <l> tu rumbo a torcer alcanza</l>
+                  <l> ni a sujetar tu valor.</l>
+                  <l> Veinte presas hemos hecho</l>
+                  <l> a despecho del inglés</l>
+                  <l> y han rendido sus pendones</l>
+                  <l> cien naciones a mis pies.</l>
+                  <l> Que es mi barco mi tesoro,</l>
+                  <l> que es mi dios mi libertad,</l>
+                  <l> mi ley la fuerza y el viento,</l>
+                  <l> mi única patria la mar.</l>
+               </lg>
+               <lg>
+                  <l> Allá muevan feroz guerras</l>
+                  <l> ciegos reyes por un palmo más de tierra,</l>
+                  <l> que yo tengo aquí por mío</l>
+                  <l> cuanto abarca el mar bravío,</l>
+                  <l> a quien nadie impuso leyes.</l>
+                  <l> Y no hay playa sea cualquiera</l>
+                  <l> ni bandera de esplendor,</l>
+                  <l> que no sienta mi derecho</l>
+                  <l> y dé pecho a mi valor.</l>
+                  <l> Que es mi barco mi tesoro,</l>
+                  <l> que es mi dios mi libertad,</l>
+                  <l> mi ley la fuerza y el viento,</l>
+                  <l> mi única patria la mar—.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La banda pone música al poema de Espronceda dividiéndolo en dos canciones diferentes,
+            pero sin ninguna otra variación. </note>
+      </body>
+   </text>
+</TEI>

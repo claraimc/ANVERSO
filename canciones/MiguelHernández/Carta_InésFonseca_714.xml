@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Carta</title>
+            <author>Inés Fonseca</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Otros">
+               <title>Vuelo</title>
+               <publisher>Editorial Universidad de Cantabria</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.editorialuc.es/libro/vuelo"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Inés Fonseca</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Carta</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l/>
+               </lg>
+               <lg>
+                  <l> El palomar de las cartas</l>
+                  <l> abre su imposible vuelo</l>
+                  <l> desde las trémulas mesas</l>
+                  <l> donde se apoya el recuerdo,</l>
+                  <l> la gravedad de la ausencia,</l>
+                  <l> el corazón, el silencio.</l>
+               </lg>
+               <lg>
+                  <l> Oigo un latido de cartas</l>
+                  <l> navegando hacia su centro.</l>
+               </lg>
+               <lg>
+                  <l> Donde voy, con las mujeres</l>
+                  <l> y con los hombres me encuentro,</l>
+                  <l> malheridos por la ausencia,</l>
+                  <l> desgastados por el tiempo.</l>
+               </lg>
+               <lg>
+                  <l> Cartas, relaciones, cartas:</l>
+                  <l> tarjetas postales, sueños,</l>
+                  <l> fragmentos de la ternura,</l>
+                  <l> proyectados en el cielo,</l>
+                  <l> lanzados de sangre a sangre</l>
+                  <l> y de deseo a deseo.</l>
+               </lg>
+               <lg>
+                  <l> Aunque bajo la tierra</l>
+                  <l> mi amante cuerpo esté,</l>
+                  <l> escríbeme a la tierra</l>
+                  <l> que yo te escribiré.</l>
+               </lg>
+               <lg>
+                  <l> En un rincón enmudecen</l>
+                  <l> cartas viejas, sobres viejos,</l>
+                  <l> con el color de la edad</l>
+                  <l> sobre la escritura puesto.</l>
+                  <l> Allí perecen las cartas</l>
+                  <l> llenas de estremecimientos.</l>
+                  <l> Allí agoniza la tinta</l>
+                  <l> y desfallecen los pliegos,</l>
+                  <l> y el papel se agujerea</l>
+                  <l> como un breve cementerio</l>
+                  <l> de las pasiones de antes,</l>
+                  <l> de los amores de luego.</l>
+               </lg>
+               <lg>
+                  <l> Aunque bajo la tierra</l>
+                  <l> mi amante cuerpo esté,</l>
+                  <l> escríbeme a la tierra,</l>
+                  <l> que yo te escribiré.</l>
+               </lg>
+               <lg>
+                  <l> Cuando te voy a escribir</l>
+                  <l> se emocionan los tinteros:</l>
+                  <l> los negros tinteros fríos</l>
+                  <l> se ponen rojos y trémulos,</l>
+                  <l> y un claro calor humano</l>
+                  <l> sube desde el fondo negro.</l>
+                  <l> Cuando te voy a escribir,</l>
+                  <l> te van a escribir mis huesos:</l>
+                  <l> te escribo con la imborrable</l>
+                  <l> tinta de mi sentimiento.</l>
+               </lg>
+               <lg>
+                  <l> Allá va mi carta cálida,</l>
+                  <l> paloma forjada al fuego,</l>
+                  <l> con las dos alas plegadas</l>
+                  <l> y la dirección en medio.</l>
+                  <l> Ave que sólo persigue,</l>
+                  <l> para nido y aire y cielo,</l>
+                  <l> carne, manos, ojos tuyos,</l>
+                  <l> y el espacio de tu aliento.</l>
+               </lg>
+               <lg>
+                  <l> Y te quedarás desnuda</l>
+                  <l> dentro de tus sentimientos,</l>
+                  <l> sin ropa, para sentirla</l>
+                  <l> del todo contra tu pecho.</l>
+               </lg>
+               <lg>
+                  <l> Aunque bajo la tierra</l>
+                  <l> mi amante cuerpo esté,</l>
+                  <l> escríbeme a la tierra</l>
+                  <l> que yo te escribiré.</l>
+               </lg>
+               <lg>
+                  <l> Ayer se quedó una carta</l>
+                  <l> abandonada y sin dueño,</l>
+                  <l> volando sobre los ojos</l>
+                  <l> de alguien que perdió su cuerpo.</l>
+                  <l> Cartas que se quedan vivas</l>
+                  <l> hablando para los muertos:</l>
+                  <l> papel anhelante, humano,</l>
+                  <l> sin ojos que puedan serlo.</l>
+               </lg>
+               <lg>
+                  <l> Mientras los colmillos crecen,</l>
+                  <l> cada vez más cerca siento</l>
+                  <l> la leve voz de tu carta</l>
+                  <l> igual que un clamor inmenso.</l>
+                  <l> La recibiré dormido,</l>
+                  <l> si no es posible despierto.</l>
+                  <l> Y mis heridas serán</l>
+                  <l> los derramados tinteros,</l>
+                  <l> las bocas estremecidas</l>
+                  <l> de rememorar tus besos,</l>
+                  <l> y con su inaudita voz</l>
+                  <l> han de repetir: te quiero.</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+            </lg>
+         </div>
+         <note xmlns="">Se trata en realizad de un libro que contiene una selección de 10 poemas de Miguel
+            Hernández, musicados por Inés Fonseca y con ilustraciones de Luis Quintanilla, junto a
+            fragmentos de su epistolario. Es una obra dual, impresa y fonográfica, realizada con
+            motivo del centenario del nacimiento del poeta. </note>
+      </body>
+   </text>
+</TEI>

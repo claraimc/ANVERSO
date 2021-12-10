@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Por una senda</title>
+            <author>Amancio Prada</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Dulce vino del olvido</title>
+               <publisher>Fonomusic</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/FOjDZ4m5OO8"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Amancio Prada</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Por una senda van los hortelanos]</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Por una senda van los hortelanos,</l>
+                  <l> que es la sagrada hora del regreso,</l>
+                  <l> con la sangre injuriada por el peso</l>
+                  <l> de inviernos, primaveras y veranos.</l>
+               </lg>
+               <lg>
+                  <l> Vienen de los esfuerzos sobrehumanos</l>
+                  <l> y van a la canción, y van al beso,</l>
+                  <l> y van dejando por el aire impreso</l>
+                  <l> un olor de herramientas y de manos.</l>
+               </lg>
+               <lg>
+                  <l> Por otra senda yo, por otra senda</l>
+                  <l> que no conduce al beso aunque es la hora,</l>
+                  <l> sino que merodea sin destino.</l>
+               </lg>
+               <lg>
+                  <l> Bajo su frente trágica y tremenda,</l>
+                  <l> un toro solo en la ribera llora</l>
+                  <l> olvidando que es toro y masculino,</l>
+                  <l> olvidando que es toro y masculino.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Supone una musicalización directa del poema original. El mismo autor reeditó esta
+            canción con distintos arreglos musicales pero idéntica letra en discos posteriores
+            (Homenaje a las víctimas del franquismo, 1987; Escrito está, 2001; La palabra más tuya.
+            Cantando a Miguel Hernández, 2006). </note>
+      </body>
+   </text>
+</TEI>

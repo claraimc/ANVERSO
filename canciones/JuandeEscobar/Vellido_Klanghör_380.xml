@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vellido</title>
+            <author>Klanghör</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Maqueta/Demo">
+               <title>Zamora</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target=""/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Heavy metal</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Klanghör</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Juan de Escobar</persName>
+                  <bibl>De Zamora sale el Dolfos</bibl>
+                  <relation>Alusión</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Ante la luna llena</l>
+                  <l> la sombra de un corazón,</l>
+                  <l> la brisa acaricia una silueta</l>
+                  <l> y enfría la sangre de un bienhechor.</l>
+                  <l> —Los que temen tu nombre letal</l>
+                  <l> tiemblan mudos viendo su fin,</l>
+                  <l> si alguien pretendiera hacerles mal</l>
+                  <l> así tendría que morir—.</l>
+               </lg>
+               <lg>
+                  <l> Vellido Dolfos guía</l>
+                  <l> al felón rey invasor</l>
+                  <l> a una supuesta puerta escondida</l>
+                  <l> para matarle, romper el dolor.</l>
+                  <l> —Honor, poder y fuerza leal</l>
+                  <l> a la ciudad por que nací,</l>
+                  <l> si alguien pretendiera hacerle mal</l>
+                  <l> así tendría que morir—.</l>
+               </lg>
+               <lg>
+                  <l> ¡Vellido! ¡Oh, Vellido!</l>
+                  <l> Hacia ti fue la traición</l>
+                  <l> de este pueblo,</l>
+                  <l> pueblo que no agradeció</l>
+                  <l> a su héroe libertador.</l>
+               </lg>
+               <lg>
+                  <l> Valles desiertos, tierra perdida,</l>
+                  <l> en la que hasta el tiempo grita,</l>
+                  <l> muere el tiempo, el mar agoniza,</l>
+                  <l> muere la angustia escondida,</l>
+                  <l> y renace clavada en mi pecho</l>
+                  <l> más fuerte que una tormenta,</l>
+                  <l> cuando los mismos por quien me entrego</l>
+                  <l> me injurian y me condenan.</l>
+                  <l> ¡Vellido! ¡Oh, Vellido!</l>
+                  <l> Hacia ti fue la traición</l>
+                  <l> de este pueblo,</l>
+                  <l> pueblo que no agradeció</l>
+                  <l> a su héroe libertador.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Aunque no hay ninguna referencia explícita a ningún romance, puesto que la banda basa
+            otras canciones en las versiones de los romances cidianos de Juan de Escobar en Historia
+            del muy noble y valeroso cavallero, el Cid Ruy Diez de Bivar en romances en lenguaje
+            antiguo (1605), asociamos la canción con el poema correspondiente de dicha edición.  
+            Todo el ábum trata el tema del cerco de Zamora. </note>
+      </body>
+   </text>
+</TEI>

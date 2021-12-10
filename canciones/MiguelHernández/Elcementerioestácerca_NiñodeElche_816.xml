@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El cementerio está cerca</title>
+            <author>Niño de Elche</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Sí, a Miguel Hernández</title>
+               <publisher>Niño de Elche</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://music.youtube.com/watch?v=JjTB_15R5ss&amp;list=RDAMVMJjTB_15R5ss"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Niño de Elche</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[El cementerio está cerca]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>El cementerio está cerca</l>
+                  <l> de donde tú y yo dormimos,</l>
+                  <l> el cementerio está cerca</l>
+                  <l> de donde tú y yo dormimos,</l>
+                  <l> entre nopales azules,</l>
+                  <l> pitas azules y niños</l>
+                  <l> que gritan vívidamente</l>
+                  <l> si un muerto nubla el camino.</l>
+               </lg>
+               <lg>
+                  <l> De aquí al cementerio, todo</l>
+                  <l> es azul, dorado, límpido.</l>
+                  <l> De aquí al cementerio, todo</l>
+                  <l> es azul, dorado, límpido.</l>
+                  <l> Cuatro pasos, y los muertos.</l>
+                  <l> Cuatro pasos, y los muertos.</l>
+                  <l> Cuatro pasos, y los vivos.</l>
+                  <l> Límpido, azul y dorado,</l>
+                  <l> se hace allí remoto el hijo.</l>
+                  <l> Límpido, azul y dorado,</l>
+                  <l> se hace allí remoto el hijo.</l>
+                  <l> Límpido, azul y dorado,</l>
+                  <l> se hace allí remoto el hijo.</l>
+                  <l> Límpido, azul y dorado,</l>
+                  <l> se hace allí remoto el hijo, hijo, hijo.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns=""/>
+      </body>
+   </text>
+</TEI>

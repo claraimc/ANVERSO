@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tu puerta no tiene casa</title>
+            <author>Jarcha</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Jarcha a Miguel Hernández. El rayo que no cesa</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://open.spotify.com/album/0Paql3xZvAdI6FTdwWN1Qm#login"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Jarcha</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Cuando paso por tu puerta]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Tu puerta no tiene casa</l>
+                  <l> ni calle: tiene un camino</l>
+                  <l> por donde la tarde pasa</l>
+                  <l> como un agua sin destino.</l>
+               </lg>
+               <lg>
+                  <l> Tu puerta tiene una llave</l>
+                  <l> que para todos rechina.</l>
+                  <l> En la tarde hermosa y grave</l>
+                  <l> ni una sola golondrina.</l>
+               </lg>
+               <lg>
+                  <l> Hierbas en tu puerta crecen</l>
+                  <l> de ser tan poco pisada,</l>
+                  <l> todas las cosas padecen</l>
+                  <l> sobre la tarde abrasada.</l>
+                  <l> Todas las cosas padecen</l>
+                  <l> sobre la tarde abrasada.</l>
+               </lg>
+               <lg>
+                  <l> La piel de tu puerta encierra</l>
+                  <l> un lecho que compartir.</l>
+                  <l> La tarde no encuentra tierra</l>
+                  <l> donde ponerse a morir.</l>
+               </lg>
+               <lg>
+                  <l> Lleno de un siglo de ocasos</l>
+                  <l> de una tarde azul de abierta,</l>
+                  <l> hundo en tu puerta mis pasos</l>
+                  <l> y no sales a tu puerta.</l>
+                  <l> hundo en tu puerta mis pasos</l>
+                  <l> y no sales a tu puerta.</l>
+               </lg>
+               <lg>
+                  <l> En tu puerta no hay ventana</l>
+                  <l> por donde poderte hablar.</l>
+                  <l> Tarde, hermosura lejana</l>
+                  <l> que nunca podré lograr.</l>
+               </lg>
+               <lg>
+                  <l> Y la tarde azul corona</l>
+                  <l> tu puerta gris, de vacía.</l>
+                  <l> Y la noche se amontona</l>
+                  <l> sin esperanzas de día.</l>
+               </lg>
+               <lg>
+                  <l> Hierbas en tu puerta crecen</l>
+                  <l> de ser tan poco pisada,</l>
+                  <l> todas las cosas padecen</l>
+                  <l> sobre la tarde abrasada.</l>
+                  <l> Todas las cosas padecen</l>
+                  <l> sobre la tarde abrasada.</l>
+               </lg>
+               <lg>
+                  <l> Lleno de un siglo de ocasos</l>
+                  <l> de una tarde azul de abierta,</l>
+                  <l> hundo en tu puerta mis pasos</l>
+                  <l> y no sales a tu puerta.</l>
+                  <l> Hundo en tu puerta mis pasos</l>
+                  <l> y no sales a tu puerta.</l>
+               </lg>
+               <lg>
+                  <l> En tu puerta no hay ventana</l>
+                  <l> por donde poderte hablar.</l>
+                  <l> Tarde, hermosura lejana</l>
+                  <l> que nunca podré lograr.</l>
+                  <l> que nunca podré lograr.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar al poema de Miguel Hernández. Para
+            componer la canción, el artista toma todas las estrofas del poema menos la primera y la
+            última.  La cuarta y sexta estrofas son utilizadas a modo de puenta antes de las
+            estrofas finales de la canción:   «…Hierbas en tu puerta crecen/de ser tan poco
+            pisada,/todas las cosas padecen/sobre la tarde abrasada./ Todas las cosas padecen/sobre
+            la tarde abrasada. Lleno de un siglo de ocasos/de una tarde azul de abierta,/hundo en tu
+            puerta mis pasos/y no sales a tu puerta./Hundo en tu puerta mis pasos/y no sales a tu
+            puerta…»     </note>
+      </body>
+   </text>
+</TEI>

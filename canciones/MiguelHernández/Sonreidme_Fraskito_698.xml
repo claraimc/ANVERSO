@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sonreidme</title>
+            <author>Fraskito</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Tierra y sangre (Un homenaje Miguel Hernández)</title>
+               <publisher>Frasko Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/XCXEPc8Rodk"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Fraskito</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Sonreídme</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Sonreidme, vengo muy satisfecho de liberarme de la serpiente, de la
+                    serpiente.</l>
+                  <l> Sonreidme, vengo muy satisfecho de liberarme de la serpiente.</l>
+               </lg>
+               <lg>
+                  <l> Su cola puso en mi boca acíbar, sus anillos verdugos</l>
+                  <l> reprimieron y malaventuraron la nudosa sangre de mi corazón.</l>
+                  <l> Vengo muy dolorido de aquel infierno de incensarios locos,</l>
+                  <l> de aquella boba gloria.</l>
+               </lg>
+               <lg>
+                  <l> Sonreídme, que voy a donde estáis vosotros los de siempre,</l>
+                  <l> los que cubrís de espigas y racimos la boca del que nos escupe,</l>
+                  <l> los que conmigo en surcos, andamios, fraguas, hornos,</l>
+                  <l> os arrancáis la corona del sudor a diario.</l>
+               </lg>
+               <lg>
+                  <l> Me libré de los templos, sonreídme, donde me consumía con tristeza de
+                    lámpara</l>
+                  <l> encerrado en el poco aire de los sagrarios; salté al monte de donde procedo,</l>
+                  <l> a las viñas donde halla tanta hermana mi sangre.</l>
+               </lg>
+               <lg>
+                  <l> Encerrado en el poco aire de los sagrarios; salté al monte de donde procedo,</l>
+                  <l> a las viñas donde halla tanta hermana mi sangre.</l>
+               </lg>
+               <lg>
+                  <l> Sonreidme, vengo muy satisfecho de liberarme de la serpiente, de la
+                    serpiente.</l>
+                  <l> Sonreidme, vengo muy satisfecho de liberarme de la serpiente.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone la musicalización de la primera estrofa y la primera parte de la
+            segunda estrofa; sobre esta base, realiza ligeras variaciones como repetir las líneas
+            «…Sonreidme, vengo muy satisfecho de liberarme de la serpiente, de la
+            serpiente/Sonreidme, vengo muy satisfecho de liberarme de la serpiente…» al inicio y al
+            final de la canción. </note>
+      </body>
+   </text>
+</TEI>

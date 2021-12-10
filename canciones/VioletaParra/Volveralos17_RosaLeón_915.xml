@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Volver a los 17</title>
+            <author>Rosa León</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Rosa se esta buscando en el espejo</title>
+               <publisher>Movieplay</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://music.youtube.com/watch?v=4N8GcM3mEws&amp;list=RDAMVM4N8GcM3mEws"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Latina</term>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Rosa León</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Violeta Parra</persName>
+                  <bibl>Volver a los 17</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Volver a los diecisiete</l>
+                  <l> después de vivir un siglo</l>
+                  <l> es como descifrar signos</l>
+                  <l> sin ser sabio competente;</l>
+                  <l> volver a ser, de repente,</l>
+                  <l> tan frágil como un segundo,</l>
+                  <l> volver a sentir profundo</l>
+                  <l> como un niño frente a Dios.</l>
+                  <l> Eso es lo que siento yo</l>
+                  <l> en este instante fecundo.</l>
+               </lg>
+               <lg>
+                  <l> Se va enredando, enredando</l>
+                  <l> como en el muro la hiedra,</l>
+                  <l> y va brotando, brotando</l>
+                  <l> como el musguito en la piedra</l>
+                  <l> como el musguito en la piedra ay sí sí sí.</l>
+               </lg>
+               <lg>
+                  <l> Mi paso ha retrocedido</l>
+                  <l> cuando el de ustedes avanza;</l>
+                  <l> el Arco de las Alianzas</l>
+                  <l> ha penetrado en mi nido.</l>
+                  <l> Con todo su colorido</l>
+                  <l> se ha paseado por mis venas,</l>
+                  <l> y hasta la dura cadena</l>
+                  <l> con que nos ata el destino</l>
+                  <l> es como un diamante fino</l>
+                  <l> que alumbra mi alma serena.</l>
+               </lg>
+               <lg>
+                  <l> Se va enredando, enredando</l>
+                  <l> como en el muro la hiedra,</l>
+                  <l> y va brotando, brotando</l>
+                  <l> como el musguito en la piedra</l>
+                  <l> como el musguito en la piedra ay sí sí sí.</l>
+               </lg>
+               <lg>
+                  <l> Lo que puede el sentimiento</l>
+                  <l> no lo ha podido el saber,</l>
+                  <l> ni el más claro proceder,</l>
+                  <l> ni el más ancho pensamiento.</l>
+                  <l> Todo lo cambia el momento;</l>
+                  <l> cual mago condescendiente</l>
+                  <l> nos aleja dulcemente</l>
+                  <l> de rencores y violencias.</l>
+                  <l> ¡Sólo el amor con su ciencia</l>
+                  <l> nos vuelve tan inocentes!</l>
+               </lg>
+               <lg>
+                  <l> Se va enredando, enredando</l>
+                  <l> como en el muro la hiedra,</l>
+                  <l> y va brotando, brotando</l>
+                  <l> como el musguito en la piedra</l>
+                  <l> como el musguito en la piedra ay sí sí sí.</l>
+               </lg>
+               <lg>
+                  <l> El amor es torbellino</l>
+                  <l> de pureza original;</l>
+                  <l> hasta el feroz animal</l>
+                  <l> susurra su dulce trino.</l>
+                  <l> Detiene a los peregrinos,</l>
+                  <l> libera a los prisioneros;</l>
+                  <l> el amor con sus esmeros</l>
+                  <l> al viejo lo vuelve niño,</l>
+                  <l> y al malo sólo el cariño</l>
+                  <l> lo vuelve puro y sincero.</l>
+               </lg>
+               <lg>
+                  <l> Se va enredando, enredando</l>
+                  <l> como en el muro la hiedra,</l>
+                  <l> y va brotando, brotando</l>
+                  <l> como el musguito en la piedra</l>
+                  <l> como el musguito en la piedra ay sí sí sí.</l>
+               </lg>
+               <lg>
+                  <l> De par en par la ventana</l>
+                  <l> se abrió como por encanto;</l>
+                  <l> entró el amor con su manto</l>
+                  <l> como una tibia mañana.</l>
+                  <l> Al son de su bella diana</l>
+                  <l> hizo brotar al jazmín;</l>
+                  <l> volando cual serafín</l>
+                  <l> al cielo le puso aretes;</l>
+                  <l> mis años en diecisiete</l>
+                  <l> los convirtió el querubín.</l>
+               </lg>
+               <lg>
+                  <l> Se va enredando, enredando</l>
+                  <l> como en el muro la hiedra,</l>
+                  <l> y va brotando, brotando</l>
+                  <l> como el musguito en la piedra</l>
+                  <l> como el musguito en la piedra ay sí sí sí.</l>
+               </lg>
+               <lg>
+                  <l> Se va enredando, enredando</l>
+                  <l> como en el muro la hiedra,</l>
+                  <l> y va brotando, brotando</l>
+                  <l> como el musguito en la piedra.</l>
+               </lg>
+               <lg>
+                  <l> Se va enredando, enredando</l>
+                  <l> como en el muro la hiedra,</l>
+                  <l> y va brotando, brotando</l>
+                  <l> como el musguito en la piedra.</l>
+               </lg>
+               <lg>
+                  <l> Se va enredando, enredando</l>
+                  <l> como en el muro la hiedra,</l>
+                  <l> y va brotando, brotando.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio; a falta de fuente escrita, la
+                    puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar a la de Parra, aunque existen algunas
+            diferencias como la repetición de «como el musguito en la piedra”. También la segunda
+            estrofa del texto original de Parra es utilizada por Rosa León a modo de estribillo: “Se
+            va enredando, enredando/como en el muro la hiedra,/y va brotando, brotando/como el
+            musguito en la piedra/como el musguito en la piedra ay sí sí sí.…” Además, en la canción
+            de Rosa León aparece una voz masculina que canta en ocasiones. El vinilo no señala de
+            quién es esta voz, pero Victor Manuel participó en el mismo así que es probable que sea
+            suya. La canción termina repitiendo partes del estribillo varias veces hasta que la voz
+            de la cantante se desvanece completamente. Esta canción también se puede encontrar en La
+            palabra más tuya cantando a Violeta Parra, Gloria Fuertes, Fanny Rubio, Elena Martín
+            Vidal, Gabriela Mistral, Dulce María Loynar, María Elena Walsh, Alfonsina Storni, María
+            Zambrano, Isabel Escudero. Un CD de Iberautor Promociones Culturales (2006). Si bien la
+            letra que aparece en este CD está incompleta, y de ahí que la versión en esta ficha haya
+            sido modificada. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poema social de guerra y muerte</title>
+            <author>Reincidentes</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>¿Y ahora, qué?</title>
+               <publisher>BMG Ariola</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=nmdX-nTFZPA"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Punk y punk-rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Reincidentes</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>El hambre</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Tened presente el hambre, recordad su pasado</l>
+                  <l> turbio de capataces que pagaban en plomo.</l>
+                  <l> Aquel jornal al precio de la sangre cobrado,</l>
+                  <l> con yugos en el alma, con golpes en el lomo.</l>
+               </lg>
+               <lg>
+                  <l> El hambre paseaba sus vacas exprimidas,</l>
+                  <l> sus mujeres resecas, sus devoradas ubres,</l>
+                  <l> sus ávidas quijadas, sus miserables vidas</l>
+                  <l> frente a los comedores y los cuerpos salubres.</l>
+               </lg>
+               <lg>
+                  <l> No habéis querido oír con orejas abiertas</l>
+                  <l> el llanto de millones de niños jornaleros.</l>
+                  <l> Ladrabais cuando el hambre llamaba a vuestras puertas</l>
+                  <l> a pedir con la boca de los mismos luceros.</l>
+               </lg>
+               <lg>
+                  <l> Se ejercita en la bestia y empuña la cuchara</l>
+                  <l> dispuesto a que ninguno se le acerque a la mesa.</l>
+                  <l> Entonces sólo veo sobre el mundo una piara</l>
+                  <l> de tigres, y en mis ojos la visión duele y pesa.</l>
+               </lg>
+               <lg>
+                  <l> Hambrientamente lucho yo, con todas mis brechas,</l>
+                  <l> cicatrices y heridas, señales y recuerdos</l>
+                  <l> del hambre contra tantas barrigas satisfechas:</l>
+                  <l> cerdos con un origen peor que el de los cerdos.</l>
+               </lg>
+               <lg>
+                  <l> Los años de abundancia, la saciedad, la hartura</l>
+                  <l> eran sólo de aquellos que se llamaban amos.</l>
+                  <l> Para que venga el pan justo a la dentadura</l>
+                  <l> del hambre de los pobres, aquí estoy, aquí estamos.</l>
+               </lg>
+               <lg>
+                  <l> Nosotros no podemos ser ellos, los de enfrente,</l>
+                  <l> Los que entienden la vida como un motín sangriento</l>
+                  <l> Como los tiburones, voracidad y diente</l>
+                  <l> Panteras deseosas de un mundo siempre hambriento.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Versión mucho más breve del poema, que cambia también el orden de algunas de las
+            estrofas. </note>
+      </body>
+   </text>
+</TEI>

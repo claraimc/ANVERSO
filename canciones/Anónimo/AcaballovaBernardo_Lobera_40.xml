@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A caballo va Bernardo</title>
+            <author>Lobera</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Maqueta/Demo">
+               <title>Demo I</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://ulfvaldr.bandcamp.com/track/a-caballo-va-bernardo"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Heavy metal</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Lobera</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Romance de Bernardo del Carpio «Por las riberas de Arlanza»</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>A caballo va Bernardo</l>
+                  <l> por las riberas de Arlanza,</l>
+                  <l> gruesa lanza en la su mano</l>
+                  <l> armado de todas armas.</l>
+                  <l> Toda la gente de Burgos</l>
+                  <l> le mira como espantada</l>
+                  <l> porque no se suele armar</l>
+                  <l> sino a cosa señalada.</l>
+                  <l> El rey estaba mirando</l>
+                  <l> y Bernardo así le hablaba:</l>
+                  <l> —Bastardo me llaman, rey,</l>
+                  <l> siendo hijo de tu hermana</l>
+                  <l> y del noble Sancho Díaz</l>
+                  <l> ese conde de Saldaña.</l>
+                  <l> Dicen que ha sido traidor</l>
+                  <l> y mala mujer tu hermana,</l>
+                  <l> tú y los tuyos lo habéis dicho</l>
+                  <l> que ningún otro lo osara,</l>
+                  <l> mas quien quiera que lo ha dicho</l>
+                  <l> miente por medio la barba.</l>
+                  <l> Pusiste a mi padre en hierros</l>
+                  <l> y a mi madre en orden santa</l>
+                  <l> y porque no herede yo</l>
+                  <l> quieres dar tu reino a Francia.</l>
+                  <l> Morirán los castellanos</l>
+                  <l> antes de ver tal jornada.</l>
+                  <l> Montañeses y leoneses</l>
+                  <l> y esotra gente asturiana</l>
+                  <l> y aquel rey de Zaragoza</l>
+                  <l> me prestará su compaña</l>
+                  <l> para salir contra Francia</l>
+                  <l> y darle cruda batalla</l>
+                  <l> y si buena me saliere</l>
+                  <l> será el bien de toda España—.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La versión lo es en realidad de la de Joaquín Díaz (Canciones populares del siglo XVI.
+            Francisco de Salinas, Openfolk, 2006), que a su vez es una versión abreviada de una de
+            las versiones del romance. La obra mantiene el mismo tema y esquema formal que la
+            versión de Joaquín Díaz, aunque con una mayor presencia instrumental (en este caso, de
+            carácter heavy). </note>
+      </body>
+   </text>
+</TEI>

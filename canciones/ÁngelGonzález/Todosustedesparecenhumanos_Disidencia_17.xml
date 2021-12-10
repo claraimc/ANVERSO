@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Todos ustedes parecen humanos</title>
+            <author>Disidencia</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Antología poética</title>
+               <publisher>Phantom Sound &amp; Vision</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=FIWtL5KTznM"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Punk y punk-rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Disidencia</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Ángel González</persName>
+                  <bibl>Todos ustedes parecen felices</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Todos ustedes parecen humanos</l>
+                  <l> y sonríen incluso, a veces, cuando hablan,</l>
+                  <l> y se relacionan con su misma clase</l>
+                  <l> y a otras veces se dicen,</l>
+                  <l> palabras de amor.</l>
+                  <l> Pero suelen amarse de dos en dos</l>
+                  <l> y se odian en cambio de mil en mil</l>
+                  <l> y guardan toneladas de hostilidad</l>
+                  <l> por cada gramo de humanidad.</l>
+               </lg>
+               <lg>
+                  <l> Y hablan con el fin de ocultar</l>
+                  <l> toda esta amarga soledad,</l>
+                  <l> y a veces no lo consiguen,</l>
+                  <l> al igual que yo,</l>
+                  <l> esconder por más tiempo</l>
+                  <l> esta frustración.</l>
+                  <l> Esta ciega y estéril desolación,</l>
+                  <l> esta compulsiva depresión</l>
+                  <l> que me arrastra hacia ningún lugar,</l>
+                  <l> hacia ningún sitio, a ningún lugar.</l>
+               </lg>
+               <lg>
+                  <l> Todos ustedes parecen,</l>
+                  <l> nada mas que parecen,</l>
+                  <l> solamente parecen humanos.</l>
+               </lg>
+               <lg>
+                  <l> Todos ustedes parecen,</l>
+                  <l> nada mas que parecen,</l>
+                  <l> solamente parecen humanos.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">El poema es sometido a bastantes cambios que, no obstante, conservan el toneo general.
+        </note>
+      </body>
+   </text>
+</TEI>

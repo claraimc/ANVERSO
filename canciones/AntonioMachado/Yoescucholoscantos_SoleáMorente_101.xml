@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Yo escucho los cantos</title>
+            <author>Soleá Morente</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Tendrá que haber un camino</title>
+               <publisher>El Volcán Música</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=91yVI65COiU"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Soleá Morente</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Antonio Machado</persName>
+                  <bibl>[Yo escucho los cantos]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Yo escucho los cantos</l>
+                  <l> de viejas cadencias,</l>
+                  <l> que cantan los niños</l>
+                  <l> cuando en coro juegan,</l>
+                  <l> y vierten en coro</l>
+                  <l> sus almas que sueñan,</l>
+                  <l> cual vierten sus aguas</l>
+                  <l> las fuentes de piedra:</l>
+                  <l> con monotonías</l>
+                  <l> de risas eternas,</l>
+                  <l> que no son alegres,</l>
+                  <l> ni dicen tristezas;</l>
+                  <l> que no son amargas,</l>
+                  <l> ni dicen tristezas;</l>
+                  <l> tristezas de amores</l>
+                  <l> de antiguas leyendas.</l>
+                  <l> En los labios de los niños,</l>
+                  <l> las canciones llevan</l>
+                  <l> confusa la historia</l>
+                  <l> y clara la pena;</l>
+                  <l> como clara el agua</l>
+                  <l> lleva su conseja</l>
+                  <l> de viejos amores,</l>
+                  <l> que nunca se cuentan.</l>
+                  <l> Jugando a la sombra</l>
+                  <l> de una plaza vieja.</l>
+                  <l> Los niños cantaban.</l>
+                  <l> Las fuentes de piedra</l>
+                  <l> vertían su eterno</l>
+                  <l> cristal de leyenda.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Parte a su vez de la versión de Enrique Morente de 1977. Se musicaliza el poema, con
+            ligeras variaciones léxicas y supresión de algunos versos. </note>
+      </body>
+   </text>
+</TEI>

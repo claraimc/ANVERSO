@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Coplas a la muerte de su padre</title>
+            <author>José Ignacio Hernández Toquero</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>El camino del agua. Música para el Canal de Castilla</title>
+               <publisher>Jacovia</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target=""/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>José Ignacio Hernández Toquero</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Jorge Manrique</persName>
+                  <bibl>Coplas por la muerte de su padre</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Nuestras vidas son los ríos</l>
+                  <l> que van a dar en la mar,</l>
+                  <l> que es el morir;</l>
+                  <l> allí van los señoríos</l>
+                  <l> derechos a se acabar</l>
+                  <l> y consumir;</l>
+                  <l> allí los ríos caudales,</l>
+                  <l> allá los otros medianos</l>
+                  <l> y más chicos,</l>
+                  <l> allegados, son iguales</l>
+                  <l> los que viven por sus manos</l>
+                  <l> y los ricos.</l>
+               </lg>
+               <lg>
+                  <l> Las mañas y ligereza</l>
+                  <l> y la fuerza corporal</l>
+                  <l> de juventud,</l>
+                  <l> todo se torna graveza</l>
+                  <l> cuando llega el arrabal</l>
+                  <l> de senectud.</l>
+               </lg>
+               <lg>
+                  <l> Ved de cuán poco valor</l>
+                  <l> son las cosas tras que andamos</l>
+                  <l> y corremos,</l>
+                  <l> que en este mundo traidor</l>
+                  <l> aun primero que muramos</l>
+                  <l> las perdemos.</l>
+               </lg>
+               <lg>
+                  <l> Este mundo es el camino</l>
+                  <l> para el otro, que es morada</l>
+                  <l> sin pesar;</l>
+                  <l> mas cumple tener buen tino</l>
+                  <l> para andar esta jornada</l>
+                  <l> sin errar.</l>
+                  <l> Partimos cuando nacemos,</l>
+                  <l> andamos mientras vivimos,</l>
+                  <l> y llegamos</l>
+                  <l> al tiempo que fenecemos;</l>
+                  <l> así que, cuando morimos,</l>
+                  <l> descansamos.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musica las estrofas 3, 8 (segunda mitad), 7 (primera mitad) y 5 (en ese orden).
+        </note>
+      </body>
+   </text>
+</TEI>

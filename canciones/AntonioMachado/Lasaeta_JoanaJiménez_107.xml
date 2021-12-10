@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La saeta</title>
+            <author>Joana Jiménez</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Nodeterminado">
+               <title>La tarde, aquí y ahora 2020</title>
+               <publisher>--</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=Q60HVs4zNEI"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Joana Jiménez</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Antonio Machado</persName>
+                  <bibl>La saeta</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>¡Oh, la saeta, el cantar</l>
+                  <l> al Cristo de los gitanos,</l>
+                  <l> siempre con sangre en las manos,</l>
+                  <l> siempre por desenclavar!</l>
+               </lg>
+               <lg>
+                  <l> ¡Cantar del pueblo andaluz,</l>
+                  <l> que todas las primaveras</l>
+                  <l> anda pidiendo escaleras</l>
+                  <l> para subir a la cruz!</l>
+               </lg>
+               <lg>
+                  <l> ¡Cantar de la tierra mía,</l>
+                  <l> que echa flores</l>
+                  <l> al Jesús de la agonía,</l>
+                  <l> que es la fe de mis mayores!</l>
+               </lg>
+               <lg>
+                  <l> ¡Oh, no eres tú mi cantar!</l>
+                  <l> ¡No quiero cantar, ni puedo</l>
+                  <l> a ese Jesús del madero,</l>
+                  <l> sino al que anduvo en la mar! [estrofa x 2]</l>
+               </lg>
+               <lg>
+                  <l> ¡Cantar del pueblo andaluz,</l>
+                  <l> que todas las primaveras</l>
+                  <l> anda pidiendo escaleras</l>
+                  <l> para subir a la cruz!</l>
+               </lg>
+               <lg>
+                  <l> ¡Oh, no eres tú mi cantar!</l>
+                  <l> ¡Ahhhhh!</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción musicaliza el poema original, con apenas unos mínimos cambios léxicos y
+            repeticiones de versos. Parte de la versión de Joan Manuel Serrat de 1969, no incluida
+            en esta base de datos por ser anterior a 1975. A diferencia de esa canción, esta versión
+            no incorpora la cita previa al poema como parte de la letra. La canción fue interpretada
+            por Joana Jiménez en la edición de 2020 del programa de Canal Sur La tarde, aquí y
+            ahora, en el mes de abril de ese año. </note>
+      </body>
+   </text>
+</TEI>

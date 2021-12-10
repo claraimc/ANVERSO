@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Alicia, disfrazada de Leia Organa</title>
+            <author>Loquillo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Su nombre era el de todas las mujeres</title>
+               <publisher>Dro</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=f4Sh9-t_dCM"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Loquillo</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Luis Alberto de Cuenca</persName>
+                  <bibl>A Alicia, disfrazada de Leia Organa</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Si sólo fuera porque a todas horas</l>
+                  <l> tu cerebro se funde con el mío;</l>
+                  <l> si sólo fuera porque mi vacío</l>
+                  <l> lo llenas con tus naves invasoras.</l>
+               </lg>
+               <lg>
+                  <l> Si sólo fuera porque me enamoras</l>
+                  <l> a golpe de sonámbulo extravío;</l>
+                  <l> si sólo fuera porque en ti confío,</l>
+                  <l> princesa de galácticas auroras.</l>
+               </lg>
+               <lg>
+                  <l> Si sólo fuera porque a todas horas</l>
+                  <l> tu cerebro se funde con el mío;</l>
+                  <l> si sólo fuera porque en ti confío,</l>
+                  <l> princesa de galácticas auroras.</l>
+               </lg>
+               <lg>
+                  <l> Si sólo fuera porque me enamoras</l>
+                  <l> a golpe de sonámbulo extravío;</l>
+                  <l> si sólo fuera porque mi vacío</l>
+                  <l> lo llenas con tus naves invasoras.</l>
+               </lg>
+               <lg>
+                  <l> Si sólo fuera porque tú me quieres</l>
+                  <l> y yo te quiero a ti, y en nada creo</l>
+                  <l> que no sea el amor con que me hieres…</l>
+               </lg>
+               <lg>
+                  <l> Pero es que hay, además, esa mirada</l>
+                  <l> con que premian tus ojos mi deseo,</l>
+                  <l> y tu cuerpo de reina esclavizada. [Verso x 3]</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y en contraste con el poema original; a
+                    falta de fuente escrita, la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización similar, excepto que la canción repite algunos versos. En concreto, es
+            interesante cómo se juega con la estructura original de soneto. Las dos primeras
+            estrofas se repiten en la canción, pero mezclando los dos primeros versos de la primera
+            estrofa con los dos últimos versos de la segunda, y los dos primeros versos de la
+            segunda estrofa con los dos últimos de la primera; ello es posible a que se repite la
+            rima de la estructura ABBA. </note>
+      </body>
+   </text>
+</TEI>

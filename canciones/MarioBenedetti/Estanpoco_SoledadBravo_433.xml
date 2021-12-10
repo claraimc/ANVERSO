@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Es tan poco</title>
+            <author>Soledad Bravo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Canto la poesía de mis compañeros</title>
+               <publisher>Polydor</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=ateA1T_14os&amp;ab_channel=EnzoGArt-MVR"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Latina</term>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Soledad Bravo</persName>
+                  <nationality>Venezuela y España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Mario Benedetti</persName>
+                  <bibl>Es tan poco</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Lo que conoces es tan poco</l>
+                  <l> lo que conoces de mi</l>
+                  <l> lo que conoces son mis nubes</l>
+                  <l> son mis silencios son mis gestos</l>
+                  <l> lo que conoces de mí.</l>
+               </lg>
+               <lg>
+                  <l> Lo que conoces</l>
+                  <l> es la tristeza de mi casa vista de afuera</l>
+                  <l> son los postigos de mi tristeza</l>
+                  <l> el llamador de mi tristeza.</l>
+               </lg>
+               <lg>
+                  <l> Pero no sabes nada</l>
+                  <l> a lo sumo piensas a veces</l>
+                  <l> que es tan poco lo que conozco</l>
+                  <l> lo que conozco de ti.</l>
+               </lg>
+               <lg>
+                  <l> Lo que conozco o sea tus nubes</l>
+                  <l> o tus silencios o tus gestos.</l>
+               </lg>
+               <lg>
+                  <l> Lo que conozco es la tristeza</l>
+                  <l> de tu casa vista de afuera</l>
+                  <l> son los postigos de tu tristeza</l>
+                  <l> el llamador de tu tristeza.</l>
+               </lg>
+               <lg>
+                  <l> Pero no llamas,</l>
+                  <l> pero no llamo.</l>
+               </lg>
+               <lg>
+                  <l> Pero no llamas,</l>
+                  <l> pero no llamo.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio; a falta de fuente escrita, la
+                    puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta canción aparece primero en disco en 1975 y después se publica en un cancionero de
+            Mario Benedetti. Esta versión presenta una musicalización similar, pero no idéntica al
+            poema de Benedetti. Bravo junta ciertos versos para permitir una mayor musicalidad. Esto
+            se ve en la cantidad de versos (20 en la canción y 31 en el poema). Bravo también omite
+            los versos 27-29 “de tu casa vista de afuera – son los postigos de tu tristeza – el
+            llamador de tu tristeza” del poema ya que estas líneas se repiten previamente.
+            Adicionalmente, Bravo repite las dos ultimas líneas del poema para darle mas énfasis a
+            estas. </note>
+      </body>
+   </text>
+</TEI>

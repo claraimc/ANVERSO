@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La leyenda del tiempo</title>
+            <author>Alhandal</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Raíces</title>
+               <publisher>MOX Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/cKlUd0kaxgs?list=RDcKlUd0kaxgs&amp;t=686"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+               <term>Latina</term>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Alhandal</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>[Leyenda del tiempo]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>El Sueño va sobre el Tiempo</l>
+                  <l> flotando como un velero,</l>
+                  <l> flotando como un velero.</l>
+                  <l> Nadie puede abrir semillas</l>
+                  <l> en el corazón del Sueño,</l>
+                  <l> en el corazón del Sueño.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> El Tiempo va sobre el Sueño</l>
+                  <l> hundido hasta los cabellos,</l>
+                  <l> hundido hasta los cabellos.</l>
+                  <l> Ayer y mañana comen</l>
+                  <l> oscuras flores de duelo,</l>
+                  <l> oscuras flores de duelo.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> El Sueño va sobre el Tiempo</l>
+                  <l> flotando como un velero,</l>
+                  <l> flotando como un velero.</l>
+                  <l> Nadie puede abrir semillas</l>
+                  <l> en el corazón del Sueño,</l>
+                  <l> en el corazón del Sueño.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Sobre la misma columna,</l>
+                  <l> abrazados Sueño y Tiempo,</l>
+                  <l> abrazados Sueño y Tiempo,</l>
+                  <l> cruza el gemido del niño,</l>
+                  <l> la lengua rota del viejo,</l>
+                  <l> la lengua rota del viejo.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> El Sueño va sobre el Tiempo</l>
+                  <l> flotando como un velero,</l>
+                  <l> flotando como un velero.</l>
+                  <l> Nadie puede abrir semillas</l>
+                  <l> en el corazón del Sueño,</l>
+                  <l> en el corazón del Sueño.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Y si el Sueño finge muros</l>
+                  <l> en la llanura del Tiempo,</l>
+                  <l> en la llanura del Tiempo,</l>
+                  <l> el Tiempo le hace creer</l>
+                  <l> que nace en aquel momento,</l>
+                  <l> que nace en aquel momento.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> El Sueño va sobre el Tiempo</l>
+                  <l> flotando como un velero,</l>
+                  <l> flotando como un velero.</l>
+                  <l> Nadie puede abrir semillas</l>
+                  <l> en el corazón del Sueño,</l>
+                  <l> en el corazón del Sueño.</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización similar, imitando la versión de Camarón de 1979. </note>
+      </body>
+   </text>
+</TEI>

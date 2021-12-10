@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Canción del gitano apaleado</title>
+            <author>El Último Ke Zierre</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>¡Ay de mí!</title>
+               <publisher>Maldito Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=lSABO7F71MU"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Punk y punk-rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>El Último Ke Zierre</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Canción del gitano apaleado</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Veinticuatro bofetadas,</l>
+                  <l> veinticinco bofetadas,</l>
+                  <l> luego mi madre a la noche</l>
+                  <l> me pondrá en papel de plata.</l>
+               </lg>
+               <lg>
+                  <l> ¡Ay, mandor de los civiles</l>
+                  <l> que estás arriba en tu sala!</l>
+                  <l> ¿No habrá pañuelos de seda</l>
+                  <l> para limpiarme la cara?</l>
+               </lg>
+               <lg>
+                  <l> Guardia Civil caminera,</l>
+                  <l> dadme unos sorbitos de agua.</l>
+                  <l> Agua con peces y barcos,</l>
+                  <l> Guardia civil caminera,</l>
+                  <l> dadme unos sorbitos de agua.</l>
+                  <l> Agua con peces y barcos,</l>
+                  <l> agua…</l>
+                  <l> Agua, agua, agua, agua.</l>
+               </lg>
+               <lg>
+                  <l> Guardia civil caminera,</l>
+                  <l> Guardia civil caminera,</l>
+                  <l> dadme unos sorbitos de agua.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Extiende el poema original y altera el orden de las estrofas. </note>
+      </body>
+   </text>
+</TEI>

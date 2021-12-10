@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Al pie de la Alhambra</title>
+            <author>Medina Azahara</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>La memoria perdida</title>
+               <publisher>Mano Negra Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=bL-WVL0ekB8"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Medina Azahara</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Romance del rey Chico «El año de cuatrocientos»</bibl>
+                  <relation>Alusión</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Con pena y dolor</l>
+                  <l> así habló su madre a Boabdil</l>
+                  <l> cuando miró atrás</l>
+                  <l> su tristeza le hizo llorar</l>
+                  <l> llorarás como una mujer</l>
+                  <l> lo que no supiste defender.</l>
+               </lg>
+               <lg>
+                  <l> Ay Granada la tierra soñada</l>
+                  <l> aún se escuchan llantos en el Albaycín</l>
+                  <l> ay Granada al pie de la Alhambra</l>
+                  <l> los reyes cristianos te echaron de aquí.</l>
+               </lg>
+               <lg>
+                  <l> Y al entregar</l>
+                  <l> este reino perdido por ti</l>
+                  <l> tu cuerpo se fue</l>
+                  <l> pero tu alma se quedó aquí</l>
+                  <l> a llorar la eternidad</l>
+                  <l> por aquello que jamás tendrás.</l>
+               </lg>
+               <lg>
+                  <l> Ay Granada la tierra soñada</l>
+                  <l> aún se escuchan llantos en el Albaycín.</l>
+                  <l> Ay Granada al pie de la Alhambra</l>
+                  <l> los reyes cristianos te echaron de aquí.</l>
+               </lg>
+               <lg>
+                  <l> Hoy mi corazón</l>
+                  <l> en silencio escuchaba una voz</l>
+                  <l> y en la noche gris</l>
+                  <l> se oye el rezo de una oración</l>
+                  <l> es Boabdil que aún llora por ti</l>
+                  <l> y por todo lo que dejó aquí.</l>
+               </lg>
+               <lg>
+                  <l> Ay Granada la tierra soñada</l>
+                  <l> aún se escuchan llantos en el Albaycín</l>
+                  <l> ay Granada al pie de la Alhambra</l>
+                  <l> los reyes cristianos te echaron de aquí.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La alusión a las lágrimas de Boabdil es tópica y no es necesario que se remonte al
+            romance. Del romance original sólo queda parte de la narración, pero tanto el texto como
+            la forma resultan elaboraciones nuevas. La estructura se adapta al esquema de canción,
+            con un tema A de seis versos y letra variable que se alterna con un tema B, el
+            estribillo, de cuatro versos y letra invariable (“Ay Granada la tierra soñada… los reyes
+            cristianos te echaron de aquí”). El sistema compositivo es tonal con ecos melódicos y
+            armónicos arábigos, rasgo característico del llamado rock andaluz. </note>
+      </body>
+   </text>
+</TEI>

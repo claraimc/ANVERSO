@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ay, triste que vengo</title>
+            <author>Amparo García Otero y Nino Sánchez</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Juglares del Duero</title>
+               <publisher>Several</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=OD3IZIeEnks"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Amparo García Otero y Nino Sánchez</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Juan del Encina</persName>
+                  <bibl>Ay, triste que vengo</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Ay, triste, que</l>
+                  <l> vengo vencido de amor</l>
+                  <l> maguera pastor.</l>
+               </lg>
+               <lg>
+                  <l> Más sano me fuera</l>
+                  <l> no ir al mercado</l>
+                  <l> que no que viniera</l>
+                  <l> tan aquerenciado:</l>
+                  <l> que vengo, cuitado,</l>
+                  <l> vencido de amor</l>
+                  <l> maguera pastor.</l>
+               </lg>
+               <lg>
+                  <l> Di jueves en villa</l>
+                  <l> viera una doñata,</l>
+                  <l> quise requerilla</l>
+                  <l> y aballó la pata.</l>
+                  <l> Aquella me mata,</l>
+                  <l> vencido de amor</l>
+                  <l> maguera pastor.</l>
+               </lg>
+               <lg>
+                  <l> Con vista halaguera</l>
+                  <l> miréla y miróme.</l>
+                  <l> Yo no sé quién era</l>
+                  <l> mas ella agradóme;</l>
+                  <l> y fuese y dexóme</l>
+                  <l> vencido de amor</l>
+                  <l> maguera pastor.</l>
+               </lg>
+               <lg>
+                  <l> Sin dar yo tras ella</l>
+                  <l> no cuido ser bivo</l>
+                  <l> pues que por querella</l>
+                  <l> de mí soy esquivo.</l>
+                  <l> Y estoy muy cativo,</l>
+                  <l> vencido de amor</l>
+                  <l> maguera pastor.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Es el poema de Manrique tal cual.   En el mismo álbum hay versiones de poemas de Jorge
+            Manrique. </note>
+      </body>
+   </text>
+</TEI>

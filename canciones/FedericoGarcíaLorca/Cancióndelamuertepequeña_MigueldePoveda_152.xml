@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Canción de la muerte pequeña</title>
+            <author>Miguel de Poveda</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Enlorquecido</title>
+               <publisher>Concert Music Entertainment</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=0GUOOnesvpA"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Miguel de Poveda</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Canción de la muerte pequeña</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Prado mortal de lunas</l>
+                  <l> y sangre bajo tierra.</l>
+                  <l> Prado de sangre vieja.</l>
+                  <l> Luz de ayer y mañana.</l>
+                  <l> Cielo mortal de hierba.</l>
+                  <l> Luz y noche de arena.</l>
+                  <l> Me encontré con la Muerte.</l>
+                  <l> Prado mortal de tierra.</l>
+                  <l> Una muerte pequeña.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> El perro en el tejado.</l>
+                  <l> Sola mi mano izquierda</l>
+                  <l> atravesaba montes sin fin</l>
+                  <l> de flores secas.</l>
+                  <l> Catedral de ceniza.</l>
+                  <l> Luz y noche de arena.</l>
+                  <l> Una muerte pequeña.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Una muerte y yo un hombre.</l>
+                  <l> Un hombre solo, y ella</l>
+                  <l> una muerte pequeña.</l>
+                  <l> Prado mortal de lunas.</l>
+                  <l> La nieve gime y tiembla</l>
+                  <l> por detrás de la puerta.</l>
+                  <l> Un hombre, ¿y qué? Lo dicho.</l>
+                  <l> Un hombre solo y ella.</l>
+                  <l> Prado, amor, luz y arena.</l>
+                  <l> Una muerte pequeña.</l>
+                  <l> Una muerte pequeña.</l>
+                  <l> Una muerte pequeña.</l>
+                  <l> Una muerte pequeña.</l>
+                  <l> Una, una muerte pequeña.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">— </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Llegó con tres heridas</title>
+            <author>Susanna Canessa</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Nefeli</title>
+               <publisher>Ca´Bianca</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/ZU_GcHUiisc"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Susanna Canessa</persName>
+                  <nationality>Italia</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Llegó con tres heridas]</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>È arrivato con tre ferite:</l>
+                  <l> quello dell’amore,</l>
+                  <l> quello della morte,</l>
+                  <l> quello della vita.</l>
+               </lg>
+               <lg>
+                  <l> Llegó con tres heridas:</l>
+                  <l> la del amor,</l>
+                  <l> la de la muerte,</l>
+                  <l> la de la vida.</l>
+               </lg>
+               <lg>
+                  <l> Con tres heridas viene:</l>
+                  <l> la de la vida,</l>
+                  <l> la del amor,</l>
+                  <l> la de la muerte.</l>
+               </lg>
+               <lg>
+                  <l> Con tres heridas yo:</l>
+                  <l> la de la vida,</l>
+                  <l> la de la muerte,</l>
+                  <l> la del amor.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Ésta versión supone una musicalización idéntica del poema de Miguel Hernández; la
+            canción es introducida por la primera estrofa en italiano. </note>
+      </body>
+   </text>
+</TEI>

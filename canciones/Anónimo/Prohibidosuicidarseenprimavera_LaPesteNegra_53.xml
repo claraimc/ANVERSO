@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prohibido suicidarse en primavera</title>
+            <author>La Peste Negra</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="ExtendedPlay(EP)">
+               <title>Thanatopía</title>
+               <publisher>Zorch Factory Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://lapestenegra.bandcamp.com/track/prohibido-suicidarse-en-primavera"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Postpunk</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>La Peste Negra</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Glosa a «Ven, muerte, tan escondida»</bibl>
+                  <relation>Cita</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Ven muerte tan escondida</l>
+                  <l> que no te sienta venir</l>
+                  <l> que el placer de morir</l>
+                  <l> no me devuelva la vida</l>
+               </lg>
+               <lg>
+                  <l> Bienvenidos al hogar del suicida,</l>
+                  <l> entre cicutas y sogas</l>
+                  <l> disponemos de todo</l>
+                  <l> para acabar con tu vida.</l>
+               </lg>
+               <lg>
+                  <l> Sumérgete en el lago de los ahogados,</l>
+                  <l> cuélgate en el bosque de las suspensiones.</l>
+                  <l> Te espero en la sala de gas perfumado.</l>
+               </lg>
+               <lg>
+                  <l> Primavera… la estación predilecta de los suicidas.</l>
+                  <l> Se suicidan más triunfadores que perdedores.</l>
+                  <l> El verdadero suicida no necesita de este sanatorio de las almas</l>
+                  <l> en el que está… Prohibido suicidarse en primavera.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La cita llega a la canción a través de la obra de teatro de Alejandro Casona que le da
+            título: Prohibido suicidarse en primavera (estrenada en 1937, publicada en 1943).
+        </note>
+      </body>
+   </text>
+</TEI>

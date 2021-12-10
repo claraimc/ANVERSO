@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Llegó con tres heridas</title>
+            <author>Aliki Kayaloglou</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Canciones de España y de América Latina</title>
+               <publisher>Sirius</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/yXvPlwa9kz4"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Jazz</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Aliki Kayaloglou</persName>
+                  <nationality>Grecia</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Llegó con tres heridas]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Llegó con tres heridas:</l>
+                  <l> la del amor,</l>
+                  <l> la de la muerte,</l>
+                  <l> la de la vida.</l>
+               </lg>
+               <lg>
+                  <l> Con tres heridas viene:</l>
+                  <l> la de la vida,</l>
+                  <l> la del amor,</l>
+                  <l> la de la muerte.</l>
+               </lg>
+               <lg>
+                  <l> Con tres heridas yo:</l>
+                  <l> la de la vida,</l>
+                  <l> la de la muerte,</l>
+                  <l> la del amor.</l>
+               </lg>
+               <lg>
+                  <l> Llegó con tres heridas:</l>
+                  <l> la del amor,</l>
+                  <l> la de la muerte,</l>
+                  <l> la de la vida.</l>
+               </lg>
+               <lg>
+                  <l> Con tres heridas viene:</l>
+                  <l> la de la vida,</l>
+                  <l> la del amor,</l>
+                  <l> la de la muerte.</l>
+               </lg>
+               <lg>
+                  <l> Con tres heridas yo:</l>
+                  <l> la de la vida,</l>
+                  <l> la de la muerte,</l>
+                  <l> la del amor.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar del poema de Miguel Hernández. En esta
+            canción se repite dos veces el poema con el mismo orden y estructura que el original.
+        </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Verde</title>
+            <author>Manzanita</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Poco ruido y mucho duende</title>
+               <publisher>CBS</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=JsHR6QaAvK8"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Manzanita</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Romance sonámbulo</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Verde que te quiero verde.</l>
+                  <l> Verde viento. Verdes ramas.</l>
+                  <l> El barco sobre la mar.</l>
+                  <l> el caballo en la montaña.</l>
+                  <l> ¡Verde! Que yo te quiero verde.</l>
+               </lg>
+               <lg>
+                  <l> Con la sombra en la cintura,</l>
+                  <l> ella sueña en su baranda,</l>
+                  <l> verdes ojos, negro pelo,</l>
+                  <l> su cuerpo de fría plata.</l>
+                  <l> ¡Verde! Que yo te quiero verde.</l>
+                  <l> ¡Sí, sí!</l>
+                  <l> Yo te quero verde.</l>
+                  <l> ¡Ay, ay!</l>
+                  <l> Yo te quiero verde.</l>
+               </lg>
+               <lg>
+                  <l> Compadre, quiero cambiar</l>
+                  <l> mi caballo por tu casa,</l>
+                  <l> mi montura por tu espejo,</l>
+                  <l> mi cuchillo por tu manta.</l>
+                  <l> ¡Verde! Que yo te quiero verde.</l>
+                  <l> ¡Sí, sí!</l>
+                  <l> Yo te quero verde.</l>
+                  <l> ¡Ay, ay!</l>
+                  <l> Yo te quiero verde.</l>
+               </lg>
+               <lg>
+                  <l> Compadre, vengo sangrando,</l>
+                  <l> desde los puertos de Cabra.</l>
+                  <l> Y, si yo fuera mocito,</l>
+                  <l> este trato lo cerraba.</l>
+                  <l> ¡Verde! Que yo te quiero verde.</l>
+               </lg>
+               <lg>
+                  <l> ¡Compadre! ¿Dónde está, dime?</l>
+                  <l> ¿Dónde está esa niña amarga?</l>
+                  <l> ¡Cuántas veces la esperé!</l>
+                  <l> ¡Cuántas veces la esperaba!</l>
+                  <l> ¡Verde! Que yo te quiero verde.</l>
+                  <l> ¡Sí, sí!</l>
+                  <l> Yo te quero verde.</l>
+                  <l> ¡Ay, ay!</l>
+                  <l> Yo te quiero verde.</l>
+               </lg>
+               <lg>
+                  <l> Verde que te quiero verde.</l>
+                  <l> Verde viento. Verdes ramas.</l>
+                  <l> El barco sobre la mar.</l>
+                  <l> El caballo en la montaña.</l>
+                  <l> ¡Verde! Que yo te quiero verde.</l>
+                  <l> ¡Sí, sí!</l>
+                  <l> Yo a ti te quero verde.</l>
+                  <l> ¡Ay, ay!</l>
+                  <l> Yo a ti te quiero verde.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio; a falta de fuente escrita, la
+                    puntualización y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción musicaliza el poema, pero suprime un buen número de versos, por lo que es
+            mucho más breve y simplifica el relato narrado en el romance. Además, hay unas pocas
+            alteraciones léxicas y se repiten algunos versos clave, a modo de estribillo. </note>
+      </body>
+   </text>
+</TEI>

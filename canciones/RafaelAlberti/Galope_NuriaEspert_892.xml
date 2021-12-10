@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Galope</title>
+            <author>Nuria Espert</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Aire y canto de la poesía a dos voces</title>
+               <publisher>Zafiro</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target=""/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>--</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Nuria Espert</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <bibl>Galope</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics"/>
+         </div>
+         <note xmlns="">Se tiene noticia de la versión, pero no se ha podido escuchar, ni, por tanto,
+            transcribir la letra, si bien parte de la versión de Paco Ibáñez de “A galopar” en su
+            álbum Paco Ibáñez 3 (1969), por lo que posiblemente también esta versión tenga
+            variaciones textuales mínimas respecto del poema. </note>
+      </body>
+   </text>
+</TEI>

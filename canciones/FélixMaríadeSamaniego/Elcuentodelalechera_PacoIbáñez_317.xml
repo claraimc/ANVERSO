@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El cuento de la lechera</title>
+            <author>Paco Ibáñez</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>A flor de tiempo</title>
+               <publisher>Ariola Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=jGslGUsv1g8"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Paco Ibáñez</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Félix María de Samaniego</persName>
+                  <bibl>La lechera</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Llevaba en la cabeza</l>
+                  <l> una lechera el cántaro al mercado</l>
+                  <l> con aquella presteza,</l>
+                  <l> aquel aire sencillo, aquel agrado,</l>
+                  <l> que va diciendo a todo el que lo advierte:</l>
+                  <l> «¡Yo sí que estoy contenta con mi suerte!»</l>
+                  <l> Porque no apetecía</l>
+                  <l> más compañía que su pensamiento,</l>
+                  <l> que alegre la ofrecía</l>
+                  <l> inocentes ideas de contento,</l>
+                  <l> marchaba sola la feliz lechera ,</l>
+                  <l> diciéndose entre sí de esta manera:</l>
+                  <l> «Esta leche vendida,</l>
+                  <l> en limpio me dará tanto dinero,</l>
+                  <l> y con esta partida</l>
+                  <l> un canasto de huevos comprar quiero,</l>
+                  <l> para sacar cien pollos, que al estío</l>
+                  <l> me rodearán cantando el pío, pío.</l>
+                  <l> Del importe logrado</l>
+                  <l> de tanto pollo mercaré un cochino;</l>
+                  <l> con bellota, salvado,</l>
+                  <l> berza, castaña engordará sin tino,</l>
+                  <l> tanto, que puede ser que yo consiga</l>
+                  <l> ver cómo se le arrastra la barriga.</l>
+                  <l> Llevarelo al mercado,</l>
+                  <l> sacaré de él sin duda buen dinero;</l>
+                  <l> y compraré de contado</l>
+                  <l> una robusta vaca y un ternero,</l>
+                  <l> que corra y salte toda la campaña,</l>
+                  <l> desde el monte cercano a la cabaña.»</l>
+                  <l> Con este pensamiento</l>
+                  <l> enajenada brinca de manera</l>
+                  <l> que a su salto violento</l>
+                  <l> el cántaro cayó. ¡Pobre Lechera!</l>
+                  <l> Adiós leche, adiós huevos, adiós dinero,</l>
+                  <l> adiós lechón, adiós vaca y ternero.</l>
+                  <l> ¡Oh loca fantasía!</l>
+                  <l> ¡Qué palacios fabricas en el viento!</l>
+                  <l> Modera tu alegría,</l>
+                  <l> no sea que saltando de contento,</l>
+                  <l> al contemplar dichosa tu mudanza,</l>
+                  <l> quiebre su cantarillo la esperanza.</l>
+                  <l> No seas ambiciosa</l>
+                  <l> de mejor o más próspera fortuna,</l>
+                  <l> que vivirás ansiosa</l>
+                  <l> sin que pueda saciarte cosa alguna.</l>
+                  <l> No anheles impaciente el bien futuro;</l>
+                  <l> mira que ni el presente está seguro.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns=""/>
+      </body>
+   </text>
+</TEI>

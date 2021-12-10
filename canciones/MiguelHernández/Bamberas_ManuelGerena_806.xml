@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bamberas</title>
+            <author>Manuel Gerena</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Manuel Gerena canta con Miguel Hernández</title>
+               <publisher>Alía Discos</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://music.youtube.com/watch?v=CEsTjQpaA90&amp;list=OLAK5uy_mNHbPoQJPB9mMkUfaTfXFR405rLr-UbY0"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Manuel Gerena</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>El niño Yuntero</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Empieza a vivir, y empieza</l>
+                  <l> a morir de punta a punta</l>
+                  <l> a morir de punta a punta</l>
+                  <l> levantando la corteza</l>
+                  <l> de su madre con la yunta.</l>
+                  <l> Empieza a vivir, y empieza.</l>
+               </lg>
+               <lg>
+                  <l> Empieza a sentir, y siente</l>
+                  <l> la vida como una guerra,</l>
+                  <l> la vida como una guerra,</l>
+                  <l> y a dar fatigosamente</l>
+                  <l> en los huesos de la tierra.</l>
+                  <l> Empieza a sentir, y siente.</l>
+               </lg>
+               <lg>
+                  <l> Contar sus años no sabe,</l>
+                  <l> y ya sabe que el sudor,</l>
+                  <l> y ya sabe que el sudor,</l>
+                  <l> es una corona grave</l>
+                  <l> de sal para el labrador.</l>
+                  <l> Contar sus años no sabe.</l>
+               </lg>
+               <lg>
+                  <l> A fuerza de golpes, fuerte,</l>
+                  <l> y a fuerza de sol, bruñido,</l>
+                  <l> Y a fuerza de sol, bruñido.</l>
+                  <l> con una ambición de muerte</l>
+                  <l> despedaza un pan reñido.</l>
+                  <l> A fuerza de golpes, fuerte.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns=""/>
+      </body>
+   </text>
+</TEI>

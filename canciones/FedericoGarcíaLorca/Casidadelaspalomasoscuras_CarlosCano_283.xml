@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Casida de las palomas oscuras</title>
+            <author>Carlos Cano</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Crónicas Granadinas</title>
+               <publisher>Movieplay</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=HxBpnWUsrxQ&amp;list=PLDtszg9eT1fxQvlgiV07y1_fBSHSUfdMW"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+               <term>Latina</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Carlos Cano</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Casida de las palomas oscuras</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Por las ramas del laurel</l>
+                  <l> van dos palomas oscuras,</l>
+                  <l> la una era el sol</l>
+                  <l> y la otra era la luna.</l>
+               </lg>
+               <lg>
+                  <l> «Vecinitas» les dije</l>
+                  <l> «¿dónde esta mi sepultura?»</l>
+                  <l> «En mi cola» dijo el sol,</l>
+                  <l> «en mi garganta» dijo la luna.</l>
+               </lg>
+               <lg>
+                  <l> Yo que estaba caminando</l>
+                  <l> con la tierra por cintura</l>
+                  <l> vi dos águilas de nieve</l>
+                  <l> y una muchacha desnuda.</l>
+               </lg>
+               <lg>
+                  <l> La una era la otra</l>
+                  <l> y la muchacha ninguna.</l>
+                  <l> «Aguilitas» les dije</l>
+                  <l> «¿dónde está mi sepultura?»</l>
+                  <l> «En mi cola» dijo el sol,</l>
+                  <l> «en mi garganta» dijo la luna.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio, a falta de buena fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Paco Ibáñez musicalizó este poema en 1964 (Paco Ibañez – 1. Poemas de Federico García
+            Lorca y Luis de Góngora, 1964). Al ser anterior a 1975 no está recogida en esta base de
+            datos.   Musicalización similar a falta de los cuatro últimos versos del poema de
+            Federico García Lorca: «Por las ramas del laurel vi dos palomas desnudas. La una era la
+            otra y las dos eran ninguna.» (Federico García Lorca, Diván del Tamarit – Sonetos del
+            amor oscuro, Barcelona, Lumen – Penguin Random House, 2015, p. 51). </note>
+      </body>
+   </text>
+</TEI>

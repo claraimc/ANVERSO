@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El silbo del dale</title>
+            <author>Evoéh</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Otros">
+               <title>Cadencias</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://evoeh.bandcamp.com/track/el-silbo-del-dale"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Evoéh</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>El silbo del dale</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l/>
+               </lg>
+               <lg>
+                  <l> Dale al aspa, molino,</l>
+                  <l> hasta nevar el trigo.</l>
+               </lg>
+               <lg>
+                  <l> Dale a la piedra, agua,</l>
+                  <l> hasta ponerla mansa.</l>
+               </lg>
+               <lg>
+                  <l> Dale al molino, aire,</l>
+                  <l> hasta lo inacabable.</l>
+               </lg>
+               <lg>
+                  <l> Dale al cabrero, monte,</l>
+                  <l> hasta dejarle inmóvil,</l>
+                  <l> hasta dejarlo inmóvil.</l>
+               </lg>
+               <lg>
+                  <l> Dale al aire, cabrero,</l>
+                  <l> hasta que silbe tierno.</l>
+               </lg>
+               <lg>
+                  <l> Dale al monte, lucero,</l>
+                  <l> hasta que se haga cielo.</l>
+               </lg>
+               <lg>
+                  <l> Dale, Dios, a mi alma</l>
+                  <l> hasta perfeccionarla.</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Dale que dale, dale, dale, dale, dale</l>
+                  <l> molino, piedra, aire,</l>
+               </lg>
+               <lg>
+                  <l> Cabrero, monte, astro,</l>
+                  <l> dale que dale largo.</l>
+               </lg>
+               <lg>
+                  <l> Dale que dale, Dios,</l>
+               </lg>
+               <lg>
+                  <l> Hasta la perfección.</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+            </lg>
+         </div>
+         <note xmlns="">La letra de la musicalización es prácticamente igual al poema, cambiándose el orden de
+            la cuarta y quinta estrofas, que pasan a ser la quinta y la cuarta respectivamente.
+            «Dale al molino, aire, hasta lo inacabable. Dale al cabrero, monte, hasta dejarle
+            inmóvil, hasta dejarlo inmóvil. Dale al aire, cabrero, hasta que silbe tierno.»    
+        </note>
+      </body>
+   </text>
+</TEI>

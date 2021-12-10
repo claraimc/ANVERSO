@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Casida de la muchacha dorada</title>
+            <author>Carlos Cano</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Crónicas Granadinas</title>
+               <publisher>Movieplay</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=Ja1P21EzlgE&amp;list=PLDtszg9eT1fxQvlgiV07y1_fBSHSUfdMW&amp;index=4"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+               <term>Latina</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Carlos Cano</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Casida de la muchacha dorada</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>La muchacha dorada</l>
+                  <l> se bañaba en el agua</l>
+                  <l> y el agua se doraba.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Las algas y las ramas</l>
+                  <l> en sombra la asombraban</l>
+                  <l> y el ruiseñor cantaba</l>
+                  <l> por la muchacha blanca.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Vino la noche clara,</l>
+                  <l> turbia de plata mala,</l>
+                  <l> con peladas montañas,</l>
+                  <l> bajo la brisa parda.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> La muchacha mojada</l>
+                  <l> era blanca en el agua</l>
+                  <l> y el agua, llamarada.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Vino el alba sin mancha,</l>
+                  <l> con mil caras de vaca,</l>
+                  <l> yerta y amortajada</l>
+                  <l> con heladas guirnaldas.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> La muchacha de lágrimas</l>
+                  <l> se bañaba entre llamas</l>
+                  <l> y el ruiseñor lloraba</l>
+                  <l> con las alas quemadas.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> La muchacha dorada</l>
+                  <l> era una blanca garza</l>
+                  <l> y el agua la doraba,</l>
+                  <l> y el agua la doraba.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización idéntica a excepción de la repetición del verso final y un sutil cambio
+            de palabras en el verso 16 del poema, donde en aquel dice «cien» y en la canción «mil».
+        </note>
+      </body>
+   </text>
+</TEI>

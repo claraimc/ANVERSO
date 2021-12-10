@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nana del caballo grande</title>
+            <author>Ángeles Toledano</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Otros">
+               <title>Banda sonora del cortometraje Inexorable</title>
+               <publisher>Paco Periago</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=ZOfPTkKsPWU"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Ángeles Toledano</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>[Nana del caballo grande]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Nana, niño, nana</l>
+                  <l> del caballo grande</l>
+                  <l> que no quiso el agua,</l>
+                  <l> que no quiso el agua.</l>
+                  <l> El agua era negra,</l>
+                  <l> el agua era negra</l>
+                  <l> dentro de las ramas.</l>
+                  <l> Cuando llega el puente</l>
+                  <l> se detiene y canta.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¿Quién dirá, mi niño,</l>
+                  <l> lo que tiene el agua,</l>
+                  <l> lo que tiene el agua,</l>
+                  <l> lo que tiene el agua</l>
+                  <l> con su larga cola</l>
+                  <l> por su verde sala?</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Duérmete, clavel,</l>
+                  <l> que el caballo no quiere beber.</l>
+                  <l> Duérmete, rosal,</l>
+                  <l> que el caballo se pone a llorar.</l>
+                  <l> Duérmete, clavel,</l>
+                  <l> que el caballo no quiere beber.</l>
+                  <l> Duérmete, rosal,</l>
+                  <l> que el caballo se pone a llorar.</l>
+               </lg>
+               <lg>
+                  <l> Las patas heridas,</l>
+                  <l> las crines heladas,</l>
+                  <l> dentro de los ojos</l>
+                  <l> un puñal de plata.</l>
+                  <l> Bajaban al río,</l>
+                  <l> ¡ay, cómo bajaban!</l>
+                  <l> La sangre corría</l>
+                  <l> más fuerte que el agua.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Duérmete, clavel,</l>
+                  <l> que el caballo no quiere beber.</l>
+                  <l> Duérmete, rosal,</l>
+                  <l> que el caballo se pone a llorar.</l>
+                  <l> Duérmete, clavel,</l>
+                  <l> que el caballo no quiere beber.</l>
+                  <l> Duérmete, rosal,</l>
+                  <l> que el caballo se pone a llorar.</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio; a falta de fuente escrita, la
+                    puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización similar. Si bien la influencia de la canción de Camarón de la Isla es
+            indiscutible, esta versión es la que más se acerca al fragmento de Bodas de Sangre de
+            Federico García Lorca, añadiendo una estrofa que no se había añadido en las anteriores
+            musicalizaciones. </note>
+      </body>
+   </text>
+</TEI>

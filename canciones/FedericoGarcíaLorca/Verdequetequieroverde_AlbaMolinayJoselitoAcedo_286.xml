@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Verde que te quiero verde</title>
+            <author>Alba Molina y Joselito Acedo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Lorca vivo</title>
+               <publisher>Prisa Música</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=3Qa08xxxEmU"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Alba Molina y Joselito Acedo</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Romance sonámbulo</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Verde que te quiero verde.</l>
+                  <l> Verde viento. Verdes ramas.</l>
+                  <l> El barco sobre la mar.</l>
+                  <l> El caballo en la montaña.</l>
+                  <l> ¡Verde!</l>
+                  <l> Yo te quiero verde.</l>
+               </lg>
+               <lg>
+                  <l> Con la sombra en la cintura,</l>
+                  <l> ella sueña en su baranda,</l>
+                  <l> ojos verdes, pelo negro,</l>
+                  <l> su cuerpo de fría plata.</l>
+                  <l> ¡Verde!</l>
+                  <l> Y yo te quiero verde.</l>
+                  <l> ¡Ay, ay!</l>
+                  <l> Y yo te quiero verde.</l>
+                  <l> ¡Sí, sí!</l>
+                  <l> Y yo te quiero verde.</l>
+               </lg>
+               <lg>
+                  <l> Compadre, vengo sangrando,</l>
+                  <l> desde los puertos de Cabra.</l>
+                  <l> Y si yo fuera mocito,</l>
+                  <l> este trato lo cerraba.</l>
+                  <l> ¡Verde!</l>
+                  <l> Y yo te quiero verde.</l>
+                  <l> ¡Sí, sí!</l>
+                  <l> Yo te quiero verde.</l>
+                  <l> ¡Ay, ay!</l>
+                  <l> Yo te quiero verde.</l>
+                  <l> ¡Sí, sí!</l>
+                  <l> Y yo te quiero verde.</l>
+                  <l> [Tararea]</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio; a falta de fuente escrita, la
+                    puntualización y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción parte de la versión que hizo Manzanita en 1978. La canción pertenece a un
+            disco editado especialmente como homenaje a Lorca en el periódico El País. Una versión
+            interpretada también por Alba Molina y Joselito Acedo, con ligeros cambios, fue poco
+            después usada como banda sonora en uno de los capítulos de la serie La casa de
+            papel (segunda temporada, capítulo 14). </note>
+      </body>
+   </text>
+</TEI>

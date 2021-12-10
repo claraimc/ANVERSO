@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Consejos para un galán</title>
+            <author>Paco Ibáñez</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>A flor de tiempo</title>
+               <publisher>Ariola Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target=""/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Paco Ibáñez</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Juan Ruiz</persName>
+                  <bibl>Enxiemplo de lo que contesçió a don Pitas Pajas, pintor de Bretaña (Libro de buen
+                amor)</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Haz a la dama un día la vergüenza perder,</l>
+                  <l> esto es muy importante, si la quieres tener,</l>
+                  <l> una vez que no tiene vergüenza la mujer,</l>
+                  <l> hace más diabluras de las que ha menester.</l>
+               </lg>
+               <lg>
+                  <l> Talante de mujeres, ¿quién lo puede entender?</l>
+                  <l> Su maestría es mala, mucho su malsaber.</l>
+                  <l> Cuando están encendidas y el mal quieren hacer</l>
+                  <l> el alma y cuerpo y fama, todo echan a perder.</l>
+               </lg>
+               <lg>
+                  <l> No abandones tu dama, no dejes que esté quieta,</l>
+                  <l> siempre requieren uso mujer, molino y huerta;</l>
+                  <l> no quieren en su casa pasar días de fiesta,</l>
+                  <l> no quieren el olvido; cosa probada y cierta.</l>
+               </lg>
+               <lg>
+                  <l> Es cosa bien segura: molino andando gana,</l>
+                  <l> huerta mejor labrada da la mejor manzana,</l>
+                  <l> mujer bien requerida anda siempre lozana;</l>
+                  <l> con estas tres verdades no obrarás cosa vana.</l>
+               </lg>
+               <lg>
+                  <l> Dejó uno a su mujer (te contaré la hazaña;</l>
+                  <l> si la estimas en poco, cuéntame otra tamaña).</l>
+                  <l> Era don Pitas Payas un pintor de Bretaña,</l>
+                  <l> casó con mujer joven que amaba la compaña.</l>
+               </lg>
+               <lg>
+                  <l> Antes del mes cumplido dijo él: —Señora mía,</l>
+                  <l> a Flandes quiero ir, regalos portaría—.</l>
+                  <l> Dijo ella: —Monseñer, escoged vos el día,</l>
+                  <l> mas no olvidéis la casa ni la persona mía—.</l>
+               </lg>
+               <lg>
+                  <l> Dijo don Pitas Payas: —Dueña de la hermosura,</l>
+                  <l> yo quiero en vuestro cuerpo pintar una figura</l>
+                  <l> para que ella os impida hacer cualquier locura—.</l>
+                  <l> Dijo ella: —Monseñer, haced vuestra mesura—.</l>
+               </lg>
+               <lg>
+                  <l> Pintó bajo su ombligo un pequeño cordero</l>
+                  <l> y marchó Pitas Payas cual nuevo mercadero;</l>
+                  <l> estuvo allá dos años, no fue azar pasajero.</l>
+                  <l> Cada mes a la dama parece un año entero.</l>
+               </lg>
+               <lg>
+                  <l> Hacía poco tiempo que ella estaba casada,</l>
+                  <l> y había con su esposo hecho poca morada;</l>
+                  <l> un amigo tomó y estuvo acompañada,</l>
+                  <l> deshízose el cordero, ya de él no queda nada.</l>
+               </lg>
+               <lg>
+                  <l> Cuando supo la dama que venía el pintor,</l>
+                  <l> muy de prisa llamó a su nuevo amador;</l>
+                  <l> dijo que le pintara, cual supiese mejor,</l>
+                  <l> en aquel lugar mismo un cordero menor.</l>
+               </lg>
+               <lg>
+                  <l> Pero con la gran prisa pintó un señor carnero,</l>
+                  <l> cumplido de cabeza, con todo un buen apero.</l>
+                  <l> Luego, al día siguiente, vino allí un mensajero:</l>
+                  <l> que ya don Pitas Payas llegaría ligero.</l>
+               </lg>
+               <lg>
+                  <l> Cuando al fin el pintor de Flandes fue venido,</l>
+                  <l> su mujer, desdeñosa y fría le ha recibido:</l>
+                  <l> cuando ya en su mansión con ella se ha metido,</l>
+                  <l> la señal que pintara no ha echado en olvido.</l>
+               </lg>
+               <lg>
+                  <l> Dijo don Pitas Payas: -Madona, perdonad,</l>
+                  <l> mostradme la figura y tengamos solaz.</l>
+                  <l> —Dijo ella: —Monseñer, vos mismo la mirad:</l>
+                  <l> todo lo que quisieres hacer, hacedlo audaz.</l>
+               </lg>
+               <lg>
+                  <l> Miró don Pitas Payas el sabido lugar</l>
+                  <l> y vio aquel gran carnero con armas de prestar.</l>
+                  <l> —¿Cómo, madona, es esto? ¿Cómo puede pasar</l>
+                  <l> que yo pinté un cordero y encuentro este manjar?—.</l>
+               </lg>
+               <lg>
+                  <l> Como en estas razones es siempre la mujer</l>
+                  <l> sutil y mal sabida, dijo: —¿Qué, Monseñer?</l>
+                  <l> ¿Petit corder, dos años, no se ha de hacer carner?</l>
+                  <l> Si no tardáseis tanto aún sería corder—.</l>
+               </lg>
+               <lg>
+                  <l> Por tanto, ten cuidado, no abandones la pieza,</l>
+                  <l> no seas Pitas Payas, para otro no se cueza;</l>
+                  <l> incita a la mujer con gran delicadeza</l>
+                  <l> y si promete al fin, guárdate de tibieza.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Versión algo modernizada de las cuadernas 468-469, 472-485 (en ese orden) del Libro de
+            buen amor. </note>
+      </body>
+   </text>
+</TEI>

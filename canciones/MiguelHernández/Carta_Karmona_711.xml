@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Carta</title>
+            <author>Karmona</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="--">
+               <title>Los flamencos cantan a Miguel Hernández: Para la libertad</title>
+               <publisher>Universal</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/f1tLmjKCx9M"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Karmona</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Carta</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>El palomar de las cartas abre su imposible vuelo</l>
+                  <l> desde las trémulas mesas donde se apoya el recuerdo,</l>
+                  <l> la gravedad de la ausencia, el corazón, el silencio.</l>
+                  <l> Oigo un latido de cartas navegando hacia su centro.</l>
+               </lg>
+               <lg>
+                  <l> Donde voy, con las mujeres y con los hombres me encuentro.</l>
+                  <l> Donde voy, con las mujeres y con los hombres me encuentro,</l>
+                  <l> malheridos por la ausencia, desgastados por el tiempo.</l>
+                  <l> Donde voy, con las mujeres y con los hombres me encuentro.</l>
+                  <l> Donde voy, con las mujeres y con los hombres me encuentro,</l>
+                  <l> malheridos por la ausencia, desgastados por el tiempo.</l>
+               </lg>
+               <lg>
+                  <l> Cartas, relaciones, cartas: tarjetas postales, sueños,</l>
+                  <l> fragmentos de la ternura, proyectados en el cielo,</l>
+                  <l> lanzados de sangre a sangre y de deseo a deseo (y de deseo en deseo)</l>
+               </lg>
+               <lg>
+                  <l> En un rincón enmudecen cartas viejas, sobres viejos,</l>
+                  <l> con el color de la edad sobre la escritura puesto.</l>
+                  <l> Allí perecen las cartas llenas de estremecimientos.</l>
+                  <l> Allí agoniza la tinta y desfallecen los pliegos.</l>
+               </lg>
+               <lg>
+                  <l> Donde voy, con las mujeres y con los hombres me encuentro.</l>
+                  <l> Donde voy, con las mujeres y con los hombres me encuentro,</l>
+                  <l> malheridos por la ausencia, desgastados por el tiempo.</l>
+               </lg>
+               <lg>
+                  <l> Donde voy, con las mujeres y con los hombres me encuentro.</l>
+                  <l> Donde voy, con las mujeres y con los hombres me encuentro,</l>
+                  <l> malheridos por la ausencia, desgastados por el tiempo.</l>
+               </lg>
+               <lg>
+                  <l> Donde voy, con las mujeres y con los hombres me encuentro.</l>
+                  <l> Donde voy, con las mujeres y con los hombres me encuentro,</l>
+                  <l> malheridos por la ausencia, desgastados por el tiempo.</l>
+               </lg>
+               <lg>
+                  <l> Donde voy, con las mujeres y con los hombres me encuentro.</l>
+                  <l> Donde voy, con las mujeres y con los hombres me encuentro,</l>
+                  <l> malheridos por la ausencia, desgastados por el tiempo.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+               <lg> </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción supone la musicalización de las estrofas que van de la primera a la sexta
+            estrofa casi en su totalidad; se elimina la quinta estrofa y la sexta termina en el
+            verso «…Allí agoniza la tinta y desfallecen los pliegos…». La tercera estrofa se utiliza
+            a modo de estribillo de la canción.   </note>
+      </body>
+   </text>
+</TEI>

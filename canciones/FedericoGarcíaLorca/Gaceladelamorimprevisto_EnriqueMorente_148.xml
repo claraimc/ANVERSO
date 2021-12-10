@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gacela del amor imprevisto</title>
+            <author>Enrique Morente</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Lorca</title>
+               <publisher>Virgin</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="http://youtube.com/watch?v=SkxpjmfnM0k"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Flamenco</term>
+               <term>Latina</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Enrique Morente</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Gacela del amor imprevisto</bibl>
+                  <relation>Cita</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Nadie comprendía el perfume</l>
+                  <l> de la oscura magnolia de tu vientre.</l>
+                  <l> Nadie comprendía el perfume</l>
+                  <l> nadie sabía que martirizabas</l>
+                  <l> un colibrí de amor entre los dientes,</l>
+                  <l> de la oscura magnolia de tu vientre.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Para ver que todo se ha ido</l>
+                  <l> para ver los huecos y los vestidos</l>
+                  <l> dame tu guante de luna</l>
+                  <l> que dame tu otro guante de hierba,</l>
+                  <l> amor mío.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> El brusco rumor del bosque,</l>
+                  <l> el cielo daba portazos,</l>
+                  <l> el brusco rumor dеl bosque</l>
+                  <l> mientras clamaban las luces</l>
+                  <l> por los altos corrеdores</l>
+                  <l> el cielo daba portazos.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Salí</l>
+                  <l> delirando y dando voces</l>
+                  <l> a la calle yo salí</l>
+                  <l> y a todo el que yo me encontraba</l>
+                  <l> le preguntaba por ti</l>
+                  <l> y nadie razón me daba.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Para ver que todo se ha ido</l>
+                  <l> para ver los huecos y los vestidos</l>
+                  <l> dame tu guante de luna</l>
+                  <l> que dame tu otro guante de hierba,</l>
+                  <l> amor mío.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Para ver que todo se ha ido</l>
+                  <l> para ver los huecos y los vestidos</l>
+                  <l> dame tu guante de luna</l>
+                  <l> que dame tu otro guante de hierba,</l>
+                  <l> amor mío.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Para ver que todo se ha ido</l>
+                  <l> para ver los huecos y los vestidos</l>
+                  <l> dame tu guante de luna</l>
+                  <l> que dame tu otro guante de hierba,</l>
+                  <l> amor mío.</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Hubo una musicalización en portugués anterior a 1975, por ambas razones no está
+            recogida en esta base de datos: Dário De Barros (Canta Ary Dos Santos, António Gedeão,
+            Bertolt Brechet, Garcia Lorca, 1973). Tan solo se utiliza la primera estrofa del poema
+            de Lorca para crear la primera estrofa de la canción, el resto del poema se omite,
+            variando la canción completamente. </note>
+      </body>
+   </text>
+</TEI>

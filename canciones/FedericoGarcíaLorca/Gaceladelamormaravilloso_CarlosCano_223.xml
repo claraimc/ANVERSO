@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gacela del amor maravilloso</title>
+            <author>Carlos Cano</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Diván del Tamarit. Gacelas y Casidas.</title>
+               <publisher>Dalur Discos</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=BOboohwto2o&amp;list=PLDtszg9eT1fzwhPDDvl4irXJcVoUVplcY&amp;index=13"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Carlos Cano</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Gacela del amor maravilloso</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Con todo el yeso</l>
+                  <l> de los malos campos</l>
+                  <l> eras junco de amor, jazmín mojado.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Con sur y llama</l>
+                  <l> de los malos cielos</l>
+                  <l> eras rumor de nieve por mi pecho.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Eras junco de amor, jazmín mojado,</l>
+                  <l> eras rumor de nieve por mi pecho.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Cielos y campos</l>
+                  <l> campos y cielos</l>
+                  <l> anudaban cadenas en mis manos.</l>
+                  <l> azotaban las llagas de mi cuerpo.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Cielos y campos</l>
+                  <l> campos y cielos.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización similar, con repeticiones de versos y sutiles cambios de posición en
+            las últimas estrofas. </note>
+      </body>
+   </text>
+</TEI>

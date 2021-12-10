@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Señor de la nueche</title>
+            <author>Toli Morilla</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Entropía</title>
+               <publisher>Scaletour</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=UMxOAWKDb3Y"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Toli Morilla</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Luis García Montero</persName>
+                  <bibl>Canción de brujería</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Señor compañeru, Señor de la nueche,</l>
+                  <l> fai que vuelva la cara</l>
+                  <l> quién nun quiso mírame,</l>
+                  <l> quién nun quiso mírame.</l>
+               </lg>
+               <lg>
+                  <l> Que los sos güeyos me gueten</l>
+                  <l> sosteníos y azules</l>
+                  <l> per detrás de la barra,</l>
+                  <l> per detrás de la barra.</l>
+               </lg>
+               <lg>
+                  <l> Que pregunte’l mio nome</l>
+                  <l> y s’arime mui sele</l>
+                  <l> a pidime tabaco,</l>
+                  <l> a pidime tabaco,</l>
+                  <l> a pidime tabaco.</l>
+               </lg>
+               <lg>
+                  <l> Si quier más quedar,</l>
+                  <l> fai que toos marchen</l>
+                  <l> y esti bar se despueble</l>
+                  <l> pa dexanos solos</l>
+                  <l> cola canción más lenta.</l>
+               </lg>
+               <lg>
+                  <l> Si decide marchar,</l>
+                  <l> que la lluna disponga</l>
+                  <l> la so lluz nel nuesu besu</l>
+                  <l> y que sepan les cais</l>
+                  <l> tamién dexanos solos.</l>
+               </lg>
+               <lg>
+                  <l> Señor compañeru. Señor de la nueche</l>
+                  <l> fai que nun cante’l gallu</l>
+                  <l> que se retrase’l día</l>
+                  <l> y que duren les sombres</l>
+                  <l> el tiempu necesariu,</l>
+                  <l> el tiempu necesariu.</l>
+               </lg>
+               <lg>
+                  <l> El tiempu qu’ella tarde en decidise,</l>
+                  <l> en decidise,</l>
+                  <l> en decidise.</l>
+               </lg>
+               <lg>
+                  <l> Si quier más quedar,</l>
+                  <l> fai que toos marchen</l>
+                  <l> y esti bar se despueble</l>
+                  <l> pa dexanos solos</l>
+                  <l> cola canción más lenta.</l>
+               </lg>
+               <lg>
+                  <l> Si decide marchar,</l>
+                  <l> que la lluna disponga</l>
+                  <l> la so lluz nel nuesu besu</l>
+                  <l> y que sepan les cais</l>
+                  <l> tamién dexanos solos.</l>
+               </lg>
+               <lg>
+                  <l> Señor compañeru. Señor de la nueche. [x 3]</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio; a falta de fuente escrita, la
+                    puntualización y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La musicalización se basa en una traducción propia en asturiano. </note>
+      </body>
+   </text>
+</TEI>

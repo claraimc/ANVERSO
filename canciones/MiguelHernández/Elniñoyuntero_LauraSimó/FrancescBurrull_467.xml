@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El niño yuntero</title>
+            <author>Laura Simó/Francesc Burrull</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Temps de pluja</title>
+               <publisher>Temps Record</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/X6tJuJMQhi0"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Laura Simó/Francesc Burrull</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>El niño Yuntero</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Carne de yugo, ha nacido</l>
+                  <l> más humillado que bello,</l>
+                  <l> con el cuello perseguido</l>
+                  <l> por el yugo para el cuello.</l>
+               </lg>
+               <lg>
+                  <l> Nace, como la herramienta,</l>
+                  <l> a los golpes destinado,</l>
+                  <l> de una tierra descontenta</l>
+                  <l> y un insatisfecho arado.</l>
+               </lg>
+               <lg>
+                  <l> Entre estiércol puro y vivo</l>
+                  <l> de vacas, trae a la vida</l>
+                  <l> un alma color de olivo</l>
+                  <l> vieja ya y encallecida.</l>
+               </lg>
+               <lg>
+                  <l> Empieza a vivir, y empieza</l>
+                  <l> a morir de punta a punta</l>
+                  <l> levantando la corteza</l>
+                  <l> de su madre con la yunta.</l>
+               </lg>
+               <lg>
+                  <l> Empieza a sentir, y siente</l>
+                  <l> la vida como una guerra,</l>
+                  <l> y a dar fatigosamente</l>
+                  <l> en los huesos de la tierra.</l>
+               </lg>
+               <lg>
+                  <l> Contar sus años no sabe,</l>
+                  <l> y ya sabe que el sudor</l>
+                  <l> es una corona grave</l>
+                  <l> de sal para el labrador.</l>
+               </lg>
+               <lg>
+                  <l> Trabaja, y mientras trabaja</l>
+                  <l> masculinamente serio,</l>
+                  <l> se unge de lluvia y se alhaja</l>
+                  <l> de carne de cementerio.</l>
+               </lg>
+               <lg>
+                  <l> A fuerza de golpes, fuerte,</l>
+                  <l> y a fuerza de sol, bruñido,</l>
+                  <l> con una ambición de muerte</l>
+                  <l> despedaza un pan reñido.</l>
+               </lg>
+               <lg>
+                  <l> Cada nuevo día es</l>
+                  <l> más raíz, menos criatura,</l>
+                  <l> que escucha bajo sus pies</l>
+                  <l> la voz de la sepultura.</l>
+               </lg>
+               <lg>
+                  <l> Y como raíz se hunde</l>
+                  <l> en la tierra lentamente</l>
+                  <l> para que la tierra inunde</l>
+                  <l> de paz y panes su frente.</l>
+               </lg>
+               <lg>
+                  <l> Me duele este niño hambriento</l>
+                  <l> como una grandiosa espina,</l>
+                  <l> y su vivir ceniciento</l>
+                  <l> revuelve mi alma de encina.</l>
+               </lg>
+               <lg>
+                  <l> Lo veo arar los rastrojos,</l>
+                  <l> y devorar un mendrugo,</l>
+                  <l> y declarar con los ojos</l>
+                  <l> que por qué es carne de yugo.</l>
+               </lg>
+               <lg>
+                  <l> Me da su arado en el pecho,</l>
+                  <l> y su vida en la garganta,</l>
+                  <l> y sufro viendo el barbecho</l>
+                  <l> tan grande bajo su planta.</l>
+               </lg>
+               <lg>
+                  <l> ¿Quién salvará este chiquillo</l>
+                  <l> menor que un grano de avena?</l>
+                  <l> ¿De dónde saldrá el martillo</l>
+                  <l> verdugo de esta cadena?</l>
+               </lg>
+               <lg>
+                  <l> Que salga del corazón</l>
+                  <l> de los hombre jornaleros,</l>
+                  <l> que antes de ser hombres son</l>
+                  <l> y han sido niños yunteros.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización idéntica del poema de Miguel Hernández. </note>
+      </body>
+   </text>
+</TEI>

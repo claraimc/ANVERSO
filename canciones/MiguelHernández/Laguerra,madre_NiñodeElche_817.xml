@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La guerra, madre</title>
+            <author>Niño de Elche</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Sí, a Miguel Hernández</title>
+               <publisher>Niño de Elche</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://music.youtube.com/watch?v=Vdth2diqOZw&amp;list=RDAMVMVdth2diqOZw"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Niño de Elche</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>La guerra, madre</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>La guerra, madre, la guerra.</l>
+                  <l> Mi casa sola y sin nadie.</l>
+                  <l> Mi almohada sin aliento.</l>
+                  <l> La guerra, madre, la guerra.</l>
+                  <l> Mi almohada sin aliento.</l>
+                  <l> La guerra, madre, la guerra.</l>
+                  <l> Mi almohada sin aliento.</l>
+                  <l> La guerra, madre, la guerra.</l>
+               </lg>
+               <lg>
+                  <l> La vida, madre, la vida.</l>
+                  <l> La vida para matarse.</l>
+                  <l> Mi corazón sin compaña.</l>
+                  <l> La guerra, madre, la guerra.</l>
+                  <l> Mi corazón sin compaña.</l>
+                  <l> La guerra, madre, la guerra.</l>
+                  <l> Mi corazón sin compaña.</l>
+                  <l> La guerra, madre, la guerra.</l>
+               </lg>
+               <lg>
+                  <l> ¿Quién mueve sus hondos pasos</l>
+                  <l> en mi alma y en mi calle?</l>
+                  <l> Cartas moribundas, muertas.</l>
+                  <l> La guerra, madre, la guerra.</l>
+                  <l> Cartas moribundas, muertas.</l>
+                  <l> La guerra, madre, la guerra.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns=""/>
+      </body>
+   </text>
+</TEI>

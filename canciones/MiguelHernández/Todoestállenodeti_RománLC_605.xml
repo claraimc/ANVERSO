@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Todo está lleno de ti</title>
+            <author>Román LC</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Otros">
+               <title>Homenaje a Miguel Hernández</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/Pyv05YrlNC0"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Román LC</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Todo está lleno de ti]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Todo está lleno de ti,</l>
+                  <l> y todo de mí está lleno:</l>
+                  <l> llenas están las ciudades,</l>
+                  <l> igual que los cementerios.</l>
+               </lg>
+               <lg>
+                  <l> De ti, por todas las casas de mí.</l>
+                  <l> Por todos los cuerpos, de ti,</l>
+                  <l> todo está lleno de ti.</l>
+                  <l> De ti, por todas las casas de mí.</l>
+                  <l> Por todos los cuerpos, de ti,</l>
+                  <l> todo está lleno de ti.</l>
+               </lg>
+               <lg>
+                  <l> Por las calles voy dejando</l>
+                  <l> algo que voy recogiendo:</l>
+                  <l> pedazos de vida mía</l>
+                  <l> venidos desde muy lejos.</l>
+               </lg>
+               <lg>
+                  <l> Voy alado a la agonía</l>
+                  <l> y arrastrándome me veo</l>
+                  <l> en el umbral en el fondo</l>
+                  <l> latente del nacimiento.</l>
+               </lg>
+               <lg>
+                  <l> De ti, por todas las casas de mí.</l>
+                  <l> Por todos los cuerpos, de ti,</l>
+                  <l> todo está lleno de ti.</l>
+                  <l> De ti, por todas las casas de mí.</l>
+                  <l> Por todos los cuerpos, de ti,</l>
+                  <l> todo está lleno de ti.</l>
+               </lg>
+               <lg>
+                  <l> Todo está lleno de mí,</l>
+                  <l> de algo que es tuyo y recuerdo</l>
+                  <l> perdido, pero encontrado</l>
+                  <l> alguna vez, algún tiempo.</l>
+                  <l> Tiempo que se queda atrás</l>
+                  <l> decididamente negro,</l>
+                  <l> indeleblemente rojo,</l>
+                  <l> dorado sobre tu cuerpo.</l>
+                  <l> Todo está lleno de ti,</l>
+                  <l> traspasado de tu pelo:</l>
+                  <l> de algo que no he conseguido</l>
+                  <l> y que busco entre tus huesos.</l>
+               </lg>
+               <lg>
+                  <l> De ti, por todas las casas de mí.</l>
+                  <l> Por todos los cuerpos, de ti,</l>
+                  <l> todo está lleno de ti.</l>
+                  <l> De ti, por todas las casas de mí.</l>
+                  <l> Por todos los cuerpos, de ti,</l>
+                  <l> todo está lleno de ti.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar del poema de Miguel Hernández. El autor
+            utiliza para componer la canción, por un lado, la primera estrofa, de la que utiliza sus
+            cuatro primeros y sus cuatro últimos versos para estructurar dos estrofas de la canción;
+            al mismo tiempo, usa su versos centrales (con alguna modificación), «…De ti, por todas
+            las casas de mí. /Por todos los cuerpos, de ti,/todo está lleno de ti…»para establecer
+            el estribillo. Sigue después con la segunda estrofa del poema. Además, el compositor de
+            la canción se vale, para terminar, de los doce últimos versos de una segunda versión
+            que, del mismo poema, escribió Miguel Hernández. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Una cantiga</title>
+            <author>Ñu</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Cuatro gatos</title>
+               <publisher>A la caza del ñu</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=rlM7jVNr9mc"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Ñu</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Juan Ruiz</persName>
+                  <bibl>Cantiga de la cuarta serrana (Libro de buen amor)</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Cerca de Tablada,</l>
+                  <l> la noche pasada,</l>
+                  <l> me hallé con Aldara</l>
+                  <l> a la madrugada.</l>
+                  <l> Y encima del puerto</l>
+                  <l> debí caer muerto</l>
+                  <l> de nieve y de frío</l>
+                  <l> y de aquel rocío.</l>
+               </lg>
+               <lg>
+                  <l> Ya a la decida</l>
+                  <l> di una corrida</l>
+                  <l> y hallé una serrana</l>
+                  <l> fermosa y lozana.</l>
+                  <l> Díjele yo a ella:</l>
+                  <l> “Humíllome bella”.</l>
+                  <l> Dijo: “Tú que corres</l>
+                  <l> aquí no te engorres.</l>
+               </lg>
+               <lg>
+                  <l> Dije: “Tengo frío,</l>
+                  <l> e por eso vengo</l>
+                  <l> a vos, fermosura,</l>
+                  <l> quered, por mesura”.</l>
+                  <l> Díjome la moza:</l>
+                  <l> “Pariente, mi choza,</l>
+                  <l> el que en ella posa</l>
+                  <l> conmigo desposa”.</l>
+               </lg>
+               <lg>
+                  <l> No hay mercadero</l>
+                  <l> bueno sin dinero</l>
+                  <l> e yo no me pago</l>
+                  <l> del que no da algo.</l>
+                  <l> Nunca de homenaje</l>
+                  <l> pagan hospedaje:</l>
+                  <l> por dinero hace</l>
+                  <l> hombre cuanto place.</l>
+               </lg>
+               <lg>
+                  <l> Díjome la heda:</l>
+                  <l> “Donde no hay moneda</l>
+                  <l> no hay mercancía</l>
+                  <l> ni hay un buen día.</l>
+                  <l> Con aquestas joyas</l>
+                  <l> quiero que lo oyas</l>
+                  <l> serás bienvenido</l>
+                  <l> serás mi marido”.</l>
+               </lg>
+               <lg>
+                  <l> Le dije: “De grado,</l>
+                  <l> mas yo soy casado,</l>
+                  <l> mas de mis dineros</l>
+                  <l> daros he amada”.</l>
+                  <l> Bebe e esfuerza,</l>
+                  <l> caliéntate y paga,</l>
+                  <l> que mal no se te haga</l>
+                  <l> hasta la tornada.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Es bastante conservador con el texto original (estrofas 1022-1042 del Libro de buen
+            amor), pero mucho más breve.   La banda se caracteriza por sus tendencias
+            medievalizantes. </note>
+      </body>
+   </text>
+</TEI>

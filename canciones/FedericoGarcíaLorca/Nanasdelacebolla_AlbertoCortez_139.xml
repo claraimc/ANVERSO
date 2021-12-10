@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nanas de la cebolla</title>
+            <author>Alberto Cortez</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>A mis amigos</title>
+               <publisher>Hispavox</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/8mWzE4JZiXc"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Jazz</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Alberto Cortez</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>[Nana del caballo grande]</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>La cebolla es escarcha</l>
+                  <l> cerrada y pobre.</l>
+                  <l> Escarcha de tus días</l>
+                  <l> y de mis noches.</l>
+                  <l> Hambre y cebolla,</l>
+                  <l> hielo negro y escarcha</l>
+                  <l> grande y redonda.</l>
+               </lg>
+               <lg>
+                  <l> En la cuna del hambre</l>
+                  <l> mi niño estaba.</l>
+                  <l> Con sangre de cebolla</l>
+                  <l> se amamantaba.</l>
+                  <l> Pero tu sangre,</l>
+                  <l> escarchada de azúcar,</l>
+                  <l> cebolla y hambre.</l>
+               </lg>
+               <lg>
+                  <l> Una mujer morena</l>
+                  <l> resuelta en luna</l>
+                  <l> se derrama hilo a hilo</l>
+                  <l> sobre la cuna.</l>
+                  <l> Ríete, niño,</l>
+                  <l> que te tragas la luna</l>
+                  <l> cuando es preciso.</l>
+               </lg>
+               <lg>
+                  <l> Alondra de mi casa,</l>
+                  <l> ríete mucho.</l>
+                  <l> Es tu risa en tus ojos</l>
+                  <l> la luz del mundo.</l>
+                  <l> Ríete tanto</l>
+                  <l> que en el alma al oírte</l>
+                  <l> bata el espacio.</l>
+               </lg>
+               <lg>
+                  <l> Tu risa me hace libre,</l>
+                  <l> me pone alas.</l>
+                  <l> Soledades me quita,</l>
+                  <l> cárcel me arranca.</l>
+                  <l> Boca que vuela,</l>
+                  <l> corazón que en tus labios</l>
+                  <l> relampaguea.</l>
+               </lg>
+               <lg>
+                  <l> Es tu risa la espada</l>
+                  <l> más victoriosa,</l>
+                  <l> vencedor de las flores</l>
+                  <l> y las alondras.</l>
+                  <l> Rival del sol.</l>
+                  <l> Porvenir de mis huesos</l>
+                  <l> y de mi amor.</l>
+               </lg>
+               <lg>
+                  <l> La carne aleteante,</l>
+                  <l> súbito el párpado,</l>
+                  <l> el niño como nunca</l>
+                  <l> coloreado.</l>
+                  <l> ¡Cuánto jilguero</l>
+                  <l> se remonta, aletea,</l>
+                  <l> desde tu cuerpo!</l>
+               </lg>
+               <lg>
+                  <l> Desperté de ser niño:</l>
+                  <l> nunca despiertes.</l>
+                  <l> Triste llevo la boca:</l>
+                  <l> ríete siempre.</l>
+                  <l> Siempre en la cuna,</l>
+                  <l> defendiendo la risa</l>
+                  <l> pluma por pluma.</l>
+               </lg>
+               <lg>
+                  <l> Ser de vuelo tan alto,</l>
+                  <l> tan extendido,</l>
+                  <l> que tu carne es el cielo</l>
+                  <l> recién nacido.</l>
+                  <l> ¡Si yo pudiera</l>
+                  <l> remontarme al origen</l>
+                  <l> de tu carrera!</l>
+               </lg>
+               <lg>
+                  <l> Al octavo mes ríes</l>
+                  <l> con cinco azahares.</l>
+                  <l> Con cinco diminutas</l>
+                  <l> ferocidades.</l>
+                  <l> Con cinco dientes</l>
+                  <l> como cinco jazmines</l>
+                  <l> adolescentes.</l>
+               </lg>
+               <lg>
+                  <l> Frontera de los besos</l>
+                  <l> serán mañana,</l>
+                  <l> cuando en la dentadura</l>
+                  <l> sientas un arma.</l>
+                  <l> Sientas un fuego</l>
+                  <l> correr dientes abajo</l>
+                  <l> buscando el centro.</l>
+               </lg>
+               <lg>
+                  <l> Vuela niño en la doble</l>
+                  <l> luna del pecho:</l>
+                  <l> él, triste de cebolla,</l>
+                  <l> tú, satisfecho.</l>
+                  <l> No te derrumbes.</l>
+                  <l> No sepas lo que pasa</l>
+                  <l> ni lo que ocurre.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización idéntica del poema de Miguel Hernández. </note>
+      </body>
+   </text>
+</TEI>

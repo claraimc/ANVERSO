@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La aurora de Nueva York</title>
+            <author>Compañía Rafael Amargo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Otros">
+               <title>Poeta en Nueva York. Espectáculo musical</title>
+               <publisher>--</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=CpgxAyvx28U"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Compañía Rafael Amargo</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>La aurora</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>La aurora de Nueva York tiene</l>
+                  <l> cuatro columnas de cieno</l>
+                  <l> un huracán de negras palomas</l>
+                  <l> que chapotean en las aguas podridas.</l>
+                  <l> La aurora de Nueva York gime</l>
+                  <l> por las inmensas escaleras</l>
+                  <l> buscando nardos de angustia dibujada.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Los primeros que salían comprenden con sus huesos</l>
+                  <l> que no habrá paraíso ni amores deshojados;</l>
+                  <l> saben que van al cieno de números y leyes,</l>
+                  <l> a los juegos sin arte y a los sudores sin fruto.</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La mayor diferencia con el poema de Lorca es la omisión de los versos 9-12 y 17-20.
+            También hay pequeñas variaciones en algunos versos que no cambian sustancialmente el
+            significado del poema y que en su mayoría son la introducción de artículos y
+            conjunciones, de estas la más significativa es la omisión de las últimas palabras del
+            verso 7. </note>
+      </body>
+   </text>
+</TEI>

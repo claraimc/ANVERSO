@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cerca del agua</title>
+            <author>Joan Manuel Serrat</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Hijo de la luz y de la sombra (Miguel Hernández)</title>
+               <publisher>Sony Music</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/LT8OrxZqDOY"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Joan Manuel Serrat</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Cerca del agua te quiero llevar]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Cerca del agua te quiero llevar,</l>
+                  <l> porque tu arrullo trascienda del mar.</l>
+                  <l> Cerca del agua, cerca del agua, cerca del agua te quiero llevar</l>
+               </lg>
+               <lg>
+                  <l> Cerca del agua te quiero tener,</l>
+                  <l> porque te aliente su vívido ser.</l>
+                  <l> Cerca del agua, cerca del agua, cerca del agua.</l>
+                  <l> Perdida en el mar que no se puede perder ni encontrar.</l>
+               </lg>
+               <lg>
+                  <l> Cerca del agua te quiero sentir,</l>
+                  <l> porque la espuma te enseñe a reír.</l>
+                  <l> Cerca del agua, cerca del agua, cerca del agua, te quiero sentir.</l>
+               </lg>
+               <lg>
+                  <l> Cerca del agua te quiero, mujer,</l>
+                  <l> ver, abarcar, fecundar, conocer.</l>
+                  <l> Cerca del agua, cerca del agua, cerca del agua.</l>
+                  <l> Perdida en el mar que no se puede perder ni encontrar.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar al poema de Miguel Hernández. El autor
+            utiliza, para componer la canción, las cuatro primeras estrofas, que alarga añadiendo
+            los versos «…Cerca del agua, cerca del agua, cerca del agua te quiero llevar…» ( en la
+            primera estrofa) y «…Cerca del agua, cerca del agua, cerca del agua, te quiero sentir…»
+            (en la tercera estrofa. Ademas utiliza el verso «…cerca del agua, cerca del agua, cerca
+            del agua…», junto con la quinta estrofa del poema, para conformar el estribillo de la
+            canción: «…Cerca del agua, cerca del agua, cerca del agua./Perdida en el mar que no se
+            puede perder ni encontrar…» </note>
+      </body>
+   </text>
+</TEI>

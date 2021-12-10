@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tristes guerras</title>
+            <author>José Miguel Arranz</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Miguel Hernández, sublime</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/bB4r5ZcSO3E"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>José Miguel Arranz</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Tristes guerras]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Tristes guerras</l>
+                  <l> si no es amor la empresa.</l>
+                  <l> Tristes, tristes, tris.</l>
+               </lg>
+               <lg>
+                  <l> Tristes guerras</l>
+                  <l> si no es amor la empresa.</l>
+                  <l> Tristes, tristes, tris.</l>
+               </lg>
+               <lg>
+                  <l> Tristes armas</l>
+                  <l> si no son las palabras.</l>
+                  <l> Tristes, tristes, tris.</l>
+               </lg>
+               <lg>
+                  <l> Tristes armas</l>
+                  <l> si no son las palabras.</l>
+                  <l> Tristes, tristes, tris.</l>
+               </lg>
+               <lg>
+                  <l> Tristes hombres</l>
+                  <l> si no mueren de amores.</l>
+                  <l> Tristes, tristes, tris.</l>
+               </lg>
+               <lg>
+                  <l> Tristes hombres</l>
+                  <l> si no mueren de amores.</l>
+                  <l> Tristes, tristes, tris.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar del poema de Miguel Hernández. El autor
+            toma las estrofas del poema, pero agrupándolas con el verso «…Tristes. Tristes…» y
+            añadiendo a este la palabra Tris, quedando la estrofa así: «…Tristes hombres/si no
+            mueren de amores./Tristes, tristes, tris…». Además, cada estrofa se repite en orden.
+        </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romance de la hermana cautiva</title>
+            <author>Amancio Prada y María José Cordero</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Del amor que quita el sueño (Romances y canciones desde el Reino de León)</title>
+               <publisher>Musicamaina</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=sjKNAT_CTZY"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Amancio Prada y María José Cordero</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Romance de don Bueso «Una noche de torneos»</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Una tarde de verano pasé por la morería</l>
+                  <l> y vi a una mora lavando al pie de una fuente fría.</l>
+                  <l> Yo le dixe: —Mora bella. —Yo le dije:— Mora linda,</l>
+                  <l> dexa beber mis caballos de esas aguas cristalinas—.</l>
+                  <l> —No soy mora, caballero, que soy cristiana cautiva,</l>
+                  <l> que me cautivaron moros cuando yo era chiquitita—.</l>
+                  <l> —Si querés venir conmigo, a León te llevaría—.</l>
+                  <l> —¿Y las ropas, caballero? —Por el río baxarían.</l>
+                  <l> Por los campos que pasaba la mora llorando iba:</l>
+                  <l> —¿Por qué lloras, mora bella?, ¿por qué lloras, mora linda?</l>
+                  <l> —Lloro porque en estos campos mi padre a cazar venía</l>
+                  <l> con mi hermanito Alejandro, y toda su compañía.</l>
+                  <l> —Abrid puertas y ventanas, balcones y celosías,</l>
+                  <l> que por traer una esposa traigo yo a una hermana mía—.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">No hemos encontrado la versión exacta del poema recopilado en ninguna de las fuentes
+            consultadas, pero parece ser una adaptación muy conservadora. En todo caso, el texto
+            resulta bastante similar al que musica Nizza Thobi en su álbum Jiddisch Is Gor Nischt
+            Asoj Schwer (Galileo Music Communication, 2008).   Como señala el subtítulo del álbum,
+            todo él está dedicado a piezas de la lírica castellana medieval y temprano-moderna.
+        </note>
+      </body>
+   </text>
+</TEI>

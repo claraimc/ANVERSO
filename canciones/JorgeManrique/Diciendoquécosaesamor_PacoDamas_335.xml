@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Diciendo qué cosa es amor</title>
+            <author>Paco Damas</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Once canciones de amor y una reina</title>
+               <publisher>Autor Factoría</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target=""/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Paco Damas</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Jorge Manrique</persName>
+                  <bibl>Es amor fuerça tan fuerte</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Es amor fuerça tan fuerte</l>
+                  <l> que fuerça toda razón;</l>
+                  <l> una fuerça de tal suerte,</l>
+                  <l> que todo juicio convierte</l>
+                  <l> en su fuerça y afición.</l>
+                  <l> Una porfía forçosa</l>
+                  <l> que no se puede vencer,</l>
+                  <l> cuya fuerça porfiosa</l>
+                  <l> hacemos más poderosa</l>
+                  <l> queriéndonos defender.</l>
+               </lg>
+               <lg>
+                  <l> Todas estas propiedades</l>
+                  <l> tiene el verdadero amor;</l>
+                  <l> el falso, mil falsedades,</l>
+                  <l> mil mentiras, mil maldades</l>
+                  <l> como fengido traidor;</l>
+                  <l> el toque para tocar</l>
+                  <l> cuál amor es bien forjado,</l>
+                  <l> es sofrir el desamar,</l>
+                  <l> que no puede comportar</l>
+                  <l> el falso sobredorado.</l>
+               </lg>
+               <lg>
+                  <l> Es placer en c’hay dolores,</l>
+                  <l> dolores en c’hay alegría,</l>
+                  <l> un pesar en c’hay dulçores,</l>
+                  <l> un esfuerço en c’hay temores,</l>
+                  <l> temor en c’hay osadía;</l>
+                  <l> un placer en c’hay enojos,</l>
+                  <l> una gloria en c’hay pasión,</l>
+                  <l> una fe en c’hay antojos,</l>
+                  <l> fuerça que hacen los ojos</l>
+                  <l> al juicio y al coraçón.</l>
+               </lg>
+               <lg>
+                  <l> El falso, mil falsedades,</l>
+                  <l> mil mentiras, mil maldades</l>
+                  <l> como fengido traidor.</l>
+                  <l> Todas estas propiedades</l>
+                  <l> tiene el verdadero amor.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Adapta el poema de Manrique reduciendo el número de estrofas, abreviándolas y
+            cambiando el orden: 1, cabo, 2 y cabo (incompleto).   Todo el álbum está dedicado a
+            composiciones de la lírica hispánica castellana medieval o temprano-moderna. </note>
+      </body>
+   </text>
+</TEI>

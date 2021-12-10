@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El último sueño en Castilla</title>
+            <author>Emilio Valdeolivas</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>El cantar de mio Cid</title>
+               <publisher>Tecnosaga</publisher>
+               <date cert="low"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=el7V9-IRGnM&amp;t=893s"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Emilio Valdeolivas</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Visión del ángel Gabriel (Cantar de mio Cid)</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>I se echava mio Çid después que fo de noch</l>
+                  <l> un sueño priso dulçe, tan bien se adurmió.</l>
+                  <l> El ángel Gabriel, a ´le vino en visión:</l>
+                  <l> Cavalgad, el Çid, el buen Campeador</l>
+                  <l> que nunqua en tan buen punto cavalgó varón.</l>
+                  <l> I se echava mio Çid después que fo de noch</l>
+                  <l> mientra que visquiéredes bien se fará lo to.</l>
+                  <l> El ángel Gabriel a él vino en visión.</l>
+                  <l> Cavalgad, el Çid, el buen Campeador,</l>
+                  <l> que nunqua en tan buen punto cavalgó varón.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Toma los vv. 404-408, 404, 409-410, 404, y 407-408, del cantar primero del Cantar de
+            mio Cid, en ese orden, con modificaciones mínimas. Probablemente sigue la edición de
+            Menéndez Pidal, dado el tratamiento de -e final en varios versos, pero no podemos
+            asegurarlo por el momento. Todo el disco está dedicado al Cantar de mio Cid, del que es
+            una adaptación. </note>
+      </body>
+   </text>
+</TEI>
