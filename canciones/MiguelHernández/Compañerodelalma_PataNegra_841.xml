@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Compañero del alma</title>
+            <author>Pata Negra</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Rock Gitano</title>
+               <publisher>Mercury</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/zUgCblA0tyw"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Blues</term>
+               <term>Flamenco</term>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Pata Negra</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>El último rincón</bibl>
+                  <relation>Influencia</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Esta la calle del aire, la calle del remolino,</l>
+                  <l> donde se remolinea tu corazón con el mio.</l>
+               </lg>
+               <lg>
+                  <l> Yomare, yomare….</l>
+               </lg>
+               <lg>
+                  <l> Por la calle de dentro, por otra medida cuenta,</l>
+                  <l> la gitana que me quiera, que deje la puerta abierta.</l>
+               </lg>
+               <lg>
+                  <l> Yomare, yomare….</l>
+               </lg>
+               <lg>
+                  <l> Obi, oba, cada día te quiero más.</l>
+               </lg>
+               <lg>
+                  <l> Y a mi me sigue, me sigue.</l>
+                  <l> Y a mi me sigue, me sigue una estrella chiquitita,</l>
+                  <l> chiquitita pero firme.</l>
+               </lg>
+               <lg>
+                  <l> Yomare, yomare….</l>
+               </lg>
+               <lg>
+                  <l> La molinera, la molinera,</l>
+                  <l> ay ya no bebe vino de mi tinaja.</l>
+                  <l> Ay ya no bebe vino de mi tinaja.</l>
+                  <l> Ay ya no bebe vino de mi tinaja.</l>
+               </lg>
+               <lg>
+                  <l> La molinera, la molinera,</l>
+                  <l> ay ya no bebe vino de mi tinaja.</l>
+                  <l> Ay ya no bebe vino de mi tinaja.</l>
+                  <l> Ay ya no bebe vino de mi tinaja.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta canción tiene inspiración en el poema de Miguel Hernández, pero no encontramos
+            versos enteros o parciales del poema que se utilicen en la canción. </note>
+      </body>
+   </text>
+</TEI>

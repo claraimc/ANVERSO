@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La saeta</title>
+            <author>Antonio y Pilar Bogado</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Nodeterminado">
+               <title>Menuda noche 2018</title>
+               <publisher>--</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=7DvPIwM2mqc"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Antonio y Pilar Bogado</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Antonio Machado</persName>
+                  <bibl>La saeta</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>¿Quién me presta una escalera,</l>
+                  <l> para subir al madero,</l>
+                  <l> para quitarle los clavos</l>
+                  <l> a Jesús el Nazareno?</l>
+               </lg>
+               <lg>
+                  <l> ¡Oh, la saeta, el cantar</l>
+                  <l> al Cristo de los gitanos,</l>
+                  <l> siempre con sangre en las manos,</l>
+                  <l> siempre por desenclavar!</l>
+               </lg>
+               <lg>
+                  <l> ¡Cantar del pueblo andaluz,</l>
+                  <l> que todas las primaveras</l>
+                  <l> anda pidiendo escaleras</l>
+                  <l> para subir a la cruz!</l>
+               </lg>
+               <lg>
+                  <l> ¡Cantar de la tierra mía,</l>
+                  <l> que echa flores</l>
+                  <l> al Jesús de la agonía,</l>
+                  <l> y es la fe de mis mayores!</l>
+               </lg>
+               <lg>
+                  <l> ¡Oh, no eres tú mi cantar!</l>
+                  <l> ¡No puedo cantar, ni quiero</l>
+                  <l> a ese Jesús del madero,</l>
+                  <l> sino al que anduvo en la mar! [estrofa x 2]</l>
+               </lg>
+               <lg>
+                  <l> ¡Cantar de la tierra mía,</l>
+                  <l> que echa flores</l>
+                  <l> al Jesús de la agonía,</l>
+                  <l> y es la fe de mis mayores!</l>
+               </lg>
+               <lg>
+                  <l> ¡Oh, no eres tú mi cantar!</l>
+                  <l> ¡No puedo cantar, ni quiero</l>
+                  <l> a ese Jesús del madero,</l>
+                  <l> sino al que anduvo en la mar! [estrofa x 2]</l>
+               </lg>
+               <lg>
+                  <l> ¡Oh, no eres tú mi cantar!</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción musicaliza el poema original, con apenas unos mínimos cambios léxicos y
+            repeticiones de versos. Parte de la versión de Joan Manuel Serrat de 1969, no incluida
+            en esta base de datos por ser anterior a 1975. Como en esa canción, esta versión
+            incorpora la cita previa al poema como parte de la letra. La canción fue interpretada
+            por Pilar Bogado con uno de los concursantes infantiles, Antonio, en la edición de 2018
+            del programa de Canal Sur Menuda noche, en el mes de marzo de ese año. </note>
+      </body>
+   </text>
+</TEI>

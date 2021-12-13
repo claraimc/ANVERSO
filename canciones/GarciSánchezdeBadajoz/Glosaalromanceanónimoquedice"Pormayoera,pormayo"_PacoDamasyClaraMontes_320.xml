@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Glosa al romance anónimo que dice "Por mayo era, por mayo"</title>
+            <author>Paco Damas y Clara Montes</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Once canciones de amor y una reina</title>
+               <publisher>Autor Factoría</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="http://www.pacodamas.com/musica/isabel/Track03.mp3"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Paco Damas y Clara Montes</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Garci Sánchez de Badajoz</persName>
+                  <bibl>Si de amor libre estuviera</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Si de amor libre estuuiera</l>
+                  <l> no sintiera mi prision,</l>
+                  <l> y si fuera donde os viera</l>
+                  <l> fuera gloria mi passion.</l>
+                  <l> lo que mas me desespera</l>
+                  <l> mas de todo mi dolor</l>
+                  <l> quando siento mas desmayo</l>
+                  <l> por el mes era de mayo</l>
+                  <l> quando haze la calor.</l>
+               </lg>
+               <lg>
+                  <l> Y de verme assi catiuo</l>
+                  <l> en todo sin libertad</l>
+                  <l> es la vida que yo biuo</l>
+                  <l> menos de mi voluntad</l>
+                  <l> que la pena que recibo</l>
+                  <l> quen pesares y dolor</l>
+                  <l> veo mis dias gastados</l>
+                  <l> quando los enamorados</l>
+                  <l> van a seruir al amor.</l>
+               </lg>
+               <lg>
+                  <l> Que por mayo, era por mayo,</l>
+                  <l> cuando hace la calor,</l>
+                  <l> cuando canta la calandria</l>
+                  <l> y responde el ruiseñor;</l>
+                  <l> cuando los enamorados</l>
+                  <l> van a servir al amor</l>
+                  <l> si no yo triste, cuitado,</l>
+                  <l> que vivo en esta prisión,</l>
+                  <l> que ni sé cuándo es de día</l>
+                  <l> ni cuando las noches son</l>
+                  <l> sino por un avecilla</l>
+                  <l> que me cantaba al albor.</l>
+                  <l> La mató un ballestero,</l>
+                  <l> dele Dios mal galardón.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Toma las estrofas 1 y 3 del poema original y reconstruye al final el Romance del
+            prisionero.   Todo el álbum está dedicado a composiciones de la lírica hispánica
+            castellana medieval o temprano-moderna. </note>
+      </body>
+   </text>
+</TEI>

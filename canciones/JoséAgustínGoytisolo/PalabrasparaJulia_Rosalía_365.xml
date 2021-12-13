@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Palabras para Julia</title>
+            <author>Rosalía</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="--">
+               <title>--</title>
+               <publisher>--</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=vovLUDpk2t8"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Rosalía</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>José Agustín Goytisolo</persName>
+                  <bibl>Palabras para Julia</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Tú no puedes volver atrás</l>
+                  <l> porque la vida ya te empuja</l>
+                  <l> con un aullido interminable,</l>
+                  <l> interminable.</l>
+               </lg>
+               <lg>
+                  <l> Te sentirás acorralada</l>
+                  <l> te sentirás perdida y sola</l>
+                  <l> tal vez querrás no haber nacido,</l>
+                  <l> no haber nacido.</l>
+               </lg>
+               <lg>
+                  <l> Pero tú siempre acuérdate</l>
+                  <l> de lo que un día yo escribí</l>
+                  <l> pensando en ti,</l>
+                  <l> pensando en ti,</l>
+                  <l> como ahora pienso.</l>
+               </lg>
+               <lg>
+                  <l> La vida es bella ya verás,</l>
+                  <l> como a pesar de los pesares</l>
+                  <l> tendrás amigos tendrás amor,</l>
+                  <l> tendrás amigos.</l>
+               </lg>
+               <lg>
+                  <l> Un hombre solo una mujer</l>
+                  <l> así tomados de uno en uno</l>
+                  <l> son como polvo, no son nada,</l>
+                  <l> no son nada…</l>
+               </lg>
+               <lg>
+                  <l> Pero tú siempre acuérdate</l>
+                  <l> de lo que un día yo escribí</l>
+                  <l> pensando en ti,</l>
+                  <l> pensando en ti,</l>
+                  <l> como ahora pienso.</l>
+               </lg>
+               <lg>
+                  <l> Nunca te entregues ni te apartes</l>
+                  <l> junto al camino nunca digas</l>
+                  <l> no puedo más y aquí me quedo,</l>
+                  <l> y aquí me quedo.</l>
+               </lg>
+               <lg>
+                  <l> La vida es bella ya verás</l>
+                  <l> como a pesar de los pesares</l>
+                  <l> tendrás amigos tendrás amor,</l>
+                  <l> tendrás amigos.</l>
+               </lg>
+               <lg>
+                  <l> Pero tú siempre acuérdate</l>
+                  <l> de lo que un día yo escribí</l>
+                  <l> pensando en ti,</l>
+                  <l> pensando en ti,</l>
+                  <l> como ahora pienso.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio; a falta de fuente escrita, la
+                    puntualización y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">El 29 de noviembre de 2016 se presentó en el estudio Toresky de Radio Barcelona el
+            libro solidario Vull tot això (Angle Editorial) que incluye 79 versiones de la poesía
+            «Quiero todo esto», de José Agustín Goytisolo. En la presentación, la cantante Rosalía
+            versionó «Palabras para Julia», escrita por el poeta catalán y versionada por primera
+            vez por Paco Ibáñez (Paco Ibáñez 3, Polydor, 1969), versión esta que, al ser anterior a
+            1975, no aparece recogida en esta base de datos. Todos los beneficios del libro se
+            destinaron a la compra de juguetes en el marco de la campaña Cap nen sense joguina
+            («Ningún niño sin juguete») de Ràdio Barcelona. </note>
+      </body>
+   </text>
+</TEI>

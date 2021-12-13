@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Casida de las palomas oscuras</title>
+            <author>Camarón de la Isla</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Por alegrías y cantiñas</title>
+               <publisher>Altaya</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=ESwdYgv1roo"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Flamenco</term>
+               <term>Latina</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Camarón de la Isla</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Casida de las palomas oscuras</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Por las ramas del laurel</l>
+                  <l> van dos palomas oscuras,</l>
+                  <l> por las ramas del laurel</l>
+                  <l> van dos palomas oscuras:</l>
+                  <l> Una era el sol,</l>
+                  <l> una era el sol,</l>
+                  <l> la otra la luna.</l>
+                  <l> Una era el sol,</l>
+                  <l> la otra la luna.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> «Vecinitas», les dije,</l>
+                  <l> «¿dónde está mi sepultura?»</l>
+                  <l> «En mi cola», dijo el sol,</l>
+                  <l> «en mi garganta», dijo la luna.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Por las ramas del laurel</l>
+                  <l> van dos palomas oscuras,</l>
+                  <l> por las ramas del laurel</l>
+                  <l> van dos palomas oscuras:</l>
+                  <l> Una era el sol,</l>
+                  <l> una era el sol,</l>
+                  <l> la otra la luna.</l>
+                  <l> Una era el sol,</l>
+                  <l> la otra la luna.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Y yo que estaba caminando</l>
+                  <l> con la tierra por la cintura</l>
+                  <l> vi dos águilas de nieve</l>
+                  <l> y una muchacha desnuda,</l>
+                  <l> Y una muchacha desnuda.</l>
+                  <l> Y una muchacha desnuda.</l>
+                  <l> La una era la otra,</l>
+                  <l> la una era la otra,</l>
+                  <l> la una era la otra,</l>
+                  <l> y la muchacha era ninguna.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Por las ramas del laurel</l>
+                  <l> van dos palomas oscuras,</l>
+                  <l> por las ramas del laurel</l>
+                  <l> van dos palomas oscuras:</l>
+                  <l> Una era el sol,</l>
+                  <l> una era el sol,</l>
+                  <l> la otra la luna.</l>
+                  <l> Una era el sol,</l>
+                  <l> la otra la luna.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Por las ramas del laurel</l>
+                  <l> van dos palomas oscuras,</l>
+                  <l> por las ramas del laurel</l>
+                  <l> van dos palomas oscuras:</l>
+                  <l> Una era el sol,</l>
+                  <l> una era el sol,</l>
+                  <l> la otra la luna.</l>
+                  <l> Una era el sol,</l>
+                  <l> la otra la luna.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Por las ramas del laurel</l>
+                  <l> van dos palomas oscuras,</l>
+                  <l> por las ramas del laurel</l>
+                  <l> van dos palomas oscuras:</l>
+                  <l> Una era el sol,</l>
+                  <l> una era el sol…</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio, a falta de buena fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Hubo una musicalización anterior a 1975, por eso no recogida en esta base de datos:
+            Paco Ibáñez (Paco Ibañez – 1. Poemas de Federico García Lorca y Luis de Góngora, 1964).
+              Musicalización similar con repetición de versos y la conversión en estribillo de la
+            primera estrofa del poema. Al igual que en la versión de Carlos Cano de 1978, se omiten
+            los últimos cuatro versos del poema. “Por las ramas del laurel vi dos palomas desnudas.
+            La una era la otra y las dos eran ninguna.” (Federico García Lorca, Diván del Tamarit –
+            Sonetos del amor oscuro, Barcelona, Lumen – Penguin Random House, 2015, p. 51) </note>
+      </body>
+   </text>
+</TEI>

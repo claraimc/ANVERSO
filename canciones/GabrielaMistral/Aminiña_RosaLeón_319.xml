@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A mi niña</title>
+            <author>Rosa León</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Cuenta conmigo</title>
+               <publisher>Fonomusic</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://music.youtube.com/watch?v=HWomXSstvO4&amp;list=RDAMVMHWomXSstvO4"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Rosa León</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Gabriela Mistral</persName>
+                  <bibl>Miedo</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Yo no quiero que a mi niña</l>
+                  <l> golondrina me la vuelvan</l>
+                  <l> se hunde volando en el cielo</l>
+                  <l> y no baja hasta mi estera</l>
+                  <l> en el alero hace el nido</l>
+                  <l> Y mis manos no la peinan</l>
+                  <l> yo no quiero que a mi niña</l>
+                  <l> golondrina me la vuelvan</l>
+               </lg>
+               <lg>
+                  <l> Yo no quiero que a mi niña</l>
+                  <l> la vayan a hacer princesa</l>
+                  <l> con zapatitos de oro</l>
+                  <l> cómo juega en las praderas</l>
+                  <l> y cuando llegue la noche</l>
+                  <l> a mi lado no se acuesta</l>
+                  <l> yo no quiero que a mi niña</l>
+                  <l> la vayan a hacer princesa</l>
+               </lg>
+               <lg>
+                  <l> Y menos quiero que un día</l>
+                  <l> me la vayan a hacer reina</l>
+                  <l> la pondrían en un trono</l>
+                  <l> adonde mis pies no llegan</l>
+                  <l> cuando viniese la noche</l>
+                  <l> yo no podría mecerla</l>
+                  <l> yo no quiero que a mi niña</l>
+                  <l> me la vayan a hacer reina.</l>
+                  <l> (Letra tomada del álbum Cuenta Conmigo)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar al poema de Gabriela Mistral. Hay
+            pequeñas diferencias en las líneas 5 y 19 de la letra.  Por ejemplo, la canción incluye
+            el artículo «el» antes de la palabra «nido» en la línea 5. Además, en la línea 19, el
+            verso del poema decía «La subirían al trono» y la canción lo transforma a «la pondrían
+            en un trono». </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El pez más viejo del río</title>
+            <author>Camarón de la Isla</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Soy gitano</title>
+               <publisher>Philips</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/ESwdYgv1roo"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Camarón de la Isla</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[El pez más viejo del río]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>El pez más viejo del río</l>
+                  <l> de tanta sabiduría.</l>
+                  <l> El pez más viejo del río</l>
+                  <l> como amontonó, vivía</l>
+                  <l> brillantemente sombrío.</l>
+                  <l> Y el agua le sonreía.</l>
+               </lg>
+               <lg>
+                  <l> Tan sombrío llegó a estar</l>
+                  <l> (nada el agua le divierte)</l>
+                  <l> que después de meditar,</l>
+                  <l> tomó el camino del mar,</l>
+                  <l> es decir, el de la muerte.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar del poema de Miguel Hernández. El autor
+            utiliza, para componer la canción, las dos primeras estrofas del poema, omitiendo la
+            tercera y última del mismo. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tengo estos huesos hechos a las penas</title>
+            <author>Sally Ramos</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Una canción para Miguel</title>
+               <publisher>A Guitarra Limpia (Centro Pablo) y SGAE</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/Df6qzRFWmWo"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Sally Ramos</persName>
+                  <nationality>Cuba</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Tengo estos huesos hechos de penas]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Tengo estos huesos hechos a las penas y a las cavilaciones estas sienes:</l>
+                  <l> pena que vas, cavilación que vienes como el mar de la playa a las arenas.</l>
+               </lg>
+               <lg>
+                  <l> Por una noche oscura de sartenes, redondas, pobres, tristes y morenas.</l>
+                  <l> Como el mar de la playa a las arenas, voy en este naufragio de vaivenes.</l>
+               </lg>
+               <lg>
+                  <l> Nadie me salvará de este naufragio si no es tu amor, la tabla que procuro,</l>
+                  <l> si no es tu voz, el norte que pretendo.</l>
+                  <l> Eludiendo por eso el mal presagio de que ni en ti siquiera habré seguro.</l>
+               </lg>
+               <lg>
+                  <l> Nadie me salvará de este naufragio si no es tu amor, la tabla que procuro,</l>
+                  <l> si no es tu voz, el norte que pretendo.</l>
+                  <l> Eludiendo por eso el mal presagio voy entre pena y pena sonriendo.</l>
+               </lg>
+               <lg>
+                  <l> Pena que vas, cavilación que vienes como el mar de la playa a las arenas, voy en
+                    este naufragio de vaivenes.</l>
+               </lg>
+               <lg>
+                  <l> Nadie me salvará de este naufragio si no es tu amor, la tabla que procuro,</l>
+                  <l> si no es tu voz, el norte que pretendo.</l>
+                  <l> Eludiendo por eso el mal presagio voy entre pena y pena sonriendo.</l>
+                  <l> Eludiendo por eso el mal presagio voy entre pena y pena sonriendo.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar al poema de Miguel Hernández.
+            Encontramos algunos cambios como cambiar el orden de la segunda estrofa «…Por una noche
+            oscura de sartenes, redondas, pobres, tristes y morenas/ Como el mar de la playa a las
+            arenas, voy en este naufragio de vaivenes…»; utiliza la tercera y cuarta estrofa a modo
+            de estribillo de la canción. </note>
+      </body>
+   </text>
+</TEI>

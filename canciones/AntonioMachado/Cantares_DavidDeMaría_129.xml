@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cantares</title>
+            <author>David DeMaría</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Serrat... eres único! Vol. 2</title>
+               <publisher>RCA y Sony MBG</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=G4C650TzmMc"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>David DeMaría</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Antonio Machado</persName>
+                  <bibl>Proverbios y cantares</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Todo pasa y todo queda,</l>
+                  <l> pero lo nuestro es pasar,</l>
+                  <l> pasar haciendo caminos,</l>
+                  <l> caminos sobre la mar.</l>
+               </lg>
+               <lg>
+                  <l> Nunca perseguí la gloria,</l>
+                  <l> ni dejar en la memoria</l>
+                  <l> de los hombres mi canción.</l>
+                  <l> Yo amo los mundos sutiles</l>
+                  <l> ingrávidos y gentiles,</l>
+                  <l> como pompas de jabón.</l>
+               </lg>
+               <lg>
+                  <l> (Se hace camino al andar.</l>
+                  <l> Se hace camino al andar)</l>
+               </lg>
+               <lg>
+                  <l> Me gusta verlos pintarse</l>
+                  <l> de sol y grana, volar</l>
+                  <l> bajo el cielo azul, temblar</l>
+                  <l> súbitamente y quebrarse.</l>
+                  <l> Nunca perseguí la gloria</l>
+               </lg>
+               <lg>
+                  <l> Nunca perseguí la gloria.</l>
+               </lg>
+               <lg>
+                  <l> Caminante, son tus huellas</l>
+                  <l> el camino y nada más;</l>
+                  <l> caminante, no hay camino,</l>
+                  <l> se hace camino al andar.</l>
+                  <l> Al andar se hace camino</l>
+                  <l> Y, al volver la vista atrás,</l>
+                  <l> se ve la senda que nunca</l>
+                  <l> se ha de volver a pisar.</l>
+                  <l> Caminante, no hay camino,</l>
+                  <l> sino estelas en la mar.</l>
+               </lg>
+               <lg>
+                  <l> Hace algún tiempo en ese lugar,</l>
+                  <l> donde hoy los bosques se visten de espinos,</l>
+                  <l> se oyó la voz de un poeta gritar:</l>
+                  <l> “Caminante, no hay camino,</l>
+                  <l> se hace camino al andar…”</l>
+               </lg>
+               <lg>
+                  <l> Golpe a golpe, verso a verso.</l>
+                  <l> Golpe a golpe, verso a verso.</l>
+               </lg>
+               <lg>
+                  <l> Murió el poeta lejos del hogar,</l>
+                  <l> le cubre el polvo de un país vecino;</l>
+                  <l> al alejarse le vieron llorar:</l>
+                  <l> “Caminante, no hay camino,</l>
+                  <l> se hace camino al andar…”</l>
+               </lg>
+               <lg>
+                  <l> Golpe a golpe, verso a verso.</l>
+                  <l> Golpe a golpe, verso a verso.</l>
+               </lg>
+               <lg>
+                  <l> Cuando el jilguero no puede cantar,</l>
+                  <l> cuando el poeta es un peregrino,</l>
+                  <l> cuando de nada nos sirve rezar:</l>
+                  <l> “Caminante, no hay camino,</l>
+                  <l> se hace camino al andar…”</l>
+               </lg>
+               <lg>
+                  <l> Golpe a golpe, verso a verso.</l>
+                  <l> Golpe a golpe, verso a verso.</l>
+                  <l> Golpe a golpe, verso a verso.</l>
+               </lg>
+               <lg>
+                  <l> (Golpe a golpe, verso a verso…)</l>
+                  <l> (Se hace camino al andar…)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">En realidad, es una versión de “Cantares” de Joan Manuel Serrat (Dedicado a Antonio
+            Machado, poeta, Zafiro, 1969), que, por razones de cronología, no aparece en esta
+            recopilación. DeMaría sigue de cerca la melodía de Serrat, así como su modelo textual,
+            mezclando los mismos versos y estrofas de entre todos los proverbios y cantares de
+            Machado. </note>
+      </body>
+   </text>
+</TEI>

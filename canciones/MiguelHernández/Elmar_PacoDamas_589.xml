@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El mar</title>
+            <author>Paco Damas</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Tristes guerras (Miguel Hernández)</title>
+               <publisher>Buho Man Discos</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/xXbjMlwpPmw"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Paco Damas</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[El mar también elige]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>El mar también elige</l>
+                  <l> puertos donde reír</l>
+                  <l> como los marineros.</l>
+               </lg>
+               <lg>
+                  <l> El mar también elige</l>
+                  <l> puertos donde morir.</l>
+                  <l> Como los marineros.</l>
+               </lg>
+               <lg>
+                  <l> El mar de los que son.</l>
+                  <l> El mar de los que fueron.</l>
+               </lg>
+               <lg>
+                  <l> El mar de los que son.</l>
+                  <l> El mar de los que fueron.</l>
+               </lg>
+               <lg>
+                  <l> El mar de los que son.</l>
+                  <l> El mar de los que fueron.</l>
+               </lg>
+               <lg>
+                  <l> Ay el mar….</l>
+               </lg>
+               <lg>
+                  <l> El mar también elige</l>
+                  <l> puertos donde reír</l>
+                  <l> como los marineros.</l>
+               </lg>
+               <lg>
+                  <l> El mar también elige</l>
+                  <l> puertos donde morir.</l>
+                  <l> Como los marineros.</l>
+               </lg>
+               <lg>
+                  <l> El mar de los que son.</l>
+                  <l> El mar de los que fueron……..</l>
+               </lg>
+               <lg>
+                  <l> Ay el mar de los que fueron,</l>
+                  <l> El mar de los marineros.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar del poema de Miguel Hernández. El autor
+            utiliza el poema completo para componer la canción, pero une y cambia de lugar los
+            versos «…El mar de los que son…» y  «…El mar de los que fueron…» para conformar el
+            estribillo de la canción. Además, repite dos veces el poema para que la composición
+            aumente su duración. </note>
+      </body>
+   </text>
+</TEI>

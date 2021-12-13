@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Escríbeme a la tierra</title>
+            <author>Manuel Gerena</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Otros">
+               <title>Manuel Gerena canta con Miguel Hernánde</title>
+               <publisher>Warner Music Spain</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/eCIka_zwQS0"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Manuel Gerena</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Carta</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Y aunque bajo la tierra mi amante cuerpo esté.</l>
+                  <l> Escríbeme a la tierra que yo te escribiré.</l>
+                  <l> Aunque bajo la tierra mi amante cuerpo esté.</l>
+               </lg>
+               <lg>
+                  <l> El palomar de las cartas abre su imposible vuelo</l>
+                  <l> desde las trémulas mesas donde se apoya el recuerdo,</l>
+                  <l> la gravedad de la ausencia,el corazón, el silencio.</l>
+               </lg>
+               <lg>
+                  <l> Oigo un latido de cartas</l>
+                  <l> navegando hacia su centro.</l>
+               </lg>
+               <lg>
+                  <l> Donde voy, con las mujeres y con los hombres me encuentro,</l>
+                  <l> malheridos por la ausencia, desgastados por el tiempo.</l>
+               </lg>
+               <lg>
+                  <l> Y aunque bajo la tierra mi amante cuerpo esté.</l>
+                  <l> Escríbeme a la tierra que yo te escribiré.</l>
+                  <l> Aunque bajo la tierra mi amante cuerpo esté.</l>
+               </lg>
+               <lg>
+                  <l> Cartas, relaciones, cartas:</l>
+                  <l> tarjetas postales, sueños, fragmentos de la ternura,</l>
+                  <l> proyectados en el cielo, lanzados de sangre a sangre</l>
+                  <l> y de deseo a deseo.</l>
+               </lg>
+               <lg>
+                  <l> Y aunque bajo la tierra mi amante cuerpo esté.</l>
+                  <l> Escríbeme a la tierra que yo te escribiré.</l>
+                  <l> Aunque bajo la tierra mi amante cuerpo esté.</l>
+               </lg>
+               <lg>
+                  <l> En un rincón enmudecen cartas viejas, sobres viejos,</l>
+                  <l> con el color de la edad sobre la escritura puesto.</l>
+                  <l> Allí perecen las cartas llenas de estremecimientos.</l>
+                  <l> Allí agoniza la tinta y desfallecen los pliegos,</l>
+                  <l> y el papel se agujerea como un breve cementerio</l>
+                  <l> de las pasiones de antes, de los amores de luego.</l>
+               </lg>
+               <lg>
+                  <l> Y aunque bajo la tierra mi amante cuerpo esté.</l>
+                  <l> Escríbeme a la tierra que yo te escribiré.</l>
+                  <l> Aunque bajo la tierra mi amante cuerpo esté.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg> </lg>
+            </lg>
+         </div>
+         <note xmlns="">Para esta musicalización, el autor toma del poema los seis primeros versos del poema
+            de Miguel Hernández, usando la estrofa «…Aunque bajo la tierra/mi amante cuerpo
+            esté/escríbeme a la tierra/que yo te escribiré…» a modo de estribillo de la canción,
+            repitiendo el primer verso al final del estribillo. El disco en donde encontramos la
+            canción, es una reedición de 2017 del disco homónimo de 2011. </note>
+      </body>
+   </text>
+</TEI>

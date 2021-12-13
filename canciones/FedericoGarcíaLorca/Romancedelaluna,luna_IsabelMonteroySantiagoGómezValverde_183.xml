@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romance de la luna, luna</title>
+            <author>Isabel Montero y Santiago Gómez Valverde</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>La palabra y el tiempo (vol. 1)</title>
+               <publisher>El Pescador de Estrellas</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://open.spotify.com/album/6NtcM7KmNMEhhPzWzpBaLv"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Isabel Montero y Santiago Gómez Valverde</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Romance de la luna, luna</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>La luna vino a la fragua</l>
+                  <l> con su polisón de nardos.</l>
+                  <l> El niño la mira mira.</l>
+                  <l> El niño la está mirando.</l>
+                  <l> En el aire conmovido</l>
+                  <l> mueve la luna sus brazos</l>
+                  <l> y enseña, lúbrica y pura,</l>
+                  <l> sus senos de duro estaño.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> La luna vino a la fragua</l>
+                  <l> con su polisón de nardos.</l>
+                  <l> Huye luna, luna, luna.</l>
+                  <l> Si vinieran los gitanos,</l>
+                  <l> harían con tu corazón</l>
+                  <l> collares y anillos blancos.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Niño, déjame que baile.</l>
+                  <l> Cuando vengan los gitanos,</l>
+                  <l> te encontrarán sobre el yunque</l>
+                  <l> con los ojillos cerrados.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> La luna vino a la fragua</l>
+                  <l> con su polisón de nardos.</l>
+                  <l> Huye luna, luna, luna,</l>
+                  <l> que ya siento sus caballos.</l>
+                  <l> Niño, déjame, no pises</l>
+                  <l> mi blancor almidonado.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> El jinete se acercaba</l>
+                  <l> tocando el tambor del llano.</l>
+                  <l> Dentro de la fragua el niño,</l>
+                  <l> tiene los ojos cerrados.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Por el olivar venían,</l>
+                  <l> bronce y sueño, los gitanos.</l>
+                  <l> Las cabezas levantadas</l>
+                  <l> y los ojos entornados.</l>
+                  <l> Cómo canta la zumaya,</l>
+                  <l> ¡ay como canta en el árbol!</l>
+                  <l> Por el cielo va la luna</l>
+                  <l> con un niño de la mano.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Dentro de la fragua lloran,</l>
+                  <l> dando gritos, los gitanos.</l>
+                  <l> El aire la vela, vela.</l>
+                  <l> el aire la está velando.</l>
+                  <l> Dentro de la fragua lloran,</l>
+                  <l> dando gritos, los gitanos.</l>
+                  <l> El aire la vela, vela.</l>
+                  <l> el aire la está velando.</l>
+                  <l> Dentro de la fragua lloran,</l>
+                  <l> dando gritos, los gitanos.</l>
+                  <l> El aire la vela, vela.</l>
+                  <l> el aire la está velando.</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio, a falta de buena fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Hubo varias musicalizaciones anteriores a 1975, por eso no recogidas en esta base de
+            datos: Gabriela Ortega (Federico García Lorca, 1958), Pepe Albaicín, “Romance de la
+            luna, luna” (Cante gitano por Pepe Albaicín, vol. II, 1963), Paco Ibáñez (España de hoy
+            y de siempre, 1964) y Nati Mistral (La maravillosa Natu Mistral, 1972). La principal
+            variación con el poema de Lorca es la repetición de los primeros dos versos intercalados
+            entre las primeras estrofas del poema y la repetición de los cuatro versos finales.
+        </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hijo de la luz y de la sombra</title>
+            <author>Joan Manuel Serrat</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Hijo de la luz y de la sombra (Miguel Hernández)</title>
+               <publisher>Sony Music</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=ZTDq-zo8qhU"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Joan Manuel Serrat</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Hijo de la luz y de la sombra</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Eres la noche, esposa: la noche en el instante</l>
+                  <l> mayor de su potencia lunar y femenina.</l>
+                  <l> Eres la medianoche: la sombra culminante</l>
+                  <l> donde culmina el sueño, donde el amor culmina.</l>
+               </lg>
+               <lg>
+                  <l> Daré sobre tu cuerpo cuando la noche arroje</l>
+                  <l> su avaricioso anhelo de imán y poderío.</l>
+                  <l> Un astral sentimiento febril me sobrecoge,</l>
+                  <l> incendia mi osamenta con un escalofrío.</l>
+               </lg>
+               <lg>
+                  <l> Eres la noche esposa, [verso x 3]</l>
+                  <l> yo soy el mediodía.</l>
+               </lg>
+               <lg>
+                  <l> La noche se ha encendido como una sorda hoguera</l>
+                  <l> de llamas minerales y oscuras embestidas.</l>
+                  <l> Y alrededor la sombra late como si fuera</l>
+                  <l> las almas de los pozos y el vino difundidas.</l>
+               </lg>
+               <lg>
+                  <l> Pide que nos echemos tú y yo sobre la manta,</l>
+                  <l> tú y yo sobre la luna, tú y yo sobre la vida.</l>
+                  <l> Pide que tú y yo ardamos fundiendo en la garganta,</l>
+                  <l> con todo el firmamento, la tierra estremecida.</l>
+               </lg>
+               <lg>
+                  <l> Eres la noche esposa, [verso x 3]</l>
+                  <l> yo soy el mediodía.</l>
+               </lg>
+               <lg>
+                  <l> Caudalosa mujer: en tu vientre me entierro.</l>
+                  <l> Tu caudaloso vientre será mi sepultura.</l>
+                  <l> Si quemaran mis huesos con la llama del hierro,</l>
+                  <l> verían qué grabada llevo allí tu figura.</l>
+               </lg>
+               <lg>
+                  <l> Con el amor a cuestas, dormidos y despiertos,</l>
+                  <l> seguiremos besándonos en el hijo profundo.</l>
+                  <l> Besándonos tú y yo se besan nuestros muertos,</l>
+                  <l> se besan los primeros pobladores del mundo.</l>
+               </lg>
+               <lg>
+                  <l> Eres la noche esposa, [verso x 3]</l>
+                  <l> yo soy el mediodía.</l>
+               </lg>
+               <lg>
+                  <l> Eres la noche esposa,</l>
+                  <l> yo soy el mediodía.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original; la puntuación y
+                    ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">En el poema de Miguel Hernández, hay tres secciones: (Hijo de la sombra), (Hijo de la
+            luz) e (Hijo de la luz y de la sombra). Joan Manuel Serrat escoge solo cuatro estrofas
+            de la primera sección y dos de la tercera sección, reduciendo considerablemente la
+            letra. A pesar de esta reducción, las estrofas seleccionadas son musicalizadas de manera
+            exacta, sin alteraciones textuales, y Serrat incluye como estribillo el último verso de
+            la primera y la segunda sección del poema: «Tú eres la noche, esposa. Yo soy el
+            mediodía». </note>
+      </body>
+   </text>
+</TEI>

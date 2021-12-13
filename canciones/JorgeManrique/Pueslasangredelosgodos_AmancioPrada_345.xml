@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pues la sangre de los godos</title>
+            <author>Amancio Prada</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Coplas a la muerte de su padre</title>
+               <publisher>Musicamaina</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=v9jL5lrLmQw"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Amancio Prada</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Jorge Manrique</persName>
+                  <bibl>Coplas por la muerte de su padre</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Pues la sangre de los godos,</l>
+                  <l> y el linaje y la nobleza</l>
+                  <l> tan crecida,</l>
+                  <l> ¡por cuántas vías y inodos</l>
+                  <l> se pierde su gran alteza</l>
+                  <l> en esta vida!</l>
+                  <l> Unos, por poco valer,</l>
+                  <l> ¡por cuán bajos y abatidos</l>
+                  <l> que los tienen!;</l>
+                  <l> otros que, por no tener,</l>
+                  <l> con oficios no debidos</l>
+                  <l> se mantienen.</l>
+               </lg>
+               <lg>
+                  <l> Los estados y riqueza,</l>
+                  <l> que nos dejen a deshora</l>
+                  <l> ¿quién lo duda?</l>
+                  <l> no les pidamos firmeza,</l>
+                  <l> pues son de una señora</l>
+                  <l> que se muda.</l>
+                  <l> Que bienes son de Fortuna</l>
+                  <l> que revuelven con su rueda</l>
+                  <l> presurosa,</l>
+                  <l> la cual no puede ser una</l>
+                  <l> ni estar estable ni queda</l>
+                  <l> en una cosa.</l>
+               </lg>
+               <lg>
+                  <l> Pero digo que acompañen</l>
+                  <l> y lleguen hasta la huesa</l>
+                  <l> con su dueño:</l>
+                  <l> por eso no nos engañen,</l>
+                  <l> pues se va la vida apriesa</l>
+                  <l> como sueño;</l>
+                  <l> y los deleites de acá</l>
+                  <l> son, en que nos deleitamos,</l>
+                  <l> temporales,</l>
+                  <l> y los tormentos de allá,</l>
+                  <l> que por ellos esperamos,</l>
+                  <l> eternales.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Todo el disco está dedicado a musicar las Coplas a la muerte de su padre de Jorge
+            Manrique. Esta canción abarca las coplas 9-11. </note>
+      </body>
+   </text>
+</TEI>

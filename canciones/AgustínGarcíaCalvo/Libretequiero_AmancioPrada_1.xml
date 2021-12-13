@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Libre te quiero</title>
+            <author>Amancio Prada</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Canciones de amor y celda</title>
+               <publisher>DRO/EastWest Spain</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=-co2rvhDO5o"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Amancio Prada</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Agustín García Calvo</persName>
+                  <bibl>Libre te quiero</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Libre te quiero,</l>
+                  <l> como arroyo que brinca</l>
+                  <l> de peña en peña,</l>
+                  <l> pero no mía.</l>
+                  <l> Grande te quiero,</l>
+                  <l> como monte preñado</l>
+                  <l> de primavera,</l>
+                  <l> pero no mía.</l>
+               </lg>
+               <lg>
+                  <l> Buena te quiero,</l>
+                  <l> como pan que no sabe</l>
+                  <l> su masa buena,</l>
+                  <l> pero no mía.</l>
+               </lg>
+               <lg>
+                  <l> Alta te quiero,</l>
+                  <l> como chopo que al cielo</l>
+                  <l> se despereza,</l>
+                  <l> se despereza,</l>
+                  <l> pero no mía.</l>
+               </lg>
+               <lg>
+                  <l> Blanca te quiero,</l>
+                  <l> como flor de azahares</l>
+                  <l> sobre la tierra,</l>
+                  <l> pero no mía.</l>
+               </lg>
+               <lg>
+                  <l> Pero no mía,</l>
+                  <l> ni de Dios, ni de nadie,</l>
+                  <l> ni tuya siquiera.</l>
+               </lg>
+               <lg>
+                  <l> Pero no mía,</l>
+                  <l> ni de Dios, ni de nadie,</l>
+                  <l> ni tuya siquiera.</l>
+               </lg>
+               <lg>
+                  <l> No, no, no, no, no,</l>
+                  <l> no mía.</l>
+                  <l> No, no, no, no, no,</l>
+                  <l> no, no, no, no,</l>
+                  <l> ni tuya.</l>
+                  <l> No, no, no, no, no,</l>
+                  <l> no mía.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Prácticamente sin variaciones respecto del poema, excepto que repite algunos versos,
+            cambia “que en el cielo” por “que al cielo” y añade al final una sucesión de noes.
+        </note>
+      </body>
+   </text>
+</TEI>

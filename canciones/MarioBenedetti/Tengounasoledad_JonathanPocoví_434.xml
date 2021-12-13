@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tengo una soledad</title>
+            <author>Jonathan Pocoví</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="ExtendedPlay(EP)">
+               <title>Todo lo que quiero</title>
+               <publisher>Ochogatos</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://music.youtube.com/watch?v=P4V74Af32PQ&amp;list=RDAMVMP4V74Af32PQ"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Jonathan Pocoví</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Mario Benedetti</persName>
+                  <bibl>Rostro de vos</bibl>
+                  <relation>Cita</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Tengo una soledad tan rematadamente concurrida</l>
+                  <l> que es imposible distinguir una salida.</l>
+                  <l> Es una soledad tan llena de tu nombre repetido</l>
+                  <l> que como no despeje pronto estoy perdido.</l>
+                  <l> Tengo una soledad que más que soledad es otra cosa:</l>
+                  <l> es un desfile de nostalgias que destroza.</l>
+                  <l> Es como tu talón bailando charlestón sobre mis sesos;</l>
+                  <l> un carnaval sin presupuesto para un beso.</l>
+               </lg>
+               <lg>
+                  <l> Yo ya quemé las naves,</l>
+                  <l> perdí mi buena estrella,</l>
+                  <l> fui náufrago en los bares</l>
+                  <l> y no hay mensajes en la botella.</l>
+               </lg>
+               <lg>
+                  <l> Una soledad que solo es divisible por tu boca.</l>
+                  <l> Una papeleta de felicidad que nunca toca</l>
+                  <l> (en honor a la verdad).</l>
+                  <l> Es una soledad que duele más</l>
+                  <l> que un golpe donde un golpe duele más</l>
+                  <l> y solamente se me pasa cuando estás.</l>
+               </lg>
+               <lg>
+                  <l> Ya me tragué las llaves,</l>
+                  <l> borré todas mis huellas,</l>
+                  <l> ya desclavé las claves.</l>
+                  <l> Si miro atrás ya no hay nada</l>
+               </lg>
+               <lg>
+                  <l> porque quemé las naves,</l>
+                  <l> perdí mi buena estrella,</l>
+                  <l> fui náufrago en los bares</l>
+                  <l> y no hay mensajes en la botella.</l>
+               </lg>
+               <lg>
+                  <l> Ya me tragué las llaves,</l>
+                  <l> borré todas mis huellas,</l>
+                  <l> ya desclavé las claves.</l>
+                  <l> Si miro atrás ya no hay nada</l>
+               </lg>
+               <lg>
+                  <l> porque quemé las naves,</l>
+                  <l> perdí mi buena estrella,</l>
+                  <l> fui náufrago en los bares</l>
+                  <l> y no hay mensajes en la botella.</l>
+               </lg>
+               <lg>
+                  <l> Ya me tragué las llaves,</l>
+                  <l> borré todas mis huellas,</l>
+                  <l> ya desclavé las claves.</l>
+                  <l> Si miro atrás ya no hay nada</l>
+               </lg>
+               <lg>
+                  <l> porque quemé las naves,</l>
+                  <l> perdí mi buena estrella,</l>
+                  <l> fui náufrago en los bares</l>
+                  <l> y no hay mensajes en la botella.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La letra de la canción es transcripción propia. Se toma el primer verso completo del
+            poema y se desarrolla. </note>
+      </body>
+   </text>
+</TEI>

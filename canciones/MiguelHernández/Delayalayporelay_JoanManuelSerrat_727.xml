@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Del ay al ay por el ay</title>
+            <author>Joan Manuel Serrat</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Hijo de la luz y de la sombra (Miguel Hernández)</title>
+               <publisher>Sony Music</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=f6Od4Bz20mo"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Joan Manuel Serrat</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Del ay al ay por el ay</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>¡Ay!</l>
+                  <l> Hijo soy del ay.</l>
+                  <l> Hijo soy del ay, mi hijo,</l>
+                  <l> hijo de su padre amargo.</l>
+                  <l> ¡Ay!</l>
+                  <l> Hijo soy del ay.</l>
+                  <l> En un ay fui concebido</l>
+                  <l> y en un ay fui engendrado.</l>
+               </lg>
+               <lg>
+                  <l> Del ay al ay, por el ay.</l>
+                  <l> En un ay puse a mi madre</l>
+                  <l> el vientre disparatado.</l>
+                  <l> Del ay al ay, por el ay.</l>
+                  <l> Iba la pobre —¡ay, qué peso!—</l>
+                  <l> con mi bulto suspirando.</l>
+               </lg>
+               <lg>
+                  <l> —¡Ay, que voy a malparir!</l>
+                  <l> ¡Ay, que voy a malograrlo!</l>
+                  <l> ¡Ay, que me apetece esto!</l>
+                  <l> ¡Ay, que aquello será malo!</l>
+                  <l> ¡Ay, que me duele la madre!</l>
+                  <l> ¡Ay, que no puedo llevarlo!</l>
+                  <l> ¡Ay, que se me rompe él dentro,</l>
+                  <l> ay, que él afuera! ¡Ay, que paro!</l>
+               </lg>
+               <lg>
+                  <l> En un ay nací: en un ay</l>
+                  <l> y en un ay, ¡ay!, fui criado.</l>
+                  <l> Del ay al ay, por el ay.</l>
+                  <l> Del ay al ay, por el ay,</l>
+                  <l> a un ay eterno he llegado.</l>
+               </lg>
+               <lg>
+                  <l> —¡Ay, que me arranca los pechos</l>
+                  <l> a pellizcos y a bocados!</l>
+                  <l> ¡Ay, que me deja sin sangre!</l>
+                  <l> ¡Ay, que me quiebra los brazos!</l>
+                  <l> ¡Ay, que mi amor y mi vida</l>
+                  <l> se quedan sin leche, exhaustos!</l>
+                  <l> ¡Ay, que enferma! ¡Ay, que suspira!</l>
+                  <l> ¡Ay, que me sale contrario!</l>
+               </lg>
+               <lg>
+                  <l> ¡Ay!</l>
+                  <l> Hijo soy del ay.</l>
+                  <l> Y ¡adiós!, el aire me dice</l>
+                  <l> cuando pasa por mi lado.</l>
+                  <l> ¡Ay!</l>
+                  <l> Hijo soy del ay.</l>
+               </lg>
+               <lg>
+                  <l> Sucias rachas tumban todas</l>
+                  <l> las cometas que levanto.</l>
+               </lg>
+               <lg>
+                  <l> Del ay al ay, por el ay.</l>
+                  <l> Del ay al ay, por el ay,</l>
+                  <l> a un ay eterno he llegado.</l>
+               </lg>
+               <lg>
+                  <l> Del ay al ay, por el ay,</l>
+                  <l> vivo en un ay, y en un ay</l>
+                  <l> moriré cuando haga caso.</l>
+               </lg>
+               <lg>
+                  <l> ¡Ay!, dirá, solo, mi huerto;</l>
+                  <l> ¡ay!, llorarán mis hermanos;</l>
+                  <l> ¡ay!, gritarán mis amigos,</l>
+                  <l> con un ay entre los labios,</l>
+                  <l> ¡ay, qué angustia! ¡Ay, qué dolor</l>
+                  <l> de cielos, mares y campos;</l>
+                  <l> de flores, montes y nieves;</l>
+                  <l> de ríos, voces y pájaros!</l>
+               </lg>
+               <lg>
+                  <l> Del ay al ay, por el ay,</l>
+                  <l> a un ay eterno he llegado.</l>
+                  <l> Vivo en un ay, y en un ay.</l>
+                  <l> Vivo en un ay, y en un ay</l>
+                  <l> moriré cuando haga caso.</l>
+                  <l> En un ay nací: en un ay</l>
+                  <l> y en un ay, ¡ay!, fui criado.</l>
+               </lg>
+               <lg>
+                  <l> Del ay al ay, por el ay,</l>
+                  <l> a un ay eterno he llegado.</l>
+                  <l> Del ay al ay, por el ay,</l>
+                  <l> vivo en un ay, y en un ay</l>
+                  <l> y a un ay eterno he llegado.</l>
+                  <l> Del ay al ay, por el ay.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Joan Manuel Serrat elije solo unos versos del largo poema de Miguel Hernández,
+            centrándose en el nacimiento, la maternidad y la muerte. </note>
+      </body>
+   </text>
+</TEI>

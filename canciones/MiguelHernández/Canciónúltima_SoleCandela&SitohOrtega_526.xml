@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Canción última</title>
+            <author>Sole Candela &amp; Sitoh Ortega</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Otros">
+               <title>La tierra callada</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target=""/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Sole Candela &amp; Sitoh Ortega</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Canción última</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>No se ha podido tener acceso a la letra.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Realmente, el trabajo en el que se encuentra la musicalización de este poema, no es un
+            disco en sí, sino una serie de actuaciones y eventos multidisciplinares de ambos
+            artistas que comienzan en 2017, pero cuyo última muestra podemos encontrar en 2021.
+            Aunque no aparece la musicalización de poema en cuestión, se puede ver una muestra de
+            estas actuaciones en la web del músico y fotógrafo Sitoh Ortega </note>
+      </body>
+   </text>
+</TEI>

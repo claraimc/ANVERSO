@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Parte II: Camina don Bueso</title>
+            <author>Lobera</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Maqueta/Demo">
+               <title>En una fría mañana</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://ulfvaldr.bandcamp.com/track/parte-ii-camina-don-bueso"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Heavy metal</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Lobera</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Romance de don Bueso «Una noche de torneos», «De las altas mares»</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Camina Don Bueso mañanita fría</l>
+                  <l> a tierras lejanas a buscar amiga.</l>
+                  <l> Sin que el sol llegara ni fuera de día,</l>
+                  <l> lavaba las ropas la tan blanca niña.</l>
+                  <l> Sobre su caballo que claro lucía,</l>
+                  <l> llegaba Don Bueso y así le decía:</l>
+                  <l> —Qué manos tan blancas en el agua fría,</l>
+                  <l> me parecen. niña, de una hermana mía.</l>
+                  <l> Si tú lo quisieras conmigo vendrías,</l>
+                  <l> sobre mi caballo yo te llevaría—.</l>
+                  <l> La hermosa cautiva así le decía:</l>
+                  <l> —¿Los paños del rey dónde quedarían?</l>
+                  <l> —Los que son de oro contigo vendrían,</l>
+                  <l> los que son de seda al río dejarías—.</l>
+                  <l> Montola al caballo como le placía,</l>
+                  <l> en todo el camino no hablaba la niña.</l>
+                  <l> Al pasar un campo de verdes olivas</l>
+                  <l> con muy grande llanto decía la niña:</l>
+                  <l> —Allí fui criada, allí fui nacida,</l>
+                  <l> soy hija de reyes, de noble familia,</l>
+                  <l> que yo no soy mora, ni serlo querría,</l>
+                  <l> soy castellana de moros cautiva.</l>
+                  <l> —Si eres castellana de moros cautiva,</l>
+                  <l> tú eres la mi hermana que tanto quería.</l>
+                  <l> ¡Abridme, mi madre, puertas y ventanas,</l>
+                  <l> que en lugar de nuera os traigo a mi hermana!</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">No encontramos una versión que coincida exactamente con la de la canción, que parece
+            combinar motivos y secciones de varias versiones: la que comienza «Una noche de
+            torneos», la que comienza «Camina don Bueso» y la que comienza «De las altas mares».  
+            Todo el disco está dedicado al tema de don Bueso por su relación con el Kudrun. Ya en
+            una demo anterior el artista había dedicado un tema instrumental al romance «Camiña don
+            Sancho» (Sin piedad, Autoeditado, 2018), precisamente titulada «El lamento de Kudrun».
+        </note>
+      </body>
+   </text>
+</TEI>

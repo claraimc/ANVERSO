@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Góngora</title>
+            <author>Hidrogenesse</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Gimnàstica passiva</title>
+               <publisher>Austrohúngaro</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=tk5jnzZvyig"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Electrónica</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Hidrogenesse</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Luis de Góngora</persName>
+                  <bibl>Fábula de Polifemo y Galatea</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>No a las palomas concedió Cupido</l>
+                  <l> juntar de sus dos picos los rubíes,</l>
+                  <l> cuando al clavel el joven atrevido,</l>
+                  <l> las dos hojas le chupa, carmesíes.</l>
+                  <l> Cuantas produce Pafo, engendra Gnido,</l>
+                  <l> negras vïolas, blancos alhelíes,</l>
+                  <l> llueven sobre el que Amor quiere que sea</l>
+                  <l> tálamo de Acis y de Galatea.</l>
+                  <l> Salamandria del sol, vestido estrellas,</l>
+                  <l> latiendo el Can del cielo estaba, cuando</l>
+                  <l> – polvo el cabello, húmidas centellas,</l>
+                  <l> si no ardientes aljófares sudando –</l>
+                  <l> llegó Acis; y de ambas luces bellas</l>
+                  <l> dulce occidente viendo al sueño blando,</l>
+                  <l> su boca dio, y sus ojos cuanto pudo,</l>
+                  <l> al sonoro cristal, al cristal mudo.</l>
+                  <l> No a las palomas concedió Cupido</l>
+                  <l> juntar de sus dos picos los rubíes,</l>
+                  <l> cuando al clavel el joven atrevido,</l>
+                  <l> las dos hojas le chupa, carmesíes.</l>
+                  <l> Cuantas produce Pafo, engendra Gnido,</l>
+                  <l> negras vïolas, blancos alhelíes,</l>
+                  <l> llueven sobre el que Amor quiere que sea</l>
+                  <l> tálamo de Acis y de Galatea.</l>
+                  <l> Salamandria del sol, vestido estrellas,</l>
+                  <l> latiendo el Can del cielo estaba, cuando</l>
+                  <l> – polvo el cabello, húmidas centellas,</l>
+                  <l> si no ardientes aljófares sudando –</l>
+                  <l> llegó Acis; y de ambas luces bellas</l>
+                  <l> dulce occidente viendo al sueño blando,</l>
+                  <l> su boca dio, y sus ojos cuanto pudo,</l>
+                  <l> al sonoro cristal, al cristal mudo.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización de las estrofas XLII y XXIV de la Fábula de Polifemo y Galatea de Luis
+            de Góngora. </note>
+      </body>
+   </text>
+</TEI>

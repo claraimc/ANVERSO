@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>España 1936-1938</title>
+            <author>Miguel López</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Tributo Poético</title>
+               <publisher>La Voz del Flamenco</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/Bqg93auJCtg"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Miguel López</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>18 de julio 1936, 18 de julio 1938</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l/>
+               </lg>
+               <lg>
+                  <l> Es sangre, no granizo, lo que azota mis sienes.</l>
+                  <l> Son dos años de sangre: son dos inundaciones.</l>
+                  <l> Sangre de acción solar, devoradora vienes,</l>
+                  <l> hasta dejar sin aire y hundidos los balcones.</l>
+               </lg>
+               <lg>
+                  <l> Sangre que es el mejor de los mejores bienes.</l>
+                  <l> Sangre que atesoraba para el amor sus dones.</l>
+                  <l> Vedla enturbiando mares, sobrecogiendo trenes,</l>
+                  <l> desalentando toros donde alentó leones.</l>
+               </lg>
+               <lg>
+                  <l> El tiempo es sangre. El tiempo circula por mis venas.</l>
+                  <l> Y ante el reloj y el odio me siento más que herido,</l>
+                  <l> y oigo un chocar de sangres de todos los tamaños.</l>
+               </lg>
+               <lg>
+                  <l> Sangre donde se puede bañar la muerte apenas:</l>
+                  <l> fulgor emocionante que no ha palidecido,</l>
+                  <l> porque lo recogieron mis ojos de mil años.</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Sangre que es el mejor de los mejores bienes.</l>
+                  <l> Sangre que atesoraba para el amor sus dones.</l>
+                  <l> Vedla enturbiando mares, sobrecogiendo trenes,</l>
+                  <l> desalentando toros donde alentó leones.</l>
+               </lg>
+               <lg>
+                  <l> Vedla enturbiando mares, sobrecogiendo trenes,</l>
+                  <l> desalentando toros donde alentó leones.</l>
+               </lg>
+               <lg>
+                  <l> Vedla enturbiando mares, sobrecogiendo trenes,</l>
+                  <l> desalentando toros donde alentó leones.</l>
+               </lg>
+               <lg>
+                  <l> Vedla enturbiando mares, sobrecogiendo trenes,</l>
+                  <l> desalentando toros donde alentó leones.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg> </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta canción supone una musicalización del poema con letra casi idéntica. solo se
+            cambian palabras en algunos versos, a saber: «…sin aire y hundidos los balcones…» en vez
+            de «…sin nadie y ahogados los balcones…», en la primera estrofa; o «…Y ante el reloj y
+            el odio alba me siento más que herido…», en vez de «…Y ante el reloj y el alba me siento
+            más que herido…». Además, usa la segunda estrofa del poema como estribillo de la canción
+            (repitiéndola dos veces) y sus dos últimos versos para dar dramatismo al final de la
+            misma (repitiéndola hasta 4 veces). </note>
+      </body>
+   </text>
+</TEI>

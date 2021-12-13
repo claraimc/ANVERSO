@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Para qué es, dama, tanto quereros</title>
+            <author>Amancio Prada</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Del amor que quita el sueño (Romances y canciones desde el Reino de León)</title>
+               <publisher>Musicamaina</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=mRGzKiARM7E"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Amancio Prada</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Para qué es, dama, tanto quereros</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>¿Para qué es dama, tanto quereros?</l>
+                  <l> ¿Para qué es dama, tanto quereros?</l>
+                  <l> Para perderme y a vos perderos:</l>
+               </lg>
+               <lg>
+                  <l> Para perderme y a vos perderos,</l>
+                  <l> más valiera nunca veros.</l>
+               </lg>
+               <lg>
+                  <l> Para perderme y a vos perderos.</l>
+               </lg>
+               <lg>
+                  <l> Para perderme y a vos perderos,</l>
+                  <l> más valiera nunca veros.</l>
+               </lg>
+               <lg>
+                  <l> Para perderme y a vos perderos.</l>
+               </lg>
+               <lg>
+                  <l> Para perderos.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Adaptación fiel desde el punto de vista del texto pero que juega con la repetición.  
+            Como señala el subtítulo del álbum, todo él está dedicado a piezas de la lírica
+            castellana medieval y temprano-moderna. </note>
+      </body>
+   </text>
+</TEI>

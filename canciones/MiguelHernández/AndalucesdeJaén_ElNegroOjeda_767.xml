@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Andaluces de Jaén</title>
+            <author>El Negro Ojeda</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Bellas Artes, ¡al fin!</title>
+               <publisher>Discos Pueblo</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=rhbc6vmCNCU"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>El Negro Ojeda</persName>
+                  <nationality>México</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Aceituneros</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>sobre tus piedras lunares,</l>
+                  <l> no vayas a ser esclava</l>
+                  <l> con todos tus olivares.</l>
+                  <l> Andaluces de Jaén.</l>
+               </lg>
+               <lg>
+                  <l> Andaluces de Jaén.</l>
+                  <l> Andaluces de Jaén.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Las primeras musicalizaciones conocidas de “Aceituneros” son de Paco Ibáñez (Paco
+            Ibáñez 2, 1967), Pablo Sorozábal Serrano (Cantos de amor y lucha. Cantos de amor y paz,
+            1969) y Enrique Morente (Homenaje flamenco a Miguel Hernández, 1971, solo en la edición
+            de México; no está en la edición española). Ninguna de estas versiones está en esta base
+            de datos, por ser anteriores a 1975. Esta canción de El Negro Ojeda es una versión
+            basada en la de Paco Ibáñez. </note>
+      </body>
+   </text>
+</TEI>

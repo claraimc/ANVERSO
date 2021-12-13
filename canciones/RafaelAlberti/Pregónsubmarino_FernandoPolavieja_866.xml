@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pregón submarino</title>
+            <author>Fernando Polavieja</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Marinero en tierra (Fernando Polavieja canta a Rafael Alberti)</title>
+               <publisher>Carnalu</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=O0c1CaQZNBs"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+               <term>Latina</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Fernando Polavieja</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <bibl>Pregón submarino</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>¡Tan bien como yo estaría</l>
+                  <l> en una huerta del mar,</l>
+                  <l> contigo, hortelana mía!</l>
+                  <l> ¡hortelana mía!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> En un carrito, tirado</l>
+                  <l> por un salmón, ¡qué alegría</l>
+                  <l> vender bajo el mar salado,</l>
+                  <l> amor, tu mercadería!</l>
+                  <l> ¡tu mercadería!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Algas frescas de la mar,</l>
+                  <l> algas, algas!</l>
+                  <l> ¡algas, algas!</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original; la puntuación y
+                    ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Hubo una musicalización anterior a 1975, por eso no recogida en esta base de datos:
+            Alfredo Arrebola (Cante a los poemas “Marinero en tierra” de Rafael Alberti, 1973).
+            Musicalización idéntica a excepción de la repetición de las últimas palabras de los
+            versos finales de estrofa. </note>
+      </body>
+   </text>
+</TEI>

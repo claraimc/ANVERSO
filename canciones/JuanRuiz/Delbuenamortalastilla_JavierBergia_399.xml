@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Del buen amor tal astilla</title>
+            <author>Javier Bergia</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Tagomago</title>
+               <publisher>Dro</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=JKUBhs09oWg"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Javier Bergia</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Juan Ruiz</persName>
+                  <bibl>Aquí dise de cómo fue fablar con doña Endrina el arçipreste (Libro de buen
+                amor)</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Ay, cuan fermosa viene Doña Elvira por la plaza,</l>
+                  <l> que talle, que donaire, que alto cuello de garza,</l>
+                  <l> que cabellos, que boquilla, que color, que buena danza.</l>
+               </lg>
+               <lg>
+                  <l> Pero, tal lugar non era para fablar en amores;</l>
+                  <l> a mí, luego, me vinieron muchos miedos e temblores.</l>
+                  <l> Los mis pies e las mis manos non eran de si señores;</l>
+                  <l> perdí seso, perdí fuerza mudaronse mis colores.</l>
+               </lg>
+               <lg>
+                  <l> Fablar con mujer en plaza es cosa muy descobierta</l>
+                  <l> porque, a veces, mal atado está el perro trás la puerta.</l>
+                  <l> La buhona con harnero va tañendo cascabeles</l>
+                  <l> y menando de sus joyas sortijas con alheleles.</l>
+               </lg>
+               <lg>
+                  <l> Abaxe más la palabra, dixel quen juego fablaba</l>
+                  <l> porque tot aquella gente de la plaza nos miraba.</l>
+                  <l> Comenzé a decir mi quexa del amor que me afincaba.</l>
+               </lg>
+               <lg>
+                  <l> Con la gran pena que paso vengo vos decir mi quexa;</l>
+                  <l> vuestro amor e deseo que me afinca, que me aquexa.</l>
+                  <l> Non me tira, non me parte, non me suelta, non me dexa.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Versión bastante conservadora de las cuadernas 653-654; 656a y b; 723a y b; 659a, b y
+            d; 662a, b y c, en ese orden. </note>
+      </body>
+   </text>
+</TEI>

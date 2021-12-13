@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Me quedaré en España</title>
+            <author>Manuel Argudín</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>No estoy tan mal (A guitarra limpia)</title>
+               <publisher>A Guitarra Limpia (Centro Pablo) y SGAE</publisher>
+               <date cert="low"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/SXu-XDEO9aM"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Manuel Argudín</persName>
+                  <nationality>Cuba</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Elegía segunda (A Pablo de la Torriente, comisario político)</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>“Me quedaré en España, compañero”,</l>
+                  <l> me dijiste con gesto enamorado.</l>
+                  <l> Y al fin sin tu edificio trotante de guerrero</l>
+                  <l> en la hierba de España te has quedado.</l>
+               </lg>
+               <lg>
+                  <l> De una forma vestida de preclara</l>
+                  <l> has perdido las plumas y los besos,</l>
+                  <l> con el sol español puesto en la cara</l>
+                  <l> y el de Cuba en los huesos.</l>
+               </lg>
+               <lg>
+                  <l> Ante Pablo los días se abstienen ya y no andan.</l>
+                  <l> No temáis que se extinga su sangre sin objeto,</l>
+                  <l> porque éste es de los muertos que crecen y se agrandan</l>
+                  <l> aunque el tiempo devaste su gigante esqueleto.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Este tema es una versión del original de Silvio Rodríguez que musicalizó el poema de
+            Miguel Hernández usando, únicamente, las estrofas primera, octava y decimoprimera. Esta
+            canción forma un parte de un disco que recoge grabaciones de conciertos en directo
+            realizadas por varios artistas cubanos en el centro cultural Pablo de la Torriente Brau
+             en La habana (Cuba). Estos conciertos se enmarcan dentro del proyecto guitarra limpia y
+            tuvieron lugar en dicho espacio en 1999 y 2000; siendo finalmente puestos en formato
+            disco en 2007. Esta canción ha sido, así mismo, interpretada por otro artistas cubanos
+            en este mismo espacio cultural: Dúo Jatet y Quincoso (2005). Heidi Igualada (2001).
+        </note>
+      </body>
+   </text>
+</TEI>

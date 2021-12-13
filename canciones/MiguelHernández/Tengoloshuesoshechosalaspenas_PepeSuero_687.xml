@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tengo los huesos hechos a las penas</title>
+            <author>Pepe Suero</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Recuerdos de niños</title>
+               <publisher>Ediciones Senador</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/5hwgQNQs5jA"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Pop</term>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Pepe Suero</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Tengo estos huesos hechos de penas]</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Tengo estos huesos hechos a las penas</l>
+                  <l> y a las cavilaciones estas sienes:</l>
+                  <l> pena que vas, cavilación que vienes</l>
+                  <l> como el mar de la playa a las arenas.</l>
+               </lg>
+               <lg>
+                  <l> Como el mar de la playa a las arenas,</l>
+                  <l> voy en este naufragio de vaivenes.</l>
+                  <l> por una noche oscura de sartenes</l>
+                  <l> redondas, pobres, tristes y morenas.</l>
+               </lg>
+               <lg>
+                  <l> Nadie me salvará de este naufragio</l>
+                  <l> si no es tu amor, la tabla que procuro,</l>
+                  <l> si no es tu voz, el norte que pretendo.</l>
+               </lg>
+               <lg>
+                  <l> Eludiendo por eso el mal presagio</l>
+                  <l> de que ni en ti siquiera habré seguro,</l>
+                  <l> voy entre pena y pena sonriendo.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización  idéntica del poema, el cual repite dos veces.
+        </note>
+      </body>
+   </text>
+</TEI>

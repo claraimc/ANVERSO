@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Barco negro</title>
+            <author>María Eva Albistur</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Insomne</title>
+               <publisher>Nueva Dirección en la Cultura</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/8IqMpaXg2cg"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Jazz</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>María Eva Albistur</persName>
+                  <nationality>Argentina</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Cada vez más presente]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Cada vez más ausente.</l>
+                  <l> Como si un tren lejano</l>
+                  <l> te llevara más lejos.</l>
+               </lg>
+               <lg>
+                  <l> Como si un negro barco negro.</l>
+                  <l> Como si un negro barco.</l>
+                  <l> Como si un negro barco negro.</l>
+               </lg>
+               <lg>
+                  <l> Cada vez más presente.</l>
+                  <l> Como si un tren lejano</l>
+                  <l> recorriera mi pecho.</l>
+               </lg>
+               <lg>
+                  <l> Como si un tierno barco tierno.</l>
+                  <l> Como si un tierno barco .</l>
+                  <l> Como si un tierno barco tierno.</l>
+               </lg>
+               <lg>
+                  <l> Cada vez más presente.</l>
+                  <l> Como si un tren lejano</l>
+                  <l> recorriera mi pecho.</l>
+               </lg>
+               <lg>
+                  <l> Como si un negro barco negro.</l>
+                  <l> Como si un negro barco.</l>
+                  <l> Como si un negro barco negro.</l>
+               </lg>
+               <lg>
+                  <l> Como si un tierno barco tierno.</l>
+                  <l> Como si un negro barco.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar al poema de Miguel Hernández. El autor
+            de la canción omite la primera estrofa y utiliza la segunda, repitiéndola y modificando
+            algunos versos. Por otro lado, usa la tercera estrofa, «…Como si un negro barco/barco
+            negro…», a modo de estribillo de la canción (alternando «negro» por «tierno» dos de cada
+            cuatro veces). </note>
+      </body>
+   </text>
+</TEI>

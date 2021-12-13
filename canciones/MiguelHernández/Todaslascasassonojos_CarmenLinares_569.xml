@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Todas las casas son ojos</title>
+            <author>Carmen Linares</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Verso a verso (Canta a Miguel Hernández)</title>
+               <publisher>Salobre</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/2szW8wut2qc"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Carmen Linares</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Todas las casas son ojos]</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l/>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Todas las casas son ojos</l>
+               </lg>
+               <lg>
+                  <l> que resplandecen y acechan.</l>
+               </lg>
+               <lg>
+                  <l> Todas las casas son bocas</l>
+                  <l> que escupen, muerden y besan.</l>
+               </lg>
+               <lg>
+                  <l> Todas las casas son brazos</l>
+                  <l> que se empujan y se estrechan.</l>
+               </lg>
+               <lg>
+                  <l> De todas las casas salen</l>
+                  <l> soplos de sombra y de selva.</l>
+               </lg>
+               <lg>
+                  <l> En todas hay un clamor</l>
+                  <l> de sangres insatisfechas.</l>
+               </lg>
+               <lg>
+                  <l> Y a un grito todas las casas</l>
+                  <l> se asaltan y se despueblan.</l>
+                  <l> Y a un grito todas se aplacan,</l>
+                  <l> y se fecundan, y esperan.</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización idéntica del poema de Miguel Hernández. </note>
+      </body>
+   </text>
+</TEI>

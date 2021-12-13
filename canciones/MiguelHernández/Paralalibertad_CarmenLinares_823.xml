@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Para la libertad</title>
+            <author>Carmen Linares</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Verso a verso (Canta a Miguel Hernández)</title>
+               <publisher>Salobre</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://music.youtube.com/watch?v=710DtGnE_Q8&amp;list=RDAMVM710DtGnE_Q8"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Carmen Linares</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>El herido</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Para la libertad sangro, lucho y pervivo.</l>
+                  <l> Para la libertad, para la libertad, mis ojos y mis manos,</l>
+                  <l> como un árbol carnal, generoso y cautivo,</l>
+                  <l> doy a los cirujanos.</l>
+                  <l> Para la libertad.</l>
+               </lg>
+               <lg>
+                  <l> Para la libertad, siento más corazones</l>
+                  <l> que arenas en mi pecho dan espuma a mis venas;</l>
+                  <l> y entro en los hospitales, y entro en los algodones,</l>
+                  <l> como en las azucenas.</l>
+                  <l> Para la libertad, para la libertad.</l>
+               </lg>
+               <lg>
+                  <l> Porque donde unas cuencas vacías amanezcan,</l>
+                  <l> ella pondrá dos piedras de futura mirada,</l>
+                  <l> y hará que nuevos brazos y nuevas piernas crezcan</l>
+                  <l> en la carne talada.</l>
+                  <l> Retoñaran aladas de savia sin otoño,</l>
+                  <l> reliquias de mi cuerpo que pierdo en cada herida;</l>
+                  <l> porque soy como el árbol talado que retoño:</l>
+                  <l> aún tengo la vida.</l>
+               </lg>
+               <lg>
+                  <l> Para la libertad sangro, lucho y pervivo.</l>
+                  <l> Para la libertad, para la libertad, mis ojos y mis manos,</l>
+                  <l> como un árbol carnal, generoso y cautivo,</l>
+                  <l> doy a los cirujanos.</l>
+                  <l> Para la libertad, para la libertad.</l>
+               </lg>
+               <lg>
+                  <l> Siento más corazones</l>
+                  <l> que arenas en mi pecho dan espuma a mis venas;</l>
+                  <l> y entro en los hospitales, y entro en los algodones,</l>
+                  <l> como en las azucenas.</l>
+                  <l> Para la libertad, para la libertad.</l>
+               </lg>
+               <lg>
+                  <l> Porque donde unas cuencas vacías amanezcan,</l>
+                  <l> ella pondrá dos piedras de futura mirada,</l>
+                  <l> y hará que nuevos brazos y nuevas piernas crezcan</l>
+                  <l> en la carne talada.</l>
+                  <l> Retoñaran aladas de savia sin otoño,</l>
+                  <l> reliquias de mi cuerpo que pierdo en cada herida;</l>
+                  <l> porque soy como el árbol talado que retoño:</l>
+                  <l> aún tengo la vida.</l>
+               </lg>
+               <lg>
+                  <l> Para la libertad, para la libertad, para la libertad.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Se usa la segunda parte del poema El herido de Miguel Hernández. </note>
+      </body>
+   </text>
+</TEI>

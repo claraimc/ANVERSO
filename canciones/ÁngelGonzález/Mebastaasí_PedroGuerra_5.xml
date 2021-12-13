@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Me basta así</title>
+            <author>Pedro Guerra</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>La palabra en el aire</title>
+               <publisher>El Europeo Música</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=UeliUuFluIo"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Pedro Guerra</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Ángel González</persName>
+                  <bibl>Me basta así</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Si yo fuese Dios</l>
+                  <l> y tuviese el secreto,</l>
+                  <l> haría</l>
+                  <l> un ser exacto a ti;</l>
+                  <l> lo probaría</l>
+                  <l> (a la manera de los panaderos</l>
+                  <l> cuando prueban el pan, es decir:</l>
+                  <l> con la boca),</l>
+                  <l> y si ese sabor fuese</l>
+                  <l> igual al tuyo, o sea</l>
+                  <l> tu mismo olor, y tu manera</l>
+                  <l> de sonreír,</l>
+                  <l> y de guardar silencio,</l>
+                  <l> y de estrechar mi mano estrictamente,</l>
+                  <l> y de besarnos sin hacernos daño</l>
+                  <l> —de esto sí estoy seguro: pongo</l>
+                  <l> tanta atención cuando te beso—;</l>
+                  <l> entonces,</l>
+                  <l> si yo fuese Dios,</l>
+                  <l> podría repetirte y repetirte,</l>
+                  <l> siempre la misma y siempre diferente,</l>
+                  <l> sin cansarme jamás del juego idéntico,</l>
+                  <l> sin desdeñar tampoco la que fuiste</l>
+                  <l> por la que ibas a ser dentro de nada;</l>
+                  <l> ya no sé si me explico, pero quiero</l>
+                  <l> aclarar que si yo fuese</l>
+                  <l> Dios, haría</l>
+                  <l> lo posible por ser Ángel González</l>
+                  <l> para quererte tal como te quiero,</l>
+                  <l> para aguardar con calma</l>
+                  <l> a que te crees tú misma cada día,</l>
+                  <l> a que sorprendas todas las mañanas</l>
+                  <l> la luz recién nacida con tu propia</l>
+                  <l> luz, y corras</l>
+                  <l> la cortina impalpable que separa</l>
+                  <l> el sueño de la vida,</l>
+                  <l> resucitándome con tu palabra,</l>
+                  <l> Lázaro alegre,</l>
+                  <l> yo,</l>
+                  <l> mojado todavía</l>
+                  <l> de sombras y pereza,</l>
+                  <l> sorprendido y absorto</l>
+                  <l> en la contemplación de todo aquello</l>
+                  <l> que, en unión de mí mismo,</l>
+                  <l> recuperas y salvas, mueves, dejas</l>
+                  <l> abandonado cuando —luego— callas…</l>
+                  <l> (Escucho tu silencio.</l>
+                  <l> Oigo</l>
+                  <l> constelaciones: existes.</l>
+                  <l> Creo en ti.</l>
+                  <l> Eres.</l>
+                  <l> Me basta.)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción musicaliza el poema original sin alteraciones textuales, excepto que se
+            repiten algunos versos. Mientras Pedro Guerra canta algunas partes de la letra, otras
+            las recita el propio Ángel González, con la música de fondo. </note>
+      </body>
+   </text>
+</TEI>

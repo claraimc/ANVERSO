@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Llegó con tres heridas</title>
+            <author>Carmen Linares</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Verso a verso (Canta a Miguel Hernández)</title>
+               <publisher>Salobre</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://music.youtube.com/watch?v=laliu-XJdIg&amp;list=RDAMVMlaliu-XJdIg"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Carmen Linares</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Llegó con tres heridas]</bibl>
+                  <relation>Cita</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Llegó con tres heridas:</l>
+                  <l> la del amor,</l>
+                  <l> la de la muerte,</l>
+                  <l> la de la vida.</l>
+               </lg>
+               <lg>
+                  <l> Con tres heridas viene:</l>
+                  <l> la de la vida,</l>
+                  <l> la del amor,</l>
+                  <l> la de la muerte.</l>
+               </lg>
+               <lg>
+                  <l> Con tres heridas yo:</l>
+                  <l> la de la vida,</l>
+                  <l> la de la muerte,</l>
+                  <l> la del amor.</l>
+               </lg>
+               <lg>
+                  <l> Con tres heridas yo:</l>
+                  <l> la de la vida,</l>
+                  <l> la de la muerte,</l>
+                  <l> la del amor.</l>
+               </lg>
+               <lg>
+                  <l> Llegó con tres heridas:</l>
+                  <l> la del amor,</l>
+                  <l> la de la muerte,</l>
+                  <l> la de la vida.</l>
+               </lg>
+               <lg>
+                  <l> Con tres heridas viene:</l>
+                  <l> la de la vida,</l>
+                  <l> la del amor,</l>
+                  <l> la de la muerte.</l>
+               </lg>
+               <lg>
+                  <l> Con tres heridas yo:</l>
+                  <l> la de la vida,</l>
+                  <l> la de la muerte,</l>
+                  <l> la del amor.</l>
+               </lg>
+               <lg>
+                  <l> Con tres heridas yo:</l>
+                  <l> la de la vida,</l>
+                  <l> la de la muerte,</l>
+                  <l> la del amor.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns=""/>
+      </body>
+   </text>
+</TEI>

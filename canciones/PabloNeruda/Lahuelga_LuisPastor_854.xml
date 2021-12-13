@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La huelga</title>
+            <author>Luis Pastor</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Otros">
+               <title>Piedra de Sol</title>
+               <publisher>52 PM</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://music.youtube.com/watch?v=SiJgl5gvYvI&amp;list=RDAMVMSiJgl5gvYvI "/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Luis Pastor</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Pablo Neruda</persName>
+                  <bibl>La huelga</bibl>
+                  <relation>Influencia</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Extraña era la fábrica inactiva</l>
+                  <l> un silencio en la planta,</l>
+                  <l> una distancia</l>
+                  <l> entre máquina y hombre,</l>
+                  <l> como un hilo</l>
+                  <l> cortado entre planetas, un vacío</l>
+                  <l> de las manos del hombre</l>
+                  <l> que consumen</l>
+                  <l> el tempo construyendo</l>
+                  <l> y las desnudas</l>
+                  <l> estancias sin trabajo</l>
+                  <l> y sin sonido.</l>
+               </lg>
+               <lg>
+                  <l> Cuando el hombre dejó</l>
+                  <l> las madrigueras</l>
+                  <l> de la turbina, cuando desprendió</l>
+                  <l> los brazos de la hoguera</l>
+                  <l> y decayeron</l>
+                  <l> las entrañas del horno,</l>
+                  <l> cuando sacó los ojos</l>
+                  <l> de la rueda y la luz vertiginosa</l>
+                  <l> se detuvo en su círculo invisible</l>
+                  <l> de todos los poderes poderosos,</l>
+                  <l> de los círculos puros de potencia,</l>
+                  <l> de la energía sobrecogedora,</l>
+                  <l> quedó un montón de inútiles aceros</l>
+                  <l> y en las salas sin hombres,</l>
+                  <l> el aire viudo,</l>
+                  <l> el solitario aroma del aceite.</l>
+               </lg>
+               <lg>
+                  <l> Nada existía sin aquel</l>
+                  <l> fragmento golpeado,</l>
+                  <l> sin el hombre de ropa desgarrada,</l>
+                  <l> sin Ramírez, sin Antonio,</l>
+                  <l> sin Patiño, sin Suárez.</l>
+                  <l> Nada existía,</l>
+                  <l> Sin aquel fragmento golpeado,</l>
+                  <l> Sin el hombre de ropa desgarrada,</l>
+                  <l> Sin el hombre</l>
+                  <l> Sin el hombre.</l>
+               </lg>
+               <lg>
+                  <l> [Se advierten algunas palabras y murmullos no identificables]</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio; a falta de fuente escrita, la
+                    puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción toma el título del poema, y comparte con el mismo la temática de la huelga.
+            Esta canción también se puede encontrar en La palabra más tuya cantando a Pablo Neruda,
+            un CD de Iberautor Promociones Culturales (2006). </note>
+      </body>
+   </text>
+</TEI>

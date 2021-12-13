@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Explico algunas cosas</title>
+            <author>Puagh</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>¿Quién pondrá fin a toda esta locura?</title>
+               <publisher>Potencial Hardcore</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=mGCEitsOZs8"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Punk y punk-rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Puagh</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Pablo Neruda</persName>
+                  <bibl>Explico algunas cosas</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Os voy a contar todo lo que me pasa:</l>
+                  <l> Yo vivía en un barrio de Madrid,</l>
+                  <l> con campanas,</l>
+                  <l> con relojes y con árboles.</l>
+                  <l> Desde allí se veía</l>
+                  <l> el rostro seco de Castilla,</l>
+                  <l> como un océano de cuero.</l>
+                  <l> Mi casa, era llamada</l>
+                  <l> la casa de las flores,</l>
+                  <l> estallaban geranios</l>
+                  <l> por todas partes.</l>
+                  <l> Era una bella casa,</l>
+                  <l> con perros y con chiquillos.</l>
+                  <l> Y una mañana,</l>
+                  <l> todo estaba ardiendo.</l>
+                  <l> Y una mañana, las hogueras</l>
+                  <l> salían de la tierra,</l>
+                  <l> devorando seres,</l>
+                  <l> y desde entonces,</l>
+                  <l> desde entonces la sangre.</l>
+               </lg>
+               <lg>
+                  <l> Bandidos,</l>
+                  <l> aviones y legionarios,</l>
+                  <l> bandidos,</l>
+                  <l> con sortijas y duquesas,</l>
+                  <l> bandidos,</l>
+                  <l> frailes negros bendiciendo,</l>
+                  <l> venían por el cielo</l>
+                  <l> a matar niños</l>
+                  <l> y por las calles la sangre de los niños</l>
+                  <l> corría simplemente,</l>
+                  <l> como sangre de niños.</l>
+               </lg>
+               <lg>
+                  <l> Generales traidores:</l>
+                  <l> Mirad mi casa muerta.</l>
+                  <l> Pero de cada casa muerta,</l>
+                  <l> sale metal ardiendo,</l>
+                  <l> pero de cada niño muerto</l>
+                  <l> sale un fusil con ojos</l>
+                  <l> que os hallaran un día</l>
+                  <l> el sitio del corazón.</l>
+               </lg>
+               <lg>
+                  <l> Venid a ver</l>
+                  <l> la sangre por las calles.</l>
+                  <l> Venid a ver</l>
+                  <l> la sangre por las calles.</l>
+                  <l> Calles.</l>
+                  <l> Sangre.</l>
+                  <l> Sangre.</l>
+                  <l> Calles.</l>
+                  <l> Calles.</l>
+                  <l> Sangre.</l>
+                  <l> Sangre.</l>
+                  <l> Venid a ver</l>
+                  <l> la sangre por las calles.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Solamente escoge algunos versos del poema original. </note>
+      </body>
+   </text>
+</TEI>

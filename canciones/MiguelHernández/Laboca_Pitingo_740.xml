@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La boca</title>
+            <author>Pitingo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Los flamencos cantan a Miguel Hernández: Para la libertad</title>
+               <publisher>Universal y Ekiyoo</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=xZAx1QMvJag"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Pitingo</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[La boca]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>¡Ay! ¡Ay!</l>
+               </lg>
+               <lg>
+                  <l> Boca que arrastra mi boca:</l>
+                  <l> boca que me has arrastrado.</l>
+                  <l> Boca que arrastra mi boca:</l>
+                  <l> boca que vienes de lejos</l>
+                  <l> a iluminarme de rayos.</l>
+                  <l> Boca que arrastra mi boca.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Alba que das a mis noches</l>
+                  <l> un resplandor rojo y blanco.</l>
+                  <l> Boca poblada de bocas:</l>
+                  <l> pájaro lleno de pájaros. [Estrofa x 3]</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización de solo los primeros versos del romance, repitiendo alguno de ellos.
+            Hubo una primera musicalización de Joan Manuel Serrat (Miguel Hernández, 1972), pero, al
+            ser anterior a 1975, no está recogida en esta base de datos. </note>
+      </body>
+   </text>
+</TEI>

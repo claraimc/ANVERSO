@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Déjame que me vaya (Bulerías)</title>
+            <author>Calixto Sánchez</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Andando el camino</title>
+               <publisher>Ediciones Selene</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://music.youtube.com/watch?v=AncIZ52Pa5s&amp;list=OLAK5uy_nlkmnfm0gaVyFeZQgyH5LMrUnrIaTe2Uo"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Calixto Sánchez</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Llegó con tres heridas]</bibl>
+                  <relation>Serio</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Todas la primaveras</l>
+                  <l> tiene Sevilla,</l>
+                  <l> una nueva tonada</l>
+                  <l> por seguiriyas,</l>
+                  <l> por seguiriyas.</l>
+                  <l> Torerillo en Triana</l>
+                  <l> frente a Sevilla,</l>
+                  <l> cantando a tu sultana,</l>
+                  <l> tu seguiriya,</l>
+                  <l> tu seguiriya,</l>
+                  <l> tu seguiriya.</l>
+               </lg>
+               <lg>
+                  <l> Déjame que me vaya,</l>
+                  <l> madre, a la guerra.</l>
+                  <l> Déjame, blanca hermana,</l>
+                  <l> novia morena,</l>
+                  <l> novia morena.</l>
+                  <l> Y después que me vaya</l>
+                  <l> junto a las balas,</l>
+                  <l> mándame a la trinchera</l>
+                  <l> besos y cartas,</l>
+                  <l> besos y cartas,</l>
+                  <l> besos y cartas.</l>
+               </lg>
+               <lg>
+                  <l> Llegó con tres heridas,</l>
+                  <l> la del amor,</l>
+                  <l> la de muerta,</l>
+                  <l> la de vida.</l>
+                  <l> Con tres heridas viene,</l>
+                  <l> la de la vida,</l>
+                  <l> la del amor,</l>
+                  <l> la de la muerte.</l>
+                  <l> Con tres heridas yo,</l>
+                  <l> la de la vida,</l>
+                  <l> la de la muerte,</l>
+                  <l> la del amor.</l>
+               </lg>
+               <lg>
+                  <l> Me puse en el huerto,</l>
+                  <l> de Benaoján</l>
+                  <l> los carabineros,</l>
+                  <l> me veían de lejos.</l>
+                  <l> Se iban p’atrás.</l>
+               </lg>
+               <lg>
+                  <l> Salta de la cama,</l>
+                  <l> Lucero del alba.</l>
+                  <l> Salta de la cama,</l>
+                  <l> Lucero del alba.</l>
+                  <l> Que cuando tu sales,</l>
+                  <l> mi amante se embarca.</l>
+               </lg>
+               <lg>
+                  <l> Y viento sudoeste.</l>
+                  <l> Salta pronto ya,</l>
+                  <l> que la vela blanca,</l>
+                  <l> de mi marinero,</l>
+                  <l> lo traiga p’atrás.</l>
+               </lg>
+               <lg>
+                  <l> Que la vela blanca,</l>
+                  <l> de mi marinero,</l>
+                  <l> lo traiga p’atrás.</l>
+               </lg>
+               <lg>
+                  <l> Que la vela blanca,</l>
+                  <l> de mi marinero,</l>
+                  <l> lo traiga p’atrás.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y los poemas originales de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns=""/>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Asco de siglo</title>
+            <author>Javier Krahe</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Cábalas y cicatrices</title>
+               <publisher>18 Chulos</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=p7_A5QDSL1U"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Javier Krahe</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Jorge Manrique</persName>
+                  <bibl>Coplas por la muerte de su padre</bibl>
+                  <relation>Parodia</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Acuérdese el XXI</l>
+                  <l> de lo que ha sido del XX,</l>
+                  <l> qué fracaso,</l>
+                  <l> muerto a los noventainueve,</l>
+                  <l> que ni llegó a ser un siglo,</l>
+                  <l> por payaso.</l>
+                  <l> Dicen, los que lo vivieron, que el siglo pasado</l>
+                  <l> fue una experiencia traumática a más no poder,</l>
+                  <l> que reinaba la ignominia,</l>
+                  <l> dicen que fue un asco de siglo,</l>
+                  <l> con hambres pestes y así.</l>
+                  <l> Asco de siglo,</l>
+                  <l> pero al ver que se les fue,</l>
+                  <l> les da no sé qué.</l>
+                  <l> Y es comprensible que sientan alguna añoranza</l>
+                  <l> y que entre tanto atropello encontraran placer</l>
+                  <l> en las artes y las ciencias.</l>
+                  <l> Hubo invenciones apunta de pala,</l>
+                  <l> el conocimiento dio mucho de sí:</l>
+                  <l> de la avioneta</l>
+                  <l> a la estación espacial,</l>
+                  <l> no está nada mal.</l>
+                  <l> Y echan una lagrimita por Pablo Picasso,</l>
+                  <l> por Sigmund Freud, por Frank Kafka, por Fred Astaire,</l>
+                  <l> que les quiten lo bailado,</l>
+                  <l> lágrimas por mujeres de cine,</l>
+                  <l> por María Callas, por Madame Curie…,</l>
+                  <l> cuestión de gustos</l>
+                  <l> fue el siglo XX una edad</l>
+                  <l> de gran variedad.</l>
+                  <l> ¿Qué fue de los zeppelines,</l>
+                  <l> qué fue del átomo aquél</l>
+                  <l> que estallaba</l>
+                  <l> y que estalló realmente?</l>
+                  <l> En manos de esa gentuza</l>
+                  <l> te asustaba.</l>
+                  <l> Y me dejé en el teclado otros muchos inventos</l>
+                  <l> que los podéis consultar en cualquier CD-ROM,</l>
+                  <l> claro está, especializado,</l>
+                  <l> los dinosaurios son muy siglo XX,</l>
+                  <l> tendrían, por tanto, que salir en él.</l>
+                  <l> En fin, ya dije</l>
+                  <l> que consultéis, si es que es</l>
+                  <l> de vuestro interés.</l>
+                  <l> En cuanto a mí, que malvivo en aqueste que empieza,</l>
+                  <l> sé que me espera, seguro, mucha novedad</l>
+                  <l> y estoy presto a disfrutarla.</l>
+                  <l> Podré hablar en chino con un cachivache,</l>
+                  <l> decirle ¡maciza! a una maja chiné…</l>
+                  <l> Mucha quimera</l>
+                  <l> que alcanzaré en plan virtual</l>
+                  <l> y poca en real.</l>
+                  <l> Yo, mis mejores amores ya los he tenido,</l>
+                  <l> eso es un dato objetivo, en el siglo anterior,</l>
+                  <l> pero sigo hacia adelante,</l>
+                  <l> adiós ya le dije a ese asco de siglo,</l>
+                  <l> en este otro espero la traca final.</l>
+                  <l> Adiós muy, muy buenas,</l>
+                  <l> pero al ver que se me fue</l>
+                  <l> me da no sé qué.</l>
+                  <l> ¿Qué se hicieron las llamas</l>
+                  <l> de los fuegos encendidos</l>
+                  <l> de amadores?</l>
+                  <l> ¿qué se hicieron las damas,</l>
+                  <l> sus tocados y vestidos,</l>
+                  <l> sus olores?</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Usa la forma métrica de la Coplas a la muerte de su padre y el comienzo es
+            especialmente similar. </note>
+      </body>
+   </text>
+</TEI>

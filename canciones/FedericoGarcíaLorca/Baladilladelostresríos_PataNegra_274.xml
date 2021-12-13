@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Baladilla de los tres ríos</title>
+            <author>Pata Negra</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Rock Gitano</title>
+               <publisher>Mercury</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=SEcSk87XqC0"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+               <term>Latina</term>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Pata Negra</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Baladilla de los tres ríos</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Ya el río Guadalquivir</l>
+                  <l> va entre naranjos y olivos.</l>
+                  <l> Los dos ríos de Granada</l>
+                  <l> van de la nieve al trigo,</l>
+                  <l> van de la nieve al trigo.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Para los barcos de vela</l>
+                  <l> Sevilla tiene un camino;</l>
+                  <l> por las aguas de Granada,</l>
+                  <l> ay, solo reman los suspiros,</l>
+                  <l> solo reman los suspiros.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay, amor!</l>
+                  <l> ¡Ay, amor!</l>
+                  <l> ¡Ay, amor,</l>
+                  <l> que se fue y no vino!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay, amor!</l>
+                  <l> ¡Ay, amor!</l>
+                  <l> ¡Ay, amor,</l>
+                  <l> que se fue y no vino!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Ya el río Guadalquivir</l>
+                  <l> tiene las barbas granates.</l>
+                  <l> Los dos ríos de Granada,</l>
+                  <l> uno llanto y otro sangre,</l>
+                  <l> uno llanto y otro sangre.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Guadalquivir, alta torre,</l>
+                  <l> y viento en los naranjales,</l>
+                  <l> Darro y Genil, torrecillas</l>
+                  <l> muertas sobre los estanques,</l>
+                  <l> muertas sobre los estanques.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay, amor!</l>
+                  <l> ¡Ay, amor!</l>
+                  <l> ¡Ay, amor,</l>
+                  <l> que se fue por el aire!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay, amor!</l>
+                  <l> ¡Ay, amor!</l>
+                  <l> ¡Ay, amor,</l>
+                  <l> que se fue por el aire!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay, amor!</l>
+                  <l> ¡Ay, amor!</l>
+                  <l> ¡Ay, amor,</l>
+                  <l> que se fue por el aire!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización similar que radica en un cambio en el orden de las estrofas, la
+            repetición final de cada verso de estas, la agrupación de los estribillos, de manera que
+            se repite el «¡Ay, amor» tres veces antes de la coda «que se fue y no vino / que se fue
+            por el aire»  y la omisión de cuatro versos (vv. 25-26, 29-30):   «¡Quién dirá que el
+            agua lleva un fuego fatuo de gritos […] Lleva azahar, lleva olivas, Andalucía a tus
+            mares».     </note>
+      </body>
+   </text>
+</TEI>

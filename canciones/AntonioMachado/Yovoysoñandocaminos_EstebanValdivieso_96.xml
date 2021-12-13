@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Yo voy soñando caminos</title>
+            <author>Esteban Valdivieso</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Fumar en Berlín</title>
+               <publisher>Ambar Producciones</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=2z8LjffIF7I"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Jazz</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Esteban Valdivieso</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Antonio Machado</persName>
+                  <bibl>[Yo voy soñando caminos]</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Yo voy soñando caminos</l>
+                  <l> de la tarde. ¡Las colinas</l>
+                  <l> doradas, los verdes pinos,</l>
+                  <l> las polvorientas encinas!…</l>
+                  <l> ¿Adónde el camino irá?</l>
+                  <l> Yo voy soñando, viajero,</l>
+                  <l> a lo largo del sendero…</l>
+                  <l> —La tarde cayendo está—.</l>
+                  <l> “En el corazón tenía</l>
+                  <l> la espina de una pasión;</l>
+                  <l> logré arrancármela un día;</l>
+                  <l> ya no siento el corazón”.</l>
+               </lg>
+               <lg>
+                  <l> Y todo el campo un momento</l>
+                  <l> se queda, mudo y sombrío,</l>
+                  <l> meditando. Suena el viento</l>
+                  <l> en los álamos del río.</l>
+               </lg>
+               <lg>
+                  <l> La tarde más se oscurece;</l>
+                  <l> y el camino que serpea</l>
+                  <l> débilmente blanquea,</l>
+                  <l> se enturbia y desaparece.</l>
+               </lg>
+               <lg>
+                  <l> Mi cantar vuelve a plañir:</l>
+                  <l> “Aguda espina dorada,</l>
+                  <l> quién te pudiera sentir</l>
+                  <l> en el corazón clavada».</l>
+               </lg>
+               <lg>
+                  <l> Y todo el campo un momento</l>
+                  <l> se queda, mudo y sombrío,</l>
+                  <l> meditando. Suena el viento</l>
+                  <l> en los álamos del río.</l>
+               </lg>
+               <lg>
+                  <l> La tarde más se oscurece;</l>
+                  <l> y el camino que serpea</l>
+                  <l> débilmente blanquea,</l>
+                  <l> se enturbia y desaparece.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y en contraste con el poema original; a
+                    falta de fuente escrita, la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Hay solo ligeras variaciones léxicas respecto del poema y repite algunos versos. Esta
+            canción se basa en la versión de Carlos Cano, a la que el propio Valdivieso le había
+            puesto música y que está antecedida por unos versos recitados por Rafael Alberti. Se
+            desconocen los datos exactos de la versión de Carlos Cano, pero fue concebida al amparo
+            del Manifiesto Canción del Sur, movimiento cultural de Granada nacido en 1968 y disuelto
+            en 1976. En 1968, Alberto Cortez había musicado este mismo poema (Poemas y canciones,
+            vol. 2), pero no parece que sea una versión de la de Cano/Valdivieso, ni que esta sea
+            una versión de la de Cortez. </note>
+      </body>
+   </text>
+</TEI>

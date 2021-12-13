@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El hombre acecha (canción primera)</title>
+            <author>Román LC</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Otros">
+               <title>Homenaje a Miguel Hernández</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/Pyv05YrlNC0"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Román LC</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Canción primera</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Se ha retirado el campo al ver abalanzarse</l>
+                  <l> crispadamente al hombre.</l>
+               </lg>
+               <lg>
+                  <l> ¡Qué abismo entre el olivo</l>
+                  <l> y el hombre se descubre!</l>
+               </lg>
+               <lg>
+                  <l> El animal que canta: el animal que puede</l>
+                  <l> llorar y echar raíces, rememoró sus garras.</l>
+               </lg>
+               <lg>
+                  <l> Garras que revestía de suavidad y flores,</l>
+                  <l> pero que, al fin, desnuda en toda su crueldad.</l>
+               </lg>
+               <lg>
+                  <l> Crepitan en mis manos.</l>
+                  <l> Aparta de ellas, hijo.</l>
+                  <l> Estoy dispuesto a hundirlas, sobre tu carne leve.</l>
+               </lg>
+               <lg>
+                  <l> He regresado al tigre.</l>
+                  <l> Aparta, o te destrozo.</l>
+               </lg>
+               <lg>
+                  <l> Hoy el amor es muerte,</l>
+                  <l> y el hombre acecha al hombre.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta canción supone una musicalización de los versos del poema, sin aportar ninguna
+            variación. </note>
+      </body>
+   </text>
+</TEI>

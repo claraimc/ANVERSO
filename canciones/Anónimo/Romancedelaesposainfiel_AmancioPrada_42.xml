@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romance de la esposa infiel</title>
+            <author>Amancio Prada</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Del amor que quita el sueño (Romances y canciones desde el Reino de León)</title>
+               <publisher>Musicamaina</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=PbgQiVLyhR0"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Amancio Prada</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Romance de Blancaniña «Estando una señorita»</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Estaba una señorita sentadita en su balcón.</l>
+                  <l> Pasó por allí un soldado de muy mala condición.</l>
+                  <l> Y le dijo: —Señorita, con Usted durmiera yo.</l>
+                  <l> —Suba, suba, caballero, dormirá una noche o dos.</l>
+                  <l> Mi marido está cazando en los montes de León</l>
+                  <l> y para que ya no vuelva le echaremos maldición,</l>
+                  <l> cuervos le saquen los ojos, águilas el corazón,</l>
+                  <l> que se caiga de un risco abajo, sin perdón ni confesión—.</l>
+                  <l> Al cabo de poco tiempo, el marido que llegó:</l>
+                  <l> —Ábreme la puerta luna, ábreme la puerta sol,</l>
+                  <l> que te traigo un león vivo de los montes de León—.</l>
+                  <l> Va Luna a abrirle la puerta, mudadita la color.</l>
+                  <l> —O tú tienes calentura, o tú tienes nuevo amor.</l>
+                  <l> —Yo no tengo calentura, ni tampoco nuevo amor,</l>
+                  <l> se me han perdido las llaves de tu rico comedor.</l>
+                  <l> —Un platero tengo en Francia y otro tengo en Aragón—.</l>
+                  <l> Fue a abraza a su señora y un caballo relinchó.</l>
+                  <l> —¿De quién es ese caballo que en la cuadra siento yo?</l>
+                  <l> —Ese es tuyo, dueño mío, mi padre te lo mandó,</l>
+                  <l> pa’ que vayas a cazar a los montes de León.</l>
+                  <l> —Mil gracias dale a tu padre, que caballo tengo yo,</l>
+                  <l> cuando yo no lo tenía, tu padre no me lo dio.</l>
+                  <l> ¿De quién es aquel sombrero que en mi percha veo yo?</l>
+                  <l> —Ese es tuyo, esposo mío, mi padre te lo mandó</l>
+                  <l> pa’ que vayas a la boda de mi hermana la mayor.</l>
+                  <l> —Muy feliz sea tu hermana, que sombrero tengo yo,</l>
+                  <l> cuando yo no lo tenía nunca me lo regaló—.</l>
+                  <l> El hombre ya con sospechas a la alcoba se acercó:</l>
+                  <l> —¿Quién es este caballero que en mi cama veo yo?</l>
+                  <l> —Mátame, marido mío, que te he jugado traición—.</l>
+                  <l> La ha cogido por un brazo y al suegro se la llevó-</l>
+                  <l> —Téngala Usted, suegro mío, que me ha jugado traición.</l>
+                  <l> —Llévatela, yerno mío, que la Iglesia te la dio—.</l>
+                  <l> Él con ira la amenaza y al campo se la llevó.</l>
+                  <l> Le ha dado una puñalada que el corazón le enfrió.</l>
+                  <l> A la una murió ella, a las dos murió su amor,</l>
+                  <l> y el otro como tunante en la cama se quedó.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">No hemos podido localizar la versión exacta que se musica.   Como señala el subtítulo
+            del álbum, todo él está dedicado a piezas de la lírica castellana medieval y
+            temprano-moderna. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tengo flores para ti</title>
+            <author>Vicente Soto</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Otros">
+               <title>Entre dos mundos</title>
+               <publisher>Fonomusic</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://music.youtube.com/watch?v=u9eFb3_tLGs&amp;list=RDAMVMu9eFb3_tLGs"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Flamenco</term>
+               <term>Latina</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Vicente Soto</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>José Martí</persName>
+                  <bibl>Para Tomasa Figueredo</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>No sé qué tienen las flores,</l>
+                  <l> lindísima hayamesa,</l>
+                  <l> unas se secan muy pronto;</l>
+                  <l> hay otras que no se secan.</l>
+                  <l> Unas se secan muy pronto;</l>
+                  <l> hay otras que ya no se secan.</l>
+               </lg>
+               <lg>
+                  <l> De blancas flores un ramo</l>
+                  <l> ayer me diste en tu casa,</l>
+                  <l> y hoy ya ves, la niña mía,</l>
+                  <l> te las encontré más blancas.</l>
+                  <l> Hoy ya ves, la niña mía,</l>
+                  <l> que las encontré más blancas.</l>
+               </lg>
+               <lg>
+                  <l> Flores tengo, flores traigo,</l>
+                  <l> flores tengo, yo tengo flores para ti.</l>
+                  <l> Flores tengo, flores traigo,</l>
+                  <l> flores tengo, yo tengo flores para ti.</l>
+               </lg>
+               <lg>
+                  <l> Así como el alma en pena,</l>
+                  <l> como el clavel amarillo,</l>
+                  <l> beso tu mano y alma</l>
+                  <l> se pone color de lirio.</l>
+                  <l> Así como el alma en pena,</l>
+                  <l> como el clavel amarillo,</l>
+                  <l> beso tu mano y alma</l>
+                  <l> se pone color de lirio.</l>
+                  <l> Así en el largo martirio</l>
+                  <l> de este destierro penoso,</l>
+                  <l> tu corazón cariñoso</l>
+                  <l> resplandece como un lirio.</l>
+               </lg>
+               <lg>
+                  <l> Flores tengo, flores traigo,</l>
+                  <l> flores tengo, yo tengo flores para ti.</l>
+               </lg>
+               <lg>
+                  <l> Así como el alma en pena,</l>
+                  <l> como el clavel amarillo,</l>
+                  <l> beso tu mano y el alma</l>
+                  <l> se pone color de lirio.</l>
+                  <l> Así en el largo martirio</l>
+                  <l> de este destierro penoso,</l>
+                  <l> tu corazón cariñoso</l>
+                  <l> resplandece como un lirio.</l>
+               </lg>
+               <lg>
+                  <l> Flores tengo, flores traigo,</l>
+                  <l> flores tengo, yo tengo flores para ti.</l>
+                  <l> Flores tengo, flores traigo,</l>
+                  <l> flores tengo, yo tengo flores para ti.</l>
+                  <l> Flores tengo, flores traigo,</l>
+                  <l> flores tengo, yo tengo flores para ti.</l>
+                  <l> Flores tengo, flores traigo,</l>
+                  <l> flores tengo, yo tengo flores para ti.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio; a falta de fuente escrita, la
+                    puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta canción es una musicalización similar al poema de José Martí. Soto usa casi
+            exactamente las mismas palabras que el poema, pero también añade algunas líneas,
+            incluyendo las en que se encuentra el título de la canción: “Tengo flores para ti”. El
+            título original era “Para Tomasa Figueredo”. Además de aparecer en el CD de 1999, la
+            canción también se encuentra en el CD La palabra más tuya. Cantando a Guillén, Benedetti
+            y Martí (Iberautor Promociones Culturales, 2006). </note>
+      </body>
+   </text>
+</TEI>

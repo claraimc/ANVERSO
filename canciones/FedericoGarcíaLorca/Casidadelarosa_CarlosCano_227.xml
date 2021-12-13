@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Casida de la rosa</title>
+            <author>Carlos Cano</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Diván del Tamarit. Gacelas y Casidas.</title>
+               <publisher>Dalur Discos</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=QI3SM6jgkpU&amp;list=PLDtszg9eT1fzwhPDDvl4irXJcVoUVplcY&amp;index=3"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Carlos Cano</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Casida de la rosa</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>La rosa</l>
+                  <l> no buscaba la aurora:</l>
+                  <l> Casi eterna en su ramo</l>
+                  <l> buscaba otra cosa,</l>
+                  <l> buscaba otra cosa.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> La rosa</l>
+                  <l> no buscaba ni ciencia ni sombra:</l>
+                  <l> Confín de carne y sueño</l>
+                  <l> buscaba otra cosa,</l>
+                  <l> buscaba otra cosa.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> La rosa</l>
+                  <l> no buscaba la rosa:</l>
+                  <l> La rosa</l>
+                  <l> no buscaba la rosa:</l>
+                  <l> Inmóvil por el cielo</l>
+                  <l> ¡buscaba otra cosa!</l>
+                  <l> ¡buscaba otra cosa!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> La rosa</l>
+                  <l> no buscaba la rosa:</l>
+                  <l> La rosa</l>
+                  <l> no buscaba la rosa:</l>
+                  <l> Inmóvil por el cielo</l>
+                  <l> ¡buscaba otra cosa!</l>
+                  <l> ¡la rosa!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización idéntica a excepción de la repetición de los últimos versos de cada
+            estrofa y la última de estas. </note>
+      </body>
+   </text>
+</TEI>

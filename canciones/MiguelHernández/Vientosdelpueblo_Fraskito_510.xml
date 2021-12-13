@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vientos del pueblo</title>
+            <author>Fraskito</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Tierra y sangre (Un homenaje Miguel Hernández)</title>
+               <publisher>Frasko Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/p0zJU10ioYw"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Fraskito</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Vientos del pueblo me llevan</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Vientos del pueblo me llevan,</l>
+                  <l> vientos del pueblo me arrastran,</l>
+                  <l> me esparcen el corazón</l>
+                  <l> y me avientan la garganta.</l>
+               </lg>
+               <lg>
+                  <l> Los bueyes doblan la frente,</l>
+                  <l> impotentemente mansa,</l>
+                  <l> delante de los castigos:</l>
+                  <l> los leones la levantan</l>
+                  <l> y al mismo tiempo castigan</l>
+                  <l> con su clamorosa zarpa.</l>
+               </lg>
+               <lg>
+                  <l> No soy de un pueblo de bueyes</l>
+                  <l> que soy de un pueblo que embargan</l>
+                  <l> yacimientos de leones,</l>
+                  <l> desfiladeros de águilas</l>
+                  <l> y cordilleras de toros</l>
+                  <l> con el orgullo en el asta.</l>
+                  <l> Nunca medraron los bueyes</l>
+                  <l> en los páramos de España.</l>
+               </lg>
+               <lg>
+                  <l> ¿Quién habló de echar un yugo</l>
+                  <l> sobre el cuello de esta raza?</l>
+                  <l> ¿Quién ha puesto al huracán</l>
+                  <l> jamás ni yugos ni trabas,</l>
+                  <l> ni quién el rayo detuvo</l>
+                  <l> prisionero en una jaula?</l>
+               </lg>
+               <lg>
+                  <l> Asturianos de braveza,</l>
+                  <l> vascos de piedra blindada,</l>
+                  <l> valencianos de alegría</l>
+                  <l> y castellanos de alma,</l>
+                  <l> labrados como la tierra</l>
+                  <l> y airosos como las alas;</l>
+                  <l> andaluces de relámpago,</l>
+                  <l> nacidos entre guitarras.</l>
+               </lg>
+               <lg>
+                  <l> No soy de un pueblo de bueyes</l>
+                  <l> que soy de un pueblo que embargan</l>
+                  <l> yacimientos de leones,</l>
+                  <l> desfiladeros de águilas</l>
+                  <l> y cordilleras de toros</l>
+                  <l> con el orgullo en el asta.</l>
+                  <l> Nunca medraron los bueyes</l>
+                  <l> en los páramos de España.</l>
+               </lg>
+               <lg>
+                  <l> Extremeños de centeno,</l>
+                  <l> gallegos de lluvia y calma,</l>
+                  <l> catalanes de firmeza,</l>
+                  <l> aragoneses de casta,</l>
+                  <l> murcianos de dinamita</l>
+                  <l> frutalmente propagada,</l>
+                  <l> leoneses, navarros, dueños</l>
+                  <l> del hambre, el sudor y el hacha,</l>
+                  <l> reyes de la minería,</l>
+                  <l> señores de la labranza,</l>
+               </lg>
+               <lg>
+                  <l> No soy de un pueblo de bueyes</l>
+                  <l> que soy de un pueblo que embargan</l>
+                  <l> yacimientos de leones,</l>
+                  <l> desfiladeros de águilas</l>
+                  <l> y cordilleras de toros</l>
+                  <l> con el orgullo en el asta.</l>
+                  <l> Nunca medraron los bueyes</l>
+                  <l> en los páramos de España.</l>
+               </lg>
+               <lg>
+                  <l> No soy de un pueblo de bueyes</l>
+                  <l> que soy de un pueblo que embargan</l>
+                  <l> yacimientos de leones,</l>
+                  <l> desfiladeros de águilas</l>
+                  <l> y cordilleras de toros</l>
+                  <l> con el orgullo en el asta.</l>
+                  <l> Nunca medraron los bueyes</l>
+                  <l> en los páramos de España.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar al poema de Miguel Hernández. El autor
+            utiliza para la canción las cinco primeras estrofas, en esta última excluye los versos
+            desde «…señores de la labranza…»; además utiliza la tercera estrofa a modo de
+            estribillo: «…No soy de un pueblo de bueyes/que soy de un pueblo que embargan
+            yacimientos de leones,/desfiladeros de águilas/y cordilleras de toros/con el orgullo en
+            el asta./Nunca medraron los bueyes/en los páramos de España…» </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gacela de la raíz amarga</title>
+            <author>Carlos Cano</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Diván del Tamarit. Gacelas y Casidas.</title>
+               <publisher>Dalur Discos</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=WPMBkjjcSLY&amp;list=PLDtszg9eT1fzwhPDDvl4irXJcVoUVplcY&amp;index=15"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Carlos Cano</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Gacela de la raíz amarga</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Hay una raíz amarga</l>
+                  <l> y un mundo de mil terrazas.</l>
+                  <l> Hay una raíz amarga</l>
+                  <l> y un mundo de mil terrazas.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Ni la mano más pequeña</l>
+                  <l> quiebra la puerta de agua.</l>
+                  <l> Ni la mano más pequeña</l>
+                  <l> quiebra la puerta de agua.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¿Dónde vas? ¿adónde? ¿dónde?</l>
+                  <l> ¿Dónde vas? ¿adónde? ¿dónde?</l>
+                  <l> Hay un cielo de mil ventanas</l>
+                  <l> —batalla de abejas lívidas—</l>
+                  <l> y hay una raíz amarga.</l>
+                  <l> Amarga. Amarga.</l>
+                  <l> Amarga. Amarga. Amarga. Amarga.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Duele en la planta del pie,</l>
+                  <l> el interior de la cara;</l>
+                  <l> duele en la planta del pie,</l>
+                  <l> el interior de la cara</l>
+                  <l> y duele en el tronco fresco</l>
+                  <l> de noche recién cortada,</l>
+                  <l> y duele en el tronco fresco</l>
+                  <l> de noche recién cortada.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¿Dónde vas? ¿adónde? ¿dónde?</l>
+                  <l> ¿Dónde vas? ¿adónde? ¿dónde?</l>
+                  <l> ¡Amor! Enemigo mío.</l>
+                  <l> ¡Amor! Enemigo mío</l>
+                  <l> ¡muerde tu raíz amarga!</l>
+                  <l> Amarga. Amarga.</l>
+                  <l> Amarga. Amarga. Amarga. Amarga.</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización similar con repetición de versos y estrofas. </note>
+      </body>
+   </text>
+</TEI>

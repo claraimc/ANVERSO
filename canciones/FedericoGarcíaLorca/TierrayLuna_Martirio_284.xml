@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tierra y Luna</title>
+            <author>Martirio</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Federico García Lorca. De Granada a la Luna</title>
+               <publisher>SombraRecords</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=Nku0-LCDtsc"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Martirio</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Tierra y Luna</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Tierra tan sólo. Tierra.</l>
+                  <l> Tierra para los manteles estremecidos,</l>
+                  <l> para la pupila viciosa de nube,</l>
+                  <l> para las heridas recientes y el húmedo pensamiento.</l>
+                  <l> Tierra para todo lo que huye de la Tierra.</l>
+               </lg>
+               <lg>
+                  <l> Es Tierra, ¡Dios mío! Tierra, lo que yo vengo buscando.</l>
+                  <l> Embozo de horizonte, latido y sepultura.</l>
+                  <l> Es dolor que se acaba y amor que se consume.</l>
+                  <l> Torre de sangre abierta con las manos quemadas.</l>
+               </lg>
+               <lg>
+                  <l> Pero la Luna subía y bajaba las escaleras,</l>
+                  <l> repartiendo lentejas desangradas en los ojos,</l>
+                  <l> dando escobazos de plata a los niños de los muelles</l>
+                  <l> y borrando mi apariencia por el término del aire.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original; la puntuación y
+                    ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Martirio escoge solo tres de las estrofas del poema, las que más directamente apelan a
+            la Tierra y a la Luna, pero la musicalización se hace de manera exacta, sin alteraciones
+            del textos original. </note>
+      </body>
+   </text>
+</TEI>

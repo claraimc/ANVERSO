@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sería delicioso</title>
+            <author>Entertainiment</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Sencillo(single)">
+               <title>Sería delicioso</title>
+               <publisher>--</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=CrQP5uCd-Wo"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Entertainiment</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Isabel Logroño</persName>
+                  <bibl>Sería delicioso</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Sería delicioso</l>
+                  <l> esconderte mi nombre, mi talla, mi sexo,</l>
+                  <l> para que me reinventaras esta tarde</l>
+                  <l> o para que me crearas de nuevo,</l>
+                  <l> en esa mancha de café irreversible</l>
+                  <l> donde ahora,</l>
+                  <l> te estoy queriendo.</l>
+                  <l> Abrupta y torpe, como un portazo,</l>
+                  <l> inoportuna y frágil</l>
+                  <l> arañazo de mis medias,</l>
+                  <l> te estoy queriendo.</l>
+                  <l> Lenta y tonta</l>
+                  <l> imperceptiblemente</l>
+                  <l> como una última hoja…</l>
+                  <l> Hasta que llegue el invierno.</l>
+                  <l> Hasta que llegue el invierno.</l>
+                  <l> Deliciosa y escondida,</l>
+                  <l> caricia a caricia,</l>
+                  <l> gesto a gesto,</l>
+                  <l> con el lenguaje de los sordos,</l>
+                  <l> te estoy queriendo</l>
+                  <l> te estoy queriendo</l>
+                  <l> te estoy queriendo</l>
+                  <l> te estoy queriendo</l>
+                  <l> te estoy queriendo</l>
+                  <l> te estoy queriendo</l>
+                  <l> te estoy queriendo</l>
+                  <l> te estoy queriendo</l>
+                  <l> te estoy queriendo</l>
+                  <l> Sería delicioso esconderte mi nombre</l>
+                  <l> esconderte mi talla</l>
+                  <l> esconderte mi sexo</l>
+                  <l> Sería delicioso</l>
+                  <l> esconderte mi talla</l>
+                  <l> esconderte mi sexo</l>
+                  <l> Sería delicioso</l>
+                  <l> esconderte mi nombre</l>
+                  <l> esconderte mi talla</l>
+                  <l> esconderte mi sexo</l>
+                  <l> Sería delicioso…</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns=""/>
+      </body>
+   </text>
+</TEI>

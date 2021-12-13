@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Como el toro he nacido para el luto</title>
+            <author>Francisco Hinojosa</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Decir Miguel</title>
+               <publisher>--</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://fernandolucini.blogspot.com/2019/07/indice-de-poemas-de-miguel-hernandez.html"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Francisco Hinojosa</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Como el toro he nacido para el luto]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>No se ha tenido acceso al audio, ni la letra. Se tiene noticia de esta canción a
+                    través de esta fuente.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">No se ha tenido acceso al audio, ni la letra. Se tiene noticia de esta canción a
+            través de esta fuente. Hubo una primera versión musicada de Pedro Ávila (El hombre nuevo
+            cantado, 1971); sin embargo, por ser anterior a 1975, no está recogida en esta base de
+            datos. </note>
+      </body>
+   </text>
+</TEI>

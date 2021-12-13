@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Una paloma blanca</title>
+            <author>Paco Ibáñez</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>A flor de tiempo</title>
+               <publisher>Ariola</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=YUFF5I4J0ZU"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Paco Ibáñez</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>José Iglesias de la Casa</persName>
+                  <bibl>La palomita</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Una paloma blanca</l>
+                  <l> como la nieve,</l>
+                  <l> me ha picado en el alma;</l>
+                  <l> mucho me duele.</l>
+                  <l> Una paloma blanca</l>
+                  <l> como la nieve,</l>
+                  <l> me ha picado en el alma;</l>
+                  <l> mucho me duele.</l>
+                  <l> Dulce paloma,</l>
+                  <l> ¿cómo pretendes</l>
+                  <l> herir el alma</l>
+                  <l> de quién te quiere?</l>
+                  <l> Tu pico hermoso</l>
+                  <l> brindó placeres,</l>
+                  <l> pero en mi pecho</l>
+                  <l> picó cual sierpe.</l>
+                  <l> Una paloma blanca</l>
+                  <l> como la nieve,</l>
+                  <l> me ha picado en el alma;</l>
+                  <l> mucho me duele.</l>
+                  <l> Paloma ingrata,</l>
+                  <l> ¿Por qué pretendes</l>
+                  <l> volverme males</l>
+                  <l> dándote bienes?</l>
+                  <l> ¡Ay! nadie fíe</l>
+                  <l> de aves aleves;</l>
+                  <l> que a aquel que halagan</l>
+                  <l> mucho más hieren.</l>
+                  <l> Una paloma blanca</l>
+                  <l> como la nieve,</l>
+                  <l> me ha picado en el alma;</l>
+                  <l> mucho me duele.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns=""/>
+      </body>
+   </text>
+</TEI>

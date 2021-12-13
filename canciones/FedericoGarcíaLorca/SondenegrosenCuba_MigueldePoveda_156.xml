@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Son de negros en Cuba</title>
+            <author>Miguel de Poveda</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Enlorquecido</title>
+               <publisher>Concert Music Entertainment</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=YH2JN8vv070"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Miguel de Poveda</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Son de negros en Cuba</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Son, son, son de negros en Cuba.</l>
+                  <l> Son, son, son de negros en Cuba.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Cuando llegue la luna llena iré a Santiago de Cuba,</l>
+                  <l> iré a Santiago</l>
+                  <l> en un coche de agua negra,</l>
+                  <l> iré a Santiago,</l>
+                  <l> cantarán los techos de palmera,</l>
+                  <l> iré a Santiago.</l>
+                  <l> Cuando la palma quiere ser cigüeña</l>
+                  <l> iré a Santiago.</l>
+                  <l> Cuando quiere ser medusa el plátano</l>
+                  <l> iré a Santiago.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Son, son, son de negros en Cuba.</l>
+                  <l> Son, son, son de negros en Cuba.</l>
+                  <l> En Cuba.</l>
+                  <l> Son, son son de negros en Cuba.</l>
+                  <l> Son, son son de negros en Cuba.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Con la rubia cabeza de Fonseca,</l>
+                  <l> iré a Santiago.</l>
+                  <l> Y con la rosa de Romeo y Julieta</l>
+                  <l> iré a Santiago.</l>
+                  <l> ¡Oh Cuba! ¡Oh ritmo de semillas secas!</l>
+                  <l> ¡Oh cintura caliente y gota de madera!</l>
+                  <l> Arpa de troncos vivos. Caimán. Flor de tabaco.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Son, son, son de negros en Cuba.</l>
+                  <l> Son, son, son de negros en Cuba.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Siempre he dicho que yo iría a Santiago</l>
+                  <l> en un coche de agua negra.</l>
+                  <l> Brisa y alcohol en las ruedas,</l>
+                  <l> mi coral en la tiniebla</l>
+                  <l> El mar ahogado en la arena,</l>
+                  <l> calor blanco, fruta muerta.</l>
+                  <l> ¡Oh bovino frescor de cañavera!</l>
+                  <l> ¡Oh Cuba! ¡Oh curva de suspiro y barro!</l>
+                  <l> Iré a Santiago.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Son, son, son de negros en Cuba.</l>
+                  <l> Son, son, son de negros en Cuba.</l>
+                  <l> Son, son, son de negros en Cuba.</l>
+                  <l> Son, son, son de negros en Cuba.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Oh Cuba! ¡Oh ritmo de semillas secas!</l>
+                  <l> ¡Oh cintura caliente, oh gota de madera!</l>
+                  <l> Arpa de troncos vivos. Caimán. Flor de tabaco.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Son, son de Cuba,</l>
+                  <l> mi son,</l>
+                  <l> son, son que rico</l>
+                  <l> mi son,</l>
+                  <l> son, son de Cuba</l>
+                  <l> mi son.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Que viene mi Federico</l>
+                  <l> de Nueva York a La Habana</l>
+                  <l> y nos vamos en un coche de agua negra</l>
+                  <l> a bailar con Miguel</l>
+               </lg>
+               <lg>
+                  <l> Son, son, qué rico</l>
+                  <l> qué son de negros en Cuba</l>
+                  <l> qué rico</l>
+                  <l> son mi salero</l>
+                  <l> qué rico</l>
+                  <l> llegaron los negros sombra verso</l>
+                  <l> qué rico</l>
+                  <l> para seguir alegrando el cuerpo.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">— </note>
+      </body>
+   </text>
+</TEI>

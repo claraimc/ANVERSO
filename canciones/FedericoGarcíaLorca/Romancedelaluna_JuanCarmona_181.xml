@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romance de la luna</title>
+            <author>Juan Carmona</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>27 flamenco. Un homenaje al arte y la poesía de la generación del 27</title>
+               <publisher>Piros y Juan Carmona</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=zorxw1HjVus&amp;list=PLA_I2ay5YcUXwxNqIUta39j5lKGacw2z9&amp;index=2"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Juan Carmona</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Romance de la luna, luna</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Va encadenada al temblor</l>
+                  <l> de un ritmo que nunca llega;</l>
+                  <l> tiene el corazón de plata</l>
+                  <l> y un puñal en la diestra.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¿Adónde vas, siguiriya,</l>
+                  <l> con un ritmo sin cabeza?</l>
+                  <l> ¿Qué luna recogerá</l>
+                  <l> tu dolor de cal y adelfa?</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Tierra de luz,</l>
+                  <l> cielo de tierra.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Entre mariposas negras</l>
+                  <l> va una muchacha morena</l>
+                  <l> junto a una blanca serpiente</l>
+                  <l> de niebla.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Tierra de luz,</l>
+                  <l> cielo de tierra.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Niño, déjame que baile.</l>
+                  <l> Cuando vengan los gitanos,</l>
+                  <l> cuando vengan los gitanos,</l>
+                  <l> te encontrarán sobre el yunque</l>
+                  <l> con los ojillos cerrados,</l>
+                  <l> con los ojillos cerrados.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> El jinete se acercaba</l>
+                  <l> tocando el tambor del llano.</l>
+                  <l> Dentro de la fragua el niño,</l>
+                  <l> tiene los ojos cerrados.</l>
+                  <l> Cómo canta la zumaya,</l>
+                  <l> ¡ay como canta en el árbol!</l>
+                  <l> Por el cielo va la luna</l>
+                  <l> con un niño de la mano.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Por el olivar venían, venían,</l>
+                  <l> bronce y sueño, los gitanos.</l>
+                  <l> Las cabezas levantadas</l>
+                  <l> y los ojitos entornados.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Niño, déjame que baile.</l>
+                  <l> Cuando vengan los gitanos,</l>
+                  <l> cuando vengan los gitanos,</l>
+                  <l> te encontrarán sobre el yunque</l>
+                  <l> con los ojillos cerrados,</l>
+                  <l> con los ojillos cerrados.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Niño, déjame que baile.</l>
+                  <l> Cuando vengan los gitanos,</l>
+                  <l> cuando vengan los gitanos,</l>
+                  <l> te encontrarán sobre el yunque</l>
+                  <l> con los ojillos cerrados,</l>
+                  <l> con los ojillos cerrados.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Niño, déjame que baile.</l>
+                  <l> Cuando vengan los gitanos,</l>
+                  <l> cuando vengan los gitanos,</l>
+                  <l> te encontrarán sobre el yunque</l>
+                  <l> con los ojillos cerrados,</l>
+                  <l> con los ojillos cerrados.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Niño, déjame que baile.</l>
+                  <l> Cuando vengan los gitanos,</l>
+                  <l> cuando vengan los gitanos,</l>
+                  <l> te encontrarán sobre el yunque</l>
+                  <l> con los ojillos cerrados,</l>
+                  <l> con los ojillos cerrados.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y los poemas originales; la puntuación
+                    y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Hubo varias musicalizaciones anteriores a 1975, por eso no recogidas en esta base de
+            datos: Gabriela Ortega (Federico García Lorca, 1958), Pepe Albaicín, “Romance de la
+            luna, luna” (Cante gitano por Pepe Albaicín, vol. II, 1963), Paco Ibáñez (España de hoy
+            y de siempre, 1964) y Nati Mistral (La maravillosa Natu Mistral, 1972).   </note>
+      </body>
+   </text>
+</TEI>

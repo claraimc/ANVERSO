@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Riu, riu chiu</title>
+            <author>Fred Penners</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>The Season</title>
+               <publisher>Oak Street Music</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target=""/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Fred Penners</persName>
+                  <nationality>Canadá</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Riu, riu chiu</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Riu riu chiu, la guarda ribera;</l>
+                  <l> Dios guardó el lobo de nuestra cordera,</l>
+                  <l> Dios guardó el lobo de nuestra cordera.</l>
+                  <l> Riu riu chiu, la guarda ribera;</l>
+                  <l> Dios guardó el lobo de nuestra cordera,</l>
+                  <l> Dios guardó el lobo de nuestra cordera.</l>
+               </lg>
+               <lg>
+                  <l> El lobo rabioso la quiso morder,</l>
+                  <l> mas Dios poderoso la supo defender.</l>
+                  <l> Quísola hazer que no pudiese pecar,</l>
+                  <l> ni aun original esta Virgen no tuviera.</l>
+               </lg>
+               <lg>
+                  <l> Riu riu chiu, la guarda ribera;</l>
+                  <l> Dios guardó el lobo de nuestra cordera,</l>
+                  <l> Dios guardó el lobo de nuestra cordera.</l>
+               </lg>
+               <lg>
+                  <l> Yo vi mil garzones que andaban cantando</l>
+                  <l> por aquí volando haciendo mil sones,</l>
+                  <l> diciendo a gascones “Gloria sea en el Cielo,</l>
+                  <l> y paz en el suelo pues Jesús naciera”.</l>
+               </lg>
+               <lg>
+                  <l> Riu riu chiu, la guarda ribera;</l>
+                  <l> Dios guardó el lobo de nuestra cordera,</l>
+                  <l> Dios guardó el lobo de nuestra cordera.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Conserva únicamente las estrofas 1 y 4 del texto del Cancionero de Upsala.   La
+            canción se encuentra en un álbum de canciones de navidad familiar, de hecho, el público
+            objetivo del artista son los niños. </note>
+      </body>
+   </text>
+</TEI>

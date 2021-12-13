@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vals de los enamorados</title>
+            <author>Sole Candela y Sitoh Ortega</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>La tierra callada</title>
+               <publisher>--</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=0USw6VNsrkM"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Sole Candela y Sitoh Ortega</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Vals de los enamorados y unidos hasta siempre</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>No salieron jamás</l>
+                  <l> del vergel del abrazo,</l>
+                  <l> y ante el rojo rosal</l>
+                  <l> de los besos rodaron.</l>
+               </lg>
+               <lg>
+                  <l> Huracanes quisieron</l>
+                  <l> con rencor separarlos.</l>
+                  <l> Y las hachas tajantes</l>
+                  <l> y los rígidos rayos.</l>
+               </lg>
+               <lg>
+                  <l> Aumentaron la tierra</l>
+                  <l> de las pálidas manos.</l>
+                  <l> Precipicios midieron,</l>
+                  <l> por el viento impulsados</l>
+                  <l> entre bocas deshechas.</l>
+                  <l> Recorrieron naufragios,</l>
+                  <l> cada vez más profundos</l>
+                  <l> en sus cuerpos, sus brazos.</l>
+               </lg>
+               <lg>
+                  <l> (Tararea)</l>
+               </lg>
+               <lg>
+                  <l> Perseguidos y hundidos</l>
+                  <l> por un gran desamparo</l>
+                  <l> de recuerdos y lunas</l>
+                  <l> de noviembres y marzos,</l>
+                  <l> aventados se vieron</l>
+                  <l> como el polvo liviano.</l>
+                  <l> Aventados se vieron:</l>
+                  <l> perseguidos y hundidos</l>
+                  <l> por un gran desamparo,</l>
+                  <l> pero siempre abrazados. (Verso x 3)</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización casi idéntica, excepto que repite algunos versos y hay ligeras
+            variaciones léxicas. Hubo una primera musicalización de Francisco Curto (Miguel
+            Hernández, 1974), pero, al ser anterior a 1975, no está recogida en esta base de datos.
+        </note>
+      </body>
+   </text>
+</TEI>

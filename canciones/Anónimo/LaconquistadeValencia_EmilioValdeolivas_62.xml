@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La conquista de Valencia</title>
+            <author>Emilio Valdeolivas</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>El cantar de mio Cid</title>
+               <publisher>Tecnosaga</publisher>
+               <date cert="low"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=el7V9-IRGnM&amp;t=1586s"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Emilio Valdeolivas</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>La conquista de Valencia (Cantar de mio Cid)</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>En tierra de moros prendiendo e ganando,</l>
+                  <l> e durmiendo los días e las noches trasnochando.</l>
+                  <l> A los de Valençia los han escarmentado</l>
+                  <l> en ganar aquellas villas mio Çid duró´tres años.</l>
+                  <l> Mala cueta es, señores, aver mingua de pan,</l>
+                  <l> fijos e mugieres veerlos murir de fanbre,</l>
+                  <l> tajávales las huertas e fazíales grand mal</l>
+                  <l> por el rey de Marruecos ovieron a enbiar</l>
+                  <l> con el de los Montes Claros avíe guerra tan grand,</l>
+                  <l> non les dixo consejo, nin los vino huviar.</l>
+                  <l> Sópolo mio Çid, de coraçón le plaz.</l>
+                  <l> Por Aragón e por Navarra pregones mandó echar.</l>
+               </lg>
+               <lg>
+                  <l> Quien quiere ir comigo çercar a Valençia</l>
+                  <l> todos vengan de grado, ninguno non ha premia,</l>
+                  <l> tres días le speraré en el Canal de Çelfa.</l>
+               </lg>
+               <lg>
+                  <l> Yal creçe la barba e vale allongando,</l>
+                  <l> ca dixera mio Çid de la su boca atanto:</l>
+                  <l> nin entrarié en ella tijera, ni un pelo non avrié tajado</l>
+                  <l> e que fablassen desto moros e cristianos.</l>
+                  <l> Mio Çid don Rodrigo non lo quiso detardar</l>
+                  <l> adeliñó pora Valençia e sobrellas va echar,</l>
+                  <l> bien la çerca mio Çid, que non i avía hart,</l>
+                  <l> viédales exir e viédales entrar.</l>
+                  <l> Nueve meses complidos, sabet, sobrella yaz,</l>
+                  <l> quando vino el dezeno oviérongela a dar.</l>
+                  <l> Grandes son los gozos que van por es logar,</l>
+                  <l> quando mio Çid gañó a Valençia e entró en la çibdad.</l>
+               </lg>
+               <lg>
+                  <l> Quien quiere perder cueta e venir a rritad</l>
+                  <l> viniesse a mio Çid que a sabor de cavalgar,</l>
+                  <l> çercar quiere a Valençia pora cristianos la dar.</l>
+               </lg>
+               <lg>
+                  <l> Ya folgava mio Çid con todas sus compañas</l>
+                  <l> aquel rey de Sevilla el mandado llegava</l>
+                  <l> que presa es Valençia, que non gela enparan,</l>
+                  <l> vino los veer con treynta mill de armas.</l>
+                  <l> Aprés de la uerta ovieron la batalla,</l>
+                  <l> arrancólos mio Çid el de la luenga barba</l>
+                  <l> en el passar del Xúcar i veriédes barata.</l>
+                  <l> Fata dentro en Xátiva duró el arrancada.</l>
+                  <l> Aquel rey de Sevilla con tres colpes escapa.</l>
+                  <l> Tornado es mio Çid con toda esta ganançia,</l>
+                  <l> nuevas del cavallero ya veedes do llegavan.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Toma los vv. 1167-1170, 1178-1179, 1172, 1181-1183, 1184, 1187, 1192-1194, 1238-1239,
+            1241-1242, 1202-1205, 1209-1212, 1189-1191, 1221-1228, 1230-1232 y 1235, del cantar
+            segundo del Cantar de mio Cid, en ese orden, con modificaciones mínimas. Probablemente
+            sigue la edición de Menéndez Pidal, dado el tratamiento de -e final en varios versos,
+            pero no podemos asegurarlo por el momento. Todo el disco está dedicado al Cantar de mio
+            Cid, del que es una adaptación. </note>
+      </body>
+   </text>
+</TEI>

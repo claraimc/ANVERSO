@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Las arcas de arena</title>
+            <author>Emilio Valdeolivas</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>El cantar de mio Cid</title>
+               <publisher>Tecnosaga</publisher>
+               <date cert="low"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=el7V9-IRGnM&amp;t=280s"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Emilio Valdeolivas</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Episodio de Rachel y Vidas (Cantar de mio Cid)</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Fabló mio Çid, el que en buena ora çinxo espada</l>
+                  <l> Martín Antolínez, sodes ardida lança.</l>
+                  <l> Si yo bivo, doblar vos he la soldada.</l>
+                  <l> Espeso el oro e toda la plata</l>
+                  <l> bien lo veedes que yo non trayo nada</l>
+                  <l> fer lo he amidos, de grado non avrié nada.</l>
+                  <l> Con vuestro consejo bastir quiero dos arcas</l>
+                  <l> inchámoslas d’arena, ca bien serán pesadas</l>
+                  <l> de guadalmeçí cubiertas e bien enclaveadas.</l>
+                  <l> Por Vidas e Raquel, vayádesme privado</l>
+                  <l> non puedo traer el aver, ca mucho es pesado</l>
+                  <l> empeñar gelo he por lo que fore guisado.</l>
+                  <l> Raquel e Vidas seíense consejando</l>
+                  <l> dos arcas tiene llennas de oro esmerado.</l>
+                  <l> Nos huebos avemos en todo ganar algo.</l>
+                  <l> Mas dezidnos del Çid, de qué será pagado</l>
+                  <l> o qué ganançia nos dará por todo aqueste año</l>
+                  <l> por dexar so aver en salvo, seyscientos marcos.</l>
+                  <l> Afévoslos a la tienda del Campeador contado.</l>
+                  <l> Ya me exco de tierra ca del rey so ayrado.</l>
+                  <l> A lo quem semeja, de lo mio avredes algo.</l>
+                  <l> Que sobre aquellas arcas dar le ien seyscientos marcos</l>
+                  <l> e bien gelas guardarien fasta cabo del año</l>
+                  <l> que si antes las catassen que fossen perjurados.</l>
+                  <l> Al cargar de las arcas veriedes gozo tanto.</l>
+                  <l> Non las podíen poner en somo, eran esforçados</l>
+                  <l> que mientras que visquiesen refechos eran amos.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Toma los vv. 78-82, 84-87, 89-92, 122, 113, 123, 129-130, 133 y 135 (fundidos en un
+            verso), 152, 156-157, 161-162, 164, 170-171 y 173, del cantar primero del Cantar de mio
+            Cid, en ese orden, con modificaciones mínimas. Probablemente sigue la edición de
+            Menéndez Pidal, dado el tratamiento de -e final en varios versos, pero no podemos
+            asegurarlo por el momento. Todo el disco está dedicado al Cantar de mio Cid, del que es
+            una adaptación. </note>
+      </body>
+   </text>
+</TEI>

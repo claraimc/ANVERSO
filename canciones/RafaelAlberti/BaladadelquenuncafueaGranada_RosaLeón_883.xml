@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Balada del que nunca fue a Granada</title>
+            <author>Rosa León</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Paloma desesperada</title>
+               <publisher>ION Música</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/Bwpv0YYE6Ik?t=2706"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Rosa León</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <bibl>Balada del que nunca fue a Granada</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>¡Qué lejos por mares, campos y montañas!</l>
+                  <l> Ya otros soles miran mi cabeza cana.</l>
+                  <l> Nunca fui a Granada.</l>
+                  <l> Nunca fui a Granada.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Mi cabeza cana, los años perdidos.</l>
+                  <l> Quiero hallar los viejos, borrados caminos.</l>
+                  <l> Nunca vi Granada.</l>
+                  <l> Nunca vi Granada.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Dadle un ramo verde de luz a mi mano.</l>
+                  <l> Una rienda corta y un galope largo.</l>
+                  <l> Nunca entré en Granada.</l>
+                  <l> Nunca entré en Granada.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¿Qué gente enemiga puebla sus adarves?</l>
+                  <l> ¿Quién los claros ecos libres de sus aires?</l>
+                  <l> Nunca fui a Granada.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Venid los que nunca fuisteis a Granada.</l>
+                  <l> Hay sangre caída, sangre que me llama.</l>
+                  <l> Nunca entré en Granada.</l>
+                  <l> Nunca entré en Granada.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Hay sangre caída del mejor hermano.</l>
+                  <l> Sangre por los mirtos y aguas de los patios.</l>
+                  <l> Nunca fui a Granada.</l>
+                  <l> Nunca fui a Granada.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Si altas son las torres, el valor es alto.</l>
+                  <l> Venid por montañas, por mares y campos.</l>
+                  <l> Entraré en Granada.</l>
+                  <l> Entraré en Granada.</l>
+                  <l> Entraré en Granada.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+               <lg> </lg>
+            </lg>
+         </div>
+         <note xmlns="">Hubo dos musicalizaciones anteriores a 1975, por eso no están recogidas en esta base
+            de datos: Paco Ibáñez (Paco Ibáñez II, 1968) y Dina Rot (Yo canto a los poetas, 1971).
+            La principal diferencia con el poema de Rafael Alberti es la repetición del último verso
+            de cada estrofa y la omisión de las estrofas quinta y octava del poema, como ocurre
+            también en la versión de Paco Ibáñez de 1968 a la que sigue. </note>
+      </body>
+   </text>
+</TEI>

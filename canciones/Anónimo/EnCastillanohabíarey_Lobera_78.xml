@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>En Castilla no había rey</title>
+            <author>Lobera</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Maqueta/Demo">
+               <title>Demo I</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://ulfvaldr.bandcamp.com/track/en-castilla-no-hab-a-rey"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Heavy metal</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Lobera</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Romance de Fernán González niño «En Castilla no había rey»</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>En Castilla no había rey</l>
+                  <l> ni menos emperador</l>
+                  <l> sino un infante niño,</l>
+                  <l> niño y de poco valor.</l>
+                  <l> Andábanlo por hurtar</l>
+                  <l> caballeros de Aragón,</l>
+                  <l> hurtado le ha un carbonero,</l>
+                  <l> de los que hacían carbón.</l>
+                  <l> No le muestra a cortar leña,</l>
+                  <l> ni menos a hacer carbón,</l>
+                  <l> muéstrale a jugar las cañas,</l>
+                  <l> y muéstrale justador,</l>
+                  <l> también le muestra los dados</l>
+                  <l> y las tablas muy mejor.</l>
+                  <l> —Vámonos —dice—, mi ayo,</l>
+                  <l> a mis tierras de Aragón,</l>
+                  <l> a mí me alzarán por rey</l>
+                  <l> y a vos por gobernador.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción adapta tal cual el texto en la edición de Paloma Díaz Mas (Madrid, Crítica,
+            1994). Según el artista, los guturales finales versionan libremente el texto de  un
+            poema éddico relacionado con el tema del romance, pero no revela cuál. </note>
+      </body>
+   </text>
+</TEI>

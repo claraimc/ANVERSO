@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Contigo</title>
+            <author>Joaquín Sabina</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Yo, mí, me, contigo</title>
+               <publisher>BMG</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=FOJq2dYb4xI"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Joaquín Sabina</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>César Vallejo</persName>
+                  <bibl>Piedra negra sobre una piedra blanca</bibl>
+                  <relation>Intertextualidad</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Yo no quiero un amor civilizado,</l>
+                  <l> con recibos y escena de sofá,</l>
+                  <l> yo no quiero que viajes al pasado</l>
+                  <l> y vuelvas del mercado</l>
+                  <l> con ganas de llorar.</l>
+               </lg>
+               <lg>
+                  <l> Yo no quiero vecinas con pucheros,</l>
+                  <l> yo no quiero sembrar ni compartir,</l>
+                  <l> yo no quiero catorce de febrero</l>
+                  <l> ni cumpleaños feliz.</l>
+               </lg>
+               <lg>
+                  <l> Yo no quiero cargar con tus maletas,</l>
+                  <l> yo no quiero que elijas mi champú,</l>
+                  <l> yo no quiero mudarme de planeta,</l>
+                  <l> cortarme la coleta,</l>
+                  <l> brindar a tu salud.</l>
+               </lg>
+               <lg>
+                  <l> Yo no quiero domingos por la tarde,</l>
+                  <l> yo no quiero columpio en el jardín,</l>
+                  <l> lo que yo quiero, corazón cobarde,</l>
+                  <l> es que mueras por mí.</l>
+               </lg>
+               <lg>
+                  <l> Y morirme contigo si te matas</l>
+                  <l> y matarme contigo si te mueres,</l>
+                  <l> porque el amor cuando no muere mata,</l>
+                  <l> porque amores que matan nunca mueren.</l>
+               </lg>
+               <lg>
+                  <l> Yo no quiero juntar para mañana,</l>
+                  <l> no me pidas llegar a fin de mes,</l>
+                  <l> yo no quiero comerme una manzana</l>
+                  <l> dos veces por semana</l>
+                  <l> sin ganas de comer.</l>
+               </lg>
+               <lg>
+                  <l> Yo no quiero calor de invernadero,</l>
+                  <l> yo no quiero besar tu cicatriz,</l>
+                  <l> yo no quiero París con aguacero,</l>
+                  <l> ni Venecia sin ti.</l>
+               </lg>
+               <lg>
+                  <l> No me esperes a las doce en el juzgado,</l>
+                  <l> no me digas “volvamos a empezar”,</l>
+                  <l> yo no quiero ni libre ni ocupado,</l>
+                  <l> ni carne ni pecado,</l>
+                  <l> ni orgullo ni piedad.</l>
+               </lg>
+               <lg>
+                  <l> Yo no quiero saber por qué lo hiciste,</l>
+                  <l> yo no quiero contigo ni sin ti.</l>
+                  <l> Lo que yo quiero, muchacha de ojos tristes,</l>
+                  <l> es que mueras por mí.</l>
+               </lg>
+               <lg>
+                  <l> Y morirme contigo si te matas</l>
+                  <l> y matarme contigo si te mueres</l>
+                  <l> porque el amor cuando no muere mata,</l>
+                  <l> porque amores que matan nunca mueren.</l>
+               </lg>
+               <lg>
+                  <l> [Letra tomada de Joaquín Sabina, Con buena letra (Madrid: Temas de Hoy, 2002),
+                    p. 154]</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">En la letra de la canción, Joaquín Sabina, entre las cosas que rechaza, dice: «yo no
+            quiero París con aguacero», en referencia al famoso verso de César Vallejo: «Me moriré
+            en París con aguacero». Mientras que Vallejo alude con la lluvia a una muerte triste,
+            Sabina invierte el sentido, reclamando una vida alegre. </note>
+      </body>
+   </text>
+</TEI>

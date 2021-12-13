@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Carta</title>
+            <author>Evoéh</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Otros">
+               <title>Cadencias</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://evoeh.bandcamp.com/track/carta"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Evoéh</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Carta</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Cuando te voy a escribir se emocionan los tinteros,</l>
+                  <l> los negros tinteros frios se ponen rojos y trémulos.</l>
+                  <l> Cuando te voy a escribir te van a escribir mis huesos,</l>
+                  <l> Te escribo con la imborrable tinta de mis sentimientos</l>
+               </lg>
+               <lg>
+                  <l> Allá va mi cálida carta, paloma forjada al fuego</l>
+                  <l> con las dos alas plegadas y la dirección en medio.</l>
+                  <l> Aunque bajo la tierra mi amante cuerpo esté,</l>
+                  <l> escríbeme a la tierra que yo te escribiré.</l>
+                  <l> escríbeme a la tierra que yo te escribiré.</l>
+               </lg>
+               <lg>
+                  <l> Mientras los colmillos crecen, cada vez más cerca siento</l>
+                  <l> la leve voz de tu carta igual que un clamor inmenso.</l>
+                  <l> La recibiré dormido, si no es posible despierto.</l>
+                  <l> Y te quedarás desnuda dentro de tus sentimientos,</l>
+                  <l> son ropa para sentirla del todo contra tu pecho.</l>
+               </lg>
+               <lg>
+                  <l> Allá va mi carta cálida, paloma forjada al fuego,</l>
+                  <l> con las dos alas plegadas y la dirección en medio.</l>
+                  <l> Aunque bajo la tierra mi amante cuerpo esté,</l>
+                  <l> escríbeme a la tierra que yo te escribiré.</l>
+                  <l> escríbeme a la tierra que yo te escribiré.</l>
+               </lg>
+               <lg>
+                  <l> Y mis heridas serán los derramados tinteros,</l>
+                  <l> las bocas estremecidas de rememorar tus besos,</l>
+                  <l> y con su inaudita voz han de repetir: te quiero.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La letra de la canción utiliza la segunda parte del poema, tomando parcial o
+            totalmente algunos de sus versos y reestructurándolos en favor de la melodía. Para el
+            estribillo de la misma, se utilizan los siguientes versos:   «…Allá va mi carta cálida,
+            paloma forjada al fuego, con las dos alas plegadas y la dirección en medio…»   «…Aunque
+            bajo la tierra mi amante cuerpo esté, escríbeme a la tierra que yo te escribiré.
+            escríbeme a la tierra que yo te escribiré…» </note>
+      </body>
+   </text>
+</TEI>

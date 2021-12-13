@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La venganza del Cid</title>
+            <author>Emilio Valdeolivas</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>El cantar de mio Cid</title>
+               <publisher>Tecnosaga</publisher>
+               <date cert="low"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=el7V9-IRGnM&amp;t=3808s"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Emilio Valdeolivas</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>El Cid reclama a Tizón y Colada (Cantar de mio Cid)</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Oid, mesnadas, sí vos vala el Criador.</l>
+                  <l> Hyo, de que fu rey, non fiz mas de dos cortes,</l>
+                  <l> la una en Burgos, la otra en Carrión,</l>
+                  <l> esta terçera a Toledo la vin fer oy</l>
+                  <l> por amor de mio Çid, el que en buen ora naçió,</l>
+                  <l> tuerto le han tenido, sabémoslo todos nós.</l>
+                  <l> Alcaldes sean desto conde don Anrric e conde don Remod.</l>
+                  <l> Oidme toda la cort.</l>
+               </lg>
+               <lg>
+                  <l> Quitar me a el reyno el que bolviere mi cort,</l>
+                  <l> el que toviere derecho, dessa parte me so.</l>
+                  <l> Diles dos espadas, a Colada e a Tizón,</l>
+                  <l> estas yo las gané a guisa de varón,</l>
+                  <l> ques ondrassen con ellas a vos,</l>
+                  <l> en oro e en plata tres mill marcos les dío,</l>
+                  <l> hyo faziendo esto, acabaron lo so,</l>
+                  <l> denme mios averes, mios yernos no son.</l>
+                  <l> La rencura mayor non se me puede olbidar.</l>
+                  <l> Oídme toda la cort.</l>
+               </lg>
+               <lg>
+                  <l> Ifante de Carrión, quem deondraron tan mal,</l>
+                  <l> a menos de riebtos no los puedo dexar.</l>
+                  <l> Démosle sus espadas quando assí finca la boz,</l>
+                  <l> e quando las toviere, aprtir se a la cort,</l>
+                  <l> hya mas non avrá derecho de nos.</l>
+                  <l> Ferrand Gonçálvez, odredes qué fabló:</l>
+                  <l> averes monedados non tenemos nos,</l>
+                  <l> luego repsondió el conde don Remond:</l>
+                  <l> Por juvizio lo damos  e préndalo el Campeador.</l>
+                  <l> Oídme toda la cort.</l>
+               </lg>
+               <lg>
+                  <l> Empréstanles de lo ageno, que non les cumple lo so,</l>
+                  <l> pagaronle en apreçiaduras ante el rey don Alfons.</l>
+                  <l> Estos tres cavalleros en vuestra mano son.</l>
+                  <l> Ellos son adobados pora cumplir todo lo so.</l>
+                  <l> Beso vuestras manos, con vuestra graçia, señor,</l>
+                  <l> irme quiero pora Valençia, con afán la gané yo.</l>
+                  <l> Per Vermudoz, el que antes rebtó,</l>
+                  <l> con Ferrant Gonçálvez de cara se juntó,</l>
+                  <l> un colpe reçibiera, mas otro firió.</l>
+                  <l> Metiól la lança por los pechos, çerca del coraçón,</l>
+                  <l> de dentro en la carne una mano metió,</l>
+                  <l> por la boca afuera la sángrel salió.</l>
+                  <l> Crebáronle las ´çinchas, ninguna nol ovo pro,</l>
+                  <l> que mal ferido es de mort.</l>
+                  <l> En elle dexó la lança e mano a Tizón metió</l>
+                  <l> antes que el colpe esperasse dixo: Vençudo so.</l>
+                  <l> Martín Antolínez mano metió al espada,</l>
+                  <l> el casco de somo apart gelo echava,</l>
+                  <l> la cofia e el almófar, todo llevava,</l>
+                  <l> raxol los pelos, bien a la carne llegava,</l>
+                  <l> lo uno cayó en el campo e lo al suso fincava.</l>
+                  <l> Quando a ferido Colada la preçiada,</l>
+                  <l> vido Díag Gonçálvez que no escaparie con alma,</l>
+                  <l> tan grandes vozes dava.</l>
+                  <l> Valme Dios glorioso, señor, cúriam de Colada,</l>
+                  <l> sacól del mojón Martino, en el campo fincava.</l>
+                  <l> Anssuor Gonçálvez, forçudo e de valor,</l>
+                  <l> firió en el escudo a don Muño Gustioz,</l>
+                  <l> en vazio fue la lança, ca en carne nol tomó.</l>
+                  <l> Varón que tanto calla el escudo crebantó,</l>
+                  <l> de la otra part una braça gela echó,</l>
+                  <l> apart le priso, que non cab el coraçón.</l>
+                  <l> Este colpe fecho, la carne adentro metiol,</l>
+                  <l> la lança con el pendón,</l>
+                  <l> con él dio una tuerta, de la siella lo encamó,</l>
+                  <l> vermejo salió el ástil e la lança y el pendón.</l>
+                  <l> Dixo Gonçalvo Anssuórez: ¡nol firgades, por Dios!,</l>
+                  <l> vençudo es el campo quando esto se acabó.</l>
+                  <l> Dixieron los fideles_ esto odimos nos,</l>
+                  <l> vençieron esta lid los del buen Campeador.</l>
+                  <l> ¿Por qué las sacávades de Valençia sus onores?</l>
+                  <l> ¿A qué las firiestes a çinchas e a espolones?</l>
+                  <l> Por que las dexamos derecho fiziemos nos</l>
+                  <l> más nos preçiamos, sabet, que menos no.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Toma los vv. 3128-3132, 3134-3136, 3140-3142 (combinación libre), 3153-3155,
+            3204-3206, 3254, 3256-3257, 3167-3169, 3236-3240, 3248, 3487, 3489, 3506-3507,
+            3623-3624, 3630, 3633, 3637-3638, 3641 (segundo hemistiquio)-3644 (algo libre), 3648,
+            3651, 3653-3654 (combinados),  3655-3666, 3659-3660, 3664 (segundo hemistiquo), 3665,
+            3667, 3674-3675, 3677, 3680 (con sustitución del primer hemistiquio por epítiteto épico
+            relativo al personaje de Pero Bemúdez), 3884, 3682, 3679 (solo primer hemistiquio),
+            3683,  3685, 3687, 3690-3692, 3695-3696 (combinados), 3264-3265, 3299-3300, del cantar
+            tercero del Cantar de mio Cid, en ese orden, con modificaciones mínimas. Probablemente
+            sigue la edición de Menéndez Pidal, dado el tratamiento de -e final en varios versos,
+            pero no podemos asegurarlo por el momento. Todo el disco está dedicado al Cantar de mio
+            Cid, del que es una adaptación.   El estribillo «Oídme la cort» puede estar inspirado en
+            el primer hemistiquio del v. 3255 «Oídme toda la cort e pésevos de mio mal». </note>
+      </body>
+   </text>
+</TEI>

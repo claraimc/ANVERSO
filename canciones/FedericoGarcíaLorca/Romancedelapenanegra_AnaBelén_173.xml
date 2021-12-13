@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romance de la pena negra</title>
+            <author>Ana Belén</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Lorquiana. Poemas de Federico García Lorca</title>
+               <publisher>Ariola y MBG España</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=vXi66GFdvb0"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Ana Belén</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Romance de la pena negra</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Las piquetas de los gallos</l>
+                  <l> cavan buscando la aurora,</l>
+                  <l> cuando por el monte oscuro</l>
+                  <l> baja Soledad Montoya.</l>
+                  <l> Cobre amarillo, su carne,</l>
+                  <l> huele a caballo y a sombra.</l>
+                  <l> Yunques ahumados sus pechos,</l>
+                  <l> gimen canciones redondas.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Soledad, ¿por quién preguntas</l>
+                  <l> sin compaña y a estas horas?</l>
+                  <l> Pregunte por quien pregunte,</l>
+                  <l> dime, ¿a ti qué se te importa?</l>
+                  <l> Vengo a buscar lo que busco,</l>
+                  <l> mi alegría y mi persona.</l>
+                  <l> Soledad de mis pesares,</l>
+                  <l> caballo que se desboca,</l>
+                  <l> al fin encuentra la mar</l>
+                  <l> y se lo tragan las olas.</l>
+                  <l> No me recuerdes el mar</l>
+                  <l> que la pena negra, brota</l>
+                  <l> en las tierras de aceituna</l>
+                  <l> bajo el rumor de las hojas.</l>
+                  <l> ¡Soledad, qué pena tienes!</l>
+                  <l> ¡Qué pena tan lastimosa!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Lloras zumo de limón</l>
+                  <l> agrio de espera y de boca.</l>
+                  <l> ¡Qué pena tan grande! Corro</l>
+                  <l> mi casa como una loca,</l>
+                  <l> mis dos trenzas por el suelo,</l>
+                  <l> de la cocina a la alcoba.</l>
+                  <l> ¡Qué pena! Me estoy poniendo</l>
+                  <l> de azabache, carne y ropa.</l>
+                  <l> ¡Ay mis camisas de hilo!</l>
+                  <l> ¡Ay mis muslos de amapola!</l>
+                  <l> Soledad, lava tu cuerpo</l>
+                  <l> con agua de las alondras</l>
+                  <l> y deja tu corazón</l>
+                  <l> en paz, Soledad Montoya,</l>
+                  <l> y deja tu corazón</l>
+                  <l> en paz, Soledad Montoya.</l>
+                  <l> Soledad Montoya.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Por abajo canta el río:</l>
+                  <l> volante de cielo y hojas.</l>
+                  <l> Con flores de calabaza,</l>
+                  <l> la nueva luz se corona.</l>
+                  <l> ¡Oh pena de los gitanos!</l>
+                  <l> Pena limpia y siempre sola.</l>
+                  <l> ¡Oh pena de cauce oculto</l>
+                  <l> y madrugada remota!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay mis camisas de hilo!</l>
+                  <l> ¡Ay mis muslos de amapola!</l>
+                  <l> Soledad, lava tu cuerpo</l>
+                  <l> con agua de las alondras</l>
+                  <l> y deja tu corazón</l>
+                  <l> en paz, Soledad Montoya,</l>
+                  <l> y deja tu corazón</l>
+                  <l> en paz, Soledad Montoya.</l>
+                  <l> Soledad Montoya.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Por abajo canta el río:</l>
+                  <l> volante de cielo y hojas.</l>
+                  <l> Con flores de calabaza,</l>
+                  <l> la nueva luz se corona.</l>
+                  <l> ¡Oh pena de los gitanos!</l>
+                  <l> Pena limpia y siempre sola.</l>
+                  <l> ¡Oh pena de cauce oculto</l>
+                  <l> y madrugada remota!</l>
+                  <l> ¡Y madrugada remota!</l>
+                  <l> ¡Y madrugada remota!</l>
+                  <l> ¡Y madrugada remota!</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio, a falta de buena fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Hubo dos musicalizaciones anteriores a 1975, por eso no están recogidas en esta base
+            de datos: Gabriela Ortega ‎(Federico García Lorca, 1958) y Alejandro Manzano, Antonio
+            Maya ‎(Guitarra flamenca y poemas de García Lorca, 1973). </note>
+      </body>
+   </text>
+</TEI>

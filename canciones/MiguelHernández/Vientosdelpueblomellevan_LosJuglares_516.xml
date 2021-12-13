@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vientos del pueblo me llevan</title>
+            <author>Los Juglares</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Está despuntando el alba. Homenaje a Miguel Hernández</title>
+               <publisher>Ariola</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target=""/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Los Juglares</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Vientos del pueblo me llevan</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>No se ha podido tener acceso a la letra.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">No se ha podido encontrar la letra ni un recurso on-line donde poder escuchar la
+            canción, pero basándonos en otras canciones de mismo disco que sí se han encontrado, es
+            muy posible que la musicalización del poema sea idéntica o similar. Se puede encontrar
+            información sobre el disco en el siguiente enlace. Existe una versión posterior de esta
+            canción en el disco La palabra más tuya. Cantando a Miguel Hernández, de 2006. </note>
+      </body>
+   </text>
+</TEI>

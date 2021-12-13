@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mi infancia son recuerdos</title>
+            <author>Calixto Sánchez</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Antonio Machado. Retrato flamenco</title>
+               <publisher>Pasarela</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=S1SwY9-w2pw"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Calixto Sánchez</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Antonio Machado</persName>
+                  <bibl>Retrato</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Mi infancia son recuerdos de un patio de Sevilla,</l>
+                  <l> y un huerto claro donde madura el limonero.</l>
+               </lg>
+               <lg>
+                  <l> De un patio de Sevilla.</l>
+                  <l> Mi juventud, veinte años en tierras de Castilla;</l>
+                  <l> y mi historia, algunos casos que recordar no quiero.</l>
+               </lg>
+               <lg>
+                  <l> Ni un seductor Mañara, ni un Bradomín he sido;</l>
+                  <l> conocéis mi torpe aliño indumentario,</l>
+                  <l> mas recibí la flecha que me asignó Cupido.</l>
+                  <l> y amé cuanto ellas puedan tener de hospitalario.</l>
+               </lg>
+               <lg>
+                  <l> A mi trabajo acudo, con mi dinero pago</l>
+                  <l> el traje que me cubre y la mansión que habito,</l>
+                  <l> el pan que me alimenta y el lecho en donde yago.</l>
+               </lg>
+               <lg>
+                  <l> Hay en mis venas gotas de sangre jacobina,</l>
+                  <l> pero mi verso brota de manantial sereno;</l>
+               </lg>
+               <lg>
+                  <l> Gotas de sangre jacobina.</l>
+                  <l> Y, más que un hombre al uso que sabe su doctrina,</l>
+                  <l> soy, en el buen sentido de la palabra, bueno.</l>
+               </lg>
+               <lg>
+                  <l> Adoro la hermosura, y en la moderna estética</l>
+                  <l> corté las viejas rosas del huerto de Ronsard;</l>
+                  <l> mas no amo los afeites de la actual cosmética,</l>
+                  <l> ni soy un ave de esas del nuevo gay-trinar.</l>
+               </lg>
+               <lg>
+                  <l> Y cuando llegue el día del último vïaje,</l>
+                  <l> y esté al partir la nave que nunca ha de tornar,</l>
+                  <l> me encontraréis a bordo ligero de equipaje,</l>
+                  <l> casi desnudo, como los hijos de la mar.</l>
+               </lg>
+               <lg>
+                  <l> Desdeño las romanzas de los tenores huecos</l>
+                  <l> y el coro de los grillos que cantan a la luna.</l>
+               </lg>
+               <lg>
+                  <l> Que cantan a la luna.</l>
+                  <l> A distinguir me paro las voces de los ecos,</l>
+                  <l> y escucho solamente, entre las voces, una.</l>
+               </lg>
+               <lg>
+                  <l> ¿Soy clásico o romántico? No sé. Dejar quisiera</l>
+                  <l> mi verso, como deja el capitán su espada:</l>
+                  <l> famosa por la mano viril que la blandiera,</l>
+                  <l> no por el docto oficio del forjador preciada.</l>
+               </lg>
+               <lg>
+                  <l> A mi trabajo acudo, con mi dinero pago</l>
+                  <l> el traje que me cubre y la mansión que habito,</l>
+                  <l> el pan que me alimenta y el lecho en donde yago.</l>
+               </lg>
+               <lg>
+                  <l> Converso con el hombre que siempre va conmigo</l>
+                  <l> —quien habla solo espera hablarle a Dios un día—.</l>
+               </lg>
+               <lg>
+                  <l> Que siempre va conmigo.</l>
+                  <l> Mi soliloquio es plática con ese buen amigo</l>
+                  <l> que me enseñó el secreto de la filantropía.</l>
+               </lg>
+               <lg>
+                  <l> Y al cabo, nada os debo; debéisme cuanto he escrito.</l>
+                  <l> A mi trabajo acudo, con mi dinero pago</l>
+                  <l> el traje que me cubre y la mansión que habito,</l>
+                  <l> el pan que me alimenta y el lecho en donde yago.</l>
+               </lg>
+               <lg>
+                  <l> Y cuando llegue el día del último vïaje,</l>
+                  <l> y esté al partir la nave que nunca ha de tornar,</l>
+                  <l> me encontraréis a bordo ligero de equipaje,</l>
+                  <l> casi desnudo, como los hijos de la mar.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y en contraste con el poema original; a
+                    falta de fuente escrita, la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción, compuesta como sevillanas (según se indica en el título que se le da en el
+            propio álbum), musicaliza prácticamente todos los versos del poema, pero con un orden
+            diferente. El poema había sido musicalizado por primera vez por Alberto Cortez (Poemas y
+            canciones, vol. 2, 1968), con el título de «Retrato». Esta misma versión la usó Joan
+            Manuel Serrat un año más tarde (Dedicado a Antonio Machado, poeta, 1969). Estas
+            versiones no están recogidas en esta base de datos por ser anteriores a 1975. A pesar de
+            la enorme popularidad de la versión de Cortez/Serrat, Calixto Sánchez no se basó en
+            ella; de hecho, le pone un título diferente: «Mi infancia son recuerdos». </note>
+      </body>
+   </text>
+</TEI>

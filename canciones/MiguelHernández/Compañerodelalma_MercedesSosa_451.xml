@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Compañero del alma</title>
+            <author>Mercedes Sosa</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Flamencópolis</title>
+               <publisher>Universal Music Group</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/HxF5UxBSC6E"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Mercedes Sosa</persName>
+                  <nationality>Argentina y España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Llegó con tres heridas]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Llegó con tres heridas:</l>
+                  <l> la del amor,</l>
+                  <l> la de la muerte,</l>
+                  <l> la de la vida.</l>
+               </lg>
+               <lg>
+                  <l> Con tres heridas viene:</l>
+                  <l> la de la vida,</l>
+                  <l> la del amor,</l>
+                  <l> la de la muerte.</l>
+               </lg>
+               <lg>
+                  <l> Con tres heridas yo:</l>
+                  <l> la de la vida,</l>
+                  <l> la de la muerte,</l>
+                  <l> la del amor.</l>
+               </lg>
+               <lg>
+                  <l> Qué carabedio pongo?</l>
+                  <l> Cuando te veo te miro por la rivera del hombro.</l>
+                  <l> Que va a la luna, a empujarme a quererte como a ninguna.</l>
+               </lg>
+               <lg>
+                  <l> Llegó con tres heridas:</l>
+                  <l> la del amor,</l>
+                  <l> la de la muerte,</l>
+                  <l> la de la vida.</l>
+               </lg>
+               <lg>
+                  <l> Con tres heridas viene:</l>
+                  <l> la de la vida,</l>
+                  <l> la del amor,</l>
+                  <l> la de la muerte.</l>
+               </lg>
+               <lg>
+                  <l> Con tres heridas yo:</l>
+                  <l> la de la vida,</l>
+                  <l> la de la muerte,</l>
+                  <l> la del amor.</l>
+               </lg>
+               <lg>
+                  <l> Quién llenará este vacío de cuerpo desalentado, que dejó tu cuerpo al mío.</l>
+                  <l> Ay! el rincón de tu vientre, cayeron de tu calle, cayeron sin salida…</l>
+                  <l> Y aquí quisiera tenerte para desenamorarme.</l>
+                  <l> Después del amor la tierra, después del amor la tierra, después de la tierra
+                    nadie.</l>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización simillar del poema de Miguel Hernández. Se
+            repite dos veces el poema, pero también se usan versos de otros poemas del autor:
+            «…Después del amor la tierra, después del amor la tierra, después de la tierra nadie…»,
+            perteneciente al poema Después del amor. </note>
+      </body>
+   </text>
+</TEI>

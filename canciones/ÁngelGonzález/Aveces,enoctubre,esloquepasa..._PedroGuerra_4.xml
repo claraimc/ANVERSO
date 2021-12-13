@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A veces, en octubre, es lo que pasa...</title>
+            <author>Pedro Guerra</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>La palabra en el aire</title>
+               <publisher>El Europeo Música</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=GEloKpN9XvY"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Pedro Guerra</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Ángel González</persName>
+                  <bibl>A veces, en octubre, es lo que pasa…</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Cuando nada sucede,</l>
+                  <l> y el verano se ha ido,</l>
+                  <l> y las hojas comienzan a caer de los árboles,</l>
+                  <l> y el frío oxida el borde de los ríos</l>
+                  <l> y hace más lento el curso de las aguas;</l>
+               </lg>
+               <lg>
+                  <l> cuando el cielo parece un mar violento,</l>
+                  <l> y los pájaros cambian de paisaje,</l>
+                  <l> y las palabras se oyen cada vez más lejanas,</l>
+                  <l> como susurros que dispersa el viento;</l>
+               </lg>
+               <lg>
+                  <l> entonces,</l>
+                  <l> ya se sabe,</l>
+                  <l> es lo que pasa:</l>
+               </lg>
+               <lg>
+                  <l> esas hojas, los pájaros, las nubes,</l>
+                  <l> las palabras dispersas y los ríos,</l>
+                  <l> nos llenan de inquietud súbitamente</l>
+                  <l> y de desesperanza.</l>
+               </lg>
+               <lg>
+                  <l> No busquéis el motivo en vuestros corazones.</l>
+                  <l> Tan sólo es lo que dije:</l>
+                  <l> lo que pasa.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción musicaliza el poema original sin alteraciones textuales, excepto que se
+            repiten algunos versos. </note>
+      </body>
+   </text>
+</TEI>

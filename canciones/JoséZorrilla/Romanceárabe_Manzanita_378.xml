@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romance árabe</title>
+            <author>Manzanita</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Espíritu sin nombre</title>
+               <publisher>CBS Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=kJEoNUd3nxQ"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Manzanita</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>José Zorrilla</persName>
+                  <bibl>Oriental (2)</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Que corriendo van por la vega,</l>
+                  <l> que y a las puertas de Granada,</l>
+                  <l> que montan cuarenta jinetes</l>
+                  <l> y el capitán que los manda.</l>
+               </lg>
+               <lg>
+                  <l> Que y al entrar en la ciudad,</l>
+                  <l> que parando su yegua blanca,</l>
+                  <l> que quien le dice a una gitanaca</l>
+                  <l> que entre sus brazos lloraba:</l>
+               </lg>
+               <lg>
+                  <l> “Que te enjuagá el llanto, gitana,</l>
+                  <l> que no me atormentes así,</l>
+                  <l> y que yo tengo, mi gitana,</l>
+                  <l> y un nuevo Edén para ti.</l>
+               </lg>
+               <lg>
+                  <l> Que tengo un castillo en Granada,</l>
+                  <l> que tengo pájaros y flores,</l>
+                  <l> que tengo una fuente dorada</l>
+                  <l> con más de cien surtidores.</l>
+               </lg>
+               <lg>
+                  <l> Que y en la vega del Genil,</l>
+                  <l> que tengo toa mi fortaleza,</l>
+                  <l> que yo te haré reina entre mil</l>
+                  <l> cuando encierren tu belleza.</l>
+               </lg>
+               <lg>
+                  <l> Y que sobre toda la orilla</l>
+                  <l> que yo extiendo mi señorío,</l>
+                  <l> que ni en Córdoba, ni en Sevilla,</l>
+                  <l> hay un jardín como el mío.</l>
+               </lg>
+               <lg>
+                  <l> Que yo olmos tengo en mi alameda,</l>
+                  <l> que y hasta el cielo se levantan,</l>
+                  <l> que y en redes de plata y seda</l>
+                  <l> tengo pajarillos que cantan”.</l>
+               </lg>
+               <lg>
+                  <l> Que montándola en su caballo,</l>
+                  <l> que y en la mitad de su guardia,</l>
+                  <l> que y el capitán de los moros</l>
+                  <l> con la gitanita se marcha.</l>
+                  <l> ¡Ay que se marcha (x 5)!</l>
+                  <l> ¡Mira que se marcha (x 5)!</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción musicaliza el poema, con ligeras variaciones léxicas en los versos y
+            suprimiendo algunas estrofas, a causa de lo cual el sentido cambia completamente. En el
+            poema original, la cristiana pide al moro que la deje, porque es feliz en su tierra de
+            León; él accede, y se va sin ella, entristecido. En la canción, el moro se lleva a la
+            gitana para hacerla feliz en su castillo. </note>
+      </body>
+   </text>
+</TEI>

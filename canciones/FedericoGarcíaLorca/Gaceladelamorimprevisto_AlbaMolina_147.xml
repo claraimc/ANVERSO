@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gacela del amor imprevisto</title>
+            <author>Alba Molina</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Despasito</title>
+               <publisher>Virgin</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=lpnpwq3LMyQ"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+               <term>Latina</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Alba Molina</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Gacela del amor imprevisto</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Nadie comprendía el perfume</l>
+                  <l> de la oscura magnolia de tu vientre.</l>
+                  <l> Nadie sabía que martirizabas</l>
+                  <l> un colibrí de amor entre los dientes.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Mil caballitos persas se dormían</l>
+                  <l> en la plaza con luna de tu frente,</l>
+                  <l> mientras que yo enlazaba cuatro noches</l>
+                  <l> tu cintura enemiga de la nieve.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Entre yeso y jazmines, tu mirada</l>
+                  <l> era un pálido ramo de simientes.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Yo busqué para darte por mi pecho</l>
+                  <l> las letras de marfil que dicen “siempre.</l>
+                  <l> Siempre, siempre”, jardín de mi agonía,</l>
+                  <l> tu cuerpo fugitivo para siempre,</l>
+                  <l> la sangre de tus venas en mi boca,</l>
+                  <l> tu boca ya sin luz para mi muerte.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Hubo una musicalización en portugués anterior a 1975, por ambas razones no está
+            recogida en esta base de datos: Dário De Barros (Canta Ary Dos Santos, António Gedeão,
+            Bertolt Brechet, Garcia Lorca, 1973). </note>
+      </body>
+   </text>
+</TEI>

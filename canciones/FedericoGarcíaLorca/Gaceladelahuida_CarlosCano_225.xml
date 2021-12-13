@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gacela de la huida</title>
+            <author>Carlos Cano</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Diván del Tamarit. Gacelas y Casidas.</title>
+               <publisher>Dalur Discos</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=Pd898SJ8l5Q&amp;list=PLDtszg9eT1fzwhPDDvl4irXJcVoUVplcY&amp;index=11"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Carlos Cano</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Gacela de la huida</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Me he perdido muchas veces por el mar,</l>
+                  <l> muchas veces me he perdido por el mar,</l>
+                  <l> me he perdido muchas veces por el mar,</l>
+                  <l> muchas veces me he perdido por el mar.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Con el oído lleno de flores recién cortadas,</l>
+                  <l> recién cortadas.</l>
+                  <l> Con la lengua llena de amor y de agonía,</l>
+                  <l> y de agonía.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Me he perdido muchas veces por el mar,</l>
+                  <l> muchas veces me he perdido por el mar,</l>
+                  <l> me he perdido muchas veces por el mar,</l>
+                  <l> muchas veces me he perdido por el mar.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> No hay noche que al dar un beso</l>
+                  <l> no sienta la sonrisa de la gente sin rostro,</l>
+                  <l> ni hay nadie que al tocar un recién nacido</l>
+                  <l> olvide las inmóviles calaveras de caballo.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Porque las rosas buscan en la frente</l>
+                  <l> un duro paisaje de hueso</l>
+                  <l> y las manos del hombre no tienen más sentido</l>
+                  <l> que imitar a las raíces bajo tierra.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Como me pierdo en el corazón de algunos niños,</l>
+                  <l> me he perdido muchas veces por el mar.</l>
+                  <l> Ignorante del agua, voy buscando</l>
+                  <l> una muerte de luz que me consuma.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Muchas veces me he perdido por el mar,</l>
+                  <l> me he perdido muchas veces por el mar,</l>
+                  <l> muchas veces me he perdido por el mar.</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio, a falta de buena fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización similar, con la adaptación a estribillo del primer verso del poema y un
+            sutil cambio en el verso sexto, donde en el poema dice «No hay nadie que al dar un beso»
+            y en la canción «No hay noche que al dar un beso». </note>
+      </body>
+   </text>
+</TEI>

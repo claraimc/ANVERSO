@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nana del caballo grande</title>
+            <author>Alameda</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Concierto 20 Aniversario</title>
+               <publisher>Actual Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=MkTqSdbmONk"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Alameda</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>[Nana del caballo grande]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Nana, niño, nana</l>
+                  <l> del caballo grande</l>
+                  <l> que no quiso el agua</l>
+                  <l> que no quiso el agua.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> El agua era negra</l>
+                  <l> dentro de las ramas,</l>
+                  <l> cuando llega al puente</l>
+                  <l> se detiene y canta.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¿Qué dirá, mi niño,</l>
+                  <l> lo que tiene el agua</l>
+                  <l> con su blanca solaz</l>
+                  <l> con su verde rama?</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Duérmete, clavel,</l>
+                  <l> que el caballo no quiere beber.</l>
+                  <l> Duérmete, rosa,</l>
+                  <l> que el caballo se pone a llorar.</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio; a falta de fuente escrita, la
+                    puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización similar, versionando muy de cerca la primera realizada por Camarón de
+            la Isla en 1979. Cambia con respecto a esta dos versos, 9-12 de la canción de Camarón y
+            por tanto también con los del poema:   «¿Quién dirá mi niño qué tiene agua con su larga
+            cola por su verde sala?» </note>
+      </body>
+   </text>
+</TEI>

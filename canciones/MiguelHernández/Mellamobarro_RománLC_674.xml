@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Me llamo barro</title>
+            <author>Román LC</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Homenaje a Miguel Hernández</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/Pyv05YrlNC0"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Román LC</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Me llamo barro aunque Miguel me llame]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Me llamo barro aunque Miguel me llame.</l>
+                  <l> Barro es mi profesión y mi destino</l>
+                  <l> que mancha con su lengua cuanto lame.</l>
+                  <l> Me llamo barro aunque Miguel me llame.</l>
+               </lg>
+               <lg>
+                  <l> Más mojado que el rostro de mi llanto,</l>
+                  <l> cuando el vidrio lanar del hielo bala,</l>
+                  <l> cuando el invierno tu ventana cierra</l>
+                  <l> bajo a tus pies un gavilán de ala.</l>
+               </lg>
+               <lg>
+                  <l> Barro en vano me invisto de amapola,</l>
+                  <l> barro en vano vertiendo voy mis brazos,</l>
+                  <l> barro en vano te muerdo los talones,</l>
+                  <l> dándote a malheridos aletazos</l>
+                  <l> sapos como convulsos corazones.</l>
+               </lg>
+               <lg>
+                  <l> Harto de someterse a los puñales</l>
+                  <l> circulantes del carro y la pezuña,</l>
+                  <l> teme del barro un parto de animales</l>
+                  <l> de corrosiva piel y vengativa uña.</l>
+               </lg>
+               <lg>
+                  <l> Harto de someterse a los puñales</l>
+                  <l> circulantes del carro y la pezuña,</l>
+                  <l> teme del barro un parto de animales</l>
+                  <l> de corrosiva piel y vengativa uña.</l>
+               </lg>
+               <lg>
+                  <l> Teme que se levante huracanado</l>
+                  <l> del blando territorio del invierno</l>
+                  <l> y estalle y truene y caiga diluviado</l>
+                  <l> sobre tu sangre duramente tierno.</l>
+               </lg>
+               <lg>
+                  <l> Teme un asalto de ofendida espuma</l>
+                  <l> y teme un amoroso cataclismo.</l>
+                  <l> Antes que la sequía lo consuma</l>
+                  <l> el barro ha de volverte de lo mismo.</l>
+                  <l> el barro ha de volverte de lo mismo.</l>
+               </lg>
+               <lg>
+                  <l> Harto de someterse a los puñales</l>
+                  <l> circulantes del carro y la pezuña,</l>
+                  <l> teme del barro un parto de animales</l>
+                  <l> de corrosiva piel y vengativa uña.</l>
+               </lg>
+               <lg>
+                  <l> Harto de someterse a los puñales</l>
+                  <l> circulantes del carro y la pezuña,</l>
+                  <l> teme del barro un parto de animales</l>
+                  <l> de corrosiva piel y vengativa uña.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg> </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar del poema de Miguel Hernández. Para
+            componer la canción, el autor utiliza los tres primeros versos de la primera estrofa,
+            los cuatro primeros versos de la cuarta estrofa, la quinta, octava, décima y
+            decimoprimera estrofas, en este mismo orden. La octava estrofa es utilizada como
+            estribillo y se repite a lo largo de la canción:  «…Harto de someterse a los
+            puñales/circulantes del carro y la pezuña,/teme del barro un parto de animales/de
+            corrosiva piel y vengativa uña…» </note>
+      </body>
+   </text>
+</TEI>

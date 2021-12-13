@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Verde que te quiero verde</title>
+            <author>Dikelaos</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Más vale tarde que nunca</title>
+               <publisher>Stelars Clothing</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=5HKzNKWZ6O4"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Electrónica</term>
+               <term>Flamenco</term>
+               <term>Jazz</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Dikelaos</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Romance sonámbulo</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Yo te quiero verde.</l>
+                  <l> Yo te quiero verde.</l>
+                  <l> ¡Ay, ay!</l>
+                  <l> ¡Sí! Te quiero verde.</l>
+               </lg>
+               <lg>
+                  <l> Pero ¿quién vendrá y por dónde?</l>
+                  <l> Ella sigue en su baranda,</l>
+                  <l> verde carne, pelo verde,</l>
+                  <l> soñando en la mar amarga.</l>
+                  <l> Yo… verde.</l>
+                  <l> Yo te quiero verde. [x 2]</l>
+               </lg>
+               <lg>
+                  <l> Verde que te quiero verde.</l>
+                  <l> Verde viento. Verdes ramas.</l>
+                  <l> Y el barco sobre la mar.</l>
+                  <l> Y el caballo en la montaña.</l>
+                  <l> ¡Verde! Yo te quiero verde.</l>
+                  <l> ¡Sí! Te quiero verde.</l>
+                  <l> Yo… te quiero verde.</l>
+               </lg>
+               <lg>
+                  <l> Con la sombra en la cintura,</l>
+                  <l> ella… ella, ella sueña en la baranda,</l>
+                  <l> ojos verdes, negro pelo,</l>
+                  <l> su cuerpo de fría plata.</l>
+               </lg>
+               <lg>
+                  <l> ¡Verde! Yo… verde.</l>
+                  <l> Yo te quiero verde.</l>
+                  <l> ¡Sí, sí!</l>
+                  <l> Yo te quiero… verde.</l>
+               </lg>
+               <lg>
+                  <l> Verde que te quiero verde.</l>
+                  <l> Te quiero verde.</l>
+                  <l> Diez estrellas grandes de escarcha</l>
+                  <l> vienen con el pez de sombra</l>
+                  <l> que hay al camino del alba.</l>
+                  <l> Verde. Yo te quiero verde.</l>
+                  <l> ¡Sí! Te quiero verde.</l>
+                  <l> Yo… te quiero verde.</l>
+               </lg>
+               <lg>
+                  <l> Compadre, quiero morir</l>
+                  <l> decentemente en mi cama.</l>
+                  <l> De acero, si puede ser,</l>
+                  <l> con las sábanas de holanda.</l>
+                  <l> ¡Verde! Yo te quiero verde.</l>
+                  <l> Yo… te quiero verde. [x 2]</l>
+               </lg>
+               <lg>
+                  <l> Verde que te quiero verde.</l>
+                  <l> Verde viento. Verdes ramas.</l>
+                  <l> El barco sobre la mar.</l>
+                  <l> Y el caballo en la montaña.</l>
+                  <l> ¡Verde! Yo… te quiero verde.</l>
+                  <l> ¡Sí, sí!</l>
+                  <l> Sí… te quiero verde.</l>
+                  <l> ¡Ay, ay!</l>
+                  <l> Yo… te quiero verde. [Estrofa x 2]</l>
+                  <l> (Transcripción propia a partir del audio; a falta de fuente escrita, la
+                    puntualización y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción parte de la versión que hizo Manzanita en 1978. Sin embargo, Dikelaos añade
+            versos del poema de Lorca no usados por Manzanita. </note>
+      </body>
+   </text>
+</TEI>

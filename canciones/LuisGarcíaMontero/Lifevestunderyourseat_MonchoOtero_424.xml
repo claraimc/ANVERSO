@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Life vest under your seat</title>
+            <author>Moncho Otero</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>La palabra más tuya. Cantando a: Agustin García Calvo, Luis García Montero,
+                Agustín Millares, Pedro Lezcano</title>
+               <publisher>Factoría Autor</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=jpmX3J4I9Us"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Moncho Otero</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Luis García Montero</persName>
+                  <bibl>Life vest under your seat</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Señores pasajeros, buenas tardes</l>
+                  <l> y Nueva York al fondo todavía,</l>
+                  <l> delicadas las torres de Manhattan</l>
+                  <l> con la luz sumergida de una muchacha triste,</l>
+                  <l> buenas tardes, señores pasajeros,</l>
+                  <l> mantendremos en vuelo doce mil pies de altura,</l>
+                  <l> altos como su cuerpo en el pasillo</l>
+                  <l> de la Universidad, una pregunta,</l>
+                  <l> podría repetirme el título del libro,</l>
+                  <l> cumpliendo normas internacionales,</l>
+                  <l> las cuatro ventanillas de emergencia,</l>
+                  <l> pero habrá que cenar, tal vez alguna copa,</l>
+                  <l> casi vivir sin vínculo y sin límites,</l>
+                  <l> modos de ver la noche y estar en los cristales</l>
+                  <l> del alba, regresando,</l>
+                  <l> y muchas otras noches regresando</l>
+                  <l> bajo edificios de temblor acuático,</l>
+                  <l> a una velocidad de novecientos</l>
+                  <l> kilómetros, te dije</l>
+                  <l> que nunca resistí las despedidas,</l>
+                  <l> al aeropuerto no,</l>
+                  <l> prefiero tu recuerdo por mi casa,</l>
+                  <l> apoyado en el piano del Bar Andalucía,</l>
+                  <l> bajo el cielo violeta</l>
+                  <l> de los amaneceres en Manhattan,</l>
+                  <l> igual que dos desnudos en penumbra</l>
+                  <l> con Nueva York al fondo, todavía</l>
+                  <l> al aeropuerto no,</l>
+                  <l> rogamos hagan uso</l>
+                  <l> del cinturón, no fumen</l>
+                  <l> hasta que despeguemos,</l>
+                  <l> cuiden que estén derechos los respaldos,</l>
+                  <l> me tienes que llamar,</l>
+                  <l> cuiden que estén derechos los respaldos,</l>
+                  <l> me tienes que llamar,</l>
+                  <l> cuiden que estén derechos los respaldos,</l>
+                  <l> me tienes que llamar, de sus asientos.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio; a falta de fuente escrita, la
+                    puntualización y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Se musicaliza el poema prácticamente idéntico, excepto que se repiten algunos versos.
+        </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Crezca el honor</title>
+            <author>Entertainiment y Rosonika</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Sencillo(single)">
+               <title>Crezca el honor</title>
+               <publisher>--</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=oCmXvW90Bps"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Electrónica</term>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Entertainiment y Rosonika</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Canto del honor </bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Licencia pido a la novia</l>
+                  <l> y también a la madrina</l>
+                  <l> y a los padres de la novia</l>
+                  <l> para rondar a esta niña.</l>
+                  <l> Paloma del palomar</l>
+                  <l> Quien te ha quitado los vuelos</l>
+                  <l> Que no has podido bajar</l>
+                  <l> Desde el palo hasta el suelo.</l>
+                  <l> Con un sí que dio la novia</l>
+                  <l> A las puertas de la iglesia</l>
+                  <l> Con un sí que dio la novia</l>
+                  <l> Entro libre y salió presa</l>
+                  <l> Crezca el honor de los mozos y mozas</l>
+                  <l> Crezca el honor de la espiga y la rosa</l>
+                  <l> Crezca el honor de los mozos y mozas</l>
+                  <l> Crezca el honor de la espina y la rosa</l>
+                  <l> Que bonita está la sierra</l>
+                  <l> Con el tomillo florido</l>
+                  <l> Mas bonita está la novia</l>
+                  <l> En brazos de su marido</l>
+                  <l> El novio le dio a la novia</l>
+                  <l> Un anillo de oro fino</l>
+                  <l> Y ella le dio su cariño</l>
+                  <l> Que vale más que el dinero</l>
+                  <l> Crezca el honor de la espina y la rosa</l>
+                  <l> Crezca el honor de novios y padrinos</l>
+                  <l> Crezca el honor de los mozos y mozas</l>
+                  <l> Crezca el honor de la espina y la rosa</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns=""/>
+      </body>
+   </text>
+</TEI>

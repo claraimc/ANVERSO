@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El niño de la palma</title>
+            <author>Gabriela Orteaga</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Gabriela Orteaga interpreta a Rafael Alberti</title>
+               <publisher>Alba (4)</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=V5ukxk7To5k"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+               <term>Latina</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Gabriela Orteaga</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <bibl>El niño de la palma (Chuflillas)</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>¡Qué revuelo!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Aire, que al toro torillo</l>
+                  <l> le pica el pájaro pillo</l>
+                  <l> que no pone el pie en el suelo!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Qué revuelo!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Ángeles con cascabeles</l>
+                  <l> arman la marimorena,</l>
+                  <l> plumas nevando en la arena</l>
+                  <l> rubí de los redondeles.</l>
+                  <l> La Virgen de los caireles</l>
+                  <l> baja una palma del cielo.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Qué revuelo!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Vengas o no en busca mía,</l>
+                  <l> torillo, mala persona,</l>
+                  <l> dos cirios y una corona</l>
+                  <l> tendrás en la enfermería.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Qué alegría!</l>
+                  <l> ¡Cógeme, torillo fiero!</l>
+                  <l> ¡Qué salero!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> De la gloria, a tus pitones,</l>
+                  <l> bajé, gorrión de oro,</l>
+                  <l> a jugar contigo al toro,</l>
+                  <l> no a pedirte explicaciones.</l>
+                  <l> ¡A ver si te las compones</l>
+                  <l> y vuelves vivo al chiquero!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Qué salero!</l>
+                  <l> ¡Cógeme, torillo fiero!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Alas en las zapatillas,</l>
+                  <l> céfiros en las hombreras,</l>
+                  <l> canario de las barreras,</l>
+                  <l> vuelas con las banderillas.</l>
+                  <l> Campanillas</l>
+                  <l> te nacen en las chorreras.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Qué salero!</l>
+                  <l> ¡Cógeme, torillo fiero!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Te digo y te lo repito,</l>
+                  <l> para no comprometerte,</l>
+                  <l> que tenga cuernos la muerte</l>
+                  <l> a mí se me importa un pito.</l>
+                  <l> Da, toro torillo, un grito</l>
+                  <l> y ¡a la gloria en angarillas!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Qué salero!</l>
+                  <l> ¡Que te arrastran las mulillas!</l>
+                  <l> ¡Cógeme, torillo fiero!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original; la puntuación y
+                    ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Hubo una musicalización anterior a 1975, por eso no recogida en esta base de datos:
+            Mikaela (Mikaela canta poesías de Rafael Alberti, 1970). </note>
+      </body>
+   </text>
+</TEI>

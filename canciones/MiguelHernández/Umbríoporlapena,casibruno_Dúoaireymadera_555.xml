@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Umbrío por la pena, casi bruno</title>
+            <author>Dúo aire y madera</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Una canción para Miguel</title>
+               <publisher>A Guitarra Limpia (Centro Pablo) y SGAE</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/Qst40i0V3C4"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Dúo aire y madera</persName>
+                  <nationality>Cuba</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Umbrío por la pena]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Umbrío por la pena, casi bruno,</l>
+                  <l> porque la pena tizna cuando estalla,</l>
+                  <l> donde yo no me hallo no se halla</l>
+                  <l> hombre más apenado que ninguno.</l>
+               </lg>
+               <lg>
+                  <l> Sobre la pena duermo solo y uno,</l>
+                  <l> pena es mi paz y pena mi batalla,</l>
+                  <l> perro que ni me deja ni se calla,</l>
+                  <l> siempre a su dueño fiel, pero importuno.</l>
+               </lg>
+               <lg>
+                  <l> Cardos y penas llevo por corona,</l>
+                  <l> cardos y penas siembran sus leopardos</l>
+                  <l> y no me dejan bueno hueso alguno.</l>
+               </lg>
+               <lg>
+                  <l> No podrá con la pena mi persona</l>
+                  <l> rodeada de penas y de cardos:</l>
+                  <l> ¡cuánto penar para morirse uno!</l>
+               </lg>
+               <lg>
+                  <l> Sobre la pena duermo solo y uno,</l>
+                  <l> pena es mi paz y pena mi batalla,</l>
+                  <l> perro que ni me deja ni se calla,</l>
+                  <l> siempre a su dueño fiel, pero importuno.</l>
+               </lg>
+               <lg>
+                  <l> Cardos y penas llevo por corona,</l>
+                  <l> cardos y penas siembran sus leopardos</l>
+                  <l> y no me dejan bueno hueso alguno.</l>
+               </lg>
+               <lg>
+                  <l> No podrá con la pena mi persona</l>
+                  <l> rodeada de penas y de cardos:</l>
+                  <l> ¡cuánto penar para morirse uno!</l>
+               </lg>
+               <lg>
+                  <l> Cardos y penas…</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar del poema de Miguel Hernández. El autor
+            utiliza, para componer la canción, el poema de manera íntegra; sin embargo, se repiten
+            dos veces mas las estrofas segunda tercera y cuarta para alargar la duración de la
+            canción. </note>
+      </body>
+   </text>
+</TEI>

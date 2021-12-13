@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La propuesta y el perdón</title>
+            <author>Emilio Valdeolivas</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>El cantar de mio Cid</title>
+               <publisher>Tecnosaga</publisher>
+               <date cert="low"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=el7V9-IRGnM&amp;t=2494s"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Emilio Valdeolivas</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Propuesta de matrimonio (Cantar de mio Cid)</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Venides, MInaya,e vos, Per Vermudoz.</l>
+                  <l> En pocas tierras a tales dos varones.</l>
+                  <l> Commo son las saludes de Alfons mio señor,</l>
+                  <l> si es pagado o reçibio el don.</l>
+                  <l> Dixo Minaya d’alma e de coraçon</l>
+                  <l> es pagado e davos su añor,</l>
+                  <l> lo quel rogava Alfons el de León</l>
+                  <l> de dar sues fijas a iffantes de Carrión.</l>
+                  <l> Quando lo oyó mio Çid el Campeador,</l>
+                  <l> una gran grand ora pensó e comidió</l>
+                  <l> de aqueste casamiento que semeja a vos.</l>
+                  <l> Lo que a vos ploguiere esso dezimos nos.</l>
+                  <l> Dixo Minaya, a vos dixo Alfons</l>
+                  <l> querer vos ye veer e darvos su amor,</l>
+                  <l> acordar vos yedes después a todo lo mejor,</l>
+                  <l> que vos vernié a vistas do oviéssedes sabor.</l>
+                  <l> Fabló mio Çid, plazme de coraçón,</l>
+                  <l> por darle grand ondra commo a rey e señor,</l>
+                  <l> sobre Tajo, que es unaagua mayor,</l>
+                  <l> ayamos vistas quando quisiesse el rey Alfons.</l>
+                  <l> Escriven cartas, bien las seelló,</l>
+                  <l> de coraçón se paga quando las vio,</l>
+                  <l> si yo bivo so allí iré sin falla,</l>
+                  <l> sean las vistas destas tres sedmanas.</l>
+                  <l> De un día es llegado antes el rey don Alfons.</l>
+                  <l> Quando vieron que vinie el buen Campeador</l>
+                  <l> reçebir lo salen con tan grand onor.</l>
+                  <l> Fabló mio Çid e dixo esta razón:</l>
+                  <l> Merçedvos pido a vos, mio natural señor</l>
+                  <l> assí estando, dédesme vuestra amor</l>
+                  <l> que lo oyan todos quantos aquí son.</l>
+                  <l> Dixo el rey: esto feré de alma e de coraçón,</l>
+                  <l> aquí vos perdono e dovos mi amor</l>
+                  <l> en todo mio reyno parte desde oy.</l>
+                  <l> Fabló mio Çid e dixo esta razón:</l>
+                  <l> Merçed yo lo reçibo, Alfons mio señor,</l>
+                  <l> gradéscolo a Dios del çielo e después a vos</l>
+                  <l> e a estas mesnadas que están a derredor.</l>
+                  <l> ¿Quién vido por Castiella tanta mula preçiada,</l>
+                  <l> tanto palafré e tanta buena arma,</l>
+                  <l> escudos blocados con oro e con plata,</l>
+                  <l> tanto buen pendón meter en buenas astas?</l>
+                  <l> Dixo el rey: quiero cometer un ruego a mio Çid el Campeador,</l>
+                  <l> vuestras fijas vos pido, don Elvira e doña Sol,</l>
+                  <l> las dedess por mugieres a ifantes de Carrión.</l>
+                  <l> Respuso el Çid: nn abría fijas casar</l>
+                  <l> ca non han grand hedad, de días pequeñas son,</l>
+                  <l> hyo las engendré amas e criásteslas vos,</l>
+                  <l> dadlas a qui quisiéredes vos, ca yo pagado so.</l>
+                  <l> Ensiéllanle a Bavieca, cuberturas le echavan,</l>
+                  <l> mio Çid salió sobrél, armas de fuste tomava,</l>
+                  <l> fizo una corrida, ésta fo tan estraña</l>
+                  <l> des día se preçió Bavieca en quant grant fo España.</l>
+               </lg>
+               <lg> </lg>
+            </lg>
+         </div>
+         <note xmlns="">Toma los vv. 1919-1924,1927-1928,  1931-1932, 1939-1940, 1943, 1944-1947 (en otro
+            orden), 1952, 1954-1955 (en último en cruce con el v. 1950), 1956. 1960,  1962-1963
+            (invertidos), 2013-2015, 2043,  2031-2038, 1966-1967 (combinados), 1969-1970
+            (invertidos), 2073 , 2075-2076, 2082-2083, 2086, 2089, 1585-1586 y 1587-1588, del cantar
+            segundo del Cantar de mio Cid, en ese orden, con modificaciones mínimas. Probablemente
+            sigue la edición de Menéndez Pidal, dado el tratamiento de -e final en varios versos,
+            pero no podemos asegurarlo por el momento. Todo el disco está dedicado al Cantar de mio
+            Cid, del que es una adaptación. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Casida del sediento</title>
+            <author>Carmen Linares y Silvia Pérez Cruz</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Sencillo(single)">
+               <title>Casida del sediento</title>
+               <publisher>Salobre</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://music.youtube.com/watch?v=N6aH4ZPxSOA&amp;list=RDAMVMN6aH4ZPxSOA"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+               <term>Jazz</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Carmen Linares y Silvia Pérez Cruz</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Casida del sediento</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>[Carmen Linares]</l>
+               </lg>
+               <lg>
+                  <l> Arena del desierto soy,</l>
+                  <l> desierto de sed.</l>
+                  <l> Oasis es tu boca</l>
+                  <l> donde no he de beber.</l>
+               </lg>
+               <lg>
+                  <l> [Silvia Pérez Cruz]</l>
+               </lg>
+               <lg>
+                  <l> Arena del desierto soy,</l>
+                  <l> desierto de sed.</l>
+                  <l> Oasis es tu boca</l>
+                  <l> donde no he de beber.</l>
+               </lg>
+               <lg>
+                  <l> Boca, boca, boca y boca: Oasis abierto</l>
+                  <l> a todas las arenas del desierto.</l>
+               </lg>
+               <lg>
+                  <l> [Carmen Linares]</l>
+               </lg>
+               <lg>
+                  <l> Boca, boca, boca, boca: Oasis abierto</l>
+                  <l> a todas las arenas del desierto.</l>
+               </lg>
+               <lg>
+                  <l> [Silvia Pérez Cruz]</l>
+               </lg>
+               <lg>
+                  <l> Del desierto… (tararea)</l>
+               </lg>
+               <lg>
+                  <l> [Carmen Linares]</l>
+               </lg>
+               <lg>
+                  <l> Arena del desierto soy,</l>
+                  <l> desierto de sed.</l>
+                  <l> Oasis es tu boca</l>
+                  <l> donde no he de beber. [Estrofa x 2]</l>
+               </lg>
+               <lg>
+                  <l> [Silvia Pérez Cruz duplica algunos versos de la estrofa anterior]</l>
+               </lg>
+               <lg>
+                  <l> [Silvia Pérez Cruz]</l>
+               </lg>
+               <lg>
+                  <l> Húmedo, húmedo, húmedo: punto en medio</l>
+                  <l> de un mundo abrasador,</l>
+                  <l> donde tu cuerpo, el tuyo,</l>
+                  <l> que nunca es de los dos.</l>
+               </lg>
+               <lg>
+                  <l> [Ambas]</l>
+               </lg>
+               <lg>
+                  <l> Cuerpo, cuerpo, cuerpo: pozo cerrado</l>
+                  <l> donde la sed y el sol han calcinado. [Estrofa x 2]</l>
+                  <l> Han calcinado…</l>
+               </lg>
+               <lg>
+                  <l> [Carmen Linares]</l>
+               </lg>
+               <lg>
+                  <l> Arena del desierto soy,</l>
+                  <l> desierto de sed.</l>
+                  <l> Oasis es tu boca</l>
+                  <l> donde no he de beber.</l>
+               </lg>
+               <lg>
+                  <l> [Silvia Pérez Cruz]</l>
+               </lg>
+               <lg>
+                  <l> He de beber… ¡No!</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización casi idéntica, excepto por algunas supresiones o adiciones léxicas y
+            por repetición de versos. Esta versión se basa en la que previamente había hecho en
+            solitario Carmen Linares (Remembranzas, 2011). Hubo una primera musicalización de este
+            poema por Francisco Curto (Miguel Hernández, 1974), pero, al ser anterior a 1975, no
+            está recogida en esta base de datos. </note>
+      </body>
+   </text>
+</TEI>

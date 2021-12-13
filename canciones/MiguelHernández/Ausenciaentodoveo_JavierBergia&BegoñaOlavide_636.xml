@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ausencia en todo veo</title>
+            <author>Javier Bergia &amp; Begoña Olavide</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>A propósito de Miguel Hernandez. Un poeta de Orihuela</title>
+               <publisher>Togomago</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://javierbergia.com/tienda/a-proposito-de-miguel-hernandez-un-poeta-de-orihuela-begona-olavide-javier-bergia/"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Javier Bergia &amp; Begoña Olavide</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Ausencia en todo veo]</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>No está disponible la letra de esta versión.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta musicalización forma parte de un disco donde, según su descripción, se pone
+            música a los poemas de Miguel Hernández. Por esto, podemos suponer que la musicalización
+            es idéntica. </note>
+      </body>
+   </text>
+</TEI>

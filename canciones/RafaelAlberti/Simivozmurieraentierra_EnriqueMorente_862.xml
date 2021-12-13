@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Si mi voz muriera en tierra</title>
+            <author>Enrique Morente</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Negra, si tu supieras</title>
+               <publisher>Nuevos Medios</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=4BVhGa6ZQWQ"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Flamenco</term>
+               <term>Latina</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Enrique Morente</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <bibl>[Si mi voz muriera en tierra]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Si mi voz muriera en tierra,</l>
+                  <l> llevadla al nivel del mar,</l>
+                  <l> si mi voz muriera en tierra,</l>
+                  <l> y dejadla en la ribera.</l>
+                  <l> Llevadla al nivel del mar</l>
+                  <l> y nombradla capitana</l>
+                  <l> de un blanco bajel de guerra.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Deseando una cosa</l>
+                  <l> parece un mundo,</l>
+                  <l> luego que se consigue</l>
+                  <l> tan sólo es humo.</l>
+                  <l> Tan solo es humo, niña,</l>
+                  <l> tan solo es humo.</l>
+                  <l> Deseando una cosa</l>
+                  <l> parece un mundo.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> A dibujar esa rosa</l>
+                  <l> ayudarme caballero</l>
+                  <l> a dibujar esa rosa</l>
+                  <l> que soy solito y no puedo</l>
+                  <l> dibujarla tan hermosa</l>
+                  <l> que soy solito y no puedo</l>
+                  <l> dibujarla tan hermosa.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> El sarmiento en la lumbre,</l>
+                  <l> y el que se enamora,</l>
+                  <l> el sarmiento en la lumbre,</l>
+                  <l> y el que se enamora,</l>
+                  <l> por un lado se enciende,</l>
+                  <l> por un lado se enciende,</l>
+                  <l> por un lado se enciende,</l>
+                  <l> por otro, llora.</l>
+                  <l> por un lado se enciende,</l>
+                  <l> por otro, llora.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Oh mi voz condecorada</l>
+                  <l> con la insignia marinera¡</l>
+                  <l> ¡Oh mi voz condecorada</l>
+                  <l> sobre el corazón un ancla,</l>
+                  <l> y sobre el ancla vela,</l>
+                  <l> y sobre la vela el viento,</l>
+                  <l> y sobre el viento la estrella!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Deseando una cosa</l>
+                  <l> parece un mundo,</l>
+                  <l> luego que se consigue</l>
+                  <l> tan sólo es humo.</l>
+                  <l> Tan solo es humo, niña,</l>
+                  <l> tan solo es humo.</l>
+                  <l> Deseando una cosa</l>
+                  <l> parece un mundo.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original; la puntuación y
+                    ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Hubo dos musicalizaciones anteriores a 1975, por eso no recogidas en esta base de
+            datos: Guillermina Motta i Cardona (single, 1969) y Los lobos (Vientos del pueblo,
+            1972). La principal variación con el poema de Rafael Alberti radica en la introducción
+            de tres cantigas tradicionales (s. XVIII-XIX d. C.). En la última estrofa del poema
+            cambia de lugar las palabras «estrella» y «vela», colocando la segunda en el lugar de la
+            primera y viceversa. </note>
+      </body>
+   </text>
+</TEI>

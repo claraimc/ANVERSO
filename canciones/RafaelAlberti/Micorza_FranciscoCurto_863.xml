@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mi corza</title>
+            <author>Francisco Curto</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>La Guerra Civil Española</title>
+               <publisher>Le Chant Du Monde, Edigsa y Iberia Vox</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=LOXwtlGLEPI"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Francisco Curto</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <bibl>Mi corza</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>El 26 de enero de 1939 el general Yagüe y la Legión entran sin combate en
+                    Barcelona.</l>
+                  <l> Millares de españoles caminan al destierro a través de los Pirineos. En Madrid
+                    morían de hambre al rededor de cuatrocientas o quinientas personas
+                    semanalmente.</l>
+                  <l> Las disensiones en el campo republicano facilitan la victoria definitiva de los
+                    nacionalistas. Estos entran en Madrid el 28 de marzo. Dos días más tarde la
+                    guerra termina habiendo costado cerca de un millón de muertos.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Mi corza, buen amigo,</l>
+                  <l> mi corza blanca.</l>
+                  <l> Los lobos la mataron</l>
+                  <l> al pie del agua.</l>
+                  <l> Los lobos, buen amigo,</l>
+                  <l> que huyeron por el río.</l>
+                  <l> Los lobos la mataron</l>
+                  <l> dentro del agua.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Mi corza, buen amigo,</l>
+                  <l> mi corza blanca.</l>
+                  <l> Los lobos la mataron</l>
+                  <l> dentro del agua.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original; la puntuación y
+                    ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Hubo dos musicalizaciones anteriores a 1975, por eso no recogidas en esta base de
+            datos: Los lobos (Vientos del pueblo, 1972) y Francisco Curto (La Guerre Civile
+            Espagnole – Histoire De La Guerre D’spagne, 1974). La única variación es la repetición
+            de la primera y última estrofa del poema juntas al final de la canción. </note>
+      </body>
+   </text>
+</TEI>

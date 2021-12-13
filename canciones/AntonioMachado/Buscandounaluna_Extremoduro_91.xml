@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Buscando una luna</title>
+            <author>Extremoduro</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Agila</title>
+               <publisher>Discos Radiactivos Organizados</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=q9IjQAef8VI"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Extremoduro</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Antonio Machado</persName>
+                  <bibl>Por tierras de España</bibl>
+                  <relation>Cita</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Salgo a pasear por dentro de mí</l>
+                  <l> veo paisajes que de un libro</l>
+                  <l> de memoria me aprendí.</l>
+               </lg>
+               <lg>
+                  <l> Llanuras bélicas y páramos de asceta</l>
+                  <l> —no fue por estos campos el bíblico jardín—:</l>
+                  <l> son tierras para el águila, un trozo de planeta</l>
+                  <l> por donde cruza errante la sombra de Caín.</l>
+               </lg>
+               <lg>
+                  <l> Bajé las escaleras, sí, de dos en dos.</l>
+                  <l> Perdí al bajar el norte y la respiración.</l>
+                  <l> ¿Y por las noches qué harás?:</l>
+                  <l> las paso descosiendo, aquí hay un arco por tensar.</l>
+               </lg>
+               <lg>
+                  <l> ¡Que yo me acuerdo entodavía cuando te besaba!</l>
+                  <l> ¡La cago!, ¡vuelvo a tiritar!</l>
+                  <l> ¡Si tú no te juraras siempre que yo te faltaba!</l>
+                  <l> ¡A veces todo es tan normal!</l>
+               </lg>
+               <lg>
+                  <l> Bajé las escaleras, sí, de dos en dos.</l>
+                  <l> Perdí al bajar el norte y la respiración.</l>
+                  <l> ¿Y por las noches qué harás?:</l>
+                  <l> las paso descosiendo, aquí hay un arco por tensar.</l>
+               </lg>
+               <lg>
+                  <l> Y hago colas sin parar</l>
+                  <l> en la puerta de algún bar.</l>
+                  <l> Yo, to borracho consumo las horas,</l>
+                  <l> mientras encuentro alguna luna que ande sola.</l>
+               </lg>
+               <lg>
+                  <l> ¡Que yo me acuerdo entodavía cuando te besaba!</l>
+                  <l> ¡La cago!, ¡vuelvo a tiritar!</l>
+                  <l> ¡Si tú no te juraras siempre que yo te faltaba!</l>
+                  <l> ¡A veces todo es tan normal!</l>
+               </lg>
+               <lg>
+                  <l> ¡Que yo me acuerdo entodavía cuando te besaba!</l>
+                  <l> ¡La cago!, ¡vuelvo a tiritar!</l>
+                  <l> ¡Que no! ¡Que ha sido un momentito solo de bajada!</l>
+                  <l> ¡Que aquí no pasa nada! [verso x 3]</l>
+               </lg>
+               <lg>
+                  <l> Y hago colas sin parar</l>
+                  <l> en la puerta de algún bar.</l>
+                  <l> Yo, to borracho consumo las horas,</l>
+                  <l> mientras encuentro alguna luna que ande sola.</l>
+               </lg>
+               <lg>
+                  <l> ¡Que yo me acuerdo entodavía cuando te besaba!</l>
+                  <l> ¡La cago!, ¡vuelvo a tiritar!</l>
+                  <l> ¡Que no! ¡Que ha sido un momentito solo de bajada!</l>
+                  <l> ¡Que aquí no pasa nada!</l>
+               </lg>
+               <lg>
+                  <l> [Tararea]</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio; a falta de fuente escrita, la
+                    puntualización y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">En la letra de la canción, la voz del cantante comienza recordando un libro que
+            aprendió de memoria, presumiblemente en la infancia del colegio, en referencia sin duda
+            a Campos de Castilla o a alguna edición de poemas de Machado usada en los planes de
+            estudio de la enseñanza obligatoria en España. Dicho esto, cita la última estrofa del
+            poema de Machado, que es fruto de ese recuerdo de los versos memorizados. Así, los
+            versos machadianos son el motor que suscita la letra de toda la canción. </note>
+      </body>
+   </text>
+</TEI>

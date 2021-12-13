@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Partístesos, mis amores</title>
+            <author>Amancio Prada</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Canciones de amor y celda</title>
+               <publisher>Movieplay</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=jcCa13VV7hI"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Amancio Prada</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Juan del Encina</persName>
+                  <bibl>Partístesos, mis amores</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Partístesos, mis amores,</l>
+                  <l> y partió</l>
+                  <l> mi placer todo y murió.</l>
+               </lg>
+               <lg>
+                  <l> No partió mi pensamiento,</l>
+                  <l> y vino mi perdimiento;</l>
+                  <l> No murió el contentamiento</l>
+                  <l> que me dio</l>
+                  <l> la causa que me perdió.</l>
+               </lg>
+               <lg>
+                  <l> Partístesos, mis amores,</l>
+                  <l> y partió</l>
+                  <l> mi placer todo y murió.</l>
+               </lg>
+               <lg>
+                  <l> Partió la gloria de veros,</l>
+                  <l> no el placer de obedeceros;</l>
+                  <l> mas el temor de perderos</l>
+                  <l> que creció,</l>
+                  <l> todo mi bien destruyó.</l>
+               </lg>
+               <lg>
+                  <l> Partístesos, mis amores,</l>
+                  <l> y partió</l>
+                  <l> mi placer todo y murió.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns=""> Adaptación bastante conservadora, a pesar del uso de la cabeza como estribillo. Se
+            retoma en los ábumes Trovadores, místicos y románticos (Ariola, 1990) y en Del amor que
+            quita el sueño (Musicamaina, 2010).   En el álbum hay otras piezas de la lírica
+            castellana medieval y temprano-moderna. </note>
+      </body>
+   </text>
+</TEI>

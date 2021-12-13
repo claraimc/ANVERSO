@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La jura de Santa Gadea</title>
+            <author>Lobera</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Maqueta/Demo">
+               <title>Sin piedad</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://ulfvaldr.bandcamp.com/track/la-jura-de-santa-gadea"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Heavy metal</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Lobera</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Romance de la jura de Santa Gadea «En Santa Gadea de Burgos»</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>En Santa Gadea de Burgos</l>
+                  <l> do juran los hijosdalgo,</l>
+                  <l> allí toma juramento</l>
+                  <l> el Cid al rey castellano,</l>
+                  <l> si se halló en la muerte</l>
+                  <l> del rey don Sancho su hermano.</l>
+                  <l> Las juras eran tan recias</l>
+                  <l> que al buen rey ponen espanto.</l>
+               </lg>
+               <lg>
+                  <l> —Villanos te maten, rey,</l>
+                  <l> villanos, que no hidalgos;</l>
+                  <l> de las Asturias de Oviedo,</l>
+                  <l> que no sean castellanos;</l>
+                  <l> mátente con aguijadas,</l>
+                  <l> no con lanças ni con dardos,</l>
+                  <l> con cuchillos cachicuernos,</l>
+                  <l> no con puñales dorados;</l>
+                  <l> mátente por las aradas,</l>
+                  <l> no por caminos hollados;</l>
+                  <l> sáquente el corazón vivo,</l>
+                  <l> por el derecho costado,</l>
+                  <l> si no dices la verdad</l>
+                  <l> de lo que te es preguntado:</l>
+                  <l> si tú fuiste o consentiste</l>
+                  <l> en la muerte de tu hermano.</l>
+               </lg>
+               <lg>
+                  <l> Las juras eran tan fuertes</l>
+                  <l> que el rey no las ha otorgado.</l>
+                  <l> Allí habló un caballero</l>
+                  <l> de los suyos más privado:</l>
+                  <l> —Haced la jura, buen rey,</l>
+                  <l> no tengáis de eso cuidado,</l>
+                  <l> que nunca fue rey traidor,</l>
+                  <l> ni Papa descomulgado.</l>
+                  <l> Jura entonces el buen rey</l>
+                  <l> que en tal nunca se ha hallado.</l>
+                  <l> Después habla contra el Cid</l>
+                  <l> malamente y enojado:</l>
+                  <l> —Mucho me aprietas, Rodrigo,</l>
+                  <l> Cid, muy mal me has conjurado,</l>
+                  <l> mas si hoy me tomas la jura,</l>
+                  <l> después me besarás la mano.</l>
+               </lg>
+               <lg>
+                  <l> —Aqueso será, buen rey,</l>
+                  <l> como fuer galardonado,</l>
+                  <l> porque allá en las otras tierras</l>
+                  <l> dan sueldo a los hijosdalgo.</l>
+                  <l> Por besar mano de rey</l>
+                  <l> no me tengo por honrado;</l>
+                  <l> porque la besó mi padre</l>
+                  <l> me tengo por afrentado.</l>
+               </lg>
+               <lg>
+                  <l> —¡Vete de mis tierras, Cid,</l>
+                  <l> mal caballero probado,</l>
+                  <l> y no me entres más en ellas,</l>
+                  <l> desde este día en un año!</l>
+                  <l> —Que me place —dijo el Cid—.</l>
+                  <l> que me place de buen grado,</l>
+                  <l> por ser la primera cosa</l>
+                  <l> que mandas en tu reinado.</l>
+                  <l> Tú me destierras por uno</l>
+                  <l> yo me destierro por cuatro.</l>
+               </lg>
+               <lg>
+                  <l> Ya se partía el buen Cid</l>
+                  <l> de Bivar, esos palacios.</l>
+                  <l> Las puertas deja cerradas,</l>
+                  <l> los alamudes echados.</l>
+                  <l> Con él van cien caballeros,</l>
+                  <l> todos eran hijosdalgo,</l>
+                  <l> por una ribera arriba</l>
+                  <l> al Cid van acompañando.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">No hemos podido determinar si sigue una versión concreta del romance de la Jura de
+            Santa Gadea que desconocemos o combina el que comienza «En Santa Águeda de Burgos» según
+            la edición de Paloma Díaz Mas para Crítica, que el artista explícitamente usa en otras
+            composiciones, con la de Ramón Menéndez Pidal en Flor nueva de romances viejos (1928).
+            Por ejemplo, los versos «que al buen rey ponen espanto / —Villanos te maten, rey» y
+            «sáquente el corazón vivo» responden en esa posición a la versión de Menéndez Pidal y, a
+            partir de «las juras eran tan fuertes», el artista abandona la edición de Díaz Mas
+            completamente para seguir la de aquel. Vuelve a la primera en «porque allá en las otras
+            tierras» y cambia de nuevo a la edición de Menéndez Pidal en «mal caballero probado».
+            Recupera la de Díaz Mas en «de Bivar, esos palacios». </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Al verla muerta</title>
+            <author>Niño de Elche</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Sí, a Miguel Hernández</title>
+               <publisher>Niño de Elche</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://music.youtube.com/watch?v=l49-dK4VWvo&amp;list=RDAMVMl49-dK4VWvo"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Niño de Elche</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Al verla muerta…</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>¡Pobre Juanica! ¡Pobre güertana!</l>
+                  <l> Por la sendica pal cimenterio</l>
+                  <l> la han llevao muerta</l>
+                  <l> esta mañana.</l>
+               </lg>
+               <lg>
+                  <l> El capullico más campanero</l>
+                  <l> que s’abre al día</l>
+                  <l> y del almendro reflorecío,</l>
+                  <l> rama pulía.</l>
+               </lg>
+               <lg>
+                  <l> Por la sendica se lo llevaron</l>
+                  <l> su cuerpo, su cuerpo yerto</l>
+                  <l> y dinde entonces el claro cielo</l>
+                  <l> de luto, de luto viste</l>
+                  <l> lloran los pájarillos adentro del güerto</l>
+                  <l> ¡Tuico está triste!</l>
+               </lg>
+               <lg>
+                  <l> El arroyico que se dilata,</l>
+                  <l> disquía la choza que ella habitara,</l>
+                  <l> por tuíco el suelo</l>
+                  <l> como una cinta e cascabelicos,</l>
+                  <l> como un espejo largo de plata,</l>
+                  <l> cruza mudico,</l>
+                  <l> cruza enturbiao porque su cara ya no retrata</l>
+                  <l> y las palomas pal cimenterio guían el güelo.</l>
+                  <l> ¡Ya no más noches en su ventano lleno de luna, lleno de azahares</l>
+                  <l> a los compases de mi guitarro</l>
+                  <l> diré cantares!</l>
+               </lg>
+               <lg>
+                  <l> ¡Si s’ha marchao quien m’ascuchaba!</l>
+                  <l> ¡Pa icir pesares el guitarrico ya solo agarro!</l>
+                  <l> La vida anoche muerta ¡Qué hermosa!</l>
+                  <l> En la mesica paecía dormía</l>
+                  <l> Me entró una cosa, una de lloros</l>
+                  <l> cuando la vide con la mortaja,</l>
+                  <l> rodía de cirios, blanquica y maja</l>
+                  <l> como una rosa, como una rosa.</l>
+               </lg>
+               <lg>
+                  <l> Por la sendica se la llevaron esta mañana,</l>
+                  <l> y al verla muerta, la palmerica mustió la palma,</l>
+                  <l> se queó el cielo sin sus colores, sin luz la güerta,</l>
+                  <l> tristes los pájaros, rota mi alma.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns=""/>
+      </body>
+   </text>
+</TEI>

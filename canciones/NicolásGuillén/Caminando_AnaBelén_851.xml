@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caminando</title>
+            <author>Ana Belén</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>La paloma de vuelo popular</title>
+               <publisher>Fonogram, S.A.</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=_S9yXCHL_zU"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Ana Belén</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Nicolás Guillén</persName>
+                  <bibl>Caminando</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Caminando, caminando,</l>
+                  <l> caminando!</l>
+                  <l> voy sin rumbo, caminando,</l>
+                  <l> caminando,</l>
+                  <l> voy sin plata, caminando,</l>
+                  <l> caminando,</l>
+                  <l> voy muy triste, caminando,</l>
+                  <l> caminando.</l>
+                  <l> Está lejos y él me busca,</l>
+                  <l> caminando,</l>
+                  <l> y él me espera, está más lejos,</l>
+                  <l> caminando,</l>
+                  <l> ya empeñé mi guitarra,</l>
+                  <l> caminando,</l>
+                  <l> las piernas se ponen duras,</l>
+                  <l> caminando,</l>
+                  <l> los ojos ven desde lejos,</l>
+                  <l> caminando,</l>
+                  <l> la mano agarra y no suelta,</l>
+                  <l> caminando,</l>
+                  <l> al que yo coja y lo apriete,</l>
+                  <l> caminando,</l>
+                  <l> ése la paga por todos,</l>
+                  <l> caminando,</l>
+                  <l> a ése le parto el pescuezo,</l>
+                  <l> caminando,</l>
+                  <l> y aunque me pida perdón,</l>
+                  <l> me lo como y me lo bebo,</l>
+                  <l> me lo bebo y me lo como,</l>
+                  <l> caminando, caminando.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio; a falta de fuente escrita, la
+                    puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción es una musicalización idéntica. En la canción solo se omite la dedicatoria
+            del poema (A Ñico López), y también la canción concluye repitiendo “caminando” en dos
+            ocasiones, mientras que en el poema se repite tres veces. </note>
+      </body>
+   </text>
+</TEI>

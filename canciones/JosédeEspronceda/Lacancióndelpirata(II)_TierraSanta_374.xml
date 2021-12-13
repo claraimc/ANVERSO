@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La canción del pirata (II)</title>
+            <author>Tierra Santa</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Tierras de leyenda</title>
+               <publisher>Locomotive Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=dG8_QPwFG8k"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Heavy metal</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Tierra Santa</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>José de Espronceda</persName>
+                  <bibl>Canción del pirata</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>A la voz de «¡Barco viene!»</l>
+                  <l> es de ver como vira y se previene</l>
+                  <l> a todo trapo escapar</l>
+                  <l> que yo soy el rey del mar</l>
+                  <l> y mi furia es de temer.</l>
+                  <l> En las presas yo divido</l>
+                  <l> lo cogido por igual,</l>
+                  <l> solo quiero por riqueza</l>
+                  <l> la belleza sin rival.</l>
+               </lg>
+               <lg>
+                  <l> Sentenciado estoy a muerte;</l>
+                  <l> yo me rio, no me abandoné a la suerte,</l>
+                  <l> y al mismo que me condena</l>
+                  <l> colgaré de alguna entena</l>
+                  <l> quizá de su propio navío.</l>
+                  <l> Y si caigo, ¿qué es la vida?</l>
+                  <l> Por perdida ya la dí</l>
+                  <l> cuando el yugo del esclavo</l>
+                  <l> como un bravo sacudí.</l>
+               </lg>
+               <lg>
+                  <l> Son mi música mejor</l>
+                  <l> aquilones, el estrépito y temblor</l>
+                  <l> de los cables sacudidos,</l>
+                  <l> del negro mar los bramidos</l>
+                  <l> y el rugir de mis cañones,</l>
+                  <l> y del trueno al son violento,</l>
+                  <l> y del viento al rebramar,</l>
+                  <l> yo me duermo sosegado</l>
+                  <l> arrullado por el mar.</l>
+               </lg>
+               <lg>
+                  <l> Que es mi barco mi tesoro,</l>
+                  <l> que es mi dios mi libertad,</l>
+                  <l> mi ley la fuerza y el viento,</l>
+                  <l> mi única patria la mar.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La banda pone música al poema de Espronceda dividiéndolo en dos canciones diferentes,
+            pero sin ninguna otra variación. </note>
+      </body>
+   </text>
+</TEI>

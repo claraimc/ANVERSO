@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caminos de soledad</title>
+            <author>José Menese</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Otros">
+               <title>La pureza del cante</title>
+               <publisher>Fonomusic</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=bzra3LDBdfk&amp;ab_channel=AyalaOyaJuan"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>José Menese</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>José Bergamín</persName>
+                  <bibl>[Hay tantísimos caminos]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Hay tantísimos caminos</l>
+                  <l> que van adonde no van</l>
+                  <l> que van adonde no van</l>
+                  <l> que van adonde no van</l>
+                  <l> y por cualquiera que vaya</l>
+                  <l> todos te equivocarán</l>
+                  <l> y por cualquiera que vaya</l>
+                  <l> todos te equivocarán</l>
+               </lg>
+               <lg>
+                  <l> Hay caminos que serpentean</l>
+                  <l> al subir como al bajar</l>
+                  <l> ay al subir como al bajar</l>
+                  <l> al subir como al bajar</l>
+                  <l> y se tuercen en lo llano</l>
+                  <l> para poderse alargar</l>
+                  <l> y se tuercen en lo llano</l>
+                  <l> para poderse alargar.</l>
+               </lg>
+               <lg>
+                  <l> Son caminos de silencio</l>
+                  <l> caminos de soledad</l>
+                  <l> caminos descaminados</l>
+                  <l> que engañan tu caminar</l>
+                  <l> caminos descaminados</l>
+                  <l> que engañan tu caminar.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio; a falta de fuente escrita, la
+                    puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns=""/>
+      </body>
+   </text>
+</TEI>

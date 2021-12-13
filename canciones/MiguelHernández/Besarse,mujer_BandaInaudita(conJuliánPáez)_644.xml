@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Besarse, mujer</title>
+            <author>Banda Inaudita (con Julián Páez)</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>A la luna venidera</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/2F6XQaa44Wo"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Banda Inaudita (con Julián Páez)</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Besarse, mujer]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Besarse, mujer,</l>
+                  <l> al sol, es besarnos</l>
+                  <l> en toda la vida,</l>
+                  <l> ascienden los labios</l>
+                  <l> eléctricamente</l>
+                  <l> vibrantes de rayos,</l>
+                  <l> con todo el furor</l>
+                  <l> de un sol entre cuatro.</l>
+               </lg>
+               <lg>
+                  <l> Besarse a la luna,</l>
+                  <l> mujer, es besarnos</l>
+                  <l> en toda la muerte.</l>
+                  <l> Descienden los labios</l>
+                  <l> con toda la luna</l>
+                  <l> pidiendo su ocaso,</l>
+                  <l> del labio de arriba,</l>
+                  <l> del labio de abajo,</l>
+                  <l> gastada y helada</l>
+                  <l> y en cuatro pedazos.</l>
+               </lg>
+               <lg>
+                  <l> Descienden los labios</l>
+                  <l> con toda la luna</l>
+                  <l> pidiendo su ocaso,</l>
+                  <l> del labio de arriba,</l>
+                  <l> del labio de abajo.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar al poema de Miguel Hernández. En este
+            caso, se utiliza la letra y estructura del poema, repitiendo al final de la canción los
+            versos cuarto al octavo de la segunda estrofa: «..Descienden los labios/con toda la
+            luna/pidiendo su ocaso,/del labio de arriba,/del labio de abajo…» </note>
+      </body>
+   </text>
+</TEI>

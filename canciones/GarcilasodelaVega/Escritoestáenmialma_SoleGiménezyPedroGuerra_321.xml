@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Escrito está en mi alma</title>
+            <author>Sole Giménez y Pedro Guerra</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Los hombres sensibles</title>
+               <publisher>Altafonte</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=_bcQma_hpDM"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Sole Giménez y Pedro Guerra</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Garcilaso de la Vega</persName>
+                  <bibl>Soneto V</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Escrito está en mi alma vuestro gesto,</l>
+                  <l> cuanto yo escribir de vos deseo;</l>
+                  <l> vos sola lo escribiste, yo lo leo</l>
+                  <l> tan solo, que aun de vos me guardo en esto.</l>
+                  <l> En esto estoy y estaré siempre puesto;</l>
+                  <l> que aunque no cabe en mí cuanto en vos veo,</l>
+                  <l> de tanto bien lo que no entiendo creo,</l>
+                  <l> tomando ya la fe por presupuesto.</l>
+                  <l> Yo no nací sino para quereros;</l>
+                  <l> mi alma os ha cortado a su medida;</l>
+                  <l> por hábito del alma mismo os quiero.</l>
+                  <l> Cuanto tengo confieso yo deberos;</l>
+                  <l> por vos nací, por vos tengo la vida,</l>
+                  <l> por vos he de morir, y por vos muero.</l>
+                  <l> Yo no nací sino para quereros;</l>
+                  <l> mi alma os ha cortado a su medida;</l>
+                  <l> por hábito del alma mismo os quiero.</l>
+                  <l> Cuanto tengo confieso yo deberos;</l>
+                  <l> por vos nací, por vos tengo la vida,</l>
+                  <l> por vos he de morir, y por vos muero.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns=""/>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aunque tú no lo sepas</title>
+            <author>Enrique Urquijo y Los Problemas</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Desde que no nos vemos</title>
+               <publisher>Discos Radiactivos Organizados</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=o6OULHNV3js"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Enrique Urquijo y Los Problemas</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Luis García Montero</persName>
+                  <bibl>Aunque tú no lo sepas</bibl>
+                  <relation>Cita</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Aunque tu no lo sepas,</l>
+                  <l> me he inventado tu nombre,</l>
+                  <l> me drogué con promesas</l>
+                  <l> y he dormido en los coches.</l>
+               </lg>
+               <lg>
+                  <l> Aunque tu no lo entiendas,</l>
+                  <l> nunca escribo el remite en el sobre</l>
+                  <l> por no dejar mis huellas.</l>
+               </lg>
+               <lg>
+                  <l> Aunque tú no lo sepas,</l>
+                  <l> me he acostado a tu espalda</l>
+                  <l> y mi cama se queja fría</l>
+                  <l> cuando te marchas.</l>
+               </lg>
+               <lg>
+                  <l> He blindado mi puerta</l>
+                  <l> y, al llegar la mañana,</l>
+                  <l> no me di ni cuenta</l>
+                  <l> de que ya nunca estabas.</l>
+               </lg>
+               <lg>
+                  <l> Aunque tú no lo sepas,</l>
+                  <l> nos decíamos tanto,</l>
+                  <l> con las manos tan llenas,</l>
+                  <l> cada día más flacos.</l>
+                  <l> Inventamos mareas,</l>
+                  <l> tripulábamos barcos</l>
+                  <l> y encendía con besos</l>
+                  <l> el mar de tus labios.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción incluye el verso “Aunque tú no lo sepas”, que es a la vez el título de la
+            canción y del poema. </note>
+      </body>
+   </text>
+</TEI>

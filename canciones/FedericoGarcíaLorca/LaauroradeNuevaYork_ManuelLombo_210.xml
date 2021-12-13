@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La aurora de Nueva York</title>
+            <author>Manuel Lombo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Yo</title>
+               <publisher>--</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=hdr4e7hx5kw&amp;list=OLAK5uy_mKsGju9o3EKStKtTAIfSziONAQH_FxdD4&amp;index=14"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+               <term>Latina</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Manuel Lombo</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>La aurora</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>De bronce</l>
+                  <l> si yo encontrara</l>
+                  <l> compañera</l>
+                  <l> por tu ventana sales</l>
+                  <l> si mi voz muriera en tierra</l>
+                  <l> parecía que</l>
+                  <l> en mi porche de lana</l>
+                  <l> dormiría un león.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> La aurora de Nueva York tiene</l>
+                  <l> cuatro columnas de cieno,</l>
+                  <l> huracán de negras palomas</l>
+                  <l> que chapotean las aguas podridas.</l>
+                  <l> La aurora de Nueva York tiene</l>
+                  <l> cuatro columnas de cieno.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> La aurora llega y nadie la recibe en su boca</l>
+                  <l> porque allí no hay mañana ni esperanza posible.</l>
+                  <l> A veces las monedas en enjambres furiosos</l>
+                  <l> taladran y devoran abandonados niños.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> La aurora de Nueva York gime</l>
+                  <l> por las inmensas escaleras.</l>
+                  <l> La aurora de Nueva York gime</l>
+                  <l> por las inmensas escaleras</l>
+                  <l> buscando entre las aristas</l>
+                  <l> nardos de angustia dibujada.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Los primeros que salen comprenden en sus huesos</l>
+                  <l> que no habrá paraíso ni amores deshojados;</l>
+                  <l> saben que van al cieno de números y leyes,</l>
+                  <l> a los juegos sin arte, a sudores sin fruto.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> La aurora de Nueva York gime</l>
+                  <l> por las inmensas escaleras.</l>
+                  <l> La aurora de Nueva York gime</l>
+                  <l> por las inmensas escaleras</l>
+                  <l> buscando entre las aristas</l>
+                  <l> nardos de angustia dibujada.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> La luz es sepultada por cadenas y ruidos</l>
+                  <l> en impúdico reto de ciencia sin raíces.</l>
+                  <l> Por los barrios hay gentes que caminan insomnes</l>
+                  <l> como recién salidas de un naufragio de sangre.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> La aurora de Nueva York tiene</l>
+                  <l> cuatro columnas de cieno.</l>
+                  <l> La aurora de Nueva York gime</l>
+                  <l> por las inmensas escaleras.</l>
+                  <l> La aurora de Nueva York tiene</l>
+                  <l> cuatro columnas de cieno.</l>
+                  <l> !Tiene!</l>
+               </lg>
+               <lg>
+                  <l> La aurora de Nueva York tiene,</l>
+                  <l> la aurora de nueva York olvida,</l>
+                  <l> la aurora de Nueva York tiene</l>
+                  <l> cuatro columnas de cieno.</l>
+                  <l> ¡Gime!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización similar siguiendo la realizada por Enrique Morente en 1996. Varía
+            sustancialmente en la introducción que no forma parte del poema de Lorca. </note>
+      </body>
+   </text>
+</TEI>

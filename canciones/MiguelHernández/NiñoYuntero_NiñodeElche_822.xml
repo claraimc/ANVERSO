@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Niño Yuntero</title>
+            <author>Niño de Elche</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Sí, a Miguel Hernández</title>
+               <publisher>Niño de Elche</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://music.youtube.com/watch?v=9Aj4Af4SCsE&amp;list=RDAMVM9Aj4Af4SCsE"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Niño de Elche</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>El niño Yuntero</bibl>
+                  <relation>Cita</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Carne de yugo, ha nacido</l>
+                  <l> más humillado que bello,</l>
+                  <l> con el cuello perseguido</l>
+                  <l> por el yugo para el cuello.</l>
+               </lg>
+               <lg>
+                  <l> Me duele este niño hambriento</l>
+                  <l> como una grandiosa espina,</l>
+                  <l> y su vivir ceniciento</l>
+                  <l> resuelve mi alma de encina.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción contiene dos partes del poema El niño Yuntero de Miguel Hernández. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La malcasada</title>
+            <author>Loquillo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Su nombre era el de todas las mujeres</title>
+               <publisher>Dro</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=UOsiEzMkMks"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Loquillo</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Luis Alberto de Cuenca</persName>
+                  <bibl>La malcasada</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Me dices que Juan Luis no te comprende,</l>
+                  <l> que sólo piensa en sus computadoras</l>
+                  <l> y que no te hace caso por las noches.</l>
+                  <l> Me dices que tus hijos no te sirven,</l>
+                  <l> que sólo dan problemas, que se aburren</l>
+                  <l> de todo y que estás harta de aguantarlos.</l>
+                  <l> Me dices que tus padres ya están viejos,</l>
+                  <l> que se han vuelto tacaños y egoístas</l>
+                  <l> y ya no eres su reina como antes.</l>
+                  <l> Me dices que has cumplido los cuarenta</l>
+                  <l> y que no es fácil empezar de nuevo,</l>
+                  <l> que los únicos hombres con que tratas</l>
+                  <l> son colegas de Juan en IBM</l>
+                  <l> y no te gustan los ejecutivos.</l>
+                  <l> Y yo, ¿qué es lo que pinto en esta historia?</l>
+                  <l> ¿Qué quieres que haga yo? ¿Que mate a alguien?</l>
+                  <l> ¿Que dé un golpe de estado libertario?</l>
+                  <l> Te quise como un loco. No lo niego.</l>
+                  <l> Pero eso fue hace mucho, cuando el mundo</l>
+                  <l> era una reluciente madrugada</l>
+                  <l> que no quisiste compartir conmigo.</l>
+                  <l> La nostalgia es un burdo pasatiempo.</l>
+                  <l> Vuelve a ser la que fuiste. Ve a un gimnasio,</l>
+                  <l> píntate más, alisa tus arrugas</l>
+                  <l> y ponte ropa sexy, no seas tonta,</l>
+                  <l> que a lo mejor Juan Luis vuelve a mimarte,</l>
+                  <l> y tus hijos se van a un campamento,</l>
+                  <l> y tus padres se mueren.</l>
+               </lg>
+               <lg>
+                  <l> Te quise como un loco. No lo niego.</l>
+                  <l> Pero eso fue hace mucho, cuando el mundo</l>
+                  <l> era una reluciente madrugada</l>
+                  <l> que no quisiste compartir conmigo.</l>
+                  <l> Me dices que Juan Luis no te comprende.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y en contraste con el poema original; a
+                    falta de fuente escrita, la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización similar, excepto que la canción repite algunos versos y hay alguna
+            mínima variación léxica. </note>
+      </body>
+   </text>
+</TEI>

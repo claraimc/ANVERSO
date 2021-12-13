@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Primero de mayo de 1937</title>
+            <author>Sole Candela &amp; Sitoh Ortega</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Otros">
+               <title>La tierra callada</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="low"/>
+            </bibl>
+            <bibl>
+               <link target=""/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Sole Candela &amp; Sitoh Ortega</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Primero de mayo de 1937</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>No se ha encontrado la letra de esta musicalización.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Realmente, el trabajo en el que se encuentra la musicalización de este poema, no es un
+            dsico en sí, sino una serie de actuaciones y eventos multidisciplinares de ambos
+            artistas que comienzan en 2017, pero cuyo última muestra podemos encontrar en 2021.
+            Aunque no aparece la musicalización de poema en cuestión, se puede ver una muestra de
+            estas actuaciones en la web del músico y fotógrafo Sitoh Ortega </note>
+      </body>
+   </text>
+</TEI>

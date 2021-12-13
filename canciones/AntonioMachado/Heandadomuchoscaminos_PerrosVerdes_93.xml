@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>He andado muchos caminos</title>
+            <author>Perros Verdes</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>El viaje de John</title>
+               <publisher>Perros Verdes</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=ZVxtw0O8YzQ"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Perros Verdes</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Antonio Machado</persName>
+                  <bibl>[He andado muchos caminos]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>He andado muchos caminos,</l>
+                  <l> he abierto muchas veredas;</l>
+                  <l> he navegado en cien mares,</l>
+                  <l> y atracado en cien riberas.</l>
+               </lg>
+               <lg>
+                  <l> En todas partes he visto</l>
+                  <l> caravanas de tristeza,</l>
+                  <l> soberbios y melancólicos</l>
+                  <l> borrachos de sombra negra,</l>
+               </lg>
+               <lg>
+                  <l> y pedantones al paño</l>
+                  <l> que miran, callan, y piensan</l>
+                  <l> que saben, porque no beben</l>
+                  <l> el vino de las tabernas.</l>
+               </lg>
+               <lg>
+                  <l> Mala gente que camina</l>
+                  <l> y va apestando la tierra…</l>
+               </lg>
+               <lg>
+                  <l> Y en todas partes he visto</l>
+                  <l> gentes que danzan o juegan,</l>
+                  <l> cuando pueden, y laboran</l>
+                  <l> sus cuatro palmos de tierra.</l>
+               </lg>
+               <lg>
+                  <l> Nunca, si llegan a un sitio,</l>
+                  <l> preguntan a dónde llegan.</l>
+                  <l> Cuando caminan, cabalgan</l>
+                  <l> a lomos de mula vieja,</l>
+               </lg>
+               <lg>
+                  <l> y no conocen la prisa</l>
+                  <l> ni aun en los días de fiesta.</l>
+                  <l> Donde hay vino, beben vino;</l>
+                  <l> donde no hay vino, agua fresca.</l>
+               </lg>
+               <lg>
+                  <l> Donde hay vino, beben vino;</l>
+                  <l> donde no hay vino, agua fresca.</l>
+               </lg>
+               <lg>
+                  <l> Son buenas gentes que viven,</l>
+                  <l> laboran, pasan y sueñan,</l>
+                  <l> y en un día como tantos,</l>
+                  <l> descansan bajo la tierra.</l>
+               </lg>
+               <lg>
+                  <l> Pedantones al paño</l>
+                  <l> que miran, callan, y piensan</l>
+                  <l> que saben, porque no beben</l>
+                  <l> el vino de las tabernas. [Estrofa x 3]</l>
+               </lg>
+               <lg>
+                  <l> Mala gente que camina</l>
+                  <l> y va apestando la tierra…</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y en contraste con el poema original; a
+                    falta de fuente escrita, la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción musicaliza casi igual el poema, excepto que algunos versos y estrofas, a
+            modo de estribillo. Joan Manuel Serrat había musicado este poema antes (Dedicado a
+            Antonio Machado, poeta, 1969); esta versión no está recogida en esta base de datos por
+            ser anterior a 1975. No parece que la versión de Perros Verdes se base en esta, aunque
+            es probable que la elección de musicar el poema se deba a la fama que obtuvo gracias a
+            Serrat. </note>
+      </body>
+   </text>
+</TEI>

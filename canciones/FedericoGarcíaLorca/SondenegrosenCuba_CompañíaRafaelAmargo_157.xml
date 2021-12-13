@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Son de negros en Cuba</title>
+            <author>Compañía Rafael Amargo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Otros">
+               <title>Poeta en Nueva York. Espectáculo musical</title>
+               <publisher>--</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=oYCnI2UWC7E"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Compañía Rafael Amargo</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Son de negros en Cuba</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Cuando llegue la luna llena iré a Santiago de Cuba,</l>
+                  <l> en un coche de agua negra,</l>
+                  <l> Brisa y alcohol en las ruedas,</l>
+                  <l> mi coral en la tiniebla.</l>
+                  <l> El mar ahogado en la arena,</l>
+                  <l> calor blanco, fruta muerta.</l>
+                  <l> El mar ahogado en la arena.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Cuba! ¡Cuba!</l>
+                  <l> ¡Cuba! ¡Cuba!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Cuba! ¡Cuba!</l>
+                  <l> ¡Cuba! ¡Cuba!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Cuba! ¡Cuba!</l>
+                  <l> ¡Cuba! ¡Cuba!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Cuba! ¡Cuba!</l>
+                  <l> ¡Cuba! ¡Cuba!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Cuba! ¡Cuba!</l>
+                  <l> ¡Cuba! ¡Cuba!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Amargo!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Cuando llegue la luna llena iré a Santiago de Cuba,</l>
+                  <l> en un coche de agua negra,</l>
+                  <l> ¡Ritmo de semillas secas!</l>
+                  <l> ¡Arpa de troncos vivos, frescor de cañavera!</l>
+                  <l> ¡Cintura caliente, gota de madera!</l>
+                  <l> Con el rosa de Romeo y Julieta.</l>
+                  <l> El mar ahogado en la arena.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">— </note>
+      </body>
+   </text>
+</TEI>

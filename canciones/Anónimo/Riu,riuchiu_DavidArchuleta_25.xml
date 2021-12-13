@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Riu, riu chiu</title>
+            <author>David Archuleta</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Christmas from the Hearth</title>
+               <publisher>Jive Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=bC9qPvqWr-U"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>David Archuleta</persName>
+                  <nationality>Estados Unidos</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Riu, riu chiu</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Riu riu chiu, la guarda ribera;</l>
+                  <l> Dios guardó el lobo de nuestra cordera,</l>
+                  <l> Riu riu chiu, la guarda ribera;</l>
+                  <l> Dios guardó el lobo de nuestra cordera.</l>
+                  <l> Riu riu chiu.</l>
+                  <l> Riu riu chiu.</l>
+                  <l> Riu riu chiu.</l>
+                  <l> Riu riu chiu.</l>
+               </lg>
+               <lg>
+                  <l> El lobo rabioso la quiso morder,</l>
+                  <l> mas Dios poderoso la supo defender.</l>
+                  <l> Quísola hazer que no pudiese pecar,</l>
+                  <l> ni aun original esta Virgen no tuviera.</l>
+               </lg>
+               <lg>
+                  <l> Riu riu chiu, la guarda ribera.</l>
+                  <l> Riu riu chiu, la guarda ribera.</l>
+                  <l> Riu riu chiu, la guarda ribera.</l>
+                  <l> Riu riu chiu, la guarda ribera.</l>
+               </lg>
+               <lg>
+                  <l> Este viene a dar a los muertos vida</l>
+                  <l> y viene a reparar de todos la caída.</l>
+                  <l> Es la luz del día aqueste mochuelo [sic],</l>
+                  <l> este es el cordero que san Juan dijera.</l>
+               </lg>
+               <lg>
+                  <l> Riu riu chiu.</l>
+                  <l> Riu riu chiu.</l>
+                  <l> Riu riu chiu.</l>
+                  <l> La guarda ribera.</l>
+               </lg>
+               <lg>
+                  <l> Este qu’es nacido es el gran monarca,</l>
+                  <l> Christo patriarca de carne vestido.</l>
+                  <l> Hemos redemido con se hazer chiquito,</l>
+                  <l> aunqu’era infinito, finito se hiziera.</l>
+               </lg>
+               <lg>
+                  <l> Riu, riu chiu, la guarda ribera.</l>
+                  <l> Riu, riu chiu, la guarda ribera.</l>
+                  <l> Riu, riu chiu, la guarda ribera.</l>
+                  <l> Riu, riu chiu, la guarda ribera.</l>
+                  <l> Riu chiu.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Versión que se remonta a la de The Monkees en el especial televisivo The Monkees
+            Christmas Show (1967), que consagró este villancico como canción de navidad en los
+            Estados Unidos pero también como canción pop.   Hay algunas modificciones de la letras
+            que responden a que no está en la lengua materna del cantante, como en casi todas las
+            versiones en las que se dan estas circunstancias, solo que aquí resultan especialmente
+            notables.   Respecto al texto del Cancionero de Upsala, esta verisón conserva las
+            estrofas 1, 5 y 2. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gacela del amor imprevisto</title>
+            <author>Mayte Martín</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>De fuego y de agua</title>
+               <publisher>KML Recordings</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=q3OUDLXQ_KU"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Clásica</term>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Latina</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Mayte Martín</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Gacela del amor imprevisto</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Nadie comprendía el perfume</l>
+                  <l> de la oscura magnolia de tu vientre.</l>
+                  <l> Nadie sabía que martirizabas</l>
+                  <l> un colibrí de amor entre los dientes.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Mil caballitos persas se dormían</l>
+                  <l> en la plaza con luna de tu frente,</l>
+                  <l> mientras que yo enlazaba cuatro noches</l>
+                  <l> tu cintura enemiga de la nieve.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Entre yeso y jazmines, tu mirada</l>
+                  <l> era un pálido ramo de simientes.</l>
+                  <l> Yo busqué  por mi pecho para darte</l>
+                  <l> las letras de marfil que dicen “siempre.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Siempre, siempre”, jardín de mi agonía,</l>
+                  <l> tu cuerpo fugitivo para siempre,</l>
+                  <l> la sangre de tus venas en tu boca,</l>
+                  <l> mi boca ya sin luz para mi muerte.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Siempre, siempre”, jardín de mi agonía,</l>
+                  <l> tu cuerpo fugitivo para siempre,</l>
+                  <l> la sangre de tus venas en tu boca,</l>
+                  <l> mi boca ya sin luz para mi muerte.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Siempre, siempre”, jardín de mi agonía,</l>
+                  <l> tu cuerpo fugitivo para siempre,</l>
+                  <l> la sangre de tus venas en tu boca,</l>
+                  <l> mi boca ya sin luz para mi muerte.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Hubo una musicalización en portugués anterior a 1975, por ambas razones no está
+            recogida en esta base de datos: Dário De Barros (Canta Ary Dos Santos, António Gedeão,
+            Bertolt Brechet, Garcia Lorca, 1973). Se pueden apreciar pequeñas variaciones en los
+            versos 11, 15 y 16. En el primero las palabras centrales del verso «para darte» se
+            colocan al final de este, y en los otros dos se cambian de lugar ocupando el sitio de la
+            otra las expresiones «mi boca» del verso 15 por «tu boca» del verso 16. La última
+            estrofa del poema se repite dos veces al final de la canción. </note>
+      </body>
+   </text>
+</TEI>

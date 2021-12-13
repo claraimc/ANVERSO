@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>¿Qué faré, mamma?</title>
+            <author>Papá Levante</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Papá Levante</title>
+               <publisher>Muxxic</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=IPK2To4amzk"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Papá Levante</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Yosef ibn Saddiq</persName>
+                  <bibl>¿Ké faré, mamma?</bibl>
+                  <relation>Continuación</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>¿Mamma, qué faré mamma?</l>
+                  <l> ¿Mamma, qué faré mamma?</l>
+                  <l> Meu al-habib es ad yana.</l>
+                  <l> Meu al-habib es ad yana.</l>
+               </lg>
+               <lg>
+                  <l> Si alguna vez me alejo,</l>
+                  <l> de ti mi madre amada,</l>
+                  <l> perdóname que sea,</l>
+                  <l> gacela enamorada.</l>
+               </lg>
+               <lg>
+                  <l> Tú me pides que olvide,</l>
+                  <l> él me pide que vaya,</l>
+                  <l> yo te hiero en el pecho</l>
+                  <l> tú me rompes las alas.</l>
+               </lg>
+               <lg>
+                  <l> Mírame madre que tengo</l>
+                  <l> los ojos llenos de lágrimas,</l>
+                  <l> tanto dolor me sobra,</l>
+                  <l> tanto su amor me falta.</l>
+               </lg>
+               <lg>
+                  <l> Tú me pides que olvide,</l>
+                  <l> él me pide que vaya,</l>
+                  <l> yo te hiero en el pecho</l>
+                  <l> tú me rompes las alas.</l>
+               </lg>
+               <lg>
+                  <l> ¿Mamma, qué faré mamma?</l>
+                  <l> ¿Mamma, qué faré mamma?</l>
+                  <l> Meu al-habib es ad yana.</l>
+                  <l> Meu al-habib es ad yana.</l>
+               </lg>
+               <lg>
+                  <l> ¿Qué hará de mi el amado,</l>
+                  <l> si vivo enamorada,</l>
+                  <l> paloma mesajera,</l>
+                  <l> o rosa deshojada?</l>
+               </lg>
+               <lg>
+                  <l> Tú me pides que olvide,</l>
+                  <l> él me pide que vaya,</l>
+                  <l> yo te hiero en el pecho</l>
+                  <l> tú me rompes las alas.</l>
+               </lg>
+               <lg>
+                  <l> Mírame madre que tengo</l>
+                  <l> los ojos llenos de lágrimas,</l>
+                  <l> tanto dolor me sobra,</l>
+                  <l> tanto su amor me falta.</l>
+               </lg>
+               <lg>
+                  <l> Tú me pides que olvide,</l>
+                  <l> él me pide que vaya,</l>
+                  <l> yo te hiero en el pecho</l>
+                  <l> tú me rompes las alas.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Además de la cita de la jarcha en sí, lo más interesante de esta canción es la glosa a
+            la que la somete. Las nuevas estrofas evocan la lírica tradicional hispánica en romance
+            y la lírica hispano-árabe a la vez, con motivos característicos de ambas. La estructura
+            musical le confiere importancia a la cita de la jarcha (tema 0), que actúa como
+            introducción pero también para marcar la mitad y la conclusión de la pieza. Este tema 0
+            se acompaña de otros dos, A y B, cada uno de cuatro versos, y cuya alternancia hace
+            referencia a la forma canción tradicional. El tema B (“Tú me pides que olvide… tú me
+            rompes las alas”) constituye el estribillo y mantiene su letra intacta en cada
+            aparición, siendo interpretada siempre por todas las voces. El tema A, sin embargo,
+            varía su letra y corre a cargo de una voz solista en la primera mitad de la composición.
+            A partir de la segunda interpretación de 0, todas las estrofas serán entonadas por el
+            conjunto íntegro de voces. La obra sigue las pautas del sistema tonal. </note>
+      </body>
+   </text>
+</TEI>

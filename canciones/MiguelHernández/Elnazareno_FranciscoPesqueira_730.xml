@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El nazareno</title>
+            <author>Francisco Pesqueira</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Oye... Canta poetas</title>
+               <publisher>--</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=zvVRlA3W2V4"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Francisco Pesqueira</persName>
+                  <nationality>Argentina</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>El nazareno</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Se horrorizan los ancianos, se conmueven las doncellas</l>
+                  <l> enseñando las pupilas tras los mantos y los velos</l>
+                  <l> anegadas por el llanto. Y las masas por los suelos</l>
+                  <l> caen mostrando, de temores y dolor en la faz, huellas.</l>
+               </lg>
+               <lg>
+                  <l> Enmudecen los clarines; no se escuchan las querellas</l>
+                  <l> de tristísimas saetas, ni la voz de los abuelos</l>
+                  <l> que pidiendo van por Cristo. Y en el rostro de los cielos</l>
+                  <l> como lágrimas enormes se estremecen las estrellas.</l>
+               </lg>
+               <lg>
+                  <l> Reina un hórrido silencio que es tan sólo interrumpido</l>
+                  <l> por redobles de tambores y algún lúgubre gemido</l>
+                  <l> que se sube hasta los labios desde un pecho de fe lleno… [Verso x 2]</l>
+               </lg>
+               <lg>
+                  <l> Y entre mil encapuchados con mil llamas de mil cirios,</l>
+                  <l> con las carnes desgarradas aún más pálidas que lirios.</l>
+               </lg>
+               <lg>
+                  <l> Enmudecen los clarines; no se escuchan las querellas</l>
+                  <l> de tristísimas saetas, ni la voz de los abuelos</l>
+                  <l> que pidiendo van por Cristo. Y en el rostro de los cielos</l>
+                  <l> como lágrimas enormes se estremecen las estrellas.</l>
+               </lg>
+               <lg>
+                  <l> Y entre mil encapuchados con mil llamas de mil cirios,</l>
+                  <l> con las carnes desgarradas aún más pálidas que lirios</l>
+                  <l> y la cruz sobre los hombres, cruza, humilde, el Nazareno.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Sigue la misma reordenación del texto que la canción de Esmeralda Grao (Miguel
+            Hernández. Su pueblo y el mío, 2011), así que puede suponerse que la de Francisco
+            Pesqueira es una versión de esta. </note>
+      </body>
+   </text>
+</TEI>

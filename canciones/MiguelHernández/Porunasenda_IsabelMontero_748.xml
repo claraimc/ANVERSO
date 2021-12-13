@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Por una senda</title>
+            <author>Isabel Montero</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>La palabra y el tiempo</title>
+               <publisher>El pescador de estrella</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="http://www.cancioncontodos.com/disco/la-palabra-y-el-tiempo-i"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Isabel Montero</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Por una senda van los hortelanos]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Por una senda van los hortelanos,</l>
+                  <l> que es la sagrada hora del regreso,</l>
+                  <l> con la sangre injuriada por el peso</l>
+                  <l> de inviernos, primaveras y veranos.</l>
+               </lg>
+               <lg>
+                  <l> Vienen de los esfuerzos sobrehumanos</l>
+                  <l> y van a la canción, y van al beso,</l>
+                  <l> y van dejando por el aire impreso</l>
+                  <l> un olor de herramientas y de manos.</l>
+               </lg>
+               <lg>
+                  <l> Por otra senda yo, por otra senda</l>
+                  <l> que no conduce al beso aunque es la hora,</l>
+                  <l> sino que merodea sin destino.</l>
+               </lg>
+               <lg>
+                  <l> Bajo su frente trágica y tremenda,</l>
+                  <l> un toro solo en la ribera llora</l>
+                  <l> olvidando que es toro y masculino.</l>
+               </lg>
+               <lg>
+                  <l> (No se ha tenido acceso al audio; se ha transcrito la letra tal y como aparece
+                    en esta fuente)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">No se ha tenido acceso al audio. Se tiene noticia de esta canción gracias a esta
+            fuente. La primera versión musical de este poema fue de Amancio Prada (Vida e morte,
+            1974), pero, al ser anterior a 1975, no está recogida en esta base de datos. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Verde que te quiero verde</title>
+            <author>Los Iberia</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Ojos verdes</title>
+               <publisher>CBA Music</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=jF2B2FiBWak"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Los Iberia</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Romance sonámbulo</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Verde que te quiero verde.</l>
+                  <l> Verde viento. Verdes ramas.</l>
+                  <l> El barco sobre la mar.</l>
+                  <l> Y el caballo en la montaña.</l>
+                  <l> ¡Verde!</l>
+                  <l> Que yo te quiero verde.</l>
+                  <l> ¡Sí, sí!</l>
+                  <l> Que yo te quiero verde.</l>
+                  <l> ¡Sí, Sí!</l>
+                  <l> Que yo te quiero verde.</l>
+                  <l> [Tararea]</l>
+               </lg>
+               <lg>
+                  <l> Compadre, quiero cambiar</l>
+                  <l> mi caballo por tu casa,</l>
+                  <l> mi cuchillo por tu espejo,</l>
+                  <l> mi montura por tu manta.</l>
+                  <l> ¡Verde!</l>
+                  <l> Que yo te quiero verde.</l>
+                  <l> ¡Sí, sí!</l>
+                  <l> Que yo te quiero verde.</l>
+                  <l> ¡Ay, ay!</l>
+                  <l> Que yo te quiero verde.</l>
+                  <l> [Tararea]</l>
+               </lg>
+               <lg>
+                  <l> ¡Compadre! ¿Dónde está, dime?</l>
+                  <l> ¿Dónde está esa niña mala?</l>
+                  <l> ¡Cuántas veces la esperé!</l>
+                  <l> ¡Cuántas veces la esperaba!</l>
+                  <l> ¡Verde!</l>
+                  <l> Que yo te quiero verde.</l>
+                  <l> ¡Sí, sí!</l>
+                  <l> Que yo te quiero verde.</l>
+                  <l> ¡Ay, ay, ay!</l>
+                  <l> Que yo te quiero verde.</l>
+               </lg>
+               <lg>
+                  <l> Compadre, vengo sangrando,</l>
+                  <l> desde la cuesta de Cabra.</l>
+                  <l> Y si yo fuera mocito,</l>
+                  <l> yo este trato lo cerraba.</l>
+                  <l> ¡Verde!</l>
+                  <l> Que yo te quiero verde.</l>
+                  <l> ¡Sí, sí!</l>
+                  <l> Que yo te quiero verde.</l>
+                  <l> ¡Ay, ay, ay!</l>
+                  <l> Que yo te quiero verde.</l>
+                  <l> [Tararea]</l>
+               </lg>
+               <lg>
+                  <l> Verde que te quiero verde.</l>
+                  <l> Verde viento. Verdes ramas.</l>
+                  <l> Y el barco sobre la mar.</l>
+                  <l> Y el caballo en la montaña.</l>
+                  <l> ¡Verde!</l>
+                  <l> Que yo te quiero verde.</l>
+                  <l> ¡Sí, sí!</l>
+                  <l> Que yo te quiero verde.</l>
+                  <l> ¡Ay, ay, ay!</l>
+                  <l> Que yo te quiero verde.</l>
+                  <l> [Tararea] [Estrofa x 2]</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio; a falta de fuente escrita, la
+                    puntualización y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción parte de la versión que había realizado Manzanita en 1978. </note>
+      </body>
+   </text>
+</TEI>

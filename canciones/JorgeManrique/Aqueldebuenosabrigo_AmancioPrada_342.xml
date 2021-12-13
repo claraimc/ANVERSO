@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aquel de buenos abrigo</title>
+            <author>Amancio Prada</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Coplas a la muerte de su padre</title>
+               <publisher>Musicamaina</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=eW-qUZ6Lco0"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Amancio Prada</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Jorge Manrique</persName>
+                  <bibl>Coplas por la muerte de su padre</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Aquel de buenos abrigo,</l>
+                  <l> amado por virtuoso</l>
+                  <l> de la gente,</l>
+                  <l> el maestre Don Rodrigo</l>
+                  <l> Manrique, tanto famoso</l>
+                  <l> y tan valiente;</l>
+                  <l> sus hechos grandes y claros</l>
+                  <l> no cumple que los alabe,</l>
+                  <l> pues los vieron,</l>
+                  <l> ni los quiero hacer caros</l>
+                  <l> pues que el mundo todo sabe</l>
+                  <l> cuáles fueron.</l>
+               </lg>
+               <lg>
+                  <l> Amigos de sus amigos,</l>
+                  <l> ¡qué señor para criados</l>
+                  <l> y parientes!</l>
+                  <l> ¡Qué enemigo de enemigos!</l>
+                  <l> ¡Qué maestro de esforzados</l>
+                  <l> y valientes!</l>
+                  <l> ¡Que seso para discretos!</l>
+                  <l> ¡Qué gracia para donosos!</l>
+                  <l> ¡Qué razón!</l>
+                  <l> ¡Qué benigno a los sujetos!</l>
+                  <l> ¡A los bravos y dañosos,</l>
+                  <l> qué león!</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Todo el disco está dedicado a musicar las Coplas a la muerte de su padre de Jorge
+            Manrique. Esta canción abarca las coplas 25-26. </note>
+      </body>
+   </text>
+</TEI>

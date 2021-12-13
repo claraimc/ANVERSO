@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La paloma</title>
+            <author>Nuria Espert</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Aire y canto de la poesía a dos voces</title>
+               <publisher>Zafiro</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target=""/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>--</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Nuria Espert</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <bibl>[Se equivocó la paloma]</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics"/>
+         </div>
+         <note xmlns="">Se tiene noticia de la versión, pero no se ha podido escuchar, así que no es posible
+            saber a ciencia cierta la relación con el poema, si bien parte de la musicalización
+            original de Carlos Gustavino para el ballet Suite Argentina (que se publicó como Se
+            equivocó la paloma: para canto y piano / poesía de Rafael Alberti, Buenos Aires: Ricordi
+            Americana, 1941), por lo que es posible que, como otras versiones basadas en Gustativno,
+            se trate de una musicalización sin apenas variaciones textuales con respecto al poema
+            original. </note>
+      </body>
+   </text>
+</TEI>

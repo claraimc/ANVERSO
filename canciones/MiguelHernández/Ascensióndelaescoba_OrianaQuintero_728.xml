@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ascensión de la escoba</title>
+            <author>Oriana Quintero</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Miguel Hernández</title>
+               <publisher>--</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=9nTozD_N7mo"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Oriana Quintero</persName>
+                  <nationality>Venezuela</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Ascensión de la escoba</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Coronada la escoba de laurel, mirto, rosa,</l>
+                  <l> es el héroe entre aquellos que afrontan la basura.</l>
+                  <l> Para librar del polvo sin vuelo cada cosa</l>
+                  <l> bajó, porque era palma y azul, desde la altura.</l>
+               </lg>
+               <lg>
+                  <l> Su ardor de espada joven y alegre no reposa.</l>
+                  <l> Delgada de ansiedad, pureza, sol, bravura,</l>
+                  <l> azucena que barre sobre la misma fosa,</l>
+                  <l> es cada vez más alta, más cálida, más pura.</l>
+               </lg>
+               <lg>
+                  <l> ¡Nunca! La escoba nunca será crucificada,</l>
+                  <l> porque la juventud propaga su esqueleto</l>
+                  <l> que es una sola flauta muda, pero sonora.</l>
+               </lg>
+               <lg>
+                  <l> Es una sola lengua sublime y acordada.</l>
+                  <l> Y ante su aliento raudo se ausenta el polvo quieto,</l>
+                  <l> y asciende una palmera, columna hacia la aurora.</l>
+               </lg>
+               <lg>
+                  <l> Coronada la escoba… Coronada la escoba.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns=""/>
+      </body>
+   </text>
+</TEI>

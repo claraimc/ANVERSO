@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Baladilla de los tres ríos</title>
+            <author>Antón García Abril, Chiky Martín y María Orán</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Antón García Abril. Integral de la Obra para Canto y Piano</title>
+               <publisher>EMI</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=Tt6ypH6a0LI"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Clásica</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Antón García Abril, Chiky Martín y María Orán</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Baladilla de los tres ríos</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>El río Guadalquivir</l>
+                  <l> va entre naranjos y olivos.</l>
+                  <l> Los dos ríos de Granada</l>
+                  <l> bajan de la nieve al trigo.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay,  amor,</l>
+                  <l> que se fue y no vino!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> El río Guadalquivir</l>
+                  <l> tiene las barbas granates.</l>
+                  <l> Los dos ríos de Granada,</l>
+                  <l> uno llanto y otro sangre.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay, amor,</l>
+                  <l> que se fue por el aire!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Para los barcos de vela</l>
+                  <l> Sevilla tiene un camino;</l>
+                  <l> por el agua de Granada</l>
+                  <l> solo reman los suspiros.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Quien dirá que el agua lleva</l>
+                  <l> un fuego fatuo de gritos!</l>
+                  <l> ¡Ay, amor,</l>
+                  <l> que se fue y no vino!</l>
+               </lg>
+               <lg>
+                  <l> Llevas naranjas y olivas</l>
+                  <l> Andalucía a tus mares,</l>
+                  <l> ¡Ay, amor,</l>
+                  <l> que se fue por el aire!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización idéntica a excepción de la omisión de los versos del 19-22 del poema de
+            Federico García Lorca. </note>
+      </body>
+   </text>
+</TEI>

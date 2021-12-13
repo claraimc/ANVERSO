@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Canción última</title>
+            <author>Niño de Elche</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Sí, a Miguel Hernández</title>
+               <publisher>Niño de Elche</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://music.youtube.com/watch?v=IdPBRInXScQ&amp;list=RDAMVMIdPBRInXScQ"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Niño de Elche</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Canción última</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Pintada, no vacía:</l>
+                  <l> pintada está tu casa</l>
+                  <l> del color de las grandes</l>
+                  <l> pasiones y desgracias.</l>
+               </lg>
+               <lg>
+                  <l> Regresará del llanto</l>
+                  <l> adonde fue llevada</l>
+                  <l> con su desierta mesa,</l>
+                  <l> con su ruinosa cama.</l>
+                  <l> Con su desierta mesa,</l>
+                  <l> con su ruinosa cama.</l>
+               </lg>
+               <lg>
+                  <l> Florecerán los besos</l>
+                  <l> sobre las almohadas.</l>
+                  <l> Y en torno de los cuerpos</l>
+                  <l> elevará la sábana</l>
+                  <l> su intensa enredadera nocturna</l>
+                  <l> nocturna y perfumada.</l>
+                  <l> Florecerán los besos</l>
+                  <l> sobre las almohadas.</l>
+               </lg>
+               <lg>
+                  <l> El odio se amortigua</l>
+                  <l> detrás de la ventana.</l>
+                  <l> Será la garra suave.</l>
+                  <l> Dejadme la esperanza.</l>
+                  <l> Será la garra suave.</l>
+                  <l> Dejadme la esperanza.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns=""/>
+      </body>
+   </text>
+</TEI>

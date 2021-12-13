@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nuestras vidas</title>
+            <author>Helium Vola</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Für euch, die ihr liebt</title>
+               <publisher>Chrom Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=tuoCewb09sQ"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Electrónica</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Helium Vola</persName>
+                  <nationality>Alemania</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Jorge Manrique</persName>
+                  <bibl>Coplas por la muerte de su padre</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Nuestras vidas son los ríos</l>
+                  <l> Que van a dar en la mar</l>
+                  <l> Qu’es el morir</l>
+                  <l> Qu’es el morir</l>
+               </lg>
+               <lg>
+                  <l> Allí van los señoríos</l>
+                  <l> derechos a se acabar</l>
+                  <l> allí van los señoríos</l>
+                  <l> derechos a se acabar</l>
+                  <l> y consumir</l>
+                  <l> y consumir</l>
+               </lg>
+               <lg>
+                  <l> Allí los ríos caudales</l>
+                  <l> allí los otros medianos</l>
+                  <l> allí los ríos caudales</l>
+                  <l> allí los otros medianos</l>
+                  <l> y más chicos</l>
+                  <l> y más chicos</l>
+               </lg>
+               <lg>
+                  <l> y llegados son iguales</l>
+                  <l> los que viven por sus manos</l>
+                  <l> y llegados son iguales</l>
+                  <l> los que viven por sus manos</l>
+                  <l> y los ricos</l>
+                  <l> y los ricos</l>
+                  <l> Nuestras vidas son los ríos</l>
+                  <l> que van a dar en la mar,</l>
+                  <l> que es el morir:</l>
+                  <l> allí van los señoríos,</l>
+                  <l> derechos a se acabar</l>
+                  <l> y consumir;</l>
+                  <l> allí los ríos caudales,</l>
+                  <l> allí los otros medianos</l>
+                  <l> y más chicos;</l>
+                  <l> y llegados, son iguales</l>
+                  <l> los que viven por sus manos</l>
+                  <l> y los ricos.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Toda la canción gira en torno a la tercera estrofa de las Coplas a la muerte de su
+            padre de Jorge Manrique. </note>
+      </body>
+   </text>
+</TEI>

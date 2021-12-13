@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Anda jaleo</title>
+            <author>Medina Azahara</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Árabe</title>
+               <publisher>Avispa</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=WYAvgKh9nZk"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Heavy metal</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Medina Azahara</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Anda jaleo</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Yo me subí a un pino verde</l>
+                  <l> por ver si la divisaba,</l>
+                  <l> por ver si la divisaba;</l>
+                  <l> y tan solo vi el polvo</l>
+                  <l> del carro que la llevaba,</l>
+                  <l> del carro que la llevaba.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Anda jaleo, jaleo.</l>
+                  <l> Anda jaleo, jaleo.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Ya se acabó el alboroto</l>
+                  <l> y ahora empieza el tiroteo,</l>
+                  <l> y ahora empieza el tiroteo.</l>
+                  <l> En la calle de los muros</l>
+                  <l> mataron una paloma,</l>
+                  <l> mataron una paloma.</l>
+                  <l> Yo le corté con mis manos</l>
+                  <l> las flores de su corona,</l>
+                  <l> las flores de su corona.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Anda jaleo, jaleo.</l>
+                  <l> Anda jaleo, jaleo.</l>
+                  <l> Ya se acabó el alboroto</l>
+                  <l> y ahora empieza el tiroteo,</l>
+                  <l> y ahora empieza el tiroteo.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Anda jaleo, jaleo.</l>
+                  <l> Anda jaleo, jaleo.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Anda jaleo, jaleo.</l>
+                  <l> Anda jaleo, jaleo.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> No salgas paloma al campo,</l>
+                  <l> mira que soy cazador;</l>
+                  <l> mira que soy cazador.</l>
+                  <l> Y si te tiro y te mato</l>
+                  <l> para mí será el dolor,</l>
+                  <l> para mí será el quebranto.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Anda jaleo, jaleo.</l>
+                  <l> Anda jaleo, jaleo.</l>
+                  <l> Anda jaleo, jaleo.</l>
+                  <l> Anda jaleo, jaleo.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Por la distribución estrófica y de la melodía, nos parece que la versión no lo es
+            tanto del poema de Federico García Lorca ni de su popularización como de la adaptación
+            que en su día hiciera la banda de rock progresivo andaluza Flamenco (Flamenco, Ariola,
+            1973), que por razones cronológicas no introducimos en la base de datos. Aun así,
+            introduces cambios mínimos, tales la sustitución de «solo divisé el polvo del coche» por
+            «solo vi el polvo del carro» en la primera estrofa. </note>
+      </body>
+   </text>
+</TEI>

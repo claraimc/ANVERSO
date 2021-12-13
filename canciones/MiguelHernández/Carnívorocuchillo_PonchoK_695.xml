@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Carnívoro cuchillo</title>
+            <author>Poncho K</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Cantes valientes</title>
+               <publisher>Epic</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/nYQdOwLjwLA"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pop</term>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Poncho K</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Un carnívoro cuchillo]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Un carnívoro cuchillo de ala dulce y homicida</l>
+                  <l> sostiene un vuelo y un brillo alrededor de mi vida.</l>
+               </lg>
+               <lg>
+                  <l> Rayo de metal crispado fulgentemente caído,</l>
+                  <l> picotea mi costado y hace en él un triste nido.</l>
+               </lg>
+               <lg>
+                  <l> Mi sien, florido balcón de mis edades tempranas,</l>
+                  <l> negra está, y mi corazón, y mi corazón con canas.</l>
+               </lg>
+               <lg>
+                  <l> Tal es la mala virtud del rayo que me rodea,</l>
+                  <l> que voy a mi juventud como la luna a mi aldea.</l>
+               </lg>
+               <lg>
+                  <l> Recojo con las pestañas sal del alma y sal del ojo</l>
+                  <l> y flores de telarañas de mis tristezas recojo.</l>
+               </lg>
+               <lg>
+                  <l> ¿A dónde iré que no vaya mi perdición a buscar?</l>
+                  <l> Tu destino es de la playa y mi vocación del mar.</l>
+               </lg>
+               <lg>
+                  <l> Descansar de esta labor de huracán, amor o infierno</l>
+                  <l> no es posible, y el dolor me hará a mi pesar eterno.</l>
+               </lg>
+               <lg>
+                  <l> Pero al fin podré vencerte, ave y rayo secular,</l>
+                  <l> corazón, que de la muerte nadie ha de hacerme dudar.</l>
+               </lg>
+               <lg>
+                  <l> Sigue, pues, sigue cuchillo, volando, hiriendo. Algún día</l>
+                  <l> se pondrá el tiempo amarillo sobre mi fotografía.</l>
+               </lg>
+               <lg>
+                  <l> Recojo con las pestañas sal del alma y sal del ojo</l>
+                  <l> y flores de telarañas de mis tristezas recojo.</l>
+               </lg>
+               <lg>
+                  <l> ¿A dónde iré que no vaya mi perdición a buscar?</l>
+                  <l> Tu destino es de la playa y mi vocación del mar.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización idéntica del poema de Miguel Hernández. </note>
+      </body>
+   </text>
+</TEI>

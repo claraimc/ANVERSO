@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El encuentro</title>
+            <author>Loquillo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Su nombre era el de todas las mujeres</title>
+               <publisher>Dro</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=CerDOk0nnZE"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Loquillo</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Luis Alberto de Cuenca</persName>
+                  <bibl>El encuentro</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>En Salamanca, el último noviembre,</l>
+                  <l> te encontré por la calle, tan delgada</l>
+                  <l> como entonces, pero con más arrugas.</l>
+                  <l> Dabas clases de no sé qué muy raro</l>
+                  <l> (Textología, por ejemplo) y eras</l>
+                  <l> muy feliz explicando a tus alumnos</l>
+                  <l> lo divino y lo humano. Me dijiste</l>
+                  <l> que tus hijos se quedaron en Madrid,</l>
+                  <l> con su padre, y que sólo los veías</l>
+                  <l> —ya eran mayores— tres o cuatro veces</l>
+                  <l> al año; que te habías doctorado</l>
+                  <l> (¡por fin!) y que ahora sólo te faltaba</l>
+                  <l> ser funcionaria para ver el mundo</l>
+                  <l> desde el lugar que merecías.</l>
+                  <l> Yo</l>
+                  <l> te dije que bueno, que pasaba</l>
+                  <l> por allí casualmente, que tenía</l>
+                  <l> un amigo escritor en Salamanca</l>
+                  <l> y que había ido a visitarlo.</l>
+                  <l> Tú me dijiste: “¿Tienes mucha prisa</l>
+                  <l> o podemos tomarnos algo juntos?”</l>
+               </lg>
+               <lg>
+                  <l> “Sí, claro, cómo no”.</l>
+               </lg>
+               <lg>
+                  <l> Después de muchas copas, con el alba</l>
+                  <l> siguiendo nuestra pista, te lo dije:</l>
+                  <l> “Desde entonces…</l>
+                  <l> Desde entonces no ha habido otra mujer”. [Verso x 4]</l>
+               </lg>
+               <lg>
+                  <l> Y en mi interior bullía la mentira</l>
+                  <l> al alimón con el deseo, y todo</l>
+                  <l> —aquel horrible bar, tú y yo, la noche—</l>
+                  <l> era tan esperpéntico y absurdo…</l>
+                  <l> Era tan esperpéntico y absurdo</l>
+                  <l> que se parecía a la vida,</l>
+                  <l> a la vida.</l>
+                  <l> Que se parecía a la vida,</l>
+                  <l> a la vida.</l>
+                  <l> Era tan esperpéntico y absurdo</l>
+                  <l> que se parecía a la vida,</l>
+                  <l> a la vida.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y en contraste con el poema original; a
+                    falta de fuente escrita, la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización similar, excepto que la canción repite algunos versos. </note>
+      </body>
+   </text>
+</TEI>

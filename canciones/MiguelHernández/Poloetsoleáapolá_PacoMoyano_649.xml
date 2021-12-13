@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Polo et soleá a polá</title>
+            <author>Paco Moyano</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>El cante de Paco Moyano</title>
+               <publisher>Estereo</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="http://flamencoweb.fr/IMG/mp3/03_polo.mp3"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Paco Moyano</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Cantar</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Es la casa un palomar</l>
+                  <l> y la cama un jazminero.</l>
+                  <l> Las puertas de par en par</l>
+                  <l> y en el fondo el mundo entero.</l>
+               </lg>
+               <lg>
+                  <l> Alrededor de tu piel</l>
+                  <l> ato y desato la mía.</l>
+                  <l> Un mediodía de miel</l>
+                  <l> rezumas: un mediodía.</l>
+                  <l> Alrededor de tu piel</l>
+                  <l> ato y desato la mía.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg> </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar del poema de Miguel Hernández. Para
+            esta canción se utilizan solamente la primer y cuarta estrofas. </note>
+      </body>
+   </text>
+</TEI>

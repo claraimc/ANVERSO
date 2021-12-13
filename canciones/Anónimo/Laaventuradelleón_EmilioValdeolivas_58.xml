@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La aventura del león</title>
+            <author>Emilio Valdeolivas</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>El cantar de mio Cid</title>
+               <publisher>--</publisher>
+               <date cert="low"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=el7V9-IRGnM&amp;t=3102s"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Emilio Valdeolivas</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Episodio del león (Cantar de mio Cid)</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>En Valençia sedi mio Çid con todos los sos</l>
+                  <l> con elle amos sos yernos ifantes de Carrión.</l>
+                  <l> Yazies en un escaño, durmie el Campeador,</l>
+                  <l> mala sobrevienta, sabed, que les cuntió:</l>
+                  <l> saliós de la red e desatós el león.</l>
+                  <l> En grant miedo se vieron por medio de la cort,</l>
+                  <l> embraçan los mantos los del Campeador</l>
+                  <l> e çercan el escaño, e fincan sobre so señor.</l>
+                  <l> Ferrant Gonçávez, ifant de Carrión,</l>
+                  <l> non vido allí dos alçasse, nin cámara abierta nin torre,</l>
+                  <l> metiós sol escaño, ¡tanto ovo el pavor!</l>
+                  <l> Diaz Gonçálvez por la puerta salió</l>
+                  <l> diziendo de la boca: ¡non veré Carrión!</l>
+                  <l> Tras una viga lagar metiós con grant pavor,</l>
+                  <l> el manto e el brial todo suzio lo sacó.</l>
+                  <l> En esto despertó el que en buen ora naçió,</l>
+                  <l> vido çercado el escaño de sos buenos varones:</l>
+                  <l> ¿Qués esto, mesnadas, o qué queredes vos?</l>
+                  <l> Hya señor ondrado, rebata nos dio el león.</l>
+                  <l> Mio Çid fincó el cobdo, en pie se levantó,</l>
+                  <l> el manto trae al cuello, adeliñó pora león,</l>
+                  <l> el león quando lo vio, assí envergonçó</l>
+                  <l> ante mio Çid la cabeça premió a el rostro fincó.</l>
+                  <l> Mio Çid don Rodrigo al cuello lo tomó</l>
+                  <l> e liévalo adestrando, en la red le metió.</l>
+                  <l> A maravilla lo han quantos que i son</l>
+                  <l> e tornáronse al palaçio pora la cort.</l>
+                  <l> Mio Çid por sos yernos demandó e no los falló</l>
+                  <l> maguer los están llamando, ninguno non responde.</l>
+                  <l> Quando los fallaron, assí vinieron sin color,</l>
+                  <l> non vidiestes tal juego commo iva por la cort,</l>
+                  <l> madólo vedar mio Çid el Campeador.</l>
+                  <l> Muchos tovieron por enbaídos ifantes de Carrión,</l>
+                  <l> fiera cosa les pesa desto que les cuntió.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Toma los vv. 2278-2310, del cantar tercero del Cantar de mio Cid, en ese orden, con
+            modificaciones mínimas. Probablemente sigue la edición de Menéndez Pidal, dado el
+            tratamiento de -e final en varios versos, pero no podemos asegurarlo por el momento.
+            Todo el disco está dedicado al Cantar de mio Cid, del que es una adaptación. </note>
+      </body>
+   </text>
+</TEI>

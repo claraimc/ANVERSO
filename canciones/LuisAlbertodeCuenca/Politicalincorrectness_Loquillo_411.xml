@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Political incorrectness</title>
+            <author>Loquillo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Su nombre era el de todas las mujeres</title>
+               <publisher>Dro</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=GHFP5kawtd8"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Loquillo</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Luis Alberto de Cuenca</persName>
+                  <bibl>Political incorrectness</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Sé buena, dime cosas incorrectas</l>
+                  <l> desde el punto de vista político. [Estrofa x 2]</l>
+               </lg>
+               <lg>
+                  <l> Un ejemplo: que eres rubia y que fumas,</l>
+                  <l> que no crees que Occidente</l>
+                  <l> sea un monstruo de barbarie;</l>
+                  <l> dedicado, a la sórdida tarea</l>
+                  <l> de cargarse el planeta.</l>
+               </lg>
+               <lg>
+                  <l> Sé buena, dime cosas incorrectas,</l>
+                  <l> desde el punto de vista político. [Estrofa x 2]</l>
+               </lg>
+               <lg>
+                  <l> Otro ejemplo: que el multiculturalismo</l>
+                  <l> es un nuevo fascismo, sólo que más hortera.</l>
+                  <l> O que disfrutas, pegando a un pedagogo,</l>
+                  <l> o a un psicólogo;</l>
+                  <l> y que el Mediterráneo te horroriza.</l>
+               </lg>
+               <lg>
+                  <l> Sé buena, dime cosas incorrectas,</l>
+                  <l> desde el punto de vista político. [Estrofa x 2]</l>
+               </lg>
+               <lg>
+                  <l> Dime cosas que me lleven a la hoguera,</l>
+                  <l> directamente.</l>
+                  <l> Dime, dime, dime atrocidades,</l>
+                  <l> que cuestionen verdades absolutas,</l>
+                  <l> como yo no creo en la igualdad.</l>
+               </lg>
+               <lg>
+                  <l> Dime, dime cosas terribles,</l>
+                  <l> como que tú me quieres aunque no soy de tu sexo.</l>
+                  <l> Que me quieres, con locura y para siempre;</l>
+                  <l> como querían antes las hembras de la tierra.</l>
+               </lg>
+               <lg>
+                  <l> Sé buena, dime cosas incorrectas,</l>
+                  <l> desde el punto de vista político. [Estrofa x2]</l>
+               </lg>
+               <lg>
+                  <l> … político, político.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y en contraste con el poema original; a
+                    falta de fuente escrita, la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción musicaliza el poema, pero alterando y repitiendo versos, y alterando
+            estrofas. </note>
+      </body>
+   </text>
+</TEI>

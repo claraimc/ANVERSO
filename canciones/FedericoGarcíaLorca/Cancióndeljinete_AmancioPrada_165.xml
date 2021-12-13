@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Canción del jinete</title>
+            <author>Amancio Prada</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Sonetos y canciones de Federico García Lorca</title>
+               <publisher>Caimana</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=lBb8h292pec"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Amancio Prada</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Canción del jinete (1860)</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>En la luna negra</l>
+                  <l> de los bandoleros,</l>
+                  <l> cantan las espuelas.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> En la luna negra</l>
+                  <l> de los bandoleros,</l>
+                  <l> cantan las espuelas.</l>
+                  <l> Ay, caballito negro.</l>
+                  <l> ¿Dónde llevas tu jinete muerto?</l>
+                  <l> ¿Dónde llevas tu jinete muerto?</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Las duras espuelas</l>
+                  <l> del bandido inmóvil</l>
+                  <l> que perdió las riendas.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Las duras espuelas</l>
+                  <l> del bandido inmóvil</l>
+                  <l> que perdió las riendas.</l>
+                  <l> Ay, caballito frío.</l>
+                  <l> ¡Qué perfume de flor de cuchillo!</l>
+                  <l> ¡Qué perfume de flor de cuchillo!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> En la luna negra,</l>
+                  <l> sangraba el costado</l>
+                  <l> de Sierra Morena.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> En la luna negra,</l>
+                  <l> sangraba el costado</l>
+                  <l> de Sierra Morena.</l>
+                  <l> Ay, caballito negro.</l>
+                  <l> ¿Dónde llevas tu jinete muerto?</l>
+                  <l> ¿Dónde llevas tu jinete muerto?</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> En la luna negra,</l>
+                  <l> un grito y el cuerno</l>
+                  <l> largo de la hoguera.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> En la luna negra,</l>
+                  <l> un grito y el cuerno</l>
+                  <l> largo de la hoguera.</l>
+                  <l> Ay, caballito frío.</l>
+                  <l> ¡Qué perfume de flor de cuchillo!</l>
+                  <l> ¡Qué perfume de flor de cuchillo!</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio, a falta de buena fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Hubo una musicalización anterior a 1975, por eso no está recogida en esta base de
+            datos: Paco Ibáñez (España de hoy y de siempre, 1964).   Esta musicalización sigue la
+            que realizara Paco Ibáñez en 1964 y al igual que en aquella las principales variaciones
+            que podemos encontrar con el poema de Lorca son la repetición de estrofas y la omisión
+            de los versos 16-18. </note>
+      </body>
+   </text>
+</TEI>

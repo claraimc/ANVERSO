@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Antes del odio</title>
+            <author>Adolfo Celdrán</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>La palabra más tuya. Cantando a Miguel Hernández</title>
+               <publisher>Factoría Autor</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/kxBfcxfVJFM"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Latina</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Adolfo Celdrán</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Antes del odio</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Beso soy, sombra con sombra.</l>
+                  <l> Beso, dolor con dolor,</l>
+                  <l> por haberme enamorado,</l>
+                  <l> corazón sin corazón,</l>
+                  <l> de las cosas, del aliento</l>
+                  <l> sin sombra de la creación.</l>
+                  <l> Sed con agua en la distancia,</l>
+                  <l> pero sed alrededor.</l>
+                  <l> Corazón en una copa</l>
+                  <l> donde me lo bebo yo</l>
+                  <l> y no se lo bebe nadie,</l>
+                  <l> nadie sabe su sabor.</l>
+               </lg>
+               <lg>
+                  <l> No es posible acariciarte</l>
+                  <l> con las manos que me dio</l>
+                  <l> el fuego de más deseo,</l>
+                  <l> el ansia de más ardor.</l>
+                  <l> Varias alas, varios vuelos</l>
+                  <l> abaten en ellas hoy</l>
+                  <l> hierros que cercan las venas</l>
+                  <l> y las muerden con rencor.</l>
+                  <l> Por amor, vida, abatido,</l>
+                  <l> pájaro sin remisión,</l>
+                  <l> sólo por amor odiado,</l>
+                  <l> sólo por amor.</l>
+               </lg>
+               <lg>
+                  <l> Amor, tu bóveda arriba</l>
+                  <l> y yo abajo siempre, amor,</l>
+                  <l> sin otra luz que estas ansias,</l>
+                  <l> sin otra iluminación.</l>
+                  <l> Mírame aquí encadenado,</l>
+                  <l> escupido, sin calor,</l>
+                  <l> a los pies de la tiniebla</l>
+                  <l> más súbita, más feroz,</l>
+                  <l> comiendo pan y cuchillo</l>
+                  <l> como buen trabajador</l>
+                  <l> y a veces cuchillo sólo,</l>
+                  <l> sólo por amor.</l>
+               </lg>
+               <lg>
+                  <l> Todo lo que significa</l>
+                  <l> golondrinas, ascensión,</l>
+                  <l> claridad, anchura, aire,</l>
+                  <l> decidido espacio, sol,</l>
+                  <l> horizonte aleteante,</l>
+                  <l> sepultado en un rincón.</l>
+                  <l> Espesura, mar, desierto,</l>
+                  <l> sangre, monte rodador,</l>
+                  <l> libertades de mi alma</l>
+                  <l> clamorosas de pasión,</l>
+                  <l> desfilando por mi cuerpo,</l>
+                  <l> donde no se quedan, no,</l>
+                  <l> pero donde se despliegan,</l>
+                  <l> sólo por amor.</l>
+               </lg>
+               <lg>
+                  <l> Porque dentro de la triste</l>
+                  <l> guirnalda del eslabón,</l>
+                  <l> del sabor a carcelero</l>
+                  <l> constante y a paredón,</l>
+                  <l> y a precipicio en acecho,</l>
+                  <l> libre sólo por amor.</l>
+               </lg>
+               <lg>
+                  <l> No, no hay cárcel para el hombre.</l>
+                  <l> No podrán atarme, no.</l>
+                  <l> Este mundo de cadenas</l>
+                  <l> me es pequeño y exterior.</l>
+                  <l> ¿Quién encierra una sonrisa?</l>
+                  <l> ¿Quién amuralla una voz?</l>
+                  <l> A lo lejos tú, más sola</l>
+                  <l> que la muerte, la una y yo.</l>
+                  <l> A lo lejos tú, sintiendo</l>
+                  <l> en tus brazos mi prisión,</l>
+                  <l> en tus brazos donde late</l>
+                  <l> la libertad de los dos.</l>
+                  <l> Libre soy. Siénteme libre.</l>
+                  <l> Sólo por amor.</l>
+                  <l> Libre soy. Siénteme libre.</l>
+                  <l> Sólo por amor.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar del poema de Miguel Hernández. Existen
+            algunas diferencias como la omisión de los últimos versos de la primera estrofa, «…Odio,
+            vida: ¡cuánto odio/sólo por amor!…» o el cambio de palabras como en el inicio del
+            séptimo verso de la cuarta estrofa, donde se cambia la palabra «…Esperanza…» (en el
+            poema) por «…Espesura…» (en la canción). Existe una versión previa de esta canción en el
+            disco del mismo autor 4.444 veces, por ejemplo, de 1975.   </note>
+      </body>
+   </text>
+</TEI>

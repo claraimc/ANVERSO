@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aceituneros</title>
+            <author>Enrique Morente</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Y al volveer la vista atrás</title>
+               <publisher>Warner Music Spain</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/I-xeJTDJjHI"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Enrique Morente</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Aceituneros</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Andaluces de Jaén, aceituneros altivos,</l>
+                  <l> decidme en el alma: ¿quién, quién levantó los olivos?</l>
+                  <l> Andaluces de Jaén, aceituneros altivos</l>
+               </lg>
+               <lg>
+                  <l> Vuestra sangre, vuestra vida,</l>
+                  <l> no la del explotador que se enriqueció en la herida</l>
+                  <l> que se enriqueció en la herida generosa del sudor,</l>
+                  <l> que se enriqueció en la herida generosa del sudor.</l>
+               </lg>
+               <lg>
+                  <l> No la del terrateniente, no la del terrateniente</l>
+                  <l> que os sepultó en la pobreza, que os pisoteó la frente,</l>
+                  <l> que os redujo la cabeza.</l>
+                  <l> Que os pisoteó la frente, que os redujo la cabeza.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar del poema de Miguel Hernández. Para
+            componer la canción, el autor utiliza las estrofas primera,sexta y séptima. Se produce,
+            además la repetición propia del cante flamenco para dotar de dramatismo cada estrofa:
+            «…Vuestra sangre, vuestra vida,/no la del explotador que se enriqueció en la herida/que
+            se enriqueció en la herida generosa del sudor,/que se enriqueció en la herida generosa
+            del sudor. Esta canción fue censurada en su disco original de 1971, Homenaje flamenco a
+            Miguel Hernández,  pero se recuperó para esta recopilación. </note>
+      </body>
+   </text>
+</TEI>

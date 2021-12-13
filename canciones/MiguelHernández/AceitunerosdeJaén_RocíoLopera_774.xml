@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aceituneros de Jaén</title>
+            <author>Rocío Lopera</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Rocío Lopera</title>
+               <publisher>--</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="http://cancionypoema.blogspot.com/2016/04/los-poemas-de-miguel-hernandez-en-el.html"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Rocío Lopera</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Aceituneros</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>No se ha tenido acceso al audio ni a la letra. Solo se tiene noticia indirecta de
+                    esta versión a través de este enlace.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Las primeras musicalizaciones conocidas de “Aceituneros” son de Paco Ibáñez (Paco
+            Ibáñez 2, 1967), Pablo Sorozábal Serrano (Cantos de amor y lucha. Cantos de amor y paz,
+            1969) y Enrique Morente (Homenaje flamenco a Miguel Hernández, 1971, solo en la edición
+            de México; no está en la edición española). Ninguna de estas versiones está en esta base
+            de datos, por ser anteriores a 1975. Según este enlace, se trata de una versión a partir
+            de la Ángel Corpa para Paco Ibáñez y para Jarcha. </note>
+      </body>
+   </text>
+</TEI>

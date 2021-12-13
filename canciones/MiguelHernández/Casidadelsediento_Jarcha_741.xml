@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Casida del sediento</title>
+            <author>Jarcha</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Jarcha a Miguel Hernández. El rayo que no cesa</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://open.spotify.com/track/7hTIiwem1EYprsqwtlgO9e?si=88ed95f049f64233"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Jarcha</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Casida del sediento</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Arena del desierto soy,</l>
+                  <l> desierto de sed.</l>
+                  <l> Oasis es tu boca</l>
+                  <l> donde no he de beber. [Estrofa x 2]</l>
+               </lg>
+               <lg>
+                  <l> Boca, boca, boca: Oasis abierto</l>
+                  <l> a todas las arenas del desierto. [Estrofa x 2]</l>
+               </lg>
+               <lg>
+                  <l> Húmedo: punto en medio</l>
+                  <l> de un mundo abrasador,</l>
+                  <l> el de tu cuerpo, el tuyo,</l>
+                  <l> que nunca es de los dos. [Estrofa x 2]</l>
+               </lg>
+               <lg>
+                  <l> Cuerpo, cuerpo, cuerpo: pozo cerrado</l>
+                  <l> a quien la sed y el sol han calcinado. [Estrofa x 2]</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización casi idéntica, excepto por algunas supresiones o adiciones léxicas y
+            repetición de versos. Se trata de una nueva versión de la que había hecho Carmen Linares
+            (Remembranzas, 2011). Hubo una primera musicalización de este poema por Francisco Curto
+            (Miguel Hernández, 1974), pero, al ser anterior a 1975, no está recogida en esta base de
+            datos. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tonada de Manuel Rodríguez</title>
+            <author>Ana Belén</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Neruda en el corazón</title>
+               <publisher>Ariola</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=aPlT06sG_JI&amp;ab_channel=KZooMusic"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Ana Belén</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Pablo Neruda</persName>
+                  <bibl>XXV. Manuel Rodríguez. Cueca</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Señora, dicen que donde,</l>
+                  <l> mi madre dicen, dijeron,</l>
+                  <l> el agua y el viento dicen</l>
+                  <l> que vieron al guerrillero.</l>
+               </lg>
+               <lg>
+                  <l> Señora, dicen que donde,</l>
+                  <l> mi madre dicen, dijeron,</l>
+                  <l> el agua y el viento dicen</l>
+                  <l> que vieron al guerrillero.</l>
+               </lg>
+               <lg>
+                  <l> Puede ser un obispo,</l>
+                  <l> puede y no puede,</l>
+                  <l> puede ser sólo el viento</l>
+                  <l> sobre la nieve:</l>
+                  <l> sobre la nieve, sí,</l>
+                  <l> madre, no mires,</l>
+                  <l> que viene galopando</l>
+                  <l> Manuel Rodríguez.</l>
+                  <l> Ya viene el guerrillero</l>
+                  <l> por el estero.</l>
+               </lg>
+               <lg>
+                  <l> Saliendo de Melipilla,</l>
+                  <l> corriendo por Talagante,</l>
+                  <l> cruzando por San Fernando,</l>
+                  <l> amaneciendo en Pomaire.</l>
+               </lg>
+               <lg>
+                  <l> Saliendo de Melipilla,</l>
+                  <l> corriendo por Talagante,</l>
+                  <l> cruzando por San Fernando,</l>
+                  <l> amaneciendo en Pomaire.</l>
+               </lg>
+               <lg>
+                  <l> Pasando por Rancagua,</l>
+                  <l> por San Rosendo,</l>
+                  <l> por Cauquenes, por Chena,</l>
+                  <l> por Nacimiento:</l>
+                  <l> por Nacimiento, sí,</l>
+                  <l> desde Chiñigüe,</l>
+                  <l> por todas partes viene</l>
+                  <l> Manuel Rodríguez.</l>
+                  <l> Pásale este clavel.</l>
+                  <l> Vamos con él.</l>
+               </lg>
+               <lg>
+                  <l> Que se apaguen las guitarras,</l>
+                  <l> que la patria está de duelo.</l>
+                  <l> Nuestra tierra se oscurece.</l>
+                  <l> Mataron al guerrillero.</l>
+               </lg>
+               <lg>
+                  <l> Que se apaguen las guitarras,</l>
+                  <l> que la patria está de duelo.</l>
+                  <l> Nuestra tierra se oscurece.</l>
+                  <l> Mataron al guerrillero.</l>
+               </lg>
+               <lg>
+                  <l> En Til-Til lo mataron</l>
+                  <l> los asesinos,</l>
+                  <l> su espalda está sangrando</l>
+                  <l> sobre el camino:</l>
+                  <l> sobre el camino, sí.</l>
+               </lg>
+               <lg>
+                  <l> Quien lo diría,</l>
+                  <l> el que era nuestra sangre,</l>
+                  <l> nuestra alegría.</l>
+               </lg>
+               <lg>
+                  <l> La tierra está llorando.</l>
+                  <l> Vamos callando.</l>
+                  <l> La tierra está llorando.</l>
+                  <l> Vamos callando.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio; a falta de fuente escrita, la
+                    puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización casi idéntica del poema “XXV. Manuel Rodríguez.
+            Cueca”. Hay que tener en cuenta que cuando en el poemario se marca “cueca”, en la
+            canción se repiten dos veces las estrofas anteriores a esa indicación. Además, en la
+            quinta estrofa, Ana Belén canta “Que se apaguen las guitarras”, aunque en el poema, el
+            verso es “Que se apague la guitarra”. </note>
+      </body>
+   </text>
+</TEI>

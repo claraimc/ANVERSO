@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>No tengamos tiempo ya</title>
+            <author>Amancio Prada</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Coplas a la muerte de su padre</title>
+               <publisher>Musicamaina</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=dwVNA-eLhx8"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Amancio Prada</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Jorge Manrique</persName>
+                  <bibl>Coplas por la muerte de su padre</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>—No tengamos tiempo ya</l>
+                  <l> en esta vida mezquina</l>
+                  <l> por tal modo,</l>
+                  <l> que mi voluntad está</l>
+                  <l> conforme con la divina</l>
+                  <l> para todo;</l>
+                  <l> y consiento en mi morir</l>
+                  <l> con voluntad placentera,</l>
+                  <l> clara y pura,</l>
+                  <l> que querer hombre vivir</l>
+                  <l> cuando Dios quiere que muera,</l>
+                  <l> es locura.</l>
+               </lg>
+               <lg>
+                  <l> Tú, que, por nuestra maldad,</l>
+                  <l> tomaste forma servil</l>
+                  <l> y bajo nombre;</l>
+                  <l> tú, que a tu divinidad</l>
+                  <l> juntaste cosa tan vil</l>
+                  <l> como es el hombre;</l>
+                  <l> tú, que tan grandes tormentos</l>
+                  <l> sufriste sin resistencia</l>
+                  <l> en tu persona,</l>
+                  <l> no por mis merecimientos,</l>
+                  <l> mas por tu sola clemencia</l>
+                  <l> me perdona—.</l>
+               </lg>
+               <lg>
+                  <l> Así, con tal entender,</l>
+                  <l> todos sentidos humanos</l>
+                  <l> conservados,</l>
+                  <l> cercado de su mujer</l>
+                  <l> y de sus hijos y hermanos</l>
+                  <l> y criados,</l>
+                  <l> dio el alma a quien se la dio</l>
+                  <l> (el cual la dio en el cielo</l>
+                  <l> en su gloria),</l>
+                  <l> que aunque la vida perdió,</l>
+                  <l> dejonos harto consuelo</l>
+                  <l> su memoria.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Todo el disco está dedicado a musicar las Coplas a la muerte de su padre de Jorge
+            Manrique. Esta canción abarca las coplas 38-40. </note>
+      </body>
+   </text>
+</TEI>

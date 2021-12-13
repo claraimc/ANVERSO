@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El corazón es agua</title>
+            <author>Dúo Karma</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Una canción para Miguel</title>
+               <publisher>A Guitarra Limpia (Centro Pablo) y SGAE</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/q7tFr8DZVRA"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Dúo Karma</persName>
+                  <nationality>Cuba</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[El corazón es agua]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>El corazón es agua</l>
+                  <l> que se acaricia y canta.</l>
+                  <l> El corazón es agua…. canta.</l>
+               </lg>
+               <lg>
+                  <l> El corazón es puerta</l>
+                  <l> que se abre y se cierra.</l>
+                  <l> El corazón es puerta.</l>
+               </lg>
+               <lg>
+                  <l> El corazón es agua</l>
+                  <l> que se remueve, arrolla,</l>
+                  <l> se arremolina, mata.</l>
+               </lg>
+               <lg>
+                  <l> Canta…</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esa versión supone una musicalización similar al poema de Miguel Hernández. La letra y
+            estructura de la canción son prácticamente idénticas al poema, aunque se repiten los
+            versos finales de las dos primeras estrofas para alargar un poco la composición; con
+            este mismo propósito, se repite dos veces el poema entero en la misma canción. </note>
+      </body>
+   </text>
+</TEI>

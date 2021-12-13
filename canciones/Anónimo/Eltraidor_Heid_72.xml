@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El traidor</title>
+            <author>Heid</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Alba</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://heidpaganmetal.bandcamp.com/track/el-traidor"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Heavy metal</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Heid</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Cantar del Abad Don Juan de Montemayor</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>En Montemayor fue abandonado un bastardo,</l>
+                  <l> criado por el abad García fue bautizado.</l>
+                  <l> Creció y por el rey de León fue armado caballero.</l>
+                  <l> Trescientos hombres le dio</l>
+                  <l> y con grandes honores se despidieron.</l>
+               </lg>
+               <lg>
+                  <l> A Montemayor volvió García con sus vasallos.</l>
+                  <l> Decidido a luchar contra moros,</l>
+                  <l> al abad pidió sufragio.</l>
+                  <l> Con quinientos caballeros salió</l>
+                  <l> en busca de Almanzor,</l>
+                  <l> en Córdoba se encontrarán</l>
+                  <l> para pactar una traición.</l>
+               </lg>
+               <lg>
+                  <l> Condenó a quien creía en él,</l>
+                  <l> no perdonó a niño o mujer.</l>
+               </lg>
+               <lg>
+                  <l> “A todos los que me amaron destruiré”.</l>
+               </lg>
+               <lg>
+                  <l> Santiago fue devastado por ese perro descreído,</l>
+                  <l> tres años de horrores le valió a Montemayor.</l>
+                  <l> Las voces de los hombres al degollar a sus familias</l>
+                  <l> aún gritan en silencio el nombre del traidor.</l>
+               </lg>
+               <lg>
+                  <l> ¡Traidor!</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La banda muestra especial interés por los temas históricos medievales hispanos.
+        </note>
+      </body>
+   </text>
+</TEI>

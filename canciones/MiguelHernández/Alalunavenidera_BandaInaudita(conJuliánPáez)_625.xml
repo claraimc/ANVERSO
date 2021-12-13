@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A la luna venidera</title>
+            <author>Banda Inaudita (con Julián Páez)</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>A la luna venidera</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/JJCyy8EFY8Y"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Banda Inaudita (con Julián Páez)</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[A la luna venidera]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>A la luna venidera</l>
+                  <l> te acostarás a parir</l>
+                  <l> y tu vientre irradiará</l>
+                  <l> claridades sobre mí.</l>
+               </lg>
+               <lg>
+                  <l> Alborada de tu vientre,</l>
+                  <l> cada vez más claro en sí,</l>
+                  <l> esclareciendo los pozos,</l>
+                  <l> anocheciendo el marfil.</l>
+               </lg>
+               <lg>
+                  <l> A la luna venidera</l>
+                  <l> el mundo se vuelve a abrir.</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión del poema supone una musiclización similar del poema de Miguel Hernández.
+            El autor repite el poema dos veces para componer la canción, cerrando la misma
+            repitiendo, además, la tercera estrofa: «…A la luna venidera/el mundo se vuelve a
+            abrir…». </note>
+      </body>
+   </text>
+</TEI>

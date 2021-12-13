@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La afrenta de Corpes</title>
+            <author>Emilio Valdeolivas</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>El cantar de mio Cid</title>
+               <publisher>Tecnosaga</publisher>
+               <date cert="low"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=el7V9-IRGnM&amp;t=3380s"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Emilio Valdeolivas</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Afrenta de Corpes (Cantar de mio Cid)</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Entrados son los ifantes al robredo de Corpes,</l>
+                  <l> los montes son altos, las ramas pujan con las nuoves.</l>
+                  <l> Fallaron un vergel con una limpia fuont,</l>
+                  <l> con sus mugieres en braços demuéstranles amor.</l>
+                  <l> ¡Mal gelo cunplieron quando salie el sol!</l>
+                  <l> Todos eran idos, ellos quatro solos son,</l>
+                  <l> tanto mal comidieron don Elvira e doña Sol,</l>
+                  <l> seredes escarnidas en estos fieros montes.</l>
+                  <l> Oys nos partiremos, dexadas seredes de nos.</l>
+                  <l> Por Dios vos rogamos, don Ferrando e son Didago,</l>
+                  <l> dos espadas tenedes fuertes e tajadores,</l>
+                  <l> cortandos las cabeças, mártires seremos nos.</l>
+                  <l> Moros e cristianos departirán desta razón.</l>
+                  <l> Atan malos enssiemplos non fagades sobre nos,</l>
+                  <l> con las çinchas corredizas májanlas tan sin sabor,</l>
+                  <l> con las espuelas agudas don ellas an mal sabor.</l>
+                  <l> Leváronles los mantos e las pieles armiñas,</l>
+                  <l> mas déxanlas marridas, en briales y en camisas,</l>
+                  <l> y a las aves del monte y a las bestias de la fiera guisa.</l>
+                  <l> Por muertas las dexaron, sabed, que non por bivas.</l>
+                  <l> ¡Quál ventura serie si assomas essora el Çid Roy Díaz!</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Toma los vv. 2697-2698, 2700, 2703-2704, 2712-2716 (vv. 2713 y 2714 combinados),
+            2725-2726, 2729, 2731, 2735-2736, 2749-2753, del cantar tercero del Cantar de mio Cid,
+            en ese orden, con modificaciones mínimas. Probablemente sigue la edición de Menéndez
+            Pidal, dado el tratamiento de -e final en varios versos, pero no podemos asegurarlo por
+            el momento. Todo el disco está dedicado al Cantar de mio Cid, del que es una adaptación.
+        </note>
+      </body>
+   </text>
+</TEI>

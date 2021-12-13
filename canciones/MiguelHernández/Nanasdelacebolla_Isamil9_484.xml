@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nanas de la cebolla</title>
+            <author>Isamil9</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Párvula Nanas</title>
+               <publisher>Marciano Sonoro Ediciones</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/DWHugEAIfWA"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Isamil9</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Nanas de la cebolla</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>La cebolla es escarcha</l>
+                  <l> cerrada y pobre.</l>
+                  <l> Escarcha de tus días</l>
+                  <l> y de mis noches.</l>
+                  <l> Hambre y cebolla,</l>
+                  <l> hielo negro y escarcha</l>
+                  <l> grande y redonda.</l>
+               </lg>
+               <lg>
+                  <l> En la cuna del hambre</l>
+                  <l> mi niño estaba.</l>
+                  <l> Con sangre de cebolla</l>
+                  <l> se amamantaba.</l>
+                  <l> Pero tu sangre,</l>
+                  <l> escarchada de azúcar,</l>
+                  <l> cebolla y hambre.</l>
+               </lg>
+               <lg>
+                  <l> Tu risa me hace libre,</l>
+                  <l> me pone alas.</l>
+                  <l> Soledades me quita,</l>
+                  <l> cárcel me arranca.</l>
+                  <l> Boca que vuela,</l>
+                  <l> corazón que en tus labios</l>
+                  <l> relampaguea.</l>
+               </lg>
+               <lg>
+                  <l> Desperté de ser niño:</l>
+                  <l> nunca despiertes.</l>
+                  <l> Triste llevo la boca:</l>
+                  <l> ríete siempre.</l>
+                  <l> Siempre en la cuna,</l>
+                  <l> defendiendo la risa</l>
+                  <l> pluma por pluma.</l>
+               </lg>
+               <lg>
+                  <l> Vuela niño en la doble</l>
+                  <l> luna del pecho:</l>
+                  <l> él, triste de cebolla,</l>
+                  <l> tú, satisfecho.</l>
+                  <l> No te derrumbes.</l>
+                  <l> No sepas lo que pasa</l>
+                  <l> ni lo que ocurre.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar del poema de Miguel Hernández. Para
+            componer la canción, el autor utiliza las estrofas primera, segunda, quinta, octava y
+            decimosegunda. </note>
+      </body>
+   </text>
+</TEI>

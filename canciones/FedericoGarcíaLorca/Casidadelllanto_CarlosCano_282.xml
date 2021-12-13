@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Casida del llanto</title>
+            <author>Carlos Cano</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Diván del Tamarit. Gacelas y Casidas.</title>
+               <publisher>Dalur Discos</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=5qi_G-UPrqo"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Flamenco</term>
+               <term>Latina</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Carlos Cano</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Casida del llanto</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>He cerrado mi balcón,</l>
+                  <l> yo no quiero oír el llanto,</l>
+                  <l> He cerrado mi balcón,</l>
+                  <l> yo no quiero oír el llanto.</l>
+                  <l> Detrás de los grises muros</l>
+                  <l> no se oye más que llanto.</l>
+                  <l> Detrás de los grises muros</l>
+                  <l> no se oye más que llanto.</l>
+                  <l> He cerrado mi balcón,</l>
+                  <l> yo no quiero oír el llanto,</l>
+                  <l> He cerrado mi balcón,</l>
+                  <l> yo no quiero oír el llanto.</l>
+                  <l> Detrás de los grises muros</l>
+                  <l> no se oye más que llanto.</l>
+                  <l> Detrás de los grises muros</l>
+                  <l> no se oye más que llanto.</l>
+               </lg>
+               <lg>
+                  <l> Hay muy pocos ángeles</l>
+                  <l> que canten,</l>
+                  <l> hay muy pocos perros</l>
+                  <l> que ladren,</l>
+                  <l> mil violines</l>
+                  <l> caben en la palma de mi mano.</l>
+               </lg>
+               <lg>
+                  <l> (Ladrido) ¡Ay!</l>
+               </lg>
+               <lg>
+                  <l> He cerrado mi balcón,</l>
+                  <l> yo no quiero oír el llanto,</l>
+                  <l> He cerrado mi balcón,</l>
+                  <l> yo no quiero oír el llanto.</l>
+                  <l> Detrás de los grises muros</l>
+                  <l> no se oye más que llanto.</l>
+                  <l> Detrás de los grises muros</l>
+                  <l> no se oye más que llantos.</l>
+                  <l> He cerrado mi balcón,</l>
+                  <l> yo no quiero oír el llanto,</l>
+                  <l> He cerrado mi balcón,</l>
+                  <l> yo no quiero oír el llanto.</l>
+                  <l> Detrás de los grises muros</l>
+                  <l> no se oye más que llanto.</l>
+                  <l> Detrás de los grises muros</l>
+                  <l> no se oye más que llanto.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> El llanto es un perro</l>
+                  <l> inmenso,</l>
+                  <l> el llanto es un ángel</l>
+                  <l> inmenso,</l>
+                  <l> el llanto un violín</l>
+                  <l> inmenso,</l>
+                  <l> las lágrimas mordazan</l>
+                  <l> al viento,</l>
+                  <l> no se oye otra cosa</l>
+                  <l> que llanto.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> He cerrado mi balcón,</l>
+                  <l> yo no quiero oír el llanto,</l>
+                  <l> He cerrado mi balcón,</l>
+                  <l> yo no quiero oír el llanto.</l>
+                  <l> Detrás de los grises muros</l>
+                  <l> no se oye más que llanto.</l>
+                  <l> Detrás de los grises muros</l>
+                  <l> no se oye más que llanto.</l>
+                  <l> He cerrado mi balcón,</l>
+                  <l> yo no quiero oír el llanto,</l>
+                  <l> He cerrado mi balcón,</l>
+                  <l> yo no quiero oír el llanto.</l>
+                  <l> Detrás de los grises muros</l>
+                  <l> no se oye más que llanto.</l>
+                  <l> Detrás de los grises muros</l>
+                  <l> no se oye más que llanto.</l>
+                  <l> (Risas infantiles)</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Aunque podemos decir que es una musicalización idéntica, puesto que las variaciones
+            son mínimas, veremos como el artista ha procedido, en su interpretación del poema de
+            Federico García Lorca, a convertir en estribillo los primeros versos del poema (vv.
+            1-4), reduciendo así mismo mínimamente estos, bien dándoles un carácter más sentencioso
+            o quizás para amoldarse al ritmo musical de la interpretación:   «He cerrado mi balcón
+            porque no quiero oír el llanto, pero por detrás de los grises muros no se oye otra cosa
+            que el llanto.» (Federico García Lorca, Diván del Tamarit – Sonetos del amor oscuro,
+            Barcelona, Lumen – Penguin Random House, 2015, p.37)   Por otro lado y siguiendo esta
+            idea rítmica que exponemos más arriba, también ha introducido una diferente
+            versificación, por un lado, y por otro, un sistema de responsión coral, donde se
+            intensifican los finales de verso y la palabra «llanto». </note>
+      </body>
+   </text>
+</TEI>

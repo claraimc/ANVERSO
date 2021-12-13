@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Después de haber cavado este barbecho</title>
+            <author>Concha Buika</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>El canto que no cesa. Homenaje a Miguel Hernández</title>
+               <publisher>Diputación de Jaen</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://music.youtube.com/watch?v=J1r6nPp4NrM&amp;list=RDAMVMJ1r6nPp4NrM"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Concha Buika</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Umbrío por la pena]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Después de haber cavado este barbecho</l>
+                  <l> me tomaré un descanso por la grama</l>
+                  <l> y beberé del agua que en la rama</l>
+                  <l> aumenta su frescura en mi provecho,</l>
+                  <l> aumenta su frescura en mi provecho.</l>
+               </lg>
+               <lg>
+                  <l> Me huele todo el cuerpo a recién hecho</l>
+                  <l> por el jugoso fuego que lo inflama</l>
+                  <l> y la creación que se derrama</l>
+                  <l> a mi mucha fatiga como un lecho,</l>
+                  <l> a mi mucha fatiga como un lecho.</l>
+               </lg>
+               <lg>
+                  <l> Se tomará un descanso el hortelano</l>
+                  <l> y entretendrá sus penas combatido.</l>
+                  <l> Se tomará un descanso el hortelano</l>
+                  <l> por el viento y el sol de un tiempo manso,</l>
+                  <l> por el viento y el sol de un tiempo manso.</l>
+               </lg>
+               <lg>
+                  <l> Y otra vez, inclinado cuerpo y mano,</l>
+                  <l> seguirá ante la tierra perseguido</l>
+                  <l> seguirá ante la tierra perseguido.</l>
+                  <l> Y otra vez, inclinado cuerpo y mano,</l>
+                  <l> por la sombra del último descanso,</l>
+                  <l> por la sombra del último descanso.</l>
+               </lg>
+               <lg>
+                  <l> Umbrío por la pena, casi bruno,</l>
+                  <l> porque la pena tizna cuando estalla,</l>
+                  <l> donde yo no me hallo no se halla</l>
+                  <l> hombre más apenado que ninguno.</l>
+                  <l> hombre más apenado que ninguno.</l>
+               </lg>
+               <lg>
+                  <l> Pena con pena y pena desayuno,</l>
+                  <l> pena es mi paz y pena mi batalla,</l>
+                  <l> perro que ni me deja ni se calla,</l>
+                  <l> siempre a su dueño fiel, pero importuno.</l>
+                  <l> siempre a su dueño fiel, pero importuno.</l>
+               </lg>
+               <lg>
+                  <l> Cardos y penas me ponen su corona,</l>
+                  <l> cardos y penas me asustan sus leopardos</l>
+                  <l> Cardos y penas me ponen su corona,</l>
+                  <l> cardos y penas me asustan sus leopardos</l>
+                  <l> y no me dejan bueno hueso alguno,</l>
+                  <l> y no me dejan bueno hueso alguno.</l>
+                  <l> No podrá con la pena mi persona</l>
+                  <l> circundada de penas y de cardos:</l>
+                  <l> circundada de penas y de cardos:</l>
+                  <l> No podrá con la pena para morirse uno</l>
+                  <l> ¡cuánto penar para morirse uno!</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta canción fusiona dos sonetos de El rayo que no cesa. Uno de estos sonetos, «Umbrío
+            por la pena», fue musicado por primera vez por Joan Manuel Serrat (Miguel Hernández,
+            1972); sin embargo, al ser anterior a 1975, esta canción no está recogida en esta base
+            de datos. En la versión de Concha Buika, se usan las variantes léxicas de la letra de
+            Serrat que no estaban en el «Umbrío por la pena» de Miguel Hernández. Por ejemplo, el
+            quinto verso hernandiano, «Sobre la pena duermo solo y uno» es cambiado por «Pena con
+            pena y pena desayuno». </note>
+      </body>
+   </text>
+</TEI>

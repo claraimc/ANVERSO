@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pequeño vals vienés</title>
+            <author>Silvia Pérez Cruz</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Granada</title>
+               <publisher>Universal Music Spain S.L.</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=YcgV4WkVwoo&amp;list=OLAK5uy_ki_Rx_YoHCErmqi31PCcweLw5qQIoBWYs&amp;index=6&amp;ab_channel=SilviaP%C3%A9rezCruz-Topic"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Silvia Pérez Cruz</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Pequeño vals vienés</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>En Viena hay diez muchachas,</l>
+                  <l> un hombro donde solloza la muerte</l>
+                  <l> y un bosque de palomas disecadas.</l>
+                  <l> Hay un fragmento de la mañana</l>
+                  <l> en el museo de la escarcha.</l>
+                  <l> Hay un salón con mil ventanas.</l>
+                  <l> ¡Ay, ay, ay, ay!</l>
+                  <l> Toma este vals… este vals, este vals con la boca cerrada.</l>
+               </lg>
+               <lg>
+                  <l> En Viena hay cuatro espejos</l>
+                  <l> donde juegan tu boca y los ecos.</l>
+                  <l> Hay una muerte para piano</l>
+                  <l> que pinta de azul a los muchachos.</l>
+                  <l> Hay mendigos por los tejados.</l>
+                  <l> Hay frescas guirnaldas de llanto.</l>
+                  <l> ¡Ay, ay, ay, ay!</l>
+                  <l> Toma este vals… este vals, este vals que se muere en mis brazos.</l>
+               </lg>
+               <lg>
+                  <l> Este vals, este vals, este vals</l>
+                  <l> de sí, de muerte y de coñac</l>
+                  <l> que moja su cola en el mar.</l>
+               </lg>
+               <lg>
+                  <l> Porque te quiero, te quiero, amor mío,</l>
+                  <l> en el desván donde juegan los niños,</l>
+                  <l> soñando viejas luces de Hungría</l>
+                  <l> por los rumores de la tarde tibia,</l>
+                  <l> viendo ovejas y lirios de nieve</l>
+                  <l> por el silencio oscuro, oscuro de tu frente.</l>
+                  <l> ¡Ay, ay, ay, ay!</l>
+                  <l> Toma este vals… este vals, este vals de cintura quebrada.</l>
+               </lg>
+               <lg>
+                  <l> Este vals, este vals, este vals, este vals</l>
+                  <l> de sí, de muerte y de coñac</l>
+                  <l> que moja su cola en el mar. [Estrofa x 2]</l>
+               </lg>
+               <lg>
+                  <l> En Viena bailaré contigo</l>
+                  <l> con disfraz que tenga cabeza de río.</l>
+                  <l> ¡Mira qué orillas tengo de jacintos!</l>
+                  <l> Dejaré mi boca entre tus piernas,</l>
+                  <l> mi alma en fotografías y azucenas,</l>
+                  <l> y en las ondas oscuras de tu andar</l>
+                  <l> quiero, amor mío, amor mío, dejar,</l>
+                  <l> violín y sepulcro, las cintas del vals.</l>
+                  <l> Quiero, amor mío, amor mío, amor mío, dejar,</l>
+                  <l> violín y sepulcro, las cintas del vals.</l>
+                  <l> ¡Ay, ay, ay, ay!</l>
+                  <l> Toma este vals… este vals, este vals del “Te quiero siempre”, siempre,
+                    siempre…</l>
+               </lg>
+               <lg>
+                  <l> Este vals, este vals, este vals, este vals</l>
+                  <l> de sí, de muerte y de coñac</l>
+                  <l> que moja su cola en el mar. [Estrofa x 2]</l>
+               </lg>
+               <lg>
+                  <l> Porque te quiero, te quiero, te quiero,</l>
+                  <l> te quiero, te quiero amor, amor, amor,</l>
+                  <l> te quiero amor mío, mi amor,</l>
+                  <l> amor, amor, te quiero amor mío,</l>
+                  <l> te quiero amor, amor, amor, amor,</l>
+                  <l> amor, amor,</l>
+                  <l> amor, amor.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio; a falta de fuente escrita, la
+                    puntualización y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">En 1986 Leonard Cohen musicalizó por primera vez este poema, traducido al inglés y
+            titulado “Take This Waltz”. Esta canción no queda recogida en este archivo, ya que está
+            centrado en canciones en castellano. Pero hay que señalar que la canción de Cohen es la
+            base que utiliza Silvia Pérez Cruz para su versión. </note>
+      </body>
+   </text>
+</TEI>

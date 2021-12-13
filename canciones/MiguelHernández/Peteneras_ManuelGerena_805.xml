@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Peteneras</title>
+            <author>Manuel Gerena</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Manuel Gerena canta con Miguel Hernández</title>
+               <publisher>Alía Discos</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://music.youtube.com/watch?v=Z3qA9tX7OHw&amp;list=OLAK5uy_mNHbPoQJPB9mMkUfaTfXFR405rLr-UbY0"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Manuel Gerena</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>El niño Yuntero</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Le veo arar los rastrojos,</l>
+                  <l> y devorar un mendrugo,</l>
+                  <l> y declarar con los ojos,</l>
+                  <l> y declarar con los ojos</l>
+                  <l> que por qué es carne de yugo.</l>
+                  <l> Lo veo arar los rastrojos,</l>
+                  <l> y devorar un mendrugo.</l>
+               </lg>
+               <lg>
+                  <l> Me da su arado en el pecho,</l>
+                  <l> y su vida en la garganta,</l>
+                  <l> y sufro viendo el barbecho</l>
+                  <l> tan grande bajo su planta.</l>
+                  <l> Y sufro viendo el barbecho</l>
+                  <l> tan grande bajo su planta.</l>
+                  <l> Me da su arado en el pecho,</l>
+                  <l> y su vida en la garganta.</l>
+               </lg>
+               <lg>
+                  <l> Como una grandiosa espina,</l>
+                  <l> me duele este niño hambriento.</l>
+                  <l> Como una grandiosa espina.</l>
+                  <l> y su vivir ceniciento</l>
+                  <l> revuelve mi alma de encina.</l>
+                  <l> Revuelve mi alma de encina.</l>
+                  <l> Me duele este niño hambriento,</l>
+                  <l> como una grandiosa espina.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns=""/>
+      </body>
+   </text>
+</TEI>

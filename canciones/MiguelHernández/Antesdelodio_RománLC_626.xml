@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Antes del odio</title>
+            <author>Román LC</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Otros">
+               <title>Homenaje a Miguel Hernández</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/Pyv05YrlNC0"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Román LC</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Antes del odio</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Beso soy, sombra con sombra.</l>
+                  <l> Beso, dolor con dolor,</l>
+                  <l> por haberme enamorado,</l>
+                  <l> corazón sin corazón,</l>
+                  <l> de las cosas, del aliento</l>
+                  <l> sin sombra de la creación.</l>
+                  <l> Sed con agua en la distancia,</l>
+                  <l> pero sed alrededor.</l>
+               </lg>
+               <lg>
+                  <l> Por amor, vida, abatido,</l>
+                  <l> pájaro sin remisión,</l>
+                  <l> sólo por amor odiado,</l>
+                  <l> sólo por amor.</l>
+               </lg>
+               <lg>
+                  <l> comiendo pan y cuchillo</l>
+                  <l> como buen trabajador</l>
+                  <l> y a veces cuchillo sólo,</l>
+                  <l> sólo por amor, solo por amor.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+               <lg>
+                  <l> No, no hay cárcel para el hombre.</l>
+                  <l> No podrán atarme, no.</l>
+                  <l> Este mundo de cadenas</l>
+                  <l> me es pequeño y exterior.</l>
+                  <l> ¿Quién encierra una sonrisa?</l>
+                  <l> ¿Quién amuralla una voz?</l>
+               </lg>
+               <lg>
+                  <l> No, no hay cárcel para el hombre.</l>
+                  <l> No podrán atarme, no.</l>
+               </lg>
+               <lg>
+                  <l> Porque dentro de la triste</l>
+                  <l> guirnalda del eslabón,</l>
+                  <l> del sabor a carcelero</l>
+                  <l> constante y a paredón,</l>
+                  <l> y a precipicio en acecho,</l>
+                  <l> alto, alegre, libre soy.</l>
+                  <l> Alto, alegre, libre, libre,</l>
+                  <l> sólo por amor.</l>
+               </lg>
+               <lg>
+                  <l> A lo lejos tú, más sola</l>
+                  <l> que la muerte, la una y yo.</l>
+                  <l> A lo lejos tú, sintiendo</l>
+                  <l> en tus brazos mi prisión,</l>
+                  <l> en tus brazos donde late</l>
+                  <l> la libertad de los dos.</l>
+                  <l> Libre soy. Siénteme libre.</l>
+                  <l> Sólo por amor.</l>
+               </lg>
+               <lg>
+                  <l> No, no hay cárcel para el hombre.</l>
+                  <l> No podrán atarme, no.</l>
+                  <l> Este mundo de cadenas</l>
+                  <l> me es pequeño y exterior.</l>
+                  <l> ¿Quién encierra una sonrisa?</l>
+                  <l> ¿Quién amuralla una voz?</l>
+               </lg>
+               <lg>
+                  <l> No, no hay cárcel para el hombre.</l>
+                  <l> No podrán atarme, no.</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg> </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar del poema de Miguel Hernández. El autor
+            El autor utiliza todas las estrofas, menos la cuarta, para componer la canción; no
+            obstante toma algunas estrofas completas, como la quinta ( «…Porque dentro de la
+            triste/guirnalda del eslabón,/del sabor a carcelero/constante y a paredón,/y a
+            precipicio en acecho,/alto, alegre, libre soy./Alto, alegre, libre, libre,/sólo por
+            amor…») y los versos concretos del resto (por ejemplo de la segunda: «…Por amor, vida,
+            abatido,/pájaro sin remisión,/sólo por amor odiado,/sólo por amor…»).   </note>
+      </body>
+   </text>
+</TEI>

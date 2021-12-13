@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Canción de los vendimiadores</title>
+            <author>Jarcha</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>El rayo que no cesa</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://open.spotify.com/track/6Iuu8mjlFN5wAB3LPCXApL?si=fab0ca58ebe54225"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Jarcha</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Canción de los vendimiadores]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Si vas a la vendimia,</l>
+                  <l> mi niña, sola,</l>
+                  <l> volverás con la saya</l>
+                  <l> de cualquier forma.</l>
+                  <l> Y a pocos meses</l>
+                  <l> te rondarán el talle</l>
+                  <l> sandías verdes.</l>
+                  <l> Y a pocos meses</l>
+                  <l> te rondarán el talle</l>
+                  <l> sandías verdes.</l>
+               </lg>
+               <lg>
+                  <l> De la vendimia vengo</l>
+                  <l> sola, mi niño,</l>
+                  <l> con la saya arreglada</l>
+                  <l> y el talle fino.</l>
+                  <l> De la vendimia</l>
+                  <l> vuelve revuelto el talle</l>
+                  <l> que se malicia.</l>
+                  <l> De la vendimia</l>
+                  <l> vuelve revuelto el talle</l>
+                  <l> que se malicia.</l>
+               </lg>
+               <lg>
+                  <l> A la vendimia, niñas</l>
+                  <l> vendimiadoras,</l>
+                  <l> A la vendimia, niñas,</l>
+                  <l> que ya es la hora.</l>
+                  <l> Si vendimiara</l>
+                  <l> el ramo de tu pecho</l>
+                  <l> y el de tu cara.</l>
+                  <l> Si vendimiara</l>
+                  <l> el ramo de tu pecho</l>
+                  <l> y el de tu cara.</l>
+               </lg>
+               <lg>
+                  <l> A la vendimia, niños,</l>
+                  <l> vendimiadores,</l>
+                  <l> A la vendimia, niños,</l>
+                  <l> van mis amores.</l>
+                  <l> Mas con él cuido</l>
+                  <l> de no perder las hojas</l>
+                  <l> ni los racimos.</l>
+                  <l> Mas con él cuido</l>
+                  <l> de no perder las hojas</l>
+                  <l> ni los racimos.</l>
+               </lg>
+               <lg>
+                  <l> Enriquezco tu mano</l>
+                  <l> cortando uvas,</l>
+                  <l> cubiertas por los soles</l>
+                  <l> y por las lunas.</l>
+                  <l> ¡Ay!, si quisieras</l>
+                  <l> que cortara tus besos</l>
+                  <l> con mis tijeras.</l>
+                  <l> ¡Ay!, si quisieras</l>
+                  <l> que cortara tus besos</l>
+                  <l> con mis tijeras.</l>
+               </lg>
+               <lg>
+                  <l> Cuando pise racimos</l>
+                  <l> tu abarca verde,</l>
+                  <l> tu pie se vuelve sangre,</l>
+                  <l> mi sangre nieve.</l>
+                  <l> Pisa las uvas,</l>
+                  <l> que, como mis amores,</l>
+                  <l> ya están maduras.</l>
+                  <l> Pisa las uvas,</l>
+                  <l> que, como mis amores,</l>
+                  <l> ya están maduras.</l>
+               </lg>
+               <lg>
+                  <l> De la vendimia vengo</l>
+                  <l> sola, mi niño,</l>
+                  <l> con la saya arreglada</l>
+                  <l> y el talle fino.</l>
+                  <l> De la vendimia</l>
+                  <l> vuelve revuelto el talle</l>
+                  <l> que se malicia.</l>
+                  <l> De la vendimia</l>
+                  <l> vuelve revuelto el talle</l>
+                  <l> que se malicia.</l>
+               </lg>
+               <lg>
+                  <l> A la vendimia, niñas</l>
+                  <l> vendimiadoras,</l>
+                  <l> A la vendimia, niñas,</l>
+                  <l> que ya es la hora.</l>
+                  <l> Si vendimiara</l>
+                  <l> el ramo de tu pecho</l>
+                  <l> y el de tu cara.</l>
+                  <l> Si vendimiara</l>
+                  <l> el ramo de tu pecho</l>
+                  <l> y el de tu cara.</l>
+               </lg>
+               <lg>
+                  <l> A la vendimia, niños,</l>
+                  <l> vendimiadores,</l>
+                  <l> A la vendimia, niños,</l>
+                  <l> van mis amores.</l>
+                  <l> Mas con él cuido</l>
+                  <l> de no perder las hojas</l>
+                  <l> ni los racimos.</l>
+                  <l> Mas con él cuido</l>
+                  <l> de no perder las hojas</l>
+                  <l> ni los racimos.</l>
+               </lg>
+               <lg>
+                  <l> Cuando pise racimos</l>
+                  <l> tu abarca verde,</l>
+                  <l> tu pie se vuelve sangre,</l>
+                  <l> mi sangre nieve.</l>
+                  <l> Pisa las uvas,</l>
+                  <l> que, como mis amores,</l>
+                  <l> ya están maduras.</l>
+                  <l> Pisa las uvas,</l>
+                  <l> que, como mis amores,</l>
+                  <l> ya están maduras.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns=""/>
+      </body>
+   </text>
+</TEI>

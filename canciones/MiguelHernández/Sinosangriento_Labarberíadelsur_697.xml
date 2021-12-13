@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sino sangriento</title>
+            <author>La barbería del sur</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Túmbanos si puedes</title>
+               <publisher>Nuevos Medios</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/vSi_CYrd37A"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+               <term>Latina</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>La barbería del sur</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Sino sangriento</bibl>
+                  <relation>Cita</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>La sangre me ha parido y me ha hecho preso, la sangre me reduce y me
+                    agiganta.</l>
+                  <l> Un edificio soy de sangre y yeso que se derriba él mismo y se levanta.</l>
+                  <l> Son cada vez más grandes las cadenas, más grandes y más cruel su poderío.</l>
+                  <l> Más grandes sus anillos envolventes, más grande el corazón, más grande el
+                    mío.</l>
+                  <l> De sangre en sangre vengo, como el mar de ola en ola.</l>
+                  <l> De color de amapola el alma tengo.</l>
+                  <l> Me veo de repente envuelto en sus coléricos raudales.</l>
+                  <l> Y nado contra todos, desesperadamente, como contra un fatal torrente de
+                    puñales</l>
+                  <l> De sangre en sangre vengo, como el mar de ola en ola.</l>
+                  <l> De color de amapola el alma tengo.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">En esta versión la letra está inspirada en el poema de Miguel Hernández, pero no copia
+            el orden de sus versos o su estructura. </note>
+      </body>
+   </text>
+</TEI>

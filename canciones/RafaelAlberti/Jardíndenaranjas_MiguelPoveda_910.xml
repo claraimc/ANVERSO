@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jardín de naranjas</title>
+            <author>Miguel Poveda</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Poemas del exilio. Rafael Alberti</title>
+               <publisher>Harmonia Mundi</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=3fkxr139mR0"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Clásica</term>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Miguel Poveda</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <bibl>[Eras jardín de naranjas]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Eras jardín de naranjas.</l>
+                  <l> Huerta de mares abiertos.</l>
+                  <l> Tiemblo de olivar y pámpanos,</l>
+                  <l> los verdes cuernos.</l>
+               </lg>
+               <lg>
+                  <l> Con pólvora te regaron.</l>
+                  <l> Y fuiste toro de fuego.</l>
+               </lg>
+               <lg>
+                  <l> Le están dando a este toro</l>
+                  <l> pastos amargos,</l>
+                  <l> yerbas con sustancia de muertos,</l>
+                  <l> negras hieles</l>
+                  <l> y clara sangre,</l>
+                  <l> sangre ingenua,</l>
+                  <l> ingenua de soldado.</l>
+                  <l> ¡Qué mala comida para este toro verde</l>
+                  <l> acostumbrado a las libres dehesas y a los ríos,</l>
+                  <l> para este toro a quien la mar y el cielo</l>
+                  <l> eran aún pequeños,</l>
+                  <l> eran aún pequeños como establo!</l>
+               </lg>
+               <lg>
+                  <l> Lloraba recio, golpeando, oscuro,</l>
+                  <l> las humanas paredes sin salida.</l>
+                  <l> Para marcarlo de una sacudida,</l>
+                  <l> lo esperaba la luz fuera del muro.</l>
+               </lg>
+               <lg>
+                  <l> Grito en la entraña,</l>
+                  <l> la entraña que lo hincó, futuro,</l>
+                  <l> desventuradamente y resistida</l>
+                  <l> por la misma cerrada, abierta herida</l>
+                  <l> que ha de exponerlo al primer golpe duro.</l>
+               </lg>
+               <lg>
+                  <l> ¡Qué desconsolación y qué ventura!</l>
+                  <l> Monstruo batido en sangre, descuajado</l>
+                  <l> de la cueva carnal del sufrimiento.</l>
+               </lg>
+               <lg>
+                  <l> Mama la luz y agótala, criatura,</l>
+                  <l> tabícala en tu ser iluminado,</l>
+                  <l> que mamas con la leche el pensamiento.</l>
+               </lg>
+               <lg>
+                  <l> ¡Ohhhhhh!</l>
+               </lg>
+               <lg>
+                  <l> Mama la luz y apriétala, criatura,</l>
+                  <l> tabícala en tu ser iluminado,</l>
+                  <l> que mamas con la leche el pensamiento.</l>
+               </lg>
+               <lg>
+                  <l> ¡Ohhhhhh!</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y los poemas originales; la puntuación
+                    y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Poveda fusiona tres poemas de Entre el clavel y la espada de Alberti que tiene el tema
+            común de los toros, pero usa de título común el primer verso de [Eras jardín de
+            naranjas]; la musicalización es casi idéntica, excepto por algunas repeticiones y
+            variaciones léxicas. </note>
+      </body>
+   </text>
+</TEI>

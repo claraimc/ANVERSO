@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La ciudad de los gitanos</title>
+            <author>Soleá Morente</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Tendrá que haber un camino</title>
+               <publisher>El Volcán Música</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=azomjNb0bD4"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Latina</term>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Soleá Morente</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Romance de la Guardia Civil española</bibl>
+                  <relation>Alusión</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>La ciudad de los gitanos,</l>
+                  <l> por las torres de canela</l>
+                  <l> estandartes y faroles</l>
+                  <l> por esquinas y azoteas.</l>
+               </lg>
+               <lg>
+                  <l> Los gitanos por la noche</l>
+                  <l> encendieron sus hogueras</l>
+                  <l> por el valle cruzan sombras</l>
+                  <l> en su fragua hacen fiesta.</l>
+               </lg>
+               <lg>
+                  <l> La ciudad de los gitanos,</l>
+                  <l> ¿quién te vio y no te recuerda?</l>
+                  <l> Por tus calles empinadas,</l>
+                  <l> pasearon reyes persas.</l>
+                  <l> Si alguien quiere encontrarte,</l>
+                  <l> que te busque en mi cabeza.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Excepto el verso «¿Quién te vio y no te recuerda?», que aparece sin modificar, todos
+            los demás versos de la canción toman como referencia versos del poema de Lorca, o ideas
+            de este, pero con modificaciones sustanciales. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hombre pequeñito</title>
+            <author>Rosa León</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Cuenta conmigo</title>
+               <publisher>Fonomusic</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=CVg4b2vA1Uc"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Rosa León</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Alfonsina Storni</persName>
+                  <bibl>Hombre pequeñito</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Hombre pequeñito, hombre pequeñito</l>
+                  <l> deja a tu canario, que quiere saltar</l>
+                  <l> yo soy el canario, hombre pequeñito</l>
+                  <l> yo soy el canario, déjame saltar.</l>
+               </lg>
+               <lg>
+                  <l> Estuve en tu jaula, hombre pequeñito</l>
+                  <l> hombre pequeñito que jaula me das.</l>
+                  <l> Digo pequeñito porque no me entiendes,</l>
+                  <l> porque no me entiendes ni me entenderás.</l>
+               </lg>
+               <lg>
+                  <l> Déjame, déjame saltar, déjame saltar</l>
+                  <l> [uuuuuuu] [uuuuuuu]</l>
+                  <l> Déjame, déjame saltar, déjame saltar</l>
+                  <l> [uuuuuuu] [uuuuuuu]</l>
+               </lg>
+               <lg>
+                  <l> Tampoco te entiendo, pero mientras tanto,</l>
+                  <l> ábreme la jaula que quiero escapar.</l>
+                  <l> Hombre pequeñito, te amé media hora,</l>
+                  <l> te amé media hora, no me pidas más.</l>
+               </lg>
+               <lg>
+                  <l> Déjame, déjame saltar, déjame saltar</l>
+                  <l> [uuuuuuu] [uuuuuuu]</l>
+                  <l> Déjame, déjame saltar, déjame saltar</l>
+                  <l> [uuuuuuu] [uuuuuuu] [uuuuuuu] [uuuuuuu] [uuuuuuu]</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original; la puntuación y
+                    ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar del poema de Alfonsina Storni. Existen
+            algunas diferencias como en la segunda línea, «Deja a tu canario que quiere saltar» (en
+            la canción) vs. «suelta a tu canario que quiere saltar» (en el poema). En la canción
+            también se repiten algunas frases en las ultimas líneas de cada estrofa, «Yo soy el
+            canario, déjame saltar», «Porque no me entiendes ni me entenderás», «Te amé media hora,
+            no me pidas más», las cuales no aparecen en el poema. Del mismo modo el estribillo que
+            dice “Déjame, déjame saltar, déjame saltar” solo forma parte de la canción. Esta canción
+            también se puede encontrar en La palabra más tuya cantando a Violeta Parra, Gloria
+            Fuertes, Fanny Rubio, Elena Martín Vidal, Gabriela Mistral, Dulce María Loynar, María
+            Elena Walsh, Alfonsina Storni, María Zambrano, Isabel Escudero. Un CD de Iberautor
+            Promociones Culturales (2006). Si bien la letra que aparece en este CD está incompleta,
+            y de ahí que la versión en esta ficha haya sido modificada. </note>
+      </body>
+   </text>
+</TEI>

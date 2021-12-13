@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Für Minne</title>
+            <author>Corvus Corax</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Tempi Antiquii</title>
+               <publisher>John Silver Production</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target=""/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Corvus Corax</persName>
+                  <nationality>Alemania</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Ay, linda amiga</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>¡Ay, linda amiga, que no vuelvo a verte!</l>
+                  <l> Cuerpo garrido que me lleva la muerte.</l>
+                  <l> No hay amor sin pena, pena sin dolor,</l>
+                  <l> ni dolor tan agudo como el del amor.</l>
+                  <l> Ni dolor tan agudo como el del amor.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Versión abreviada del poema. Se respeta la melodía que se viene atribuyendo
+            tradicionalmente a la canción, adaptada al estilo neomedieval del grupo. El texto es
+            igualmente conservador pero la pronunciación del cantante la hace casi irreconocible.
+        </note>
+      </body>
+   </text>
+</TEI>

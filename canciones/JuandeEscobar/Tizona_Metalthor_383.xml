@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tizona</title>
+            <author>Metalthor</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Conjuros de fuego</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=bM3snd90jRA"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Heavy metal</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Metalthor</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Juan de Escobar</persName>
+                  <bibl>Muerto yace ese buen Cid</bibl>
+                  <relation>Alusión</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Demostró su valor,</l>
+                  <l> la Cruzada ya terminó,</l>
+                  <l> a su hogar regresó</l>
+                  <l> en la tierra de Dios.</l>
+               </lg>
+               <lg>
+                  <l> Dueño es de su honor,</l>
+                  <l> mil lugares los que conquistó</l>
+                  <l> y la cruz defendió</l>
+                  <l> con todo su corazón.</l>
+               </lg>
+               <lg>
+                  <l> Venció muerto en la batalla.</l>
+                  <l> Son recuerdos de una hazaña</l>
+                  <l> que casi lo hizo inmortal.</l>
+                  <l> Desterrado de su tierra</l>
+                  <l> hizo que Tizona fuera</l>
+                  <l> más que un trozo de metal.</l>
+               </lg>
+               <lg>
+                  <l> Le guió su dolor,</l>
+                  <l> invencible a la opresión</l>
+                  <l> que sufrió y aguantó</l>
+                  <l> de su rey su señor.</l>
+               </lg>
+               <lg>
+                  <l> Venció muerto en la batalla.</l>
+                  <l> Son recuerdos de una hazaña</l>
+                  <l> que casi lo hizo inmortal.</l>
+                  <l> Desterrado de su tierra</l>
+                  <l> hizo que Tizona fuera</l>
+                  <l> más que un trozo de metal.</l>
+               </lg>
+               <lg>
+                  <l> Jamás podré regresar</l>
+                  <l> a mi Castilla natal.</l>
+                  <l> Venció muerto en la batalla.</l>
+                  <l> Son recuerdos de una hazaña</l>
+                  <l> que casi lo hizo inmortal.</l>
+                  <l> Desterrado de su tierra</l>
+                  <l> hizo que Tizona fuera</l>
+                  <l> más que un trozo de metal.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Aunque la referencia a la victoria del Cid después de muerto puede atribuirse a muchas
+            otras fuentes, apuntamos aquí algunas de las más conocidas. </note>
+      </body>
+   </text>
+</TEI>

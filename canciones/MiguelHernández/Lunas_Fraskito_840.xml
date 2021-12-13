@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lunas</title>
+            <author>Fraskito</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Tierra y sangre (Un homenaje Miguel Hernández)</title>
+               <publisher>Frasko Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=I6TglctYMbs"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Fraskito</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[¡Lunas! Como gobiernas, como bronces]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>¡Lunas! Como gobiernas, como bronces,</l>
+                  <l> siempre en mudanza, siempre dando vueltas</l>
+                  <l> y más vueltas.</l>
+                  <l> Cuando me voy a la vereda, entonces</l>
+                  <l> las veo desfilar, libres y esbeltas.</l>
+                  <l> ¡Lunas! Como gobiernas. [Estrofa x 2]</l>
+               </lg>
+               <lg>
+                  <l> Esto la gente decía</l>
+                  <l> que era una niña gitana</l>
+                  <l> que vieron llegar un día</l>
+                  <l> por los caminos de Hungría</l>
+                  <l> tras errante caravana. [Estrofa x 2]</l>
+               </lg>
+               <lg>
+                  <l> Como luceros y arena,</l>
+                  <l> te doy un beso si dices</l>
+                  <l> el número de mis penas.</l>
+               </lg>
+               <lg>
+                  <l> ¡Lunas! Como gobiernas, como bronces,</l>
+                  <l> siempre en mudanza, siempre dando vueltas</l>
+                  <l> y más vueltas.</l>
+                  <l> Cuando me voy a la vereda, entonces</l>
+                  <l> las veo desfilar, libres y esbeltas.</l>
+                  <l> ¡Lunas! Como gobiernas. [Estrofa x 4]</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Fraskito combina en esta canción partes de tres textos diferentes de Miguel Hernández,
+            eligiendo meticulosamente los versos que se relacionan con el mismo tema de las gitanas
+            y el amor: el comienzo del poema XXIX de Perito en lunas («¡Lunas! Como gobiernas, como
+            bronces»), la segunda estrofa de «Flor del arroyo» y una de sus letras flamencas.
+        </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Y sin embargo</title>
+            <author>Joaquín Sabina</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Yo, mí, me, contigo</title>
+               <publisher>Ariola Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=VhdOwDe-Pgg"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Joaquín Sabina</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Gustavo Adolfo Bécquer</persName>
+                  <bibl>Rima LIII</bibl>
+                  <relation>Alusión</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>De sobra sabes que eres la primera,</l>
+                  <l> que no miento si juro que daría</l>
+                  <l> por ti la vida entera,</l>
+                  <l> por ti la vida entera;</l>
+                  <l> y sin embargo un rato cada día,</l>
+                  <l> ya ves, te engañaría</l>
+                  <l> con cualquiera,</l>
+                  <l> te cambiaría por cualquiera.</l>
+               </lg>
+               <lg>
+                  <l> Ni tan arrepentido ni encantado</l>
+                  <l> de haberme conocido, lo confieso</l>
+                  <l> Tú que tanto has besado tú,</l>
+                  <l> tú que me has enseñado,</l>
+                  <l> sabes mejor que yo que hasta los huesos</l>
+                  <l> solo calan los besos</l>
+                  <l> que no has dado,</l>
+                  <l> los labios del pecado.</l>
+               </lg>
+               <lg>
+                  <l> Porque una casa sin ti es una emboscada,</l>
+                  <l> el pasillo de un tren de madrugada,</l>
+                  <l> un laberinto</l>
+                  <l> sin luz ni vino tinto,</l>
+                  <l> un velo de alquitrán en la mirada.</l>
+               </lg>
+               <lg>
+                  <l> Y me envenenan los besos que voy dando</l>
+                  <l> y, sin embargo, cuando</l>
+                  <l> duermo sin ti contigo sueño,</l>
+                  <l> y con todas si duermes a mi lado,</l>
+                  <l> y si te vas me voy por los tejados,</l>
+                  <l> como un gato sin dueño,</l>
+                  <l> perdido en el pañuelo de amargura</l>
+                  <l> que empaña, sin mancharla, tu hermosura.</l>
+               </lg>
+               <lg>
+                  <l> No debería contarlo y, sin embargo,</l>
+                  <l> cuando pido la llave de un hotel</l>
+                  <l> y a media noche encargo</l>
+                  <l> un buen champán francés</l>
+                  <l> y cena con velitas para dos,</l>
+                  <l> siempre es con otra, amor,</l>
+                  <l> nunca contigo,</l>
+                  <l> bien sabes lo que digo.</l>
+               </lg>
+               <lg>
+                  <l> Porque una casa sin ti es una oficina,</l>
+                  <l> un teléfono ardiendo en la cabina,</l>
+                  <l> una palmera</l>
+                  <l> en el museo de cera,</l>
+                  <l> un éxodo de oscuras golondrinas.</l>
+               </lg>
+               <lg>
+                  <l> Y me envenenan los besos que voy dando</l>
+                  <l> y, sin embargo, cuando</l>
+                  <l> duermo sin ti contigo sueño,</l>
+                  <l> y con todas si duermes a mi lado,</l>
+                  <l> y si te vas me voy por los tejados,</l>
+                  <l> como un gato sin dueño,</l>
+                  <l> perdido en el pañuelo de amargura</l>
+                  <l> que empaña, sin mancharla, tu hermosura.</l>
+               </lg>
+               <lg>
+                  <l> Y cuando vuelves hay fiesta</l>
+                  <l> en la cocina</l>
+                  <l> y baile sin orquesta</l>
+                  <l> y ramos de rosas con espinas,</l>
+                  <l> pero dos no es igual que uno más uno,</l>
+                  <l> y el lunes al café del desayuno</l>
+                  <l> vuelve la guerra fría</l>
+                  <l> y al cielo de tu boca el purgatorio,</l>
+                  <l> y al dormitorio</l>
+                  <l> el pan de cada día.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción alude y, en cierto modo, invierte el sentido del verso de Bécquer:
+            «Volverán las oscuras golondrinas». </note>
+      </body>
+   </text>
+</TEI>

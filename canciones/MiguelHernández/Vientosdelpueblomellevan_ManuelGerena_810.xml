@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vientos del pueblo me llevan</title>
+            <author>Manuel Gerena</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Manuel Gerena canta con Miguel Hernández</title>
+               <publisher>Alía Discos</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://music.youtube.com/watch?v=nCIyQkrd9Ck&amp;list=RDAMVMnCIyQkrd9Ck"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Manuel Gerena</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Vientos del pueblo me llevan</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Si me muero, que me muera</l>
+                  <l> con la cabeza muy alta.</l>
+                  <l> Si me muero, que me muera.</l>
+                  <l> La boca contra la grama,</l>
+                  <l> muerto y veinte veces muerto,</l>
+                  <l> tendré apretados los dientes</l>
+                  <l> y decidida la barba.</l>
+               </lg>
+               <lg>
+                  <l> Vientos del pueblo me arrastran,</l>
+                  <l> vientos del pueblo me llevan,</l>
+                  <l> vientos del pueblo me arrastran,</l>
+                  <l> me esparcen el corazón</l>
+                  <l> y me aventan la garganta.</l>
+                  <l> Vientos del pueblo me arrastran.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografiía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns=""/>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rosario dinamitera</title>
+            <author>Pedro Fauras (Bernardo Fuster)</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>La palabra más tuya. Cantando a Miguel Hernández</title>
+               <publisher>Factoría Autor</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/oKgAgpXnWY4"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Pedro Fauras (Bernardo Fuster)</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Rosario, dinamitera</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Rosario, dinamitera, sobre tu mano bonita</l>
+                  <l> celaba la dinamita sus atributos de fiera.</l>
+                  <l> Nadie al mirarla creyera que había en su corazón</l>
+                  <l> una desesperación de cristales, de metralla,</l>
+                  <l> ansiosa de una batalla, sedienta de una explosión.</l>
+               </lg>
+               <lg>
+                  <l> Era tu mano derecha, capaz de fundir leones,</l>
+                  <l> la flor de las municiones y el anhelo de la mecha.</l>
+                  <l> Rosario, buena cosecha,alta como un campanario,</l>
+                  <l> sembrabas al adversario de dinamita furiosa</l>
+                  <l> y era tu mano una rosa enfurecida, Rosario.</l>
+               </lg>
+               <lg>
+                  <l> Buitrago ha sido testigo de la condición de rayo</l>
+                  <l> de las hazañas que callo y de la mano que digo.</l>
+                  <l> ¡Bien conoció el enemigo la mano de esta doncella,</l>
+                  <l> que hoy no es mano porque de ella, que ni un solo dedo agita,</l>
+                  <l> se prendó la dinamita y la convirtió en estrella!</l>
+               </lg>
+               <lg>
+                  <l> Rosario, dinamitera, puedes ser varón y eres</l>
+                  <l> la nata de las mujeres, la espuma de la trinchera.</l>
+                  <l> Digna como una bandera de triunfos y resplandores,</l>
+                  <l> dinamiteros pastores, vedla agitando su aliento</l>
+                  <l> y dad las bombas al viento del alma de los traidores.</l>
+               </lg>
+               <lg>
+                  <l> Dinamiteros pastores, vedla agitando su aliento</l>
+                  <l> y dad las bombas al viento del alma de los traidores.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La musicalización del poema es idéntica, con la salvedad de que se repiten los cuatro
+            últimos versos al final de la canción. Esta canción se encuentra también en dos discos
+            del mismo autor: Manifiesto (1975), editado por el sello discográfico Neue Welt Nuevas
+            canciones revolucionarias españolas, FRAP antifascista años 70 (1975), seguramente
+            autoeditado o editado por un sello no comercial. </note>
+      </body>
+   </text>
+</TEI>

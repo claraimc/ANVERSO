@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prometeo</title>
+            <author>Extremoduro</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Agila</title>
+               <publisher>Discos Radiactivos Organizados</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=__KB0cUvYeE"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Extremoduro</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>De mal en peor</bibl>
+                  <relation>Cita</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Si no fuera pa mirarte ya no tendría cinco sentidos</l>
+                  <l> y, ay, golerte y tocarte y me gusta, me dice al oído.</l>
+               </lg>
+               <lg>
+                  <l> No me levanto ni me acuesto día</l>
+                  <l> que malvado cien veces no haya sido;</l>
+                  <l> no me entretengo, estoy en lucha entodavía,</l>
+                  <l> hoy voy ganando, ayer perdí.</l>
+               </lg>
+               <lg>
+                  <l> Me regaló una herida, cierra de noche, abre de día.</l>
+                  <l> “No sufras Prometeo”, me dice siempre que la veo.</l>
+                  <l> Me revuelco por el suelo y me revienta la polla</l>
+                  <l> de pensar en ti: me desangro y riego tu jardín.</l>
+               </lg>
+               <lg>
+                  <l> Ronca de madrugada y nunca me dice no,</l>
+                  <l> ¡que a nada!</l>
+                  <l> Yo la miro desde lejos, me masturbo</l>
+                  <l> ¡que hago ruido!</l>
+               </lg>
+               <lg>
+                  <l> No me levanto ni me acuesto día</l>
+                  <l> que malvado cien veces no haya sido;</l>
+                  <l> no me entretengo, estoy en lucha entodavía,</l>
+                  <l> hoy voy ganando, ayer perdí.</l>
+               </lg>
+               <lg>
+                  <l> Detrás de tu ventana te has quedado con las ganas.</l>
+                  <l> Besos de contrabando y al final como una estera.</l>
+               </lg>
+               <lg>
+                  <l> Me revuelco por el suelo y me revienta la polla</l>
+                  <l> de pensar en ti: me desangro y riego tu jardín.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Dentro de la letra de la canción de Extremoduro, se insertan dos versos de «De mal en
+            peor», de Miguel Hernández: «No me levanto ni me acuesto día / que malvado cien veces no
+            haya sido». </note>
+      </body>
+   </text>
+</TEI>

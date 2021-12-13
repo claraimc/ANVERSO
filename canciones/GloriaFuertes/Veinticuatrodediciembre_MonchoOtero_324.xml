@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Veinticuatro de diciembre</title>
+            <author>Moncho Otero</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Moncho Otero canta a Gloria Fuertes</title>
+               <publisher>Oecus</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=eKmoQInG32c&amp;list=OLAK5uy_m4XDnualm8lOW7bS50PgF37chqW2ooe9A&amp;index=50"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Moncho Otero</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Gloria Fuertes</persName>
+                  <bibl>24 de diciembre</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Humilde hermana monja</l>
+                  <l> de hábito raído y toca de retales,</l>
+                  <l> humilde princesita de Jesús descalza</l>
+                  <l> descalza en sus portales.</l>
+                  <l> Desahuciada de la burguesía</l>
+                  <l> emigrada de centros y hospitales,</l>
+                  <l> dada de alta,</l>
+                  <l> porque alta eres y estarás, y estarás en altares.</l>
+                  <l> Garrapata de Cristo,</l>
+                  <l> luciérnaga en los bares,</l>
+                  <l> vas haciendo milagros donde pasas ¿sabes?</l>
+                  <l> No lo sabes.</l>
+                  <l> No lo sabes.</l>
+                  <l> Yo quisiera imitarte,</l>
+                  <l> (a veces me creo que soy tú)</l>
+                  <l> Telaraña del Portal de Belén,</l>
+                  <l> la más humilde sierva andante.</l>
+                  <l> monja de amor al alba</l>
+                  <l> amante de mi amante.</l>
+                  <l> Humilde hermana monja</l>
+                  <l> de hábito raído y toca de retales,</l>
+                  <l> humilde princesita de Jesús descalza</l>
+                  <l> descalza en sus portales.</l>
+                  <l> Desahuciada de la burguesía</l>
+                  <l> emigrada de centros y hospitales,</l>
+                  <l> dada de alta,</l>
+                  <l> porque alta eres y estarás, y estarás en altares.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio; a falta de fuente escrita, la
+                    puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La musicalización sigue de forma bastante fiel el texto original de Gloria Fuertes,
+            salvo por el empleo de alguna repetición como en el caso del verso «No sabes nada» que
+            Moncho Otero utiliza a modo de estribillo en el que se incorpora una segunda voz que se
+            une a la suya propia. Además, las primeras dos estrofas del poema vuelven a repetirse al
+            final, así como el estribillo que, en esta ocasión, suena de fondo.   Este tema
+            pertenece a un disco doble que recoge los poemas musicalizados de Gloria Fuertes por
+            Moncho Otero. Incluye, además, grabaciones originales del recital que la poeta y el
+            cantante dieron el 3 de enero de 1998 en el café Soto Mesa de Madrid. Gloria Fuertes y
+            Moncho Otero realizaron varios recitales conjuntos entre los años 1996 y 1998. </note>
+      </body>
+   </text>
+</TEI>

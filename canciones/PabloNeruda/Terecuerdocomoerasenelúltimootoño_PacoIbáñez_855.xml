@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Te recuerdo como eras en el último otoño</title>
+            <author>Paco Ibáñez</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Paco Ibáñez interpreta a Pablo Neruda</title>
+               <publisher>Ariola</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=RQ7Vva0TH6M&amp;ab_channel=MiguelAngelAlcedoLetran"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Paco Ibáñez</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Pablo Neruda</persName>
+                  <bibl>[Te recuerdo como eras en el último otoño]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Te recuerdo como eras en el último otoño.</l>
+                  <l> Eras la boina gris y el corazón en calma.</l>
+                  <l> En tus ojos peleaban las llamas del crepúsculo.</l>
+                  <l> Y las hojas caían en el agua de tu alma.</l>
+               </lg>
+               <lg>
+                  <l> Apegada a mis brazos como una enredadera,</l>
+                  <l> las hojas recogían tu voz lenta y en calma.</l>
+                  <l> Hoguera de estupor en que mi sed ardía.</l>
+                  <l> Dulce jacinto azul torcido sobre mi alma.</l>
+               </lg>
+               <lg>
+                  <l> Siento viajar tus ojos y es distante el otoño:</l>
+                  <l> Boina gris, voz de pájaro, y corazón de casa</l>
+                  <l> hacia donde emigraban mis profundos anhelos</l>
+                  <l> y caían mis besos alegres como brasas.</l>
+               </lg>
+               <lg>
+                  <l> Cielo desde un navío. Campo desde los cerros.</l>
+                  <l> Tu recuerdo es de luz, de humo, de estanque en calma.</l>
+                  <l> Más allá de tus ojos ardían los crepúsculos.</l>
+                  <l> Hojas secas de otoño giraban en tu alma.</l>
+               </lg>
+               <lg>
+                  <l> Te recuerdo como eras en el último otoño.</l>
+                  <l> Eras la boina gris y el corazón en calma.</l>
+               </lg>
+               <lg>
+                  <l> (Letra tomada de álbum La palabra más tuya. Cantando a Pablo Neruda)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización casi idéntica al poema de Pablo Neruda bajo el
+            mismo título. La canción sigue al poema excepto por el final, al que se agrega un
+            estribillo de la primera estrofa, que no está presente en el poema. Esta canción también
+            se puede encontrar en La palabra más tuya cantando a Pablo Neruda, un CD de Iberautor
+            Promociones Culturales (2006). </note>
+      </body>
+   </text>
+</TEI>

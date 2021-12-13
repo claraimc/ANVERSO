@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ay, linda amiga</title>
+            <author>An Danzza</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Whispers of the Forest</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=WlSzaXBMVww"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>An Danzza</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Ay, linda amiga</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>¡Ay, linda amiga,</l>
+                  <l> que no vuelvo a verte!</l>
+                  <l> Cuerpo garrido</l>
+                  <l> que me lleva a la muerte.</l>
+                  <l> No hay amor sin pena,</l>
+                  <l> pena sin dolor,</l>
+                  <l> ni dolor tan agudo</l>
+                  <l> como el del amor.</l>
+                  <l> Ni dolor tan agudo</l>
+                  <l> como el del amor.</l>
+               </lg>
+               <lg>
+                  <l> ¡Ay, linda amiga,</l>
+                  <l> que no vuelvo a verte!</l>
+                  <l> Cuerpo garrido</l>
+                  <l> que me lleva a la muerte.</l>
+                  <l> Levantéme madre</l>
+                  <l> al salir el sol,</l>
+                  <l> fui por los campos verdes</l>
+                  <l> a buscar mi amor.</l>
+                  <l> Fui por los campos verdes</l>
+                  <l> a buscar mi amor.</l>
+               </lg>
+               <lg>
+                  <l> ¡Ay, linda amiga,</l>
+                  <l> que no vuelvo a verte!</l>
+                  <l> Cuerpo garrido</l>
+                  <l> que me lleva a la muerte.</l>
+               </lg>
+               <lg>
+                  <l> ¡Ay, linda amiga,</l>
+                  <l> que no vuelvo a verte!</l>
+                  <l> Cuerpo garrido</l>
+                  <l> que me lleva a la muerte.</l>
+                  <l> ¿Dónde está aquel monte?</l>
+                  <l> ¿Dónde el manantial</l>
+                  <l> en donde te bañabas,</l>
+                  <l> cuerpo de coral?</l>
+                  <l> Y mientras te secabas,</l>
+                  <l> me sonreías.</l>
+               </lg>
+               <lg>
+                  <l> ¡Ay, linda amiga,</l>
+                  <l> que no vuelvo a verte!</l>
+                  <l> Cuerpo garrido</l>
+                  <l> que me lleva a la muerte.</l>
+                  <l> Lejos se me borra,</l>
+                  <l> ventanita azul</l>
+                  <l> y más y más pequeña</l>
+                  <l> te me pierdes tú.</l>
+                  <l> ¿Adónde vas,</l>
+                  <l> adónde?</l>
+                  <l> Lucerita, luz.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Las primeras dos estrofas son las de la composición tradicional. Las dos últimas
+            estrofas son las de la versión de Amancio Prada (Canciones de amor y celda, Movieplay,
+            1979). Se respeta la melodía original. </note>
+      </body>
+   </text>
+</TEI>

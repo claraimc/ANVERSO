@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Por aquí pasa un río</title>
+            <author>Pedro Guerra</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>La palabra en el aire</title>
+               <publisher>El Europeo Música</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=BBS3Kif7gg8"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Pedro Guerra</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Ángel González</persName>
+                  <bibl>[Por aquí pasa un río]</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Por aquí pasa un río.</l>
+                  <l> Por aquí tus pisadas</l>
+                  <l> fueron embelleciendo las arenas,</l>
+                  <l> aclarando las aguas,</l>
+                  <l> puliendo los guijarros, perdonando</l>
+                  <l> a las embelesadas</l>
+                  <l> azucenas…</l>
+               </lg>
+               <lg>
+                  <l> No vas tú por el río:</l>
+                  <l> es el río el que anda</l>
+                  <l> detrás de ti, buscando en ti</l>
+                  <l> el reflejo, mirándose en tu espalda.</l>
+               </lg>
+               <lg>
+                  <l> Si vas de prisa, el río se apresura.</l>
+                  <l> Si vas despacio, el agua se remansa.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Primero, el propio Ángel González recita el poema entero, con la melodía de fondo.
+            Luego, Pedro Guerra interpreta el poema musicalizado, repitiendo algunos versos. En todo
+            caso, no hay alteraciones textuales. </note>
+      </body>
+   </text>
+</TEI>

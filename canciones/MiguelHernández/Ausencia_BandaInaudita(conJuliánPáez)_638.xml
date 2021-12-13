@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ausencia</title>
+            <author>Banda Inaudita (con Julián Páez)</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>A la luna venidera</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/sHOM7xlxxx4"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Banda Inaudita (con Julián Páez)</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Ausencia en todo veo]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Ausencia en todo veo:</l>
+                  <l> tus ojos la reflejan.</l>
+               </lg>
+               <lg>
+                  <l> Ausencia en todo escucho:</l>
+                  <l> tu voz a tiempo suena.</l>
+               </lg>
+               <lg>
+                  <l> Ausencia en todo aspiro:</l>
+                  <l> tu aliento huele a hierba.</l>
+               </lg>
+               <lg>
+                  <l> Ausencia en todo toco:</l>
+                  <l> tu cuerpo se despuebla.</l>
+               </lg>
+               <lg>
+                  <l> Ausencias en todo pruebo:</l>
+                  <l> tu boca me destierra.</l>
+               </lg>
+               <lg>
+                  <l> Ausencia en todo siento.</l>
+                  <l> Ausencia, ausencia, ausencia.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">esta versión supone una musicalización similar al poema de Miguel Hernández. El autor,
+            para componer la canción, repite dos veces el poema, añadiendo el verso «…Ausencias en
+            todo pruebo:/tu boca me destierra…» entre las estrofas cuarta y quinta del poemas, para
+            terminar el tema. </note>
+      </body>
+   </text>
+</TEI>

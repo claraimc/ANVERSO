@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Casida de la muchacha dorada</title>
+            <author>Vicente Pradal, Rafael Pradal y Servane Solane</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Lorca - Pradal: El diván del Tamarit</title>
+               <publisher>Erato y Warner Classics</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=2ESBxg9Oydg"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Clásica</term>
+               <term>Flamenco</term>
+               <term>Latina</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Vicente Pradal, Rafael Pradal y Servane Solane</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Casida de la muchacha dorada</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>La muchacha dorada</l>
+                  <l> se bañaba en el agua</l>
+                  <l> y el agua se doraba.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Las algas y las ramas</l>
+                  <l> en sombra la asombraban</l>
+                  <l> y el ruiseñor cantaba</l>
+                  <l> por la muchacha blanca,</l>
+                  <l> por la muchacha blanca,</l>
+                  <l> por la muchacha blanca.</l>
+                  <l> Vino la noche clara,</l>
+                  <l> turbia de plata mala,</l>
+                  <l> con peladas montañas,</l>
+                  <l> bajo la brisa parda.</l>
+                  <l> Vino el alba sin mancha,</l>
+                  <l> con cien caras de vaca,</l>
+                  <l> yerta y amortajada</l>
+                  <l> con heladas guirnaldas.</l>
+               </lg>
+               <lg>
+                  <l> La muchacha mojada</l>
+                  <l> era blanca en el agua</l>
+                  <l> y el agua, llamarada.</l>
+                  <l> La muchacha de lágrimas</l>
+                  <l> se bañaba entre llamas</l>
+                  <l> y el ruiseñor lloraba</l>
+                  <l> con las alas quemadas,</l>
+                  <l> con las alas quemadas,</l>
+                  <l> con las alas quemadas.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> La muchacha dorada</l>
+                  <l> era una blanca garza</l>
+                  <l> y el agua la doraba.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> La muchacha dorada.</l>
+                  <l> La muchacha dorada.</l>
+                  <l> La muchacha dorada.</l>
+                  <l> La muchacha dorada.</l>
+                  <l> La muchacha dorada.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Con repetición de versos y cambio en la disposición de las estrofas. </note>
+      </body>
+   </text>
+</TEI>

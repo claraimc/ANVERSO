@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sentado sobre los muertos</title>
+            <author>Román LC</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Otros">
+               <title>Homenaje a Miguel Hernández</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/Pyv05YrlNC0"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Román LC</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Sentado sobre los muertos</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Sentado sobre los muertos</l>
+                  <l> que se han callado en dos meses,</l>
+                  <l> beso zapatos vacíos</l>
+                  <l> y empuño rabiosamente</l>
+                  <l> la mano del corazón</l>
+                  <l> y el alma que lo mantiene</l>
+               </lg>
+               <lg>
+                  <l> Ayer amaneció el pueblo</l>
+                  <l> desnudo y sin qué ponerse,</l>
+                  <l> hambriento y sin qué comer,</l>
+                  <l> y el día de hoy amanece</l>
+                  <l> justamente aborrascado</l>
+                  <l> y sangriento justamente.</l>
+                  <l> En su mano los fusiles</l>
+                  <l> leones quieren volverse</l>
+                  <l> para acabar con las fieras</l>
+                  <l> que lo han sido tantas veces.</l>
+               </lg>
+               <lg>
+                  <l> Que mi voz suba a los montes</l>
+                  <l> y baje a la tierra y truene,</l>
+                  <l> eso pide mi garganta</l>
+                  <l> desde ahora y desde siempre.</l>
+               </lg>
+               <lg>
+                  <l> Que mi voz suba a los montes</l>
+                  <l> y baje a la tierra y truene,</l>
+                  <l> eso pide mi garganta</l>
+                  <l> desde ahora y desde siempre.</l>
+               </lg>
+               <lg>
+                  <l> Si yo salí de la tierra,</l>
+                  <l> si yo he nacido de un vientre</l>
+                  <l> desdichado y con pobreza,</l>
+                  <l> no fue sino para hacerme</l>
+                  <l> ruiseñor de las desdichas,</l>
+                  <l> eco de la mala suerte,</l>
+                  <l> y cantar y repetir</l>
+                  <l> a quien escucharme debe</l>
+                  <l> cuanto a penas, cuanto a pobres,</l>
+                  <l> cuanto a tierra se refiere.</l>
+               </lg>
+               <lg>
+                  <l> Que mi voz suba a los montes,</l>
+                  <l> desde ahora y desde siempre.</l>
+               </lg>
+               <lg>
+                  <l> Aunque te falten las armas,</l>
+                  <l> pueblo de cien mil poderes,</l>
+                  <l> no desfallezcan tus huesos,</l>
+                  <l> castiga a quien te malhiere</l>
+                  <l> mientras que te queden puños,</l>
+                  <l> uñas, saliva, y te queden</l>
+                  <l> corazón, entrañas, tripas,</l>
+                  <l> cosas de varón y dientes.</l>
+               </lg>
+               <lg>
+                  <l> No te hieran por la espalda,</l>
+                  <l> vive cara a cara y muere</l>
+                  <l> con el pecho ante las balas,</l>
+                  <l> ancho como las paredes.</l>
+               </lg>
+               <lg>
+                  <l> Que mi voz suba a los montes</l>
+                  <l> y baje a la tierra y truene,</l>
+                  <l> eso pide mi garganta</l>
+                  <l> desde ahora y desde siempre.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar del poema de Miguel Hernández. El autor
+            utiliza, sin orden aparente, total o parcialmente algunas de las estrofas del poema; es
+            la segunda estrofa, «…Que mi voz suba a los montes/y baje a la tierra y truene,/eso pide
+            mi garganta/desde ahora y desde siempre…», a modo de estribillo en la canción. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ciudad de los gitanos</title>
+            <author>Billy Boom Band</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Lorca POP</title>
+               <publisher>Minúscule Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=iVN_gvVXoEY"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pop</term>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Billy Boom Band</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Romance de la Guardia Civil española</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Los caballos negros son.</l>
+                  <l> Las herraduras son negras.</l>
+                  <l> Sobre las capas relucen</l>
+                  <l> manchas de tinta y de cera.</l>
+                  <l> Tienen, por eso no lloran,</l>
+                  <l> de plomo las calaveras.</l>
+                  <l> Con el alma de charol</l>
+                  <l> vienen por la carretera.</l>
+               </lg>
+               <lg>
+                  <l> ¡Ohhhh!</l>
+                  <l> Ciudad de los gitanos.</l>
+                  <l> ¡Ohhhh!</l>
+                  <l> Ciudad de los gitanos.</l>
+                  <l> Ciudad de los gitanos.</l>
+               </lg>
+               <lg>
+                  <l> Cuando llegaba la noche,</l>
+                  <l> noche que noche nochera,</l>
+                  <l> los gitanos en sus fraguas</l>
+                  <l> forjaban soles y flechas.</l>
+                  <l> El viento, vuelve desnudo</l>
+                  <l> la esquina de la sorpresa,</l>
+                  <l> en la noche platinoche</l>
+                  <l> noche, que noche nochera.</l>
+               </lg>
+               <lg>
+                  <l> ¡Ohhhh!</l>
+                  <l> Ciudad de los gitanos.</l>
+                  <l> ¡Ohhhh!</l>
+                  <l> Ciudad de los gitanos.</l>
+                  <l> Ciudad de los gitanos.</l>
+                  <l> La ciudad de los gitanos.</l>
+               </lg>
+               <lg>
+                  <l> La Virgen y San José</l>
+                  <l> perdieron sus castañuelas,</l>
+                  <l> y buscan a los gitanos</l>
+                  <l> para ver si las encuentran.</l>
+                  <l> La Virgen viene vestida</l>
+                  <l> con un traje de alcaldesa,</l>
+                  <l> de papel de chocolate</l>
+                  <l> con los collares de almendras.</l>
+               </lg>
+               <lg>
+                  <l> ¡Ohhhh!</l>
+                  <l> Ciudad de los gitanos.</l>
+                  <l> ¡Ohhhh!</l>
+                  <l> Ciudad de los gitanos.</l>
+                  <l> Ciudad de los gitanos.</l>
+                  <l> La ciudad de los gitanos.</l>
+               </lg>
+               <lg>
+                  <l> ¡Ohhhh ciudad de los gitanos!</l>
+                  <l> En las esquinas banderas.</l>
+                  <l> Apaga tus verdes luces</l>
+                  <l> que viene la benemérita.</l>
+                  <l> ¡Ohhhh ciudad de los gitanos!</l>
+                  <l> ¿Quién te vio y no te recuerda?</l>
+                  <l> Dejadla lejos del mar,</l>
+                  <l> sin peines para sus crenchas.</l>
+               </lg>
+               <lg>
+                  <l> En tren de dos en dos</l>
+                  <l> a la ciudad de la fiesta.</l>
+                  <l> La ciudad libre de miedo,</l>
+                  <l> tiene abiertas sus puertas. (Estrofa x 4)</l>
+               </lg>
+               <lg>
+                  <l> ¡Ohhhh!</l>
+                  <l> Ciudad de los gitanos. (Estrofa x 4)</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio, a falta de buena fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción recorta un buen número de versos respecto del poema original y altera
+            mínimamente algunos de los versos mantenidos. Se trata de una musicalización enfocada al
+            público infantil/juvenil. </note>
+      </body>
+   </text>
+</TEI>

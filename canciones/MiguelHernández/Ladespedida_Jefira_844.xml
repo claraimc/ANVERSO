@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La despedida</title>
+            <author>Jefira</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Rencontres</title>
+               <publisher>Arteka Productions</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/aAA2Iuw6wWI"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Jefira</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Tierra. La despedida]</bibl>
+                  <relation>Cita</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Tierra, la despedida siempre es una agonía,</l>
+                  <l> ayer nos despedimos  ayer agonizamos.</l>
+               </lg>
+               <lg>
+                  <l> Por eso las estaciones saben a muerte.</l>
+                  <l> saben a muerte los muertos.</l>
+               </lg>
+               <lg>
+                  <l> Tierra, en medio morimos y,</l>
+                  <l> por eso cuando partimos se deshacen los pañuelos.</l>
+                  <l> Por eso cuando partimos se deshacen los pañuelos.</l>
+               </lg>
+               <lg>
+                  <l> Cadáveres vivos somos, en el horizonte rectos.</l>
+                  <l> Cadáveres vivos somos, en el horizonte rectos.</l>
+               </lg>
+               <lg>
+                  <l> Tierra, la despedida es siempre una agonía,</l>
+                  <l> ayer nos despedimos, ayer agonizamos.</l>
+               </lg>
+               <lg>
+                  <l> Por eso las estaciones saben a muerte,</l>
+                  <l> saben a muerte los cuerpos.</l>
+               </lg>
+               <lg>
+                  <l> https://youtu.be/aAA2Iuw6wWI</l>
+               </lg>
+               <lg>
+                  <l> Tierra, en medio morimos y,</l>
+                  <l> por eso cuando partimos se deshacen los pañuelos.</l>
+                  <l> Por eso cuando partimos se deshacen los pañuelos.</l>
+               </lg>
+               <lg>
+                  <l> Tierra, en medio morimos.</l>
+                  <l> Por eso las estaciones saben a muerte,</l>
+                  <l> saben a muerte los cuerpos.</l>
+               </lg>
+               <lg>
+                  <l> Por eso las estaciones saben a muerte,</l>
+                  <l> saben a muerte los cuerpos.</l>
+                  <l> Por eso cuando partimos se deshacen los pañuelos.</l>
+               </lg>
+               <lg>
+                  <l> Tierra, tierra, tierra, tierra</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+               <lg> </lg>
+            </lg>
+         </div>
+         <note xmlns="">En esta musicalización se utilizan los versos de dos poemas de Miguel
+            Hernández, «Tierra. La despedida» y «Por eso las estacione», componiéndose la canción a
+            base de estrofas construidas a partir de la mezcla de los versos de ambos poemas; por
+            ejemplo:   «…Tierra, en medio morimos y,/por eso cuando partimos se deshacen los
+            pañuelos./Por eso cuando partimos se deshacen los pañuelos…» </note>
+      </body>
+   </text>
+</TEI>

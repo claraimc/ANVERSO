@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cancioneo y romancero de ausencias</title>
+            <author>Konsumo respeto</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Como te iba diciendo</title>
+               <publisher>Santo Grial Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/66-3DuMLFJU"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Konsumo respeto</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Callo después de muerto]</bibl>
+                  <relation>Cita</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Hablo después de muerto callas después de viva.</l>
+                  <l> Hablo después de muerto, callas después de viva</l>
+                  <l> pobres conversaciones no expresadas y dichas.</l>
+                  <l> Nos llenan lo mejor de la muerte y la vida</l>
+                  <l> un silencio muy grande ata lenguas y vibras,</l>
+                  <l> con espadas forjadas en silencio fundidas.</l>
+               </lg>
+               <lg>
+                  <l> En miradas en besos alargabas el día nuestros cuerpo de se elevan,</l>
+                  <l> nuestros cuerpos se abisman.</l>
+               </lg>
+               <lg>
+                  <l> Con silencio te bato, con silencio me intimas,</l>
+                  <l> con silencio vibrante, de silencio sin silabas.</l>
+                  <l> Con silencio te bato, con silencio me intimas,</l>
+                  <l> con silencio vibrante, de silencio sin silabas.</l>
+               </lg>
+               <lg>
+                  <l> Tus ojos se me van de mis ojos y vuelven,</l>
+                  <l> después de recorrer un para amor de ausente.</l>
+                  <l> Tus brazos se desploman, en mis brazos y ascienden</l>
+                  <l> retrocediendo ante esa desolación que sientes.</l>
+               </lg>
+               <lg>
+                  <l> Desolación con hielo o mi calor te vence,</l>
+                  <l> desolación con hielo o mi calor te vence.</l>
+                  <l> Desolación con hielo o mi calor te vence,</l>
+                  <l> desolación con hielo o mi calor te vence.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Para la esta canción se utilizan algunos versos del poema de Miguel Hernández como,
+            por ejemplo, «…Hablo después de muerto callas después de viva/Hablo después de muerto,
+            callas después de viva…». No obstante, el resto de la canción, aunque inspirada en el
+            poema, es compuesta por el artista. </note>
+      </body>
+   </text>
+</TEI>

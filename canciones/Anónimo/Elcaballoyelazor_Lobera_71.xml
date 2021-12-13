@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El caballo y el azor</title>
+            <author>Lobera</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Maqueta/Demo">
+               <title>Demo I</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://ulfvaldr.bandcamp.com/track/el-caballo-y-el-azor"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Heavy metal</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Lobera</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>El caballo y el azor (Mocedades de Rodrigo)</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>En León son las cortes.</l>
+                  <l> Llegó el conde lozano:</l>
+                  <l> un cavallo lieva preçiado,</l>
+                  <l> et un azor en la mano.</l>
+                  <l> Et conprógelo el rey</l>
+                  <l> por aver monedado:</l>
+                  <l> en treinta e çinco mill maravedís</l>
+                  <l> fue el cavallo et el azor apreçiado.</l>
+                  <l> Al gallarín gelo vendió el conde,</l>
+                  <l> que gelo pagasse a día de plazo.</l>
+                  <l> Largos plazos passaron,</l>
+                  <l> que non fue el conde pagado:</l>
+                  <l> nin quiríe ir a las cortes,</l>
+                  <l> e menos de entregarlo.</l>
+                  <l> Con fijos e con mugieres,</l>
+                  <l> van a las cortes de León castellanos.</l>
+               </lg>
+               <lg>
+                  <l> E conde Fernand Gonçález</l>
+                  <l> dixo al rey atanto:</l>
+                  <l> —Rey, non verné a vuestras cortes,</l>
+                  <l> a menos de ser pagado</l>
+                  <l> del aver que me devedes,</l>
+                  <l> de mi azor e de mi cavallo—.</l>
+                  <l> Quando contaron el aver,</l>
+                  <l> el rey non podía pagarlo:</l>
+                  <l> tanto creçió el gallarín</l>
+                  <l> que lo non pagaría el regnado.</l>
+                  <l> Venieron abenençi</l>
+                  <l> el rey et el conde lozano,</l>
+                  <l> que quitasse a Castilla:</l>
+                  <l> el conde fue mucho pagado.</l>
+               </lg>
+               <lg>
+                  <l> Plogol’ al conde,</l>
+                  <l> quando oyó este mandado.</l>
+                  <l> Assí sacó a Castilla</l>
+                  <l> el buen conde don Fernando,</l>
+                  <l> aviendo guerra con moros</l>
+                  <l> e con christianos</l>
+                  <l> a toda parte,</l>
+                  <l> de todo su condado.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicaliza un extracto de las Mocedades de Rodrigo donde se habla de Fernán González
+            (vv. 87-105). En la misma demo el artista se interesa también por el personaje de Fernán
+            González en la canción «En Castilla no había rey», romance viejo que habla de la
+            infancia del personaje.   Para la letra utilizamos la edición del fragmento de Víctor de
+            Lama para la antología Poesía medieval (Penguin Random House, 2018), pero con la
+            presentación adecuada a la distribución de los hemistiquios en la canción. </note>
+      </body>
+   </text>
+</TEI>

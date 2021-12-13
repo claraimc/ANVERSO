@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A galopar</title>
+            <author>Los muertos de Cristo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Rapsodia Libertaria, vol. II</title>
+               <publisher>Potencial Hardcore</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=0-uO8fehARs"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Punk y punk-rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Los muertos de Cristo</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <bibl>Galope</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Las tierras, las tierras de España,</l>
+                  <l> las solas, la grandes, desiertas llanuras.</l>
+                  <l> Galopa, caballo cuatralbo,</l>
+                  <l> jinete del pueblo,</l>
+                  <l> que la tierra es tuya.</l>
+               </lg>
+               <lg>
+                  <l> A galopar, a galopar, hasta enterrarlos en el mar.</l>
+                  <l> A galopar, a galopar, hasta enterrarlos en el mar.</l>
+               </lg>
+               <lg>
+                  <l> A corazón, suenan, resuenan,</l>
+                  <l> las tierras de España en las herraduras.</l>
+                  <l> Galopa, caballo cuadralbo,</l>
+                  <l> jinete del pueblo, caballo de espuma.</l>
+               </lg>
+               <lg>
+                  <l> A galopar, a galopar, hasta enterrarlos en el mar.</l>
+                  <l> A galopar, a galopar, hasta enterrarlos en el mar.</l>
+               </lg>
+               <lg>
+                  <l> Nadie, que enfrente no hay nadie;</l>
+                  <l> que es nada la muerte si va en tu montura.</l>
+                  <l> Galopa, caballo cuatralbo,</l>
+                  <l> jinete del pueblo,</l>
+                  <l> que la tierra es tuya.</l>
+               </lg>
+               <lg>
+                  <l> A galopar, a galopar, hasta enterrarlos en el mar.</l>
+                  <l> A galopar, a galopar, hasta enterrarlos en el mar.</l>
+                  <l> A galopar, a galopar, hasta enterrarlos en el mar.</l>
+                  <l> A galopar, a galopar, hasta enterrarlos en el mar.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns=""> La versión lo es en realidad de la de Paco Ibáñez (Paco Ibáñez 3, Moshé-Naïm, 1969),
+            que por razones cronológicas queda fuera del rango de este proyecto. Incluye algunos
+            cambios en el orden de los sintagmas respecto a su modelo, siendo idéntica a la versión
+            de Ataque 77 (Otras canciones, BMG Ariola, 1998), con un cambio mínimo en el verso 2. El
+            álbum incluye otras versiones de canciones de tema libertario: canciones de la época de
+            la Guerra Civil o dedicadas a esta y a la lucha obrera. El aspecto instrumental, propio
+            del estilo punk, adquiere protagonismo en esta versión que, no obstante, se asemeja a la
+            de Ataque 77 y mantiene fiel al original de Paco Ibáñez en forma (alternancia de A -de
+            letra variable- y B o estribillo -”A galopar, a galopar, hasta enterrarlos en el mar”-),
+            armonía y melodía. </note>
+      </body>
+   </text>
+</TEI>

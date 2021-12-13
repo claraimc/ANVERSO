@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Canción última</title>
+            <author>Grupo Lux Aeterna</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Recuerdos de un poeta</title>
+               <publisher>--</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/QMUbzPUPs0M"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Clásica</term>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Grupo Lux Aeterna</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Canción última</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Pintada, no vacía:</l>
+                  <l> pintada está mi casa</l>
+                  <l> del color de las grandes</l>
+                  <l> pasiones y desgracias.</l>
+               </lg>
+               <lg>
+                  <l> Regresará del llanto</l>
+                  <l> adonde fue llevada</l>
+                  <l> con su desierta mesa,</l>
+                  <l> con su ruinosa cama.</l>
+               </lg>
+               <lg>
+                  <l> Florecerán los besos</l>
+                  <l> sobre las almohadas.</l>
+               </lg>
+               <lg>
+                  <l> Y en torno de los cuerpos</l>
+                  <l> elevará la sábana</l>
+                  <l> su intensa enredadera</l>
+                  <l> nocturna, perfumada.</l>
+               </lg>
+               <lg>
+                  <l> El odio se amortigua</l>
+                  <l> detrás de la ventana.</l>
+               </lg>
+               <lg>
+                  <l> Será la garra suave.</l>
+               </lg>
+               <lg>
+                  <l> Dejadme la esperanza.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización idéntica del poema de Miguel Hernández. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Guerra</title>
+            <author>Román LC</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Otros">
+               <title>Homenaje a Miguel Hernández</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/Pyv05YrlNC0"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Román LC</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Guerra</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Todas las madres del mundo,</l>
+                  <l> ocultan el vientre, tiemblan,</l>
+                  <l> y quisieran retirarse,</l>
+                  <l> a virginidades ciegas,</l>
+                  <l> al origen solitario</l>
+                  <l> y el pasado sin herencia.</l>
+               </lg>
+               <lg>
+                  <l> Pálida, sobrecogida</l>
+                  <l> la fecundidad se queda.</l>
+                  <l> El mar tiene sed y tiene</l>
+                  <l> sed de ser agua la tierra.</l>
+                  <l> Alarga la llama el odio</l>
+                  <l> y el amor cierra las puertas.</l>
+               </lg>
+               <lg>
+                  <l> Voces como lanzas vibran,</l>
+                  <l> voces como bayonetas.</l>
+                  <l> La sangre enarbola el cuerpo,</l>
+                  <l> precipita la cabeza</l>
+                  <l> y busca un hueco, una herida</l>
+                  <l> por donde lanzarse afuera.</l>
+               </lg>
+               <lg>
+                  <l> La sangre recorre el mundo</l>
+                  <l> enjaulada, insatisfecha.</l>
+                  <l> Las flores se desvanecen</l>
+                  <l> devoradas por la hierba.</l>
+                  <l> Ansias de matar invaden</l>
+                  <l> el fondo de la azucena.</l>
+               </lg>
+               <lg>
+                  <l> Acoplarse con metales</l>
+                  <l> todos los cuerpos anhelan:</l>
+                  <l> desposarse, poseerse</l>
+                  <l> de una terrible manera.</l>
+                  <l> Desaparecer: el ansia</l>
+                  <l> general, creciente, reina.</l>
+               </lg>
+               <lg>
+                  <l> Un fantasma de estandartes,</l>
+                  <l> una bandera quimérica,</l>
+                  <l> un mito de patrias: una</l>
+                  <l> grave ficción de fronteras.</l>
+               </lg>
+               <lg>
+                  <l> Crepita el alma, la ira.</l>
+                  <l> El llanto relampaguea.</l>
+                  <l> ¿Para qué quiero la luz</l>
+                  <l> si tropiezo con tinieblas?</l>
+               </lg>
+               <lg>
+                  <l> Pasiones como clarines,</l>
+                  <l> coplas, trompas que aconsejan</l>
+                  <l> devorarse ser a ser,</l>
+                  <l> destruirse, piedra a piedra.</l>
+               </lg>
+               <lg>
+                  <l> El mar tiene sed y tiene</l>
+                  <l> sed de ser agua la tierra.</l>
+               </lg>
+               <lg>
+                  <l> Después, el silencio, mudo</l>
+                  <l> de algodón, blanco de vendas,</l>
+                  <l> cárdeno de cirugía,</l>
+                  <l> mutilado de tristeza.</l>
+               </lg>
+               <lg>
+                  <l> Y un tambor enamorado,</l>
+                  <l> como un vientre tenso, suena</l>
+                  <l> detrás del innumerable</l>
+                  <l> muerto que jamás se aleja.</l>
+               </lg>
+               <lg>
+                  <l> El mar tiene sed y tiene</l>
+                  <l> sed de ser agua la tierra.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+               <lg> </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar del poema de Miguel Hernández. El autor
+            utiliza algunos de los versos del poema, pero sin seguir un orden aparente y desglosando
+            estrofas para utilizar los versos por separado y componer las estrofas de la canción;
+            por ejemplo:   «…Después, el silencio, mudo/de algodón, blanco de vendas,/cárdeno de
+            cirugía,/mutilado de tristeza…»   «…Y un tambor enamorado,/como un vientre tenso,
+            suena/detrás del innumerable…»       </note>
+      </body>
+   </text>
+</TEI>

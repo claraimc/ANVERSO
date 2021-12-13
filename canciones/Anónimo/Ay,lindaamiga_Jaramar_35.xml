@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ay, linda amiga</title>
+            <author>Jaramar</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Entre la pena y el gozo</title>
+               <publisher>Opción Sónica</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=fpBsTj4J9pM"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Jaramar</persName>
+                  <nationality>México</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Ay, linda amiga</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>¡Ay, linda amiga,</l>
+                  <l> si no puedo verte!</l>
+                  <l> Cuerpo garrido</l>
+                  <l> que me lleva a la muerte.</l>
+                  <l> No hay amor sin pena,</l>
+                  <l> pena sin dolor,</l>
+                  <l> ni dolor tan agudo</l>
+                  <l> como el del amor.</l>
+                  <l> No hay amor sin pena,</l>
+                  <l> pena sin dolor,</l>
+                  <l> ni dolor tan agudo</l>
+                  <l> como el del amor.</l>
+               </lg>
+               <lg>
+                  <l> Levantéme madre</l>
+                  <l> al salir el sol,</l>
+                  <l> fui por los campos verdes</l>
+                  <l> a buscar mi amor.</l>
+                  <l> ¡Ay, linda amiga,</l>
+                  <l> si no puedo verte!</l>
+                  <l> Cuerpo garrido</l>
+                  <l> que me lleva a la muerte.</l>
+                  <l> No hay amor sin pena,</l>
+                  <l> pena sin dolor,</l>
+                  <l> ni dolor tan agudo</l>
+                  <l> como el del amor.</l>
+               </lg>
+               <lg>
+                  <l> Ni dolor tan agudo</l>
+                  <l> como el del amor.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Se respeta la melodía que se viene atribuyendo tradicionalmente a la canción. El texto
+            es igualmente conservador. Esto no extraña teniendo el cuenta en trasfondo en la música
+            antigua de la artista. </note>
+      </body>
+   </text>
+</TEI>

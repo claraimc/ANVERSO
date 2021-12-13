@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La juventud</title>
+            <author>Jarcha</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Nuestra Andalucía</title>
+               <publisher>Novola</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=xd5pm2dnjSk"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Jarcha</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Llamo a la juventud</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Sangre que no se desborda,</l>
+                  <l> juventud que no se atreve,</l>
+                  <l> ni es sangre, ni es juventud,</l>
+                  <l> ni relucen, ni florecen.</l>
+                  <l> Cuerpos que nacen vencidos,</l>
+                  <l> vencidos y grises mueren:</l>
+                  <l> vienen con la edad de un siglo,</l>
+                  <l> y son viejos cuando vienen.</l>
+               </lg>
+               <lg>
+                  <l> La juventud siempre arrastra,</l>
+                  <l> la juventud siempre vence,</l>
+                  <l> y la salvación de España</l>
+                  <l> de su juventud depende. [Estrofa x 2]</l>
+               </lg>
+               <lg>
+                  <l> Cuerpos que nacen vencidos,</l>
+                  <l> vencidos y grises mueren:</l>
+                  <l> vienen con la edad de un siglo,</l>
+                  <l> y son viejos cuando vienen.</l>
+               </lg>
+               <lg>
+                  <l> La juventud siempre arrastra,</l>
+                  <l> la juventud siempre vence,</l>
+                  <l> y la salvación de España</l>
+                  <l> de su juventud depende.</l>
+               </lg>
+               <lg>
+                  <l> Sangre que no se desborda,</l>
+                  <l> juventud que no se atreve,</l>
+                  <l> ni es sangre, ni es juventud,</l>
+                  <l> ni relucen, ni florecen.</l>
+               </lg>
+               <lg>
+                  <l> Cuerpos que nacen vencidos,</l>
+                  <l> vencidos y grises mueren:</l>
+                  <l> vienen con la edad de un siglo,</l>
+                  <l> y son viejos cuando vienen.</l>
+               </lg>
+               <lg>
+                  <l> La juventud siempre arrastra,</l>
+                  <l> la juventud siempre vence,</l>
+                  <l> y la salvación de España</l>
+                  <l> de su juventud depende. [Estrofa x 2]</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La versión de Jarcha, de entre los muchos versos del poema, selecciona solamente unos
+            pocos, cambiando el sentido original del poema. En el contexto de defensa antifascista
+            de la II República, Miguel Hernández hacía una llamada a que la juventud cogiera las
+            armas (que «alzara su gallardía», «contra los defenestrados / que apropiarse España
+            quieren») y reivindicaba con orgullo morir por la causa («y si resuena mi hora / antes
+            de los doce meses, / los cumpliré bajo tierra»). Jarcha, en cambio, entresaca unos
+            versos que, sin su contexto, se convierten en un alegato antibélico («Sangre que no se
+            desborda») y expone los horrores de la guerra sobre la juventud («vienen con la edad de
+            un siglo / y son viejos cuando vienen»). </note>
+      </body>
+   </text>
+</TEI>

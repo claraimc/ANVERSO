@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La boca</title>
+            <author>Oriana Quintero y Manuel Ramos</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Otros">
+               <title>Miguel Hernández</title>
+               <publisher>Ace Music</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/fzc9TJERtqo"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Oriana Quintero y Manuel Ramos</persName>
+                  <nationality>Venezuela</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[La boca]</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Boca que arrastra mi boca:</l>
+                  <l> boca que me has arrastrado:</l>
+                  <l> boca que vienes de lejos</l>
+                  <l> a iluminarme de rayos.</l>
+                  <l> Alba que das a mis noches</l>
+                  <l> un resplandor rojo y blanco.</l>
+                  <l> Boca poblada de bocas:</l>
+                  <l> pájaro lleno de pájaros.</l>
+               </lg>
+               <lg>
+                  <l> Canción que vuelve las alas</l>
+                  <l> hacia arriba y hacia abajo.</l>
+                  <l> Muerte reducida a besos,</l>
+                  <l> a sed de morir despacio,</l>
+                  <l> dando a la grana sangrante</l>
+                  <l> dos tremendos aletazos.</l>
+                  <l> El labio de arriba el cielo</l>
+                  <l> y la tierra el otro labio.</l>
+               </lg>
+               <lg>
+                  <l> Beso que rueda en la sombra:</l>
+                  <l> beso que viene rodando</l>
+                  <l> desde el primer cementerio</l>
+                  <l> hasta los últimos astros.</l>
+                  <l> Astro que tiene tu boca</l>
+                  <l> enmudecido y cerrado,</l>
+                  <l> hasta que un roce celeste</l>
+                  <l> hace que vibren sus párpados.</l>
+               </lg>
+               <lg>
+                  <l> Beso que va a un porvenir</l>
+                  <l> de muchachas y muchachos,</l>
+                  <l> que no dejarán desiertos</l>
+                  <l> ni las calles ni los campos.</l>
+               </lg>
+               <lg>
+                  <l> ¡Cuántas bocas enterradas,</l>
+                  <l> sin boca, desenterramos!</l>
+               </lg>
+               <lg>
+                  <l> Beso en tu boca por ellos,</l>
+                  <l> brindo en tu boca por tantos</l>
+                  <l> que cayeron sobre el vino</l>
+                  <l> de los amorosos vasos.</l>
+                  <l> Hoy son recuerdos, recuerdos,</l>
+                  <l> besos distantes y amargos.</l>
+               </lg>
+               <lg>
+                  <l> Hundo en tu boca mi vida,</l>
+                  <l> oigo rumores de espacios,</l>
+                  <l> y el infinito parece</l>
+                  <l> que sobre mí se ha volcado.</l>
+                  <l> He de volverte a besar,</l>
+                  <l> he de volver, hundo, caigo,</l>
+                  <l> mientras descienden los siglos</l>
+                  <l> hacia los hondos barrancos</l>
+                  <l> como una febril nevada</l>
+                  <l> de besos y enamorados.</l>
+               </lg>
+               <lg>
+                  <l> Boca que desenterraste</l>
+                  <l> el amanecer más claro</l>
+                  <l> con tu lengua. Tres palabras,</l>
+                  <l> tres fuegos has heredado:</l>
+                  <l> vida, muerte, amor. Ahí quedan</l>
+                  <l> escritos sobre tus labios.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización idéntica del poema de Miguel Hernández. En esta
+            canción, se recita el poema, directamente, con música de piano de fondo. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Para la libertad</title>
+            <author>Casandra Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="--">
+               <title>Antes que lleguen los perros</title>
+               <publisher>Whitehill Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target=""/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Casandra Hernández</persName>
+                  <nationality>México</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>El herido</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>No se ha podido tener acceso a la letra.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Aunque tenemos prueba directa de la existencia del disco donde se encuentra esta
+            versión, no hemos podido encontrar, entre los recursos digitales que tenemos a
+            disposición, archivos sonoros. Puesto que el disco en cuestión es un álbum coral en
+            homenaje a Joan Manuel Serrat, cabe suponer que la letra de esta canción es similar a la
+            musicalización que, de este poema de Miguel Hernández, realiza el artista. </note>
+      </body>
+   </text>
+</TEI>

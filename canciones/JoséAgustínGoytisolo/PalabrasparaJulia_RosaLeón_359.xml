@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Palabras para Julia</title>
+            <author>Rosa León</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Cuenta conmigo</title>
+               <publisher>Fonomusic</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=2fWCEZmzXCw"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Rosa León</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>José Agustín Goytisolo</persName>
+                  <bibl>Palabras para Julia</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Tú no puedes volver atrás</l>
+                  <l> porque la vida ya te empuja</l>
+                  <l> como un aullido interminable,</l>
+                  <l> interminable.</l>
+               </lg>
+               <lg>
+                  <l> Te sentirás acorralada</l>
+                  <l> te sentirás perdida o sola</l>
+                  <l> tal vez querrás no haber nacido,</l>
+                  <l> no haber nacido.</l>
+               </lg>
+               <lg>
+                  <l> Pero tú siempre acuérdate</l>
+                  <l> de lo que un día yo escribí</l>
+                  <l> pensando en ti,</l>
+                  <l> como ahora pienso.</l>
+               </lg>
+               <lg>
+                  <l> La vida es bella ya verás,</l>
+                  <l> como a pesar de los pesares</l>
+                  <l> tendrás amigos tendrás amor,</l>
+                  <l> tendrás amigos.</l>
+               </lg>
+               <lg>
+                  <l> Un hombre solo una mujer</l>
+                  <l> así tomados de uno en uno</l>
+                  <l> son como polvo no son nada,</l>
+                  <l> no son nada.</l>
+               </lg>
+               <lg>
+                  <l> Entonces siempre acuérdate</l>
+                  <l> de lo que un día yo escribí</l>
+                  <l> pensando en ti,</l>
+                  <l> como ahora pienso.</l>
+               </lg>
+               <lg>
+                  <l> Nunca te entregues ni te apartes</l>
+                  <l> junto al camino nunca digas</l>
+                  <l> no puedo más y aquí me quedo</l>
+                  <l> y aquí me quedo.</l>
+               </lg>
+               <lg>
+                  <l> Otros esperan que resistas,</l>
+                  <l> que les ayude tu alegría</l>
+                  <l> que les ayude tu canción</l>
+                  <l> entre tus canciones.</l>
+               </lg>
+               <lg>
+                  <l> Entonces siempre acuérdate</l>
+                  <l> de lo que un día yo escribí</l>
+                  <l> pensando en ti,</l>
+                  <l> como ahora pienso. [Estrofa x 2]</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio; a falta de fuente escrita, la
+                    puntualización y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La versión parte de la que hizo por primera vez Paco Ibáñez (Paco Ibáñez 3, Polydor,
+            1969), que, al ser anterior a 1975, no aparece recogida en esta base de datos. </note>
+      </body>
+   </text>
+</TEI>

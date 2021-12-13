@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>En muy sangrienta batalla</title>
+            <author>Lobera</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Maqueta/Demo">
+               <title>Sin piedad</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://ulfvaldr.bandcamp.com/track/en-muy-sangrienta-batalla"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Heavy metal</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Lobera</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Lorenzo de Sepúlveda</persName>
+                  <bibl>En muy sangrienta batalla</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>En muy sangrienta batalla</l>
+                  <l> anda el conde castellano</l>
+                  <l> nombrado Fernán González</l>
+                  <l> con Almanzor, rey pagano.</l>
+                  <l> Tres días ha que luchan</l>
+                  <l> con sus gentes en el campo.</l>
+                  <l> ¿?</l>
+                  <l> ¿?</l>
+                  <l> Muchos matan de los moros</l>
+                  <l> los guerreros castellanos.</l>
+                  <l> Los moros, como son muchos,</l>
+                  <l> al Conde tienen cercado.</l>
+                  <l> El Conde, con gran dolor,</l>
+                  <l> con fuerza estaba gritando.</l>
+                  <l> Los ojos altos al cielo,</l>
+                  <l> estas palabras hablando:</l>
+                  <l> —Escucha padre de todos,</l>
+                  <l> a vos estoy yo clamando.</l>
+                  <l> Os ruego no consintáis</l>
+                  <l> que se pierda mi condado,</l>
+                  <l> que si Castilla se pierde</l>
+                  <l> morir quiero, y no ser salvo.</l>
+                  <l> Si los moros no me matan,</l>
+                  <l> matarme he yo con mi mano—.</l>
+                  <l> Mientras dice estas razones</l>
+                  <l> hiriendo iba y matando,</l>
+                  <l> el campo deja cubierto</l>
+                  <l> de los moros que ha matado.</l>
+                  <l> Del alto cielo bajaban</l>
+                  <l> fieros guerreros armados,</l>
+                  <l> ricas armas traen vestidas</l>
+                  <l> corriendo sobre caballos.</l>
+                  <l> El Conde y sus caballeros</l>
+                  <l> gran esfuerzo han tomado,</l>
+                  <l> tantos moros quedan muertos</l>
+                  <l> que queda cubierto el campo.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Adaptación libre de un romance sobre Fernán González de Lorenzo de Sepúlveda (varios
+            versos inventados o modificados). Destaca cómo se evitan todas las referencias
+            explícitamente cristianas y se sustituyen por giros paganizantes. Por ejemplo, «Escucha,
+            padre de todos» sustituye el original «O señor de cielo y tierra», en una referencia a
+            la denominación de Odín/Wotan como Allföðr en la poesía escáldica.   El artista ya había
+            mostrado interés por el personaje de Fernán González en Demo I (autoeditado, 2017).
+        </note>
+      </body>
+   </text>
+</TEI>

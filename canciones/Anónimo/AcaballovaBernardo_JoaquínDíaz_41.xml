@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A caballo va Bernardo</title>
+            <author>Joaquín Díaz</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Canciones populares del siglo XVI. Francisco de Salinas</title>
+               <publisher>Openfolk</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://funjdiaz.net/mp3/canciones/2006salinas002.mp3"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Joaquín Díaz</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Romance de Bernardo del Carpio «Por las riberas de Arlanza»</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>A caballo va Bernardo por las riberas de Arlanza</l>
+                  <l> gruesa lanza en la su man  armado de todas armas.</l>
+                  <l> Toda la gente de Burgos le mira como espantada</l>
+                  <l> porque no se suele armar sino a cosa señalada.</l>
+                  <l> El rey estaba mirando y Bernardo así le hablaba:</l>
+                  <l> —Bastardo me llaman, rey siendo hijo de tu hermana</l>
+                  <l> y del noble Sancho Díaz ese conde de Saldaña:</l>
+                  <l> Dicen que ha sido traidor y mala mujer tu hermana;</l>
+                  <l> tú y los tuyos lo habéis dicho que ningún otro lo osara,</l>
+                  <l> mas quien quiera que lo ha dicho miente por medio la barba.</l>
+                  <l> Pusiste a mi padre en hierros y a mi madre en orden santa</l>
+                  <l> y porque no herede yo quieres dar tu reino a Francia.</l>
+                  <l> Morirán los castellanos antes de ver tal jornada.</l>
+                  <l> Montañeses y leoneses y esotra gente asturiana</l>
+                  <l> y aquel rey de Zaragoza me prestará su compaña</l>
+                  <l> para salir contra Francia y darle cruda batalla</l>
+                  <l> y si buena me saliere será el bien de toda España—.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Versión breve del romance tradicional, no sabemos si referida a una versión
+            documentada del romance o creación de artista. Toda la composición emplea un único tema
+            que se estructura en dos partes, cada una de ocho versos. La primera es de sentido
+            ascendente mientras que la segunda resulta descendente, cumpliendo así el patrón musical
+            de “pregunta/respuesta”. La melodía es interpretada por una sola voz, y los
+            instrumentos, además de acompañar, cobran total protagonismo en la introducción, la
+            parte central y la conclusión. El sistema compositivo responde al de la modalidad
+            medieval. </note>
+      </body>
+   </text>
+</TEI>

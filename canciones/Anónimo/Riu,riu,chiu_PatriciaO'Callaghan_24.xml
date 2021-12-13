@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Riu, riu, chiu</title>
+            <author>Patricia O'Callaghan</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Deepest December</title>
+               <publisher>Roaring Girl Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=NWGnq8rDO5I"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Patricia O'Callaghan</persName>
+                  <nationality>Canadá</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Riu, riu chiu</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Riu, riu, chiu, la guarda ribera,</l>
+                  <l> Dios guardó el lobo de nuestra cordera.</l>
+                  <l> Dios guardó el lobo de nuestra cordera.</l>
+                  <l> Riu, riu, chiu, la guarda ribera,</l>
+                  <l> Dios guardó el lobo de nuestra cordera.</l>
+                  <l> Dios guardó el lobo de nuestra cordera.</l>
+               </lg>
+               <lg>
+                  <l> El lobo rabioso la quiso morder,</l>
+                  <l> mas Dios poderoso la supo defender.</l>
+                  <l> Quísole hazer que no pudiesse pecar,</l>
+                  <l> Ni aún original esta virgen no tuviera.</l>
+               </lg>
+               <lg>
+                  <l> Riu, riu, chiu, la guarda ribera,</l>
+                  <l> Dios guardó el lobo de nuestra cordera.</l>
+                  <l> Dios guardó el lobo de nuestra cordera.</l>
+               </lg>
+               <lg>
+                  <l> Muchas profecías lo an profetizado,</l>
+                  <l> Y aún en nuestros días lo hemos alcançado.</l>
+                  <l> A Dios humanado vemos en el suelo,</l>
+                  <l> y al hombre nel cielo porquel le quisiera.</l>
+               </lg>
+               <lg>
+                  <l> Riu, riu, chiu, la guarda ribera,</l>
+                  <l> Dios guardó el lobo de nuestra cordera.</l>
+                  <l> Dios guardó el lobo de nuestra cordera.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Conserva las estrofas 1 y 3 respecto al texto del Cancionero de Upsala.   Todo el
+            álbum está dedicado a canciones de navidad medievales y renacentistas. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gacela del amor desesperado</title>
+            <author>Manolo Sanlúcar y Carmen Linares</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Locura de brisa y trino</title>
+               <publisher>Mercury</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=qAGsDTM4myE&amp;list=OLAK5uy_mrhHizS_hmYrZH7S3PdPWCWz8kNR4IRDk&amp;index=5"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+               <term>Latina</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Manolo Sanlúcar y Carmen Linares</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Gacela del amor desesperado</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>La noche.</l>
+                  <l> La noche no quiere venir</l>
+                  <l> para que tú no vengas</l>
+                  <l> para que tú no vengas</l>
+                  <l> ni yo pueda ir.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Pero yo iré,</l>
+                  <l> pero yo iré</l>
+                  <l> aunque un sol de alacranes me coma la sien.</l>
+                  <l> Pero tú vendrás,</l>
+                  <l> pero tú vendrás</l>
+                  <l> con la lengua quemada por la lluvia de sal.</l>
+               </lg>
+               <lg>
+                  <l> El día.</l>
+                  <l> El día no quiere venir</l>
+                  <l> para que tú no vengas</l>
+                  <l> para que tú no vengas</l>
+                  <l> ni yo pueda ir.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Pero yo iré,</l>
+                  <l> pero yo iré</l>
+                  <l> entregando a los sapos mi mordido clavel.</l>
+                  <l> Pero tú vendrás,</l>
+                  <l> pero tú vendrás</l>
+                  <l> por las turbias cloacas de la oscuridad.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Ni la noche ni el día quieren venir</l>
+                  <l> quieren venir</l>
+                  <l> para que por ti muera</l>
+                  <l> y tú mueras por mí.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Diverge del poema de Lorca en la repetición de los versos pares del poema y la
+            repetición de algunas palabras para crear nuevos versos. </note>
+      </body>
+   </text>
+</TEI>

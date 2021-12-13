@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Casida del herido por el agua</title>
+            <author>Lagartija Nick</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Federico García Lorca. De Granada a la Luna</title>
+               <publisher>Sombra Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=2dZH4vkfuXc&amp;list=PL3w46FIIzWPu9hlUHyDCHOwn2iNOC-fay&amp;index=8"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Clásica</term>
+               <term>Electrónica</term>
+               <term>Jazz</term>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Lagartija Nick</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Casida del herido por el agua</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Quiero bajar al pozo</l>
+                  <l> quiero subir los muros de Granada</l>
+                  <l> para mirar el corazón pasado</l>
+                  <l> por el punzón oscuro de las aguas.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> El niño herido gemía</l>
+                  <l> con una corona de escarcha.</l>
+                  <l> El niño estaba solo</l>
+                  <l> con la ciudad dormida en la garganta.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Quiero bajar al pozo</l>
+                  <l> quiero morir mi muerte a bocanadas</l>
+                  <l> quiero llenar mi corazón de musgo</l>
+                  <l> para ver al herido por el agua.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> What a fury of love! What a wounding edge!</l>
+                  <l> Such nighttime rumor! Such white death!</l>
+                  <l> Such deserts of light were crumbling</l>
+                  <l> the sands of dawn!</l>
+                  <l> The boy was alone,</l>
+                  <l> the city asleep in his throat.</l>
+                  <l> A water stout out of his dreams.</l>
+                  <l> Water is hungry for algae.</l>
+                  <l> The boy and his pain face to face.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Quiero bajar quiero subir</l>
+                  <l> quiero bajar quiero subir</l>
+                  <l> para ver al herido por el agua.</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Las principales variaciones con el poema de Federico García Lorca son la omisión de
+            los versos 7-8 y 18-20, la traducción de los versos del 9-17 al inglés y su introducción
+            casi al final de la canción que cierra con la composición de una estrofa formada a
+            partir de el principio de los versos 1 y 2 y el verso 24. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sentado sobre los muertos</title>
+            <author>Enrique Morente</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>La palabra más tuya. Cantando a Miguel Hernández</title>
+               <publisher>Factoría Autor</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/Ffy6EKtDe_g"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Latina</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Enrique Morente</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Sentado sobre los muertos</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Que mi voz suba a los montes</l>
+                  <l> que baje a la tierra y truene,</l>
+                  <l> eso pide mi garganta</l>
+                  <l> desde ahora y desde siempre.</l>
+               </lg>
+               <lg>
+                  <l> Si yo salí de la tierra,</l>
+                  <l> si yo he nacido de un vientre</l>
+                  <l> desdichado y con pobreza,</l>
+                  <l> no fue sino para hacerme</l>
+                  <l> ruiseñor de las desdichas,</l>
+                  <l> eco de la mala suerte,</l>
+                  <l> y cantar y repetir</l>
+                  <l> a quien escucharme debe</l>
+                  <l> cuanto a penas, cuanto a pobres,</l>
+                  <l> cuanto a tierra se refiere.</l>
+               </lg>
+               <lg>
+                  <l> Aunque te falten las armas,</l>
+                  <l> pueblo de cien mil poderes,</l>
+                  <l> no desfallezcan tus huesos,</l>
+                  <l> castiga a quien te malhiere</l>
+                  <l> mientras que te queden puños,</l>
+                  <l> uñas, saliva, y te queden</l>
+                  <l> corazón, entrañas, tripas,</l>
+                  <l> cosas de varón y dientes.</l>
+               </lg>
+               <lg>
+                  <l> asesina al que asesina,</l>
+                  <l> aborrece al que aborrece</l>
+                  <l> la paz de tu corazón</l>
+                  <l> y el vientre de tus mujeres.</l>
+               </lg>
+               <lg>
+                  <l> Y en los veneros del pueblo</l>
+                  <l> desde ahora y desde siempre.</l>
+                  <l> Varios tragos es la vida</l>
+                  <l> y un solo trago la muerte.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+               <lg> </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar del poema de Miguel Hernández. Para
+            componer la canción, se utilizan íntegramente la segunda y cuarta estrofas; además se
+            cogen versos sueltos de la sexta estrofa del poema para la canción: «…asesina al que
+            asesina,/aborrece al que aborrece/la paz de tu corazón/y el vientre de tus mujeres…». Se
+            termina la canción con los cuatro últimos versos de la última estrofa: «…Y en los
+            veneros del pueblo/desde ahora y desde siempre./Varios tragos es la vida/y un solo trago
+            la muerte…»   Existe una versión previa de esta canción en el disco Homenaje flamenco a
+            Miguel Hernández, pero al ser anterior a 1975, no se incluye ne esta base de datos.
+        </note>
+      </body>
+   </text>
+</TEI>

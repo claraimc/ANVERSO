@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vientos del pueblo</title>
+            <author>Román LC</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Otros">
+               <title>Homenaje a Miguel Hernández</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/Pyv05YrlNC0"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Román LC</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Vientos del pueblo me llevan</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Vientos del pueblo me llevan,</l>
+                  <l> vientos del pueblo me arrastran,</l>
+                  <l> me esparcen el corazón</l>
+                  <l> y me avientan la garganta.</l>
+               </lg>
+               <lg>
+                  <l> Los bueyes doblan la frente,</l>
+                  <l> impotentemente mansa,</l>
+                  <l> delante de los castigos:</l>
+                  <l> los leones la levantan</l>
+                  <l> y al mismo tiempo castigan</l>
+                  <l> con su clamorosa zarpa.</l>
+               </lg>
+               <lg>
+                  <l> No soy de un pueblo de bueyes</l>
+                  <l> que soy de un pueblo que embargan</l>
+                  <l> yacimientos de leones,</l>
+                  <l> desfiladeros de águilas</l>
+                  <l> y cordilleras de toros</l>
+                  <l> con el orgullo en el asta.</l>
+                  <l> Nunca medraron los bueyes</l>
+                  <l> en los páramos de España.</l>
+               </lg>
+               <lg>
+                  <l> Si me muero, que me muera</l>
+                  <l> con la cabeza muy alta.</l>
+                  <l> Muerto y veinte veces muerto,</l>
+                  <l> la boca contra la grama,</l>
+                  <l> tendré apretados los dientes</l>
+                  <l> y decidida la barba.</l>
+               </lg>
+               <lg>
+                  <l> ¿Quién habló de echar un yugo</l>
+                  <l> sobre el cuello de esta raza?</l>
+                  <l> ¿Quién ha puesto al huracán</l>
+                  <l> jamás ni yugos ni trabas,</l>
+                  <l> ni quién el rayo detuvo</l>
+                  <l> prisionero en una jaula?</l>
+               </lg>
+               <lg>
+                  <l> Los bueyes mueren vestidos</l>
+                  <l> de humildad y olor de cuadra:</l>
+                  <l> las águilas, los leones</l>
+                  <l> y los toros, de arrogancia,</l>
+                  <l> y detrás de ellos, el cielo</l>
+                  <l> ni se enturbia ni se acaba.</l>
+               </lg>
+               <lg>
+                  <l> La agonía de los bueyes</l>
+                  <l> tiene pequeña la cara,</l>
+                  <l> la del animal varón</l>
+                  <l> toda la creación agranda.</l>
+               </lg>
+               <lg>
+                  <l> Si me muero, que me muera</l>
+                  <l> con la cabeza muy alta.</l>
+                  <l> Muerto y veinte veces muerto,</l>
+                  <l> la boca contra la grama,</l>
+                  <l> tendré apretados los dientes</l>
+                  <l> y decidida la barba.</l>
+               </lg>
+               <lg>
+                  <l> Vientos del pueblo me llevan,</l>
+                  <l> vientos del pueblo me arrastran,</l>
+                  <l> me esparcen el corazón</l>
+                  <l> y me avientan la garganta.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Este poema supone una musicalización similar del poema de Miguel Hernández. El autor
+            utiliza, sin seguir el orden original, todas las estrofas del poema menos la quita y la
+            décima; usándose la novena estrofa a modo de estribillo. </note>
+      </body>
+   </text>
+</TEI>

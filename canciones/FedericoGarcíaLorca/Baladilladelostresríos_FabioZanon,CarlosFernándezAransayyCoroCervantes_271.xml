@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Baladilla de los tres ríos</title>
+            <author>Fabio Zanon, Carlos Fernández Aransay y Coro Cervantes</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Yanomami Music for Choir and Guitar</title>
+               <publisher>Signum Classic</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://music.youtube.com/watch?v=Bl8SksDMK3Y&amp;list=RDAMVMBl8SksDMK3Y"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Clásica</term>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Fabio Zanon, Carlos Fernández Aransay y Coro Cervantes</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Baladilla de los tres ríos</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>El río Guadalquivir</l>
+                  <l> va entre naranjos y olivos.</l>
+                  <l> Los dos ríos de Granada</l>
+                  <l> bajan de la nieve al trigo.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay,  amor,</l>
+                  <l> que se fue y no vino!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> El río Guadalquivir</l>
+                  <l> tiene las barbas granates.</l>
+                  <l> Los dos ríos de Granada,</l>
+                  <l> uno llanto y otro sangre.</l>
+                  <l> Llanto. Sangre.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay, amor,</l>
+                  <l> que se fue por el aire!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Para los barcos de vela</l>
+                  <l> Sevilla tiene un camino;</l>
+                  <l> por el agua de Granada</l>
+                  <l> solo reman los suspiros.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay, amor,</l>
+                  <l> que se fue y no vino!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Guadalquivir, altas torres</l>
+                  <l> y vientos en los naranjales,</l>
+                  <l> Darro, Genil, Darro y Genil,</l>
+                  <l> torrecillas muertas</l>
+                  <l> torrecillas muertas</l>
+                  <l> sobre los estanques.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay, amor,</l>
+                  <l> que se lo lleva el aire!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Quien dirá que el agua lleva</l>
+                  <l> un fuego fatuo de gritos!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay, amor,</l>
+                  <l> que se fue y no vino!</l>
+                  <l> ¡Ay, amor,</l>
+                  <l> que se fue y no vino!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Llevas azahar y olivas</l>
+                  <l> Andalucía a tus mares.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay, amor,</l>
+                  <l> que se fue por el aire!</l>
+                  <l> ¡Ay, amor,</l>
+                  <l> que se fue por el aire!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización idéntica con las repeticiones esperables de una canción interpretada a
+            canon a tres voces. </note>
+      </body>
+   </text>
+</TEI>

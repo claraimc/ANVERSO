@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Muerte de Antoñito el Camborio</title>
+            <author>Manzanita</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>En voz baja a las rosas</title>
+               <publisher>RCA Victor</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=ykFBeV6FIlM"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+               <term>Latina</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Manzanita</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Muerte de Antoñito el Camborio</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Voces de muerte sonaron</l>
+                  <l> cerca del Guadalquivir.</l>
+                  <l> Voces antiguas que cercan</l>
+                  <l> voz de clavel varonil.</l>
+                  <l> Les clavó sobre las botas</l>
+                  <l> mordiscos de jabalí.</l>
+                  <l> En la lucha daba saltos</l>
+                  <l> jabonados de delfín.</l>
+                  <l> Bañó con sangre enemiga</l>
+                  <l> su corbata carmesí,</l>
+                  <l> pero eran cuatro puñales</l>
+                  <l> y tuvo que sucumbir.</l>
+                  <l> Cuando las estrellas ponen</l>
+                  <l> rejones al agua gris,</l>
+                  <l> cuando los erales sueñan</l>
+                  <l> verónicas de alhelí,</l>
+                  <l> voces de muerte sonaron</l>
+                  <l> cerca del Guadalquivir.</l>
+                  <l> Voces antiguas que cercan</l>
+                  <l> voz de clavel varonil.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Antonio Torres Heredia,</l>
+                  <l> Camborio de dura crin,</l>
+                  <l> moreno de verde luna,</l>
+                  <l> voz de clavel varonil:</l>
+                  <l> ¿Quién te ha quitado a ti la vida</l>
+                  <l> cerca del Guadalquivir?</l>
+                  <l> Mis cuatro primos Heredia</l>
+                  <l> hijos de Benamejí.</l>
+                  <l> Lo que en otros no envidiaban,</l>
+                  <l> ya lo envidiaban en mí.</l>
+                  <l> Zapatos color corinto,</l>
+                  <l> medallones de marfil,</l>
+                  <l> y ese cutis amasado</l>
+                  <l> con aceituna y jazmín.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay Antoñito el Camborio</l>
+                  <l> digno de una Emperatriz!</l>
+                  <l> Acuérdate de la Virgen</l>
+                  <l> porque te vas a morir.</l>
+                  <l> ¡Ay Federico García,</l>
+                  <l> llama a la Guardia Civil!</l>
+                  <l> Ya mi talle se ha quebrado</l>
+                  <l> como caña de maíz.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Tres golpes de sangre tuvo,</l>
+                  <l> y se murió de perfil.</l>
+                  <l> Viva moneda que nunca</l>
+                  <l> se volverá a repetir.</l>
+                  <l> Un ángel marchoso pone</l>
+                  <l> su cabeza en un cojín.</l>
+                  <l> Otros de rubor cansado,</l>
+                  <l> encendieron un candil.</l>
+                  <l> Y cuando los cuatro primos</l>
+                  <l> llegan a Benamejí,</l>
+                  <l> voces de muerte sonaron</l>
+                  <l> cerca del Guadalquivir.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay Antoñito el Camborio!</l>
+                  <l> ¡Ay Antoñito el Camborio</l>
+                  <l> digno de una Emperatriz!</l>
+                  <l> Acuérdate tu de la Virgen</l>
+                  <l> porque tu te vas a morir.</l>
+                  <l> ¡Ay Federico Federico,</l>
+                  <l> llama a la Guardia Civil!</l>
+                  <l> Ya mi talle se ha quebrado</l>
+                  <l> como caña de maíz.</l>
+                  <l> ¡Ay Antoñito Antoñito</l>
+                  <l> digno de una Emperatriz!</l>
+                  <l> Tus cuatro primos Heredia,</l>
+                  <l> hijos de Benamejí,</l>
+                  <l> te han quitado a ti la vida…</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Hubo dos musicalizaciones anteriores a 1975, por eso no están recogidas en esta base
+            de datos: Gabriela Ortega (Federico García Lorca, 1958) y Manuel Mairena (EP, 1970).
+            Podemos encontrar pequeñas variaciones, con respecto al poema original, de palabras en
+            algunos versos pero que no afectan demasiado al significado (vv. 13, 23 y 51). Además la
+            canción añade una estrofa final formada a partir del elemento central del poema de Lorca
+            donde se narra el momento de la muerte del Camborio. </note>
+      </body>
+   </text>
+</TEI>

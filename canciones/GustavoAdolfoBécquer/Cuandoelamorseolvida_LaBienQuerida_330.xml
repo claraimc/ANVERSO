@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cuando el amor se olvida</title>
+            <author>La Bien Querida</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Fiesta</title>
+               <publisher>Elefant Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=u-8bL_dCmD0"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>La Bien Querida</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Gustavo Adolfo Bécquer</persName>
+                  <bibl>Rima XXXVIII</bibl>
+                  <relation>Trasposición</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Si tú quisiste a alguien y ese no te quiso,</l>
+                  <l> si alguien te engañó y no lo pudiste ver,</l>
+                  <l> no le culpes al amor que así lo quiso.</l>
+                  <l> Solo piensa en lo feliz que al mentir te hizo.</l>
+                  <l> Solo piensa en lo feliz que al mentir te hizo.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Los suspiros son aire, y van al aire;</l>
+                  <l> y las lágrimas, agua, y van al mar.</l>
+                  <l> Los suspiros son aire, y van al aire;</l>
+                  <l> y las lágrimas, agua, y van al mar.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Sé lo que vas a preguntar ahora.</l>
+                  <l> Sé lo que vas a preguntar ahora.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Y no lo sé.</l>
+                  <l> Y no lo sé.</l>
+                  <l> Y no lo sé.</l>
+                  <l> Y no lo sé.</l>
+                  <l> Y no lo sé.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Parte del verso tres de la rima XXXVIII de Bécquer da título a la canción. Los versos
+            uno y dos se insertan, con variaciones mínimas, en la letra, de modo que el poema cobra
+            un sentido ligeramente distinto dentro de la canción. </note>
+      </body>
+   </text>
+</TEI>

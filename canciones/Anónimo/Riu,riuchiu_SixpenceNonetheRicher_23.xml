@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Riu, riu chiu</title>
+            <author>Sixpence None the Richer</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>The Dawn of Grace</title>
+               <publisher>Nettwerk</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=B4GGWRvScGU"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Sixpence None the Richer</persName>
+                  <nationality>Estados Unidos</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Riu, riu chiu</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Riu, riu, chiu, la guarda ribera,</l>
+                  <l> Dios guardé al lobo de nuestra cordera.</l>
+                  <l> Riu, riu, chiu, la guarda ribera,</l>
+                  <l> Dios guardé al lobo de nuestra cordera.</l>
+                  <l> Riu, riu.</l>
+                  <l> Chiu river.</l>
+                  <l> Riu chiu.</l>
+                  <l> Chiu river.</l>
+               </lg>
+               <lg>
+                  <l> El lobo rabioso la quiso morder,</l>
+                  <l> mas Dios poderoso la supo defender.</l>
+                  <l> Quísole hazer que no pudiesse pecar,</l>
+                  <l> Ni aún original la virgen no tuviera.</l>
+               </lg>
+               <lg>
+                  <l> Riu, riu, chiu, la guarda ribera,</l>
+                  <l> Dios guardé al lobo de nuestra cordera.</l>
+                  <l> Riu, riu, chiu, la guarda ribera,</l>
+                  <l> Dios guardé al lobo de nuestra cordera.</l>
+                  <l> Riu, riu, chiu, la guarda ribera,</l>
+                  <l> Dios guardé al lobo de nuestra cordera.</l>
+                  <l> Riu, riu, chiu, la guarda ribera,</l>
+                  <l> Dios guardé al lobo de nuestra cordera.</l>
+               </lg>
+               <lg>
+                  <l> Este viene a dar a los muertos vida,</l>
+                  <l> y viene a reparar de todos la caýda.</l>
+                  <l> Es la luz del día aqueste moçuelo,</l>
+                  <l> este es el cordero que San Juan dixera.</l>
+               </lg>
+               <lg>
+                  <l> Riu, riu.</l>
+                  <l> Chiu river.</l>
+                  <l> Riu chiu.</l>
+                  <l> Chiu river.</l>
+               </lg>
+               <lg>
+                  <l> Yo vi mil garçones que andavan cantando,</l>
+                  <l> por aquí bolando haziendo mil sones.</l>
+                  <l> Riu, riu, chiu, hear the joy of singing</l>
+                  <l> pleasure and delight ¿? springing.</l>
+               </lg>
+               <lg>
+                  <l> Riu, riu, chiu, la guarda ribera.</l>
+                  <l> Riu, riu, chiu, la guarda ribera.</l>
+                  <l> Riu, riu, chiu, la guarda ribera.</l>
+                  <l> Riu, riu, chiu, la guarda ribera.</l>
+               </lg>
+               <lg>
+                  <l> Riu, riu.</l>
+                  <l> Chiu river.</l>
+                  <l> Riu chiu.</l>
+                  <l> Chiu river.</l>
+                  <l> Riu, riu, chiu, la guarda ribera.</l>
+                  <l> Riu, riu, chiu, la guarda ribera.</l>
+                  <l> Riu, riu, chiu, la guarda ribera.</l>
+                  <l> Riu, riu, chiu, la guarda ribera.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Solo conserva las estrofas 1, 5 y la primera mitad de la 4. Lo más original es la
+            mezcla con el inglés.   Se trata de un disco de canciones tradicionales de Navidad, lo
+            que vincula esta canción a la popularización de «Riu, riu chiu» como villancico (en el
+            sentido de canción de navidad) por The Monkees en el especial televisivo The Monkees
+            Christmas Show (1967). Sin embargo, puesto que la banda es una banda de rock alternativo
+            crisitiano, no descartamos que el contenido teológico del mismo pudiera haberles
+            interesado también. </note>
+      </body>
+   </text>
+</TEI>

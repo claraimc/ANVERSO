@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El niño yuntero</title>
+            <author>Mocedades</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>El color de tu mirada</title>
+               <publisher>Novola</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/rgFcxc3pmqU"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Mocedades</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>El niño Yuntero</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Carne de yugo, ha nacido</l>
+                  <l> más humillado que bello,</l>
+                  <l> con el cuello perseguido</l>
+                  <l> por el yugo para el cuello.</l>
+               </lg>
+               <lg>
+                  <l> Nace, como la herramienta,</l>
+                  <l> a los golpes destinado,</l>
+                  <l> de una tierra descontenta</l>
+                  <l> y un insatisfecho arado.</l>
+                  <l> Nace, como la herramienta,</l>
+                  <l> a los golpes destinado…</l>
+               </lg>
+               <lg>
+                  <l> Empieza a sentir, y siente</l>
+                  <l> la vida como una guerra,</l>
+                  <l> y a dar fatigosamente</l>
+                  <l> en los huesos de la tierra.</l>
+               </lg>
+               <lg>
+                  <l> Contar sus años no sabe,</l>
+                  <l> y ya sabe que el sudor</l>
+                  <l> es una corona grave</l>
+                  <l> de sal para el labrador.</l>
+               </lg>
+               <lg>
+                  <l> Empieza a sentir, y siente</l>
+                  <l> la vida como una guerra.</l>
+               </lg>
+               <lg>
+                  <l> A fuerza de golpes, fuerte,</l>
+                  <l> y a fuerza de sol, bruñido,</l>
+                  <l> con una ambición de muerte</l>
+                  <l> despedaza un pan reñido.</l>
+               </lg>
+               <lg>
+                  <l> Y como raíz se hunde</l>
+                  <l> en la tierra lentamente</l>
+                  <l> para que la tierra inunde</l>
+                  <l> de paz y panes su frente.</l>
+               </lg>
+               <lg>
+                  <l> A fuerza de golpes, fuerte,</l>
+                  <l> y a fuerza de sol, bruñido.</l>
+               </lg>
+               <lg>
+                  <l> ¿Quién salvará este chiquillo</l>
+                  <l> menor que un grano de avena?</l>
+                  <l> ¿De dónde saldrá el martillo</l>
+                  <l> verdugo de esta cadena?</l>
+               </lg>
+               <lg>
+                  <l> Que salga del corazón</l>
+                  <l> de los hombre jornaleros,</l>
+                  <l> que antes de ser hombres son</l>
+                  <l> y han sido niños yunteros.</l>
+                  <l> que antes de ser hombres son</l>
+                  <l> y han sido niños yunteros.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar del poema de Miguel Hernández. el
+            autor, para componer la canción, utiliza las estrofas primera, segunda, cuarta, quinta,
+            séptima, novena, decimosegunda y decimotercera. </note>
+      </body>
+   </text>
+</TEI>

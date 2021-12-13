@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Huele a café</title>
+            <author>Entertainiment</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Albas</title>
+               <publisher>Entproject</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=-sMhO_N1pWU"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Entertainiment</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Pablo César del Río</persName>
+                  <bibl>Huele a café</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Huele café en la buhardilla</l>
+                  <l> y un paso de silencio</l>
+                  <l> da firma a la esquinas,</l>
+                  <l> hay, las esquinas.</l>
+                  <l> Huele a madera</l>
+                  <l> embarazada de humedad,</l>
+                  <l> a sudor de sábanas inquietas,</l>
+                  <l> hay, de sábanas inquietas.</l>
+                  <l> La lucera lame a pequeños sorbos</l>
+                  <l> gotas de noche,</l>
+                  <l> a pequeños sorbos lame la lucera,</l>
+                  <l> gotas de noche.</l>
+                  <l> Huele a estrellas</l>
+                  <l> que peinan sus brillos</l>
+                  <l> en el tejado,</l>
+                  <l> a notas de lluvia</l>
+                  <l> hilando salivas, salivas.</l>
+                  <l> La puerta se entreabre</l>
+                  <l> mirando de reojo,</l>
+                  <l> por la escalera.</l>
+                  <l> Mirando de reojo</l>
+                  <l> la puerta se entreabre,</l>
+                  <l> por la escalera.</l>
+                  <l> Fumo el cigarro</l>
+                  <l> que trasladarán mis muslos,</l>
+                  <l> fumo el cigarro.</l>
+                  <l> Fumo la luz pálida,</l>
+                  <l> acurrucada en los rincones.</l>
+                  <l> La lucera lame a pequeños sorbos</l>
+                  <l> gotas de noche,</l>
+                  <l> a pequeños sorbos lame la lucera,</l>
+                  <l> gotas de noche.</l>
+                  <l> Huele a estrellas</l>
+                  <l> que peinan sus brillos</l>
+                  <l> en el tejado,</l>
+                  <l> a notas de lluvia</l>
+                  <l> hilando salivas, salivas.</l>
+                  <l> Huele a café,</l>
+                  <l> por ver tu risa,</l>
+                  <l> bebo a Venus,</l>
+                  <l> bebo a Venus.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns=""/>
+      </body>
+   </text>
+</TEI>

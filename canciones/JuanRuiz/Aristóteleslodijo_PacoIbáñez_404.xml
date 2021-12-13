@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aristóteles lo dijo</title>
+            <author>Paco Ibáñez</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>A flor de tiempo</title>
+               <publisher>Ariola Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target=""/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Paco Ibáñez</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Juan Ruiz</persName>
+                  <bibl>Aquí dise de cómo segund natura los omes e las otras animalias quieren aver
+                compañía con las fembras (Libro de buen amor)</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Aristóteles lo dijo, y es cosa verdadera,</l>
+                  <l> que el hombre por dos cosas se mueve: la primera,</l>
+                  <l> por el sustentamiento, que la segunda era</l>
+                  <l> por haber juntamiento con hembra placentera.</l>
+               </lg>
+               <lg>
+                  <l> Si lo dijera yo, se me podría tachar,</l>
+                  <l> mas lo dice un filósofo, no se me ha de culpar.</l>
+                  <l> De lo que dice el sabio no debemos dudar,</l>
+                  <l> pues con hechos se prueba su sabio razonar.</l>
+               </lg>
+               <lg>
+                  <l> Que dice verdad el sabio claramente se prueba;</l>
+                  <l> hombres, aves y bestias, todo animal de cueva</l>
+                  <l> desea, por natura, siempre compaña nueva</l>
+                  <l> y mucho más el hombre que otro ser que se mueva.</l>
+               </lg>
+               <lg>
+                  <l> Y digo que más el hombre, pues otras criaturas</l>
+                  <l> tan sólo en una época se juntan, por natura;</l>
+                  <l> el hombre, en todo tiempo, sin seso y sin mesura,</l>
+                  <l> siempre que quiere y puede hacer esa locura.</l>
+               </lg>
+               <lg>
+                  <l> Prefiere el fuego estar guardado entre ceniza,</l>
+                  <l> pues antes se consume cuanto más se le atiza;</l>
+                  <l> el hombre, cuando peca, bien ve que se desliza,</l>
+                  <l> mas por naturaleza, en el mal profundiza.</l>
+               </lg>
+               <lg>
+                  <l> Yo, como soy humano y, por tal, pecador,</l>
+                  <l> sentí por las mujeres, a veces, gran amor.</l>
+                  <l> Que probemos las cosas no siempre es lo peor;</l>
+                  <l> saber el bien y el mal y escoger lo mejor.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">El texto original (cuadernas 71-76 del Libro de buen amor) está notablemente
+            modernizado. No es una versión de la 1975 de Patxi Andión para la B. S. O. de la
+            película El libro de buen amor (1975). </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Casida de la mano imposible</title>
+            <author>Carlos Cano</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Diván del Tamarit. Gacelas y Casidas.</title>
+               <publisher>Dalur Discos</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=EEVGAki_mHE&amp;list=PLDtszg9eT1fzwhPDDvl4irXJcVoUVplcY&amp;index=4"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Carlos Cano</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Casida de la mano imposible</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Yo no quiero más que una mano;</l>
+                  <l> una mano herida, si es posible.</l>
+                  <l> Yo no quiero más que una mano</l>
+                  <l> aunque pase mil noches sin lecho.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Sería un pálido lirio de cal.</l>
+                  <l> Sería una paloma amarrada a mi corazón.</l>
+                  <l> Sería el guardián que en la noche de mi tránsito</l>
+                  <l> prohibiera en absoluto la entrada a la luna.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Sería un pálido lirio de cal.</l>
+                  <l> Sería una paloma amarrada a mi corazón.</l>
+                  <l> Sería el guardián que en la noche de mi tránsito</l>
+                  <l> prohibiera en absoluto la entrada a la luna.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Yo no quiero más que una mano</l>
+                  <l> para los diarios aceites y la sábana blanca de mi agonía.</l>
+                  <l> Yo no quiero más que esa mano</l>
+                  <l> para tener un ala de mi muerte.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Lo demás todo pasa.</l>
+                  <l> Lo demás.</l>
+                  <l> Lo demás</l>
+                  <l> es lo otro, lo demás.</l>
+                  <l> Rubor sin nombre ya. Astro perpetuo.</l>
+                  <l> Lo demás,</l>
+                  <l> todo pasa, lo demás.</l>
+                  <l> Lo demás</l>
+                  <l> es lo otro, lo demás;</l>
+                  <l> viento triste, lo demás,</l>
+                  <l> mientras las hojas huyen en bandadas.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Yo no quiero más que una mano;</l>
+                  <l> una mano herida, si es posible.</l>
+                  <l> Yo no quiero más que una mano</l>
+                  <l> aunque pase mil noches sin lecho.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Yo no quiero más que una mano</l>
+                  <l> para los diarios aceites y la sábana blanca de mi agonía.</l>
+                  <l> Yo no quiero más que esa mano</l>
+                  <l> para tener un ala de mi muerte.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Lo demás todo pasa,</l>
+                  <l> lo demás.</l>
+                  <l> Lo demás</l>
+                  <l> es lo otro, lo demás,</l>
+                  <l> viento triste, lo demás,</l>
+                  <l> mientras las hojas huyen en bandadas.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio, a falta de buena fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización similar con repetición de versos y estrofas. Cambio de la última
+            estrofa del poema, mediante la repetición de palabras alternándolas entre los versos.
+        </note>
+      </body>
+   </text>
+</TEI>

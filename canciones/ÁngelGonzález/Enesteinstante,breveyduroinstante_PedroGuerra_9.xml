@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>En este instante, breve y duro instante</title>
+            <author>Pedro Guerra</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>La palabra en el aire</title>
+               <publisher>El Europeo Música</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=aFBm11TnGzA"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Pedro Guerra</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Ángel González</persName>
+                  <bibl>[En este instante, breve y duro instante,]</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>En este instante, breve y duro instante,</l>
+                  <l> ¡cuántas bocas de amor están unidas,</l>
+                  <l> cuántas vidas se cuelgan de otras vidas</l>
+                  <l> exhaustas en su entrega palpitante!</l>
+               </lg>
+               <lg>
+                  <l> Fugaz como el destello de un diamante,</l>
+                  <l> ¡qué de manos absurdamente asidas</l>
+                  <l> quieren cerrar las más leves salidas</l>
+                  <l> a su huida perpetua e incesante!</l>
+               </lg>
+               <lg>
+                  <l> Lentos, aquí y allá, y adormecidos,</l>
+                  <l> ¡tantos labios elevan espirales</l>
+                  <l> de besos!… Sí, en este instante, ahora</l>
+               </lg>
+               <lg>
+                  <l> que ya pasó, que ya lo hube perdido,</l>
+                  <l> del cual conservo solo los cristales</l>
+                  <l> rotos, primera ruina de la aurora.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción musicaliza el poema original sin alteraciones textuales de ningún tipo.
+        </note>
+      </body>
+   </text>
+</TEI>

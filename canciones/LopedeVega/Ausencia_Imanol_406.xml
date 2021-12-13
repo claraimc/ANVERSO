@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ausencia</title>
+            <author>Imanol</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Ausencia</title>
+               <publisher>El Europeo Música</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=cHTnwuGn48c"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Imanol</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Lope de Vega</persName>
+                  <bibl>Rima LXI</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Ir y quedar y con quedar partirse,</l>
+                  <l> partir sin alma e ir con alma ajena,</l>
+                  <l> oír la dulce voz de una sirena</l>
+                  <l> y no poder del árbol desasirse,</l>
+               </lg>
+               <lg>
+                  <l> arder como la vela y consumirse,</l>
+                  <l> haciendo torres sobre la tierna arena;</l>
+                  <l> caer de un cielo y ser demonio en pena,</l>
+                  <l> y de serlo jamás arrepentirse;</l>
+               </lg>
+               <lg>
+                  <l> hablar entre las mudas soledades,</l>
+                  <l> pedir prestada sobre la fe paciencia,</l>
+                  <l> creer sospechas y negar verdades,</l>
+                  <l> es lo que llaman en el mundo ausencia.</l>
+               </lg>
+               <lg>
+                  <l> Ir y quedar y con quedar partirse,</l>
+                  <l> partir sin alma e ir con alma ajena,</l>
+                  <l> oír la dulce voz de una sirena</l>
+                  <l> y no poder del árbol desasirse,</l>
+               </lg>
+               <lg>
+                  <l> arder como la vela y consumirse,</l>
+                  <l> haciendo torres sobre la tierna arena;</l>
+                  <l> caer de un cielo y ser demonio en pena,</l>
+                  <l> y de serlo jamás arrepentirse;</l>
+               </lg>
+               <lg>
+                  <l> hablar entre las mudas soledades,</l>
+                  <l> pedir prestada sobre la fe paciencia,</l>
+                  <l> creer sospechas y negar verdades,</l>
+                  <l> es lo que llaman en el mundo ausencia.</l>
+               </lg>
+               <lg>
+                  <l> Y es lo que llaman en el mundo ausencia:</l>
+                  <l> fuego en el alma y en la vida infierno.</l>
+                  <l> Y lo que es temporal y amar eterno:</l>
+                  <l> es lo que llaman en el mundo ausencia.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción musicaliza el poema, pero con ligeros cambios léxicos y reordenando y
+            suprimiendo algunos versos, de modo que la estructura original del soneto se transforma
+            en una composición a base de estrofas de cuatro versos. En 2012, el grupo Suburbano
+            interpretó una versión prácticamente igual y en homenaje precisamente a Imanol, que está
+            recogida también en esta base de datos. </note>
+      </body>
+   </text>
+</TEI>

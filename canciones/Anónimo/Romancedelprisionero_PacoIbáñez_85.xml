@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romance del prisionero</title>
+            <author>Paco Ibáñez</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>A flor de tiempo</title>
+               <publisher>Ariola Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=za5UZhDMCNI"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Paco Ibáñez</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Romance del prisionero «Que por mayo era, por mayo»</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l/>
+                  <l> Que por mayo era, por mayo,</l>
+                  <l> cuando hace la calor,</l>
+                  <l> cuando los trigos encañan</l>
+                  <l> y están los campos en flor,</l>
+                  <l> cuando canta la calandria</l>
+                  <l> y responde el ruiseñor,</l>
+                  <l> cuando los enamorados</l>
+                  <l> van a servir al amor;</l>
+                  <l> sino yo, triste y cuitado,</l>
+                  <l> que vivo en esta prisión;</l>
+                  <l> que ni sé cuándo es de día</l>
+                  <l> ni cuándo las noches son,</l>
+                  <l> sino por una avecilla</l>
+                  <l> que me cantaba al albor.</l>
+                  <l> Matómela un ballestero;</l>
+                  <l> dele Dios mal galardón.</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg> </lg>
+            </lg>
+         </div>
+         <note xmlns=""/>
+      </body>
+   </text>
+</TEI>

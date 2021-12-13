@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vals del atardecer</title>
+            <author>Pedro Guerra</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>La palabra en el aire</title>
+               <publisher>El Europeo Música</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=8iyaIimFb6o"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Pedro Guerra</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Ángel González</persName>
+                  <bibl>Vals del atardecer</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Los pianos golpean con sus colas</l>
+                  <l> enjambres de violines y de violas.</l>
+                  <l> Es el vals de las solas</l>
+                  <l> y solteras,</l>
+                  <l> el vals de las muchachas casaderas,</l>
+                  <l> que arrebata por rachas</l>
+                  <l> su corazón raído de muchachas.</l>
+               </lg>
+               <lg>
+                  <l> A dónde llevará esa leve brisa,</l>
+                  <l> a qué jardín con luna esa sumisa</l>
+                  <l> corriente</l>
+                  <l> que gira de repente</l>
+                  <l> desatando en sus vueltas</l>
+                  <l> doradas cabelleras, ahora sueltas,</l>
+                  <l> borrosas, imprecisas</l>
+                  <l> en el río de música y metralla</l>
+                  <l> que es un vals cuando estalla</l>
+                  <l> sus trompetas.</l>
+               </lg>
+               <lg>
+                  <l> Todavía inquietas,</l>
+                  <l> vuelan las flautas hacia el cordelaje</l>
+                  <l> de las arpas ancladas en la orilla</l>
+                  <l> donde los violoncelos se han dormido.</l>
+                  <l> Los oboes apagan el paisaje.</l>
+                  <l> Las muchachas se apean en sus sillas,</l>
+                  <l> se arreglan el vestido</l>
+                  <l> con manos presurosas y sencillas,</l>
+                  <l> y van a los lavabos, como después de un viaje.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción musicaliza el poema original sin alteraciones textuales, excepto que se
+            repiten algunos versos. </note>
+      </body>
+   </text>
+</TEI>

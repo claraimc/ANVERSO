@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Las cárceles</title>
+            <author>Carmen, Jesús e Iñaki</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>De lunes a sábado</title>
+               <publisher>Ambar</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=mDmWSYYLaK4"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Carmen, Jesús e Iñaki</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Las cárceles</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>[Hablando]</l>
+               </lg>
+               <lg>
+                  <l> En Alicante, cerca de Orihuela, su pueblo, se nos murió como del rayo Miguel
+                    Hernández en la cárcel, poeta y hombre, comprometido con su tiempo, en la
+                    cárcel, la de ayer, la de hoy, la de siempre, las cárceles.</l>
+               </lg>
+               <lg>
+                  <l> [Cantando]</l>
+               </lg>
+               <lg>
+                  <l> Cierra las puertas, echa la aldaba, carcelero.</l>
+                  <l> Ata duro a ese hombre: no le atarás el alma.</l>
+                  <l> Son muchas llaves, muchos cerrojos, injusticias:</l>
+                  <l> no le atarás, no le atarás el alma.</l>
+               </lg>
+               <lg>
+                  <l> Un hombre aguarda dentro de un pozo y sin remedio,</l>
+                  <l> tenso y conmocionado, con la oreja aplicada.</l>
+               </lg>
+               <lg>
+                  <l> ¡Libertad! No le atarás.</l>
+                  <l> No le atarás. No.</l>
+                  <l> No le atarás el alma.</l>
+               </lg>
+               <lg>
+                  <l> Cierra las puertas, echa la aldaba, carcelero.</l>
+                  <l> Ata duro a ese hombre: no le atarás el alma.</l>
+                  <l> Son muchas llaves, muchos cerrojos, injusticias:</l>
+                  <l> no le atarás, no le atarás el alma.</l>
+                  <l> porque un pueblo ha gritado, ¡libertad!</l>
+                  <l> Y vuela el cielo.</l>
+                  <l> Y las cárceles vuelan.</l>
+               </lg>
+               <lg>
+                  <l> ¡Libertad! No le atarás.</l>
+                  <l> No le atarás. No.</l>
+                  <l> No le atarás el alma.</l>
+                  <l> [Se repite la estrofa varias veces hasta terminar]</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Elisa Serna hizo la primera versión musicada de este poema (Quejido, 1972), con solo
+            algunos de los últimos versos de la segunda parte. También hizo una versión Francisco
+            Curto (Miguel Hernández, 1974) sin embargo, como estas versiones son anteriores a 1975,
+            no están recogidas dentro de esta base de datos. Esta versión de Carmen, Jesús e Iñaki
+            no sigue musicalmente a Elisa Serna, pero sí elije prácticamente los mismos versos del
+            poema de Miguel Hernández. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Buen caballero</title>
+            <author>Amancio Prada</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Coplas a la muerte de su padre</title>
+               <publisher>Musicamaina</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=TncZzTSkkIE"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Amancio Prada</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Jorge Manrique</persName>
+                  <bibl>Coplas por la muerte de su padre</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>—Buen caballero</l>
+                  <l> dejad el mundo engañoso</l>
+                  <l> y su halago;</l>
+                  <l> vuestro corazón de acero</l>
+                  <l> muestre su esfuerzo famoso</l>
+                  <l> en este trago;</l>
+                  <l> y pues de vida y salud</l>
+                  <l> hicisteis tan poca cuenta</l>
+                  <l> por la fama,</l>
+                  <l> esfuércese la virtud</l>
+                  <l> para sufrir esta afrenta</l>
+                  <l> que os llama.</l>
+               </lg>
+               <lg>
+                  <l> No se os haga tan amarga</l>
+                  <l> la batalla temerosa</l>
+                  <l> que esperáis,</l>
+                  <l> pues otra vida más larga</l>
+                  <l> de la fama gloriosa</l>
+                  <l> acá dejáis,</l>
+                  <l> (aunque esta vida de honor</l>
+                  <l> tampoco no es eternal</l>
+                  <l> ni verdadera);</l>
+                  <l> mas, con todo, es muy mejor</l>
+                  <l> que la otra temporal</l>
+                  <l> perecedera.</l>
+               </lg>
+               <lg>
+                  <l> El vivir que es perdurable</l>
+                  <l> no se gana con estados</l>
+                  <l> mundanales,</l>
+                  <l> ni con vida delectable</l>
+                  <l> donde moran los pecados</l>
+                  <l> infernales;</l>
+                  <l> mas los buenos religiosos</l>
+                  <l> gánanlo con oraciones</l>
+                  <l> y con lloros;</l>
+                  <l> los caballeros famosos,</l>
+                  <l> con trabajos y aflicciones</l>
+                  <l> contra moros.</l>
+               </lg>
+               <lg>
+                  <l> Y pues vos, claro varón,</l>
+                  <l> tanta sangre derramasteis</l>
+                  <l> de paganos,</l>
+                  <l> esperad el galardón</l>
+                  <l> que en este mundo ganasteis</l>
+                  <l> por las manos;</l>
+                  <l> y con esta confianza,</l>
+                  <l> y con la fe tan entera</l>
+                  <l> que tenéis,</l>
+                  <l> partid con buena esperanza,</l>
+                  <l> que esta otra vida tercera</l>
+                  <l> ganaréis—.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Todo el disco está dedicado a musicar las Coplas a la muerte de su padre de Jorge
+            Manrique. Esta canción abarca las coplas 34-37. </note>
+      </body>
+   </text>
+</TEI>

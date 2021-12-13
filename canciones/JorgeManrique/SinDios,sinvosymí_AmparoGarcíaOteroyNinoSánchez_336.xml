@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sin Dios, sin vos y mí</title>
+            <author>Amparo García Otero y Nino Sánchez</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Juglares del Duero</title>
+               <publisher>Several</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=BWO-PobrlCA"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Amparo García Otero y Nino Sánchez</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Jorge Manrique</persName>
+                  <bibl>Yo soy quien libre me vi</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Yo soy quien libre me vi,</l>
+                  <l> yo quien pudiera oluidaros,</l>
+                  <l> yo so el que por amaros</l>
+                  <l> estoy desque os conoscí,</l>
+                  <l> sin Dios y sin vos y mí.</l>
+               </lg>
+               <lg>
+                  <l> Sin Dios, porqu’en vos adoro,</l>
+                  <l> sin vos, pues no me queréys,</l>
+                  <l> pues sin mí ya está de coro</l>
+                  <l> que vos soys quien me tenéys.</l>
+               </lg>
+               <lg>
+                  <l> Assí que triste nascí,</l>
+                  <l> pues que pudiera oluidaros,</l>
+                  <l> yo so el que por amaros</l>
+                  <l> estó, desque os conoscí,</l>
+                  <l> sin Dios y sin vos y mí.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Es el poema de Manrique tal cual.   En el mismo álbum hay versiones de poemas de Jorge
+            Manrique y de Juan del Encina. </note>
+      </body>
+   </text>
+</TEI>

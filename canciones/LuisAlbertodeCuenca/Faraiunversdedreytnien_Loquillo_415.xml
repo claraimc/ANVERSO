@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Farai un vers de dreyt nien</title>
+            <author>Loquillo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Su nombre era el de todas las mujeres</title>
+               <publisher>Dro</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=PfGhQEdHlLQ"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Loquillo</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Luis Alberto de Cuenca</persName>
+                  <bibl>Farai un vers de dreyt nien</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Sobre ti, sobre mí, sobre el infierno</l>
+                  <l> y sobre el paraíso</l>
+                  <l> de nuestro amor, sobre el milagro inútil</l>
+                  <l> de haberte conocido y el abismo</l>
+                  <l> de haber viajado al alba y al crepúsculo</l>
+                  <l> con un monstruo tan dulce y tan dañino,</l>
+                  <l> sobre la huella que dejó tu cuerpo</l>
+                  <l> en mi cama y en todos mis sentidos,</l>
+                  <l> sobre el vestido negro ribeteado</l>
+                  <l> de encaje con que andabas por el filo</l>
+                  <l> de la traición, sobre tu piel tan blanca</l>
+                  <l> y sobre el tiempo que yo perdí contigo….</l>
+                  <l> Sobre todas las cosas que anteceden</l>
+                  <l> y sobre nada (¿acaso no es lo mismo?)</l>
+                  <l> escribiré un poema, recordando</l>
+                  <l> la canción de Guillermo, con el frío</l>
+                  <l> de la distancia y con la sensación</l>
+                  <l> de no haberlas vivido.</l>
+               </lg>
+               <lg>
+                  <l> Sobre todas las cosas que anteceden</l>
+                  <l> y sobre nada (¿acaso no es lo mismo?)</l>
+                  <l> escribiré un poema, recordando</l>
+                  <l> la canción de Guillermo, con el frío</l>
+                  <l> de la distancia y con la sensación</l>
+                  <l> de no haberlas vivido. [Verso x 3]</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y en contraste con el poema original; a
+                    falta de fuente escrita, la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización similar, excepto que se repiten algunos versos y hay algunos cambios
+            léxicos. </note>
+      </body>
+   </text>
+</TEI>

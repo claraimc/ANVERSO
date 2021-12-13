@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Comienza la gesta</title>
+            <author>Emilio Valdeolivas</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>El cantar de mio Cid</title>
+               <publisher>Tecnosaga</publisher>
+               <date cert="low"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=el7V9-IRGnM&amp;t=1292s"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Emilio Valdeolivas</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Introducción al Cantar de las bodas (Cantar de mio Cid)</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Aquis compieça la gesta de mio Çid el de Bivar</l>
+                  <l> dexado ha Saragoça e a tierras de Mont Alván,</l>
+                  <l> e dexado ha Huesa e a las tierras ducá.</l>
+                  <l> Poblado ha mio Çid el puerto de Alucat.</l>
+               </lg>
+               <lg>
+                  <l> Aquis compieça la gesta de mio Çid el de Bivar</l>
+                  <l> dexado ha Saragoça e a tierras de Mont Alván,</l>
+                  <l> Contra la mar salada compeçó de guerrear.</l>
+                  <l> Myo Çid gañó a Xérica e a Onda e Almena.</l>
+               </lg>
+               <lg>
+                  <l> Aquis compieça la gesta de mio Çid el de Bivar</l>
+                  <l> dexado ha Saragoça e a tierras de Mont Alván,</l>
+                  <l> tierras de Borriana todas conquistas las ha,</l>
+                  <l> a orient exe el sol, e tornós a essa part.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Toma los vv. 1085-1093 del cantar segundo del Cantar de mio Cid y los combina en
+            diferentes configuraciones, con modificaciones mínimas. Probablemente sigue la edición
+            de Menéndez Pidal, dado el tratamiento de -e final en varios versos, pero no podemos
+            asegurarlo por el momento. Todo el disco está dedicado al Cantar de mio Cid, del que es
+            una adaptación. </note>
+      </body>
+   </text>
+</TEI>

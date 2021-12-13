@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La casada infiel</title>
+            <author>Toni Xuclà y Adolfo Osta</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Te mandaré mi corazón caliente</title>
+               <publisher>Ventilador Music</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=4OPth1I53sY&amp;list=OLAK5uy_mzWVIk91u0C22jvFzlhUFh8vEl2CY2tok&amp;index=11"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Toni Xuclà y Adolfo Osta</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>La casada infiel</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Y que yo me la llevé al río</l>
+                  <l> creyendo que era mozuela,</l>
+                  <l> pero tenía marido.</l>
+                  <l> Fue la noche de Santiago</l>
+                  <l> y casi por compromiso.</l>
+                  <l> Se apagaron los faroles</l>
+                  <l> y se encendieron los grillos.</l>
+                  <l> En las últimas esquinas</l>
+                  <l> toqué sus pechos dormidos,</l>
+                  <l> y se me abrieron de pronto</l>
+                  <l> como ramos de jacintos.</l>
+                  <l> El almidón de su enagua</l>
+                  <l> me sonaba en el oído,</l>
+                  <l> como una pieza de seda</l>
+                  <l> rasgada por diez cuchillos.</l>
+                  <l> Sin luz de plata en sus copas</l>
+                  <l> los árboles han crecido,</l>
+                  <l> y un horizonte de perros</l>
+                  <l> ladra muy lejos del río.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Y que yo me la llevé al río</l>
+                  <l> creyendo que era mozuela,</l>
+                  <l> pero tenía marido.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Pasadas las zarzamoras,</l>
+                  <l> los juncos y los espinos,</l>
+                  <l> bajo su mata de pelo</l>
+                  <l> hice un hoyo sobre el limo.</l>
+                  <l> Yo me quite la corbata.</l>
+                  <l> Ella se quitó el vestido.</l>
+                  <l> Yo el cinturón con revólver.</l>
+                  <l> Ella sus cuatro corpiños.</l>
+                  <l> Ni nardos ni caracolas</l>
+                  <l> tienen el cutis tan fino,</l>
+                  <l> ni los cristales con luna</l>
+                  <l> relumbran con ese brillo.</l>
+                  <l> Sus muslos se me escapaban</l>
+                  <l> como peces sorprendidos,</l>
+                  <l> la mitad llenos de lumbre,</l>
+                  <l> la mitad llenos de frío.</l>
+                  <l> Aquella noche corrí</l>
+                  <l> el mejor de los caminos,</l>
+                  <l> montado en potra de nácar</l>
+                  <l> sin bridas y sin estribos.</l>
+                  <l> No quiero decir, por hombre,</l>
+                  <l> las cosas que ella me dijo.</l>
+                  <l> La luz del entendimiento</l>
+                  <l> me hace ser muy comedido.</l>
+                  <l> Sucia de besos y arena</l>
+                  <l> yo me la llevé del río.</l>
+                  <l> Con el aire se batían</l>
+                  <l> las espadas de los lirios.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Me porté como quien soy.</l>
+                  <l> Como un gitano legítimo.</l>
+                  <l> La regalé un costurero</l>
+                  <l> grande de raso pajizo,</l>
+                  <l> y no quise enamorarme</l>
+                  <l> porque teniendo marido</l>
+                  <l> me dijo que era mozuela</l>
+                  <l> cuando la llevaba al río.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Hubo dos musicalizaciones anteriores a 1975, por eso no recogidas en esta base de
+            datos: Pepe Albaicín (Sin título, 1964) y Pepe de Córdoba (Canta a Federico García
+            Lorca, 1972). La única variación que hay respecto del poema de Lorca es que repite una
+            vez los tres primeros versos del poema entre la primera y la segunda estrofa. </note>
+      </body>
+   </text>
+</TEI>

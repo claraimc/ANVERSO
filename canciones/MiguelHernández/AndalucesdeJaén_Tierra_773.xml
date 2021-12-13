@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Andaluces de Jaén</title>
+            <author>Tierra</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Canción</title>
+               <publisher>Castor</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.discogs.com/es/Tierra-Canci%C3%B3n/release/7129733"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Tierra</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Aceituneros</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>No se ha tenido acceso al audio, ni a la letra. Se tienen noticias indirectas a
+                    través de Discogs, en este enlace.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Las primeras musicalizaciones conocidas de “Aceituneros” son de Paco Ibáñez (Paco
+            Ibáñez 2, 1967), Pablo Sorozábal Serrano (Cantos de amor y lucha. Cantos de amor y paz,
+            1969) y Enrique Morente (Homenaje flamenco a Miguel Hernández, 1971, solo en la edición
+            de México; no está en la edición española). Ninguna de estas versiones está en esta base
+            de datos, por ser anteriores a 1975. </note>
+      </body>
+   </text>
+</TEI>

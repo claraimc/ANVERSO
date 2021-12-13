@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Canto de independencia</title>
+            <author>Ariel Barreiros</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Una canción para Miguel</title>
+               <publisher>A Guitarra Limpia (Centro Pablo) y SGAE</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/LePbBreGr6g"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Ariel Barreiros</persName>
+                  <nationality>Cuba</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Déjame que me vaya]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Paso a paso, mi tierra vuelve a mí. Trozo a trozo,</l>
+                  <l> vuelven la claridad y el día y el centeno.</l>
+                  <l> Han querido arrojar tanta luz en un pozo,</l>
+                  <l> en un pozo guardado por un puño de cieno.</l>
+               </lg>
+               <lg>
+                  <l> Haciendo luz la luz y luz la sombra densa,</l>
+                  <l> van los padres del sol, los padres del granito,</l>
+                  <l> que hacen la espiga grande, y hacen la vida inmensa</l>
+                  <l> y el vientre de las madres poblado de infinito.</l>
+               </lg>
+               <lg>
+                  <l> Déjame, que me vaya madre a la guerra,</l>
+                  <l> déjame blanca hermana, novia morena.</l>
+                  <l> Y después de dejarme junto a las balas,</l>
+                  <l> Mándame a la trinchera flores y cartas.</l>
+               </lg>
+               <lg>
+                  <l> Aprende en estas vidas, aprende como aprendo:</l>
+                  <l> aprende a ser un hombre bien clavado en el barro,</l>
+                  <l> lo mismo que estos hombres que mueren encendiendo</l>
+                  <l> la mecha, la sonrisa, la muerte y el cigarro.</l>
+               </lg>
+               <lg>
+                  <l> ¡Fuera de aquí, egoístas de retorcidas manos,</l>
+                  <l> dispuestos a negar la pureza en la nieve!</l>
+                  <l> Sois también invasores como los italianos,</l>
+                  <l> como la dinamita que sobre España llueve.</l>
+               </lg>
+               <lg>
+                  <l> Déjame, que me vaya madre a la guerra,</l>
+                  <l> déjame blanca hermana, novia morena.</l>
+                  <l> Y después de dejarme junto a las balas,</l>
+                  <l> Mándame a la trinchera flores y cartas.</l>
+               </lg>
+               <lg>
+                  <l> Escoged bien la piedra para grabar los nombres,</l>
+                  <l> la eternidad, los rasgos, la vida, la figura</l>
+                  <l> de la definitiva materia de estos hombres,</l>
+                  <l> hasta volverla carne de siglos y hermosura.</l>
+               </lg>
+               <lg>
+                  <l> España se levanta limpia como las hojas,</l>
+                  <l> limpias con el sudor del hombre y las mañanas,</l>
+                  <l> y aún sonarán los nombres y las pisadas rojas</l>
+                  <l> cuando el bronce no suene y el cañón eche canas.</l>
+               </lg>
+               <lg>
+                  <l> Déjame, que me vaya madre a la guerra,</l>
+                  <l> déjame blanca hermana, novia morena.</l>
+                  <l> Y después de dejarme junto a las balas,</l>
+                  <l> Mándame a la trinchera flores y cartas.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar del poema de Miguel Hernández. El autor
+            utiliza las estrofas primera, cuarta, quinta, duodécima, decimoséptima y decimonovena
+            para componer la canción; introduce, además, a modo estribillo los tres primeras
+            estrofas de otro poema de Miguel Hernández: Déjame que me vaya. «…Déjame que me
+            vaya,/madre, a la guerra. Déjame, blanca hermana,/novia morena. Y después de
+            dejarme/junto a las balas,/mándame a la trinchera/besos y cartas…» </note>
+      </body>
+   </text>
+</TEI>

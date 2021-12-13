@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tristes guerras</title>
+            <author>Almaria, Farah Siraj, Israel Fernández, José Enrique Morente, Juan Carmona,
+                Las Bautista y Pedro el Granaíno</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>27 flamenco. Un homenaje al arte y la poesía de la generación del 27</title>
+               <publisher>Piros y Juan Carmona</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=3Wximbij_Bc"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Almaria, Farah Siraj, Israel Fernández, José Enrique Morente, Juan Carmona,
+                Las Bautista y Pedro el Granaíno</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Tristes guerras]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Tristes guerras</l>
+                  <l> si no es amor la empresa.</l>
+                  <l> Tristes.</l>
+                  <l> Tristes armas</l>
+                  <l> si no son las palabras.</l>
+                  <l> Tristes.</l>
+                  <l> Tristes hombres</l>
+                  <l> si no mueren de amores.</l>
+                  <l> Tristes. Tristes. [Estrofa x 2]</l>
+               </lg>
+               <lg>
+                  <l> Llegó con tres heridas:</l>
+                  <l> la del amor,</l>
+                  <l> la de la muerte,</l>
+                  <l> la de la vida.</l>
+                  <l> Con tres heridas viene:</l>
+                  <l> la de la vida,</l>
+                  <l> la del amor,</l>
+                  <l> la de la muerte.</l>
+                  <l> Con tres heridas yo:</l>
+                  <l> la de la vida,</l>
+                  <l> la de la muerte,</l>
+                  <l> la del amor.</l>
+               </lg>
+               <lg>
+                  <l> Llegó con tres heridas…</l>
+                  <l> con tres heridas:</l>
+                  <l> la del amor,</l>
+                  <l> la de la muerte,</l>
+                  <l> la de la vida.</l>
+                  <l> Con tres heridas…</l>
+                  <l> con tres heridas viene:</l>
+                  <l> la de la vida,</l>
+                  <l> la del amor,</l>
+                  <l> la de la muerte.</l>
+                  <l> Con tres heridas yo…</l>
+                  <l> con tres heridas:</l>
+                  <l> la de la vida,</l>
+                  <l> la de la muerte,</l>
+                  <l> la del amor.</l>
+               </lg>
+               <lg>
+                  <l> Tristes guerras</l>
+                  <l> si no es amor la empresa.</l>
+                  <l> Tristes.</l>
+                  <l> Tristes armas</l>
+                  <l> si no son las palabras.</l>
+                  <l> Tristes.</l>
+                  <l> Tristes hombres</l>
+                  <l> si no mueren de amores.</l>
+                  <l> Tristes.</l>
+               </lg>
+               <lg>
+                  <l> Llegó con tres heridas:</l>
+                  <l> la del amor,</l>
+                  <l> la de la muerte,</l>
+                  <l> la de la vida.</l>
+                  <l> Con tres heridas viene:</l>
+                  <l> la de la vida,</l>
+                  <l> la del amor,</l>
+                  <l> la de la muerte.</l>
+                  <l> Con tres heridas yo:</l>
+                  <l> la de la vida,</l>
+                  <l> la de la muerte,</l>
+                  <l> la del amor.</l>
+               </lg>
+               <lg>
+                  <l> Llegó con tres heridas…</l>
+                  <l> con tres heridas:</l>
+                  <l> la del amor,</l>
+                  <l> la de la muerte,</l>
+                  <l> la de la vida.</l>
+                  <l> Con tres heridas viene…</l>
+                  <l> con tres heridas viene:</l>
+                  <l> la de la vida,</l>
+                  <l> la del amor,</l>
+                  <l> la de la muerte.</l>
+                  <l> Con tres heridas yo…</l>
+                  <l> con tres heridas yo:</l>
+                  <l> la de la vida,</l>
+                  <l> la de la muerte,</l>
+                  <l> la del amor.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y los poemas originales; la puntuación
+                    y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción alterna los dos poemas de Miguel Hernández, cambiando a su vez de
+            intérprete; con cada cambio, se producen ligeras variaciones léxicas con respecto a los
+            textos originales. La canción toma el título de solo uno de los poemas: [Tristes
+            guerras]. </note>
+      </body>
+   </text>
+</TEI>

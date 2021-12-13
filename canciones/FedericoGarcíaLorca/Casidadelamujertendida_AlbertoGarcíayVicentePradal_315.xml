@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Casida de la mujer tendida</title>
+            <author>Alberto García y Vicente Pradal</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Lorca - Pradal: El diván del Tamarit</title>
+               <publisher>Erato y Warner Classics</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=mCBWjHBNzqA"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Clásica</term>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Alberto García y Vicente Pradal</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Casida del llanto</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>He cerrado mi balcón</l>
+                  <l> porque no quiero oír el llanto</l>
+                  <l> porque no quiero oír el llanto</l>
+                  <l> pero por detrás de los grises muros</l>
+                  <l> no se oye otra cosa que el llanto.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Tu vientre es una lucha de raíces,</l>
+                  <l> tus labios son un alba sin contorno,</l>
+                  <l> bajo las rosas tibias de la cama</l>
+                  <l> los muertos gimen esperando turno.</l>
+                  <l> Una lucha de raíces,</l>
+                  <l> tus labios son un alba sin contorno,</l>
+                  <l> bajo las rosas tibias de la cama</l>
+                  <l> los muertos gimen esperando turno.</l>
+                  <l> Bajo las rosas tibias de la cama</l>
+                  <l> los muertos gimen esperando turno.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Los muertos gimen esperando turno.</l>
+                  <l> Los muertos gimen esperando turno.</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Se utiliza la primera estrofa de Casida del llanto y la última de Casida de la mujer
+            desnuda para componer la canción. </note>
+      </body>
+   </text>
+</TEI>

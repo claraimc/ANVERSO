@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Casida de los ramos</title>
+            <author>Carlos Cano</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Luna de Abril</title>
+               <publisher>CBS</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=byg9izq1ulY"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+               <term>Latina</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Carlos Cano</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Casida de los ramos</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Por las arboledas del Tamarit</l>
+                  <l> han venido los perros de plomo</l>
+                  <l> a esperar que se caigan los ramos</l>
+                  <l> a esperar que se quiebren ellos solos.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> El Tamarit tiene un manzano</l>
+                  <l> y una manzana de sollozos,</l>
+                  <l> un ruiseñor apaga los suspiros</l>
+                  <l> y un faisán los ahuyenta por el polvo.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Pero los ramos son alegres,</l>
+                  <l> los ramos son como nosotros.</l>
+                  <l> No piensan en la lluvia y están dormidos</l>
+                  <l> como si fueran árboles de pronto.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Sentados con el agua en las rodillas</l>
+                  <l> dos valles esperaban al otoño.</l>
+                  <l> La penumbra con paso de elefante</l>
+                  <l> empujaba las ramas y los troncos.</l>
+               </lg>
+               <lg>
+                  <l> Por las arboledas del Tamarit</l>
+                  <l> hay muchos niños de velado rostro</l>
+                  <l> a esperar que se caigan los ramos</l>
+                  <l> a esperar que se quiebren ellos solos.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización idéntica, excepto por sutiles cambios en los versos 6, 7, 14 y 19. Los
+            más leves de ellos consisten en el cambio de una preposición por conjunción (v. 6), o en
+            el uso de un sinónimo «esperaban» en vez de «aguardaban» (v. 14). Los más significativos
+            están en el verso 7, un cambio semántico, «agrupa» por «apaga», y un pronombre posesivo
+            «mis» por el determinante «los», en el verso 19.   </note>
+      </body>
+   </text>
+</TEI>

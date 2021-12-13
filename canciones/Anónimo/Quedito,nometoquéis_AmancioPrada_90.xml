@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quedito, no me toquéis</title>
+            <author>Amancio Prada</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Del amor que quita el sueño (Romances y canciones desde el Reino de León)</title>
+               <publisher>Musicamaina</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=dezxBTWEYrk"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Amancio Prada</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Quedito, no me toquéis</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Quedito! No me toquéis</l>
+                  <l> entrañas mías,</l>
+                  <l> que tenéis las manos frías.</l>
+               </lg>
+               <lg>
+                  <l> Yo os doy mi fe que venís</l>
+                  <l> esta noche tan helado</l>
+                  <l> que si vos no lo sentís,</l>
+                  <l> de sentido estáis privado.</l>
+                  <l> ¡Quedito! No me toquéis</l>
+                  <l> entrañas mías,</l>
+                  <l> que tenéis las manos frías.</l>
+               </lg>
+               <lg>
+                  <l> Morenica, dime cuándo</l>
+                  <l> tu serás de mi bando.</l>
+                  <l> ¡Ay, dime cuándo, morena,</l>
+                  <l> dejarás de darme pena!</l>
+               </lg>
+               <lg>
+                  <l> ¡Quedito! No me toquéis</l>
+                  <l> entrañas mías,</l>
+                  <l> que tenéis las manos frías.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Las primeras dos estrofas son de una canción del Cancionero de Gabriel Peralta
+            desarrolladas a partir de un villancico tradicional, con ligeras modificaciones. La
+            tercera estrofa es un villancico no relacionado con la canción.   Como señala el
+            subtítulo del álbum, todo él está dedicado a piezas de la lírica castellana medieval y
+            temprano-moderna.   </note>
+      </body>
+   </text>
+</TEI>

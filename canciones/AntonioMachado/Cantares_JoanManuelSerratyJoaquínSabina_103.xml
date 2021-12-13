@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cantares</title>
+            <author>Joan Manuel Serrat y Joaquín Sabina</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Dos pájaros de un tiro</title>
+               <publisher>Ariola Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=gbVq8kBYrg4"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Joan Manuel Serrat y Joaquín Sabina</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Antonio Machado</persName>
+                  <bibl>Proverbios y cantares</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>[Serrat]</l>
+                  <l> Todo pasa y todo queda,</l>
+                  <l> pero lo nuestro es pasar,</l>
+                  <l> pasar haciendo caminos,</l>
+                  <l> caminos sobre el mar.</l>
+               </lg>
+               <lg>
+                  <l> Nunca perseguí la gloria,</l>
+                  <l> ni dejar en la memoria</l>
+                  <l> de los hombres mi canción;</l>
+                  <l> yo amo los mundos sutiles,</l>
+                  <l> ingrávidos y gentiles,</l>
+                  <l> como pompas de jabón.</l>
+                  <l> [Sabina]</l>
+                  <l> Me gusta verlos pintarse</l>
+                  <l> de sol y grana, volar</l>
+                  <l> bajo el cielo azul, temblar</l>
+                  <l> súbitamente y quebrarse.</l>
+                  <l> Nunca perseguí la gloria.</l>
+               </lg>
+               <lg>
+                  <l> [Serrat]</l>
+                  <l> Caminante, son tus huellas</l>
+                  <l> el camino y nada más.</l>
+               </lg>
+               <lg>
+                  <l> [Sabina]</l>
+                  <l> Caminante, no hay camino,</l>
+                  <l> se hace camino al andar.</l>
+               </lg>
+               <lg>
+                  <l> [Serrat]</l>
+                  <l> Al andar se hace camino,</l>
+                  <l> y, al volver la vista atrás,</l>
+                  <l> se ve la senda que nunca</l>
+                  <l> se ha de volver a pisar.</l>
+               </lg>
+               <lg>
+                  <l> [Sabina]</l>
+                  <l> Caminante, no hay camino,</l>
+                  <l> sino estelas en la mar.</l>
+               </lg>
+               <lg>
+                  <l> [Serrat]</l>
+                  <l> Hace algún tiempo en ese lugar,</l>
+                  <l> donde hoy los bosques se visten de espinos,</l>
+                  <l> se oyó la voz de un poeta gritar:</l>
+                  <l> “Caminante, no hay camino,</l>
+                  <l> se hace camino al andar…”</l>
+               </lg>
+               <lg>
+                  <l> [Ambos]</l>
+                  <l> Golpe a golpe, verso a verso.</l>
+                  <l> Golpe a golpe, verso a verso.</l>
+               </lg>
+               <lg>
+                  <l> [Sabina]</l>
+                  <l> Murió el poeta lejos del hogar,</l>
+                  <l> le cubre el polvo de un país vecino;</l>
+                  <l> al alejarse le vieron llorar:</l>
+                  <l> “Caminante, no hay camino,</l>
+                  <l> se hace camino al andar…”</l>
+               </lg>
+               <lg>
+                  <l> [Ambos]</l>
+                  <l> Golpe a golpe, verso a verso.</l>
+                  <l> Golpe a golpe, verso a verso.</l>
+               </lg>
+               <lg>
+                  <l> [Ambos]</l>
+                  <l> Cuando el jilguero no puede cantar,</l>
+                  <l> cuando el poeta es un peregrino,</l>
+                  <l> cuando de nada nos sirve rezar:</l>
+                  <l> “Caminante, no hay camino,</l>
+                  <l> se hace camino al andar…”</l>
+               </lg>
+               <lg>
+                  <l> Golpe a golpe, verso a verso.</l>
+                  <l> Golpe a golpe, verso a verso.</l>
+                  <l> Golpe a golpe, verso a verso.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">En realidad, es una versión de “Cantares” de Joan Manuel Serrat (Dedicado a Antonio
+            Machado, poeta, 1969), que, por razones de cronología, no aparece en esta
+            recopilación. Canta a dúo con Joaquín Sabina. </note>
+      </body>
+   </text>
+</TEI>

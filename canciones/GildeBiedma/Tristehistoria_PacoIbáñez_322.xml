@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Triste historia</title>
+            <author>Paco Ibáñez</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>A flor de tiempo</title>
+               <publisher>Ariola Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=u__yFRuxoYI"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Paco Ibáñez</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Gil de Biedma</persName>
+                  <bibl>Apología y petición</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>De todas las historias de la Historia</l>
+                  <l> la más triste sin duda es la de España,</l>
+                  <l> porque termina mal. Como si el hombre,</l>
+                  <l> harto ya de luchar con sus demonios,</l>
+                  <l> quisiera terminar con esa historia</l>
+                  <l> de ese país de todos los demonios.</l>
+                  <l> A menudo he pensado en esos hombres,</l>
+                  <l> a menudo he pensado en la pobreza</l>
+                  <l> de este país de todos los demonios.</l>
+                  <l> Y a menudo he pensado en otra historia</l>
+                  <l> distinta y menos triste; en otra España,</l>
+                  <l> en donde ya no cuenten los demonios.</l>
+                  <l> Pido que España expulse a esos demonios.</l>
+                  <l> Que sea el hombre el dueño de su historia.</l>
+                  <l> De todas las historias de la Historia</l>
+                  <l> la más triste sin duda es la de España.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Paco Ibáñez selecciona tan solo algunos versos, los reordena y los modifica
+            ligeramente. </note>
+      </body>
+   </text>
+</TEI>

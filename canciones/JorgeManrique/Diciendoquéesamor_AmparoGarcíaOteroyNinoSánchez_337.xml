@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Diciendo qué es amor</title>
+            <author>Amparo García Otero y Nino Sánchez</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Juglares del Duero</title>
+               <publisher>Several</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=y6JW6cwomqc"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Amparo García Otero y Nino Sánchez</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Jorge Manrique</persName>
+                  <bibl>Es amor fuerça tan fuerte</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Es amor fuerça tan fuerte</l>
+                  <l> que fuerça toda razón;</l>
+                  <l> una fuerça de tal suerte,</l>
+                  <l> que todo seso convierte</l>
+                  <l> en su fuerça y afición;</l>
+                  <l> una porfía forçosa</l>
+                  <l> que no se puede vencer,</l>
+                  <l> cuya fuerça porfiosa</l>
+                  <l> hacemos más poderosa</l>
+                  <l> queriéndonos defender.</l>
+               </lg>
+               <lg>
+                  <l> Es placer en c’hay dolores,</l>
+                  <l> dolores en c’hay alegría,</l>
+                  <l> un pesar en c’hay dulçores,</l>
+                  <l> un esfuerço en c’hay temores,</l>
+                  <l> temor en c’hay osadía;</l>
+                  <l> un placer en c’hay enojos,</l>
+                  <l> una gloria en c’hay pasión,</l>
+                  <l> una fe en c’hay antojos,</l>
+                  <l> fuerça que hacen los ojos</l>
+                  <l> al seso y al coraçón.</l>
+               </lg>
+               <lg>
+                  <l> Es una cautividad</l>
+                  <l> sin parescer las prisiones;</l>
+                  <l> un robo de libertad,</l>
+                  <l> un forzar de voluntad</l>
+                  <l> donde no valen razones;</l>
+                  <l> una sospecha celosa</l>
+                  <l> causada por el querer,</l>
+                  <l> una rabia deseosa</l>
+                  <l> que no sabe qu’es la cosa</l>
+                  <l> que desea tanto ver,</l>
+               </lg>
+               <lg>
+                  <l> Es un modo de locura</l>
+                  <l> con las mudanças que hace:</l>
+                  <l> una vez pone tristura,</l>
+                  <l> otra vez causa holgura,</l>
+                  <l> como lo quiere y le place;</l>
+                  <l> un deseo que al ausente</l>
+                  <l> trabaja, pena y fatiga;</l>
+                  <l> un recelo que al presente</l>
+                  <l> hace callar lo que siente,</l>
+                  <l> temiendo pena que diga.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Es el poema de Manrique tal cual, sin el cabo.   En el mismo álbum hay versiones de
+            poemas de Jorge Manrique y de Juan del Encina. </note>
+      </body>
+   </text>
+</TEI>

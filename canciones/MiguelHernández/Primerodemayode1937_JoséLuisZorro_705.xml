@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Primero de mayo de 1937</title>
+            <author>José Luis Zorro</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Aguas Subterráneas</title>
+               <publisher>Nevada</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target=""/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>José Luis Zorro</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Primero de mayo de 1937</bibl>
+                  <relation>Influencia</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>No se ha encontrado la letra de la canción.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">José Luis Zorro era un autor enmarcado dentro de la corriente de rock progresivo de
+            finales de la década de los 70 en España. Aunque no hemos podido tener acceso al disco
+            donde se encuentra la musicalización de este poema, es muy posible que, aunque se
+            tomasen partes del poema, la canción se tomase muchas licencias respecto del texto
+            original. </note>
+      </body>
+   </text>
+</TEI>

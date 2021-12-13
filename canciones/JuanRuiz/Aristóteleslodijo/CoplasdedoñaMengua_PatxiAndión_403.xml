@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aristóteles lo dijo / Coplas de doña Mengua</title>
+            <author>Patxi Andión</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>El libro de buen amor</title>
+               <publisher>Fonogram</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target=""/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Escénica</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Patxi Andión</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Juan Ruiz</persName>
+                  <bibl>Aquí dise de cómo segund natura los omes e las otras animalias quieren aver
+                compañía con las fembras (Libro de buen amor)</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Como dice Aristóteles, cosa es verdadera,</l>
+                  <l> el mundo por dos cosas trabaja: la primera,</l>
+                  <l> por tener su mantenencia; la otra cosa era</l>
+                  <l> por tener juntamiento con hembra placentera.</l>
+               </lg>
+               <lg>
+                  <l> Con buen servicio vencen caballeros de España,</l>
+                  <l> vencerse una dueña no es cosa tamaña.</l>
+               </lg>
+               <lg>
+                  <l> Nunca vi sacristán que a vísperas mejor taña,</l>
+                  <l> todos los instrumentos toca con chica manga.</l>
+                  <l> la que a tus vísperas viene nunca remanga</l>
+                  <l> con virga virtutis tue logras que baile charanga.</l>
+               </lg>
+               <lg>
+                  <l> Con buen servicio vencen caballeros de España,</l>
+                  <l> vencerse una dueña no es cosa tamaña.</l>
+               </lg>
+               <lg>
+                  <l> El miedo y la verganza hace a muchas mujeres</l>
+                  <l> hacer lo que quieren como tú lo quieres,</l>
+                  <l> mas acaban por ceder, ocasión no esperes;</l>
+                  <l> toma, pues, de la dueña lo que de ella quisieres.</l>
+               </lg>
+               <lg>
+                  <l> Con buen servicio vencen caballeros de España,</l>
+                  <l> vencerse una dueña no es cosa tamaña.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Texto original (cuadernas 71; 621c y d [estribillo]; 384, 634,  del Libro de buen
+            amor) ligeramente modernizado y con algunas modificiaciones. Pertenece a la B. S. O. de
+            la película El libro de buen amor (1975). </note>
+      </body>
+   </text>
+</TEI>

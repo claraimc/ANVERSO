@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Por ahí se va...</title>
+            <author>Danza Invisible</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>En equilibrio</title>
+               <publisher>Grabaciones Accidentales</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=goFaYU2gSVs"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Danza Invisible</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Gustavo Adolfo Bécquer</persName>
+                  <bibl>Rima XXIII</bibl>
+                  <relation>Trasposición</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Por ahí se escapa, por ahí se pierde,</l>
+                  <l> por ese camino del que nunca vuelve,</l>
+                  <l> se aleja y desaparece.</l>
+                  <l> Por ahí se va el amor.</l>
+                  <l> Por ahí se va.</l>
+                  <l> Por ahí se va el amor.</l>
+                  <l> Se va el amor.</l>
+                  <l> Por ahí se va el amor.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Si te das cuenta, haciendo el amor,</l>
+                  <l> que miro al techo de la habitación.</l>
+                  <l> No dices nada, no oigo tu voz,</l>
+                  <l> si acaso se te altera, la respiración;</l>
+                  <l> si estoy tan lejos, cuando despierto;</l>
+                  <l> y siento tu aliento, como si fuera viento.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Por ahí se escapa, por ahí se pierde,</l>
+                  <l> por ese camino del que nunca vuelve,</l>
+                  <l> se aleja y desaparece.</l>
+                  <l> Por ahí se va el amor.</l>
+                  <l> Por ahí se va.</l>
+                  <l> Por ahí se va el amor.</l>
+                  <l> Se va el amor.</l>
+                  <l> Por ahí se va el amor.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Si, siendo amargo mi paladar,</l>
+                  <l> por esos besos que te quise dar,</l>
+                  <l> y, si de lo que quiero no estoy seguro,</l>
+                  <l> mejor es no pensar en el futuro.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Por ahí se va.</l>
+                  <l> Por ahí se va el amor.</l>
+                  <l> Se va el amor.</l>
+                  <l> Por ahí se va el amor.</l>
+                  <l> Por ahí se escapa, por ahí se pierde,</l>
+                  <l> por ese camino del que nunca vuelve,</l>
+                  <l> se aleja y desaparece.</l>
+                  <l> Por ahí se va el amor.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Veo a través de ti: eres transparente.</l>
+                  <l> Antes eras el mundo y ahora estás enfrente.</l>
+                  <l> Si me entristezco, pero no me desespero,</l>
+                  <l> caigo en la cuenta de que no te quiero.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Por ahí se escapa, por ahí se pierde,</l>
+                  <l> por ese camino del que nunca vuelve,</l>
+                  <l> se aleja y desaparece.</l>
+                  <l> Por ahí se va el amor.</l>
+                  <l> Por ahí se va.</l>
+                  <l> Por ahí se va el amor.</l>
+                  <l> Se va el amor.</l>
+                  <l> Por ahí se va el amor.</l>
+                  <l> Si, siendo amargo mi paladar,</l>
+                  <l> por esos besos que te quise dar,</l>
+                  <l> y, si de lo que quiero no estoy seguro,</l>
+                  <l> mejor es no pensar en el futuro.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Por ahí se va.</l>
+                  <l> Por ahí se va el amor.</l>
+                  <l> Se va el amor.</l>
+                  <l> Por ahí se va el amor.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Por una sonrisa, un mundo;</l>
+                  <l> por una mirada, un cielo;</l>
+                  <l> por un beso… ¡Yo no sé</l>
+                  <l> lo que diera por un beso!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Por una sonrisa, un mundo;</l>
+                  <l> por una mirada, un cielo.</l>
+                  <l> Por tus besos no doy nada.</l>
+                  <l> No doy nada por tus besos.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Por ahí se escapa, por ahí se pierde,</l>
+                  <l> por ese camino del que nunca vuelve,</l>
+                  <l> se aleja y desaparece.</l>
+                  <l> Por ahí se va el amor.</l>
+                  <l> Por ahí se va.</l>
+                  <l> Por ahí se va el amor.</l>
+                  <l> Se va el amor.</l>
+                  <l> Por ahí se va el amor.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Por ahí se va…</l>
+                  <l> Por ahí se va…</l>
+                  <l> Por ahí se va el amor.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La rima XXIII de Bécquer se inserta en la letra de la canción dos veces. Primero, solo
+            con ligeras variaciones; luego, reformulándola, para contradecir su sentido original.
+        </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ay, linda amiga</title>
+            <author>Amancio Prada</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Canciones de amor y celda</title>
+               <publisher>Movieplay</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=wAhKhR-2geM"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Amancio Prada</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Ay, linda amiga</bibl>
+                  <relation>Cita</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Ay, linda amiga que no vuelvo a verte,</l>
+                  <l> cuerpo garrido que me lleva la muerte.</l>
+               </lg>
+               <lg>
+                  <l> Me hiela la sangre</l>
+                  <l> viento de vejez,</l>
+                  <l> me arranca los cabellos,</l>
+                  <l> me seca la piel,</l>
+                  <l> los ojos se me nublan,</l>
+                  <l> ni lloran ni ven.</l>
+               </lg>
+               <lg>
+                  <l> Ay, linda amiga que no vuelvo a verte,</l>
+                  <l> cuerpo garrido que me lleva la muerte.</l>
+               </lg>
+               <lg>
+                  <l> Preso me conducen,</l>
+                  <l> me echan en prisión,</l>
+                  <l> mazmorra de tinieblas</l>
+                  <l> florida de moho</l>
+                  <l> en donde para siempre</l>
+                  <l> dormiré solo.</l>
+               </lg>
+               <lg>
+                  <l> Ay, linda amiga que no vuelvo a verte,</l>
+                  <l> cuerpo garrido que me lleva la muerte.</l>
+                  <l> Dónde está aquel bosque,</l>
+                  <l> dónde el manantial,</l>
+                  <l> en donde te bañabas,</l>
+                  <l> cuerpo de coral,</l>
+                  <l> y mientras te secabas</l>
+                  <l> me sonreías.</l>
+               </lg>
+               <lg>
+                  <l> Ay, linda amiga que no vuelvo a verte,</l>
+                  <l> cuerpo garrido que me lleva la muerte.</l>
+                  <l> Lejos se me borra</l>
+                  <l> ventanita azul</l>
+                  <l> y más y más menuda</l>
+                  <l> te me pierdes tú.</l>
+                  <l> A dónde vas, a dónde,</l>
+                  <l> Lucerita luz.</l>
+                  <l> Ay, linda amiga que no vuelvo a verte,</l>
+                  <l> cuerpo garrido que me lleva la muerte.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Se conserva la melodía tradicional y la cabeza, pero el resto son versos de Agustín
+            García Calvo compuestos específicamente para esta canción. El tono de los nuevos versos
+            es mucho menos gozoso y más melancólico. </note>
+      </body>
+   </text>
+</TEI>

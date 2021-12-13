@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La saeta</title>
+            <author>Agrupaciones musicales de Semana Santa</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="--">
+               <title>--</title>
+               <publisher>--</publisher>
+               <date cert="low"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?list=RDM71Jq0DeoP4&amp;v=M71Jq0DeoP4&amp;feature=emb_rel_end"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Agrupaciones musicales de Semana Santa</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Antonio Machado</persName>
+                  <bibl>La saeta</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Instrumental: marcha de procesión de Semana Santa.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Aunque esta versión de procesión de Semana Santa es exclusivamente instrumental, sin
+            referencias textuales al poema, la relación es evidente, porque se basa en la versión
+            original de Joan Manuel Serrat en 1969, no incluida en esta base de datos por ser
+            anterior a 1975. La adaptación de Machado/Serrat a marcha procesional empezó en los años
+            80. Información detallada en la web http://www.patrimoniomusical.com/. En concreto, de
+            esta versión se dice (http://www.patrimoniomusical.com/bd-marcha-271) lo siquiente:  
+            «‘La Saeta’ es una canción original de Joan Manuel Serrat con arreglos de Ricard
+            Miralles Izquierdo (Barcelona, 9 de agosto de 1944) y grabada en 1969 en el LP titulado
+            Dedicado a Antonio Machado, poeta. La letra de la canción es el poema ‘La Saeta’ de
+            Antonio Machado, incluida en su obra titulada Campos de Castilla (1912). Esta canción
+            fue adaptada a marcha procesional a principios de los años 80 por la Banda de Cornetas y
+            Tambores Virgen de las Angustias (Los Gitanos) de Sevilla y por la Agrupación Musical
+            Cristo de la Buena Muerte de Ayamonte, quienes la grabaron en 1986 y 1988
+            respectivamente. Aunque el boom mediático llegó con la nueva adaptación (más fiel a la
+            canción incluida en el LP de 1969) que hizo la Agrupación Musical Nuestro Padre Jesús
+            Despojado (hoy denominada Virgen de los Reyes) de Sevilla a cargo de los músicos Antonio
+            Velasco Rodríguez, Antonio Amodeo Ojeda y Juan Ramírez Téllez. La misma se estrenó en la
+            cuaresma de 1988 en una procesión extraordinaria de Nuestro Padre Jesús Despojado de sus
+            vestiduras de Sevilla por el 50 aniversario de su fundación, causando un gran fervor
+            entre todos los que estuvieron presenciando la mencionada procesión. La misma agrupación
+            musical la grabaría un año después (1989) pasando a ser desde entonces un clásico de las
+            agrupaciones musicales. La popularidad de la marcha de agrupación musical fue tal que en
+            1992 Guillermo Fernández Ríos, ex-trompetista solista de la Banda del Regimiento de
+            Infantería Soria n.º 9 (Sevilla), decidió hacer la primera adaptación a banda de música,
+            siendo grabada tan sólo un año después (1993) por la Banda de Música del Maestro Tejera
+            (Sevilla). Desde entonces han sido (y siguen siendo) muchos músicos los que han tomado
+            este mismo tema para realizar otras distintas adaptaciones».   Puede verse la relación
+            de versiones grabadas en estilo marcha procesional en este enlace:
+            http://www.patrimoniomusical.com/bd-marcha-271 </note>
+      </body>
+   </text>
+</TEI>

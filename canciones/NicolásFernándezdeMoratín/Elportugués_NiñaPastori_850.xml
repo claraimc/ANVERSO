@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El portugués</title>
+            <author>Niña Pastori</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Entre dos puertos</title>
+               <publisher>BMG Ariola</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=jYjF-JUQnPY"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Niña Pastori</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Nicolás Fernández de Moratín</persName>
+                  <bibl>Saber sin estudiar</bibl>
+                  <relation>Continuación</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Admirose un portugués,</l>
+                  <l> al ver que en su tierna infancia</l>
+                  <l> todos los niños de Francia</l>
+                  <l> supieran hablar francés:</l>
+                  <l> “Arte diabólica es”,</l>
+                  <l> dijo, torciendo el mostacho,</l>
+                  <l> “pues para hablar en gabacho</l>
+                  <l> un gitano en Portugal</l>
+                  <l> llega a viejo, y lo habla mal;</l>
+                  <l> y aquí lo parla el muchacho».</l>
+               </lg>
+               <lg>
+                  <l> Y el portugués,</l>
+                  <l> al ver que en su tierna infancia</l>
+                  <l> todos los niños de Francia</l>
+                  <l> supieran hablar francés. (Estribillo x 2)</l>
+               </lg>
+               <lg>
+                  <l> Badajoz, la Plaza Alta,</l>
+                  <l> tres gatos y un soportal.</l>
+                  <l> Huele a café de puchero</l>
+                  <l> y a raya de Portugal.</l>
+               </lg>
+               <lg>
+                  <l> Y el portugués,</l>
+                  <l> al ver que en su tierna infancia</l>
+                  <l> todos los niños de Francia</l>
+                  <l> supieran hablar francés. (Estribillo x 2)</l>
+               </lg>
+               <lg>
+                  <l> De niño, dicen los viejos,</l>
+                  <l> tenía la voz de cristal:</l>
+                  <l> la pena y el aguardiente</l>
+                  <l> se la hicieron reventar.</l>
+                  <l> Pero, viva donde viva,</l>
+                  <l> hecho añicos el cristal,</l>
+                  <l> Ramón seguirá cantando</l>
+                  <l> lo que nació pa’ cantar</l>
+               </lg>
+               <lg>
+                  <l> Y el portugués,</l>
+                  <l> al ver que en su tierna infancia</l>
+                  <l> todos los niños de Francia</l>
+                  <l> supieran hablar francés. (Estribillo x 4)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción comienza musicalizando, con solo variaciones mínimas, el poema original.
+            Luego, la letra de la canción se amplía con repeticiones de versos del poema original y
+            con versos de nueva creación. </note>
+      </body>
+   </text>
+</TEI>

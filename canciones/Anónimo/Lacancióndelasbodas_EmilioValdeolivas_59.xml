@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La canción de las bodas</title>
+            <author>Emilio Valdeolivas</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>El cantar de mio Cid</title>
+               <publisher>Tecnosaga</publisher>
+               <date cert="low"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=el7V9-IRGnM&amp;t=2704s"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Emilio Valdeolivas</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Bodas de las hijas del Cid (Cantar de mio Cid)</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Essora todos penssaron de adobar el palaçio</l>
+                  <l> por el suelo e suso tan bien encortinado</l>
+                  <l> tanta pópola e tanto xámed e tanto paño preçiado,</l>
+                  <l> cavalgan los iffantes fuerte mientre adobados,</l>
+                  <l> de pie e a sabor, ¡Dios qué quedos entraron!,</l>
+                  <l> a mio Çid e a su mugier delant se le omillaron.</l>
+                  <l> Plega a Santa María y al Padre Santo</l>
+                  <l> ques pague des casamiento mio Çid o el que ovo algo.</l>
+                  <l> Pues que a fazer lo avemos, ¿por qué lo imos tardando?</l>
+                  <l> Venit Álbar Fáñez, el que yo quiero e amo</l>
+                  <l> affé amas mis fijas, métolas en vuestra mano.</l>
+                  <l> Afevos delant Minaya, amos sodes hermanos.</l>
+                  <l> Por mano del rey, que a mí lo ovo mandado,</l>
+                  <l> dovos estas dueñas, amas son fijas dalgo.</l>
+                  <l> El Obispo don Jerome vistiós tan privado</l>
+                  <l> dióles bendictiones, e la missa a cantado,</l>
+                  <l> ricas fueron las bodas en el alcaçer ondrado,</l>
+                  <l> al otro día fizo mio Çid siete tablados</l>
+                  <l> antes que entrassen a yantar todos los crebantaron.</l>
+                  <l> Quinze días conplidos en las bodas duraron,</l>
+                  <l> non foron en cuesnta los averes monedados,</l>
+                  <l> mantos e pelliçones e otros vestidos largos.</l>
+                  <l> Qui aver quiere prender bien era abastado.</l>
+                  <l> Todos ricos se tornan los que a las bodas llegaron,</l>
+                  <l> venidos son a Castiella aquestos ospedados,</l>
+                  <l> el Çid e sos hyernos en Valençia son rastados.</l>
+                  <l> Hy moran los ifantes bien cerca de dos años.</l>
+                  <l> Mucho eran alegres Dídago e Ferrando,</l>
+                  <l> estos foron fijos del conde don Gonçalvo,</l>
+                  <l> los amores que les fazen, mucho eran sobejanos.</l>
+                  <l> Plega a Santa María y al Padre Santo</l>
+                  <l> ques pague des casamiento mio Çid o el que lo ovo algo.</l>
+                  <l> Las coplas deste cantar aquis van acabando.</l>
+                  <l> El Criador vos vala con todos los sos santos.</l>
+               </lg>
+               <lg> </lg>
+            </lg>
+         </div>
+         <note xmlns="">Toma los vv. 2205-2207, 2211-2213, 2215, 2274-2275, 2220-,2221, 2230-2232,  2238,
+            2240, 2248 -2251, 2256-2257 (intercambiados), 2260-2262 (los dos últimos versos unidos),
+            2267-2268, 2272, 2274-2277, del cantar segundo del Cantar de mio Cid, en ese orden, con
+            modificaciones mínimas. Probablemente sigue la edición de Menéndez Pidal, dado el
+            tratamiento de -e final en varios versos, pero no podemos asegurarlo por el momento.
+            Todo el disco está dedicado al Cantar de mio Cid, del que es una adaptación. </note>
+      </body>
+   </text>
+</TEI>

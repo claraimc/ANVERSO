@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dejo las invocaciones</title>
+            <author>Amancio Prada</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Coplas a la muerte de su padre</title>
+               <publisher>Musicamaina</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=uEmiJs8te3c"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Amancio Prada</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Jorge Manrique</persName>
+                  <bibl>Coplas por la muerte de su padre</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Dejo las invocaciones</l>
+                  <l> de los famosos poetas</l>
+                  <l> y oradores;</l>
+                  <l> no curo de sus ficciones,</l>
+                  <l> que traen yerbas secretas</l>
+                  <l> sus sabores;</l>
+                  <l> aquel sólo invoco yo</l>
+                  <l> de verdad,</l>
+                  <l> que en este mundo viviendo</l>
+                  <l> el mundo no conoció</l>
+                  <l> su deidad.</l>
+               </lg>
+               <lg>
+                  <l> Este mundo es el camino</l>
+                  <l> para el otro, que es morada</l>
+                  <l> sin pesar;</l>
+                  <l> mas cumple tener buen tino</l>
+                  <l> para andar esta jornada</l>
+                  <l> sin errar.</l>
+                  <l> Partimos cuando nacemos</l>
+                  <l> andamos mientras vivimos,</l>
+                  <l> y llegamos</l>
+                  <l> al tiempo que fenecemos;</l>
+                  <l> así que cuando morimos</l>
+                  <l> descansamos.</l>
+               </lg>
+               <lg>
+                  <l> Este mundo bueno fue</l>
+                  <l> si bien usásemos dél</l>
+                  <l> como debemos,</l>
+                  <l> porque, según nuestra fe,</l>
+                  <l> es para ganar aquel</l>
+                  <l> que atendemos.</l>
+                  <l> Aun aquel Hijo de Dios,</l>
+                  <l> para subirnos al cielo,</l>
+                  <l> descendió</l>
+                  <l> a nacer acá entre nos,</l>
+                  <l> y a morir en este suelo</l>
+                  <l> do murió.</l>
+               </lg>
+               <lg>
+                  <l> Ved de cuán poco valor</l>
+                  <l> son las cosas tras que andamos</l>
+                  <l> y corremos,</l>
+                  <l> que, en este mundo traidor</l>
+                  <l> aun primero que miramos</l>
+                  <l> las perdemos:</l>
+                  <l> de ellas deshace la edad,</l>
+                  <l> de ellas casos desastrados</l>
+                  <l> que acaecen,</l>
+                  <l> de ellas, por su calidad,</l>
+                  <l> en los más altos estados</l>
+                  <l> desfallecen.</l>
+               </lg>
+               <lg>
+                  <l> Decidme: La hermosura,</l>
+                  <l> la gentil frescura y tez</l>
+                  <l> de la cara,</l>
+                  <l> la color y la blancura,</l>
+                  <l> cuando viene la vejez,</l>
+                  <l> ¿cuál se para?</l>
+                  <l> Las mañas y ligereza</l>
+                  <l> y la fuerza corporal</l>
+                  <l> de juventud,</l>
+                  <l> todo se torna graveza</l>
+                  <l> cuando llega al arrabal</l>
+                  <l> de senectud.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Todo el disco está dedicado a musicar las Coplas a la muerte de su padre de Jorge
+            Manrique. Esta canción abarca las coplas 4-8. </note>
+      </body>
+   </text>
+</TEI>

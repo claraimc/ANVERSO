@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pequeño vals vienés</title>
+            <author>Adam Cohen</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Acordes con Leonard Cohen</title>
+               <publisher>DiscMedi Blau</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=JPUdWeUgJj0"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Adam Cohen</persName>
+                  <nationality>Canadá</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Pequeño vals vienés</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>En Viena hay diez muchachas,</l>
+                  <l> un hombro donde solloza la muerte</l>
+                  <l> y un bosque de palomas disecadas.</l>
+                  <l> Hay un fragmento de la mañana</l>
+                  <l> en el museo de la escarcha.</l>
+                  <l> Hay un salón con mil ventanas.</l>
+                  <l> ¡Ay, ay, ay, ay!</l>
+                  <l> Toma este vals… este vals, este vals con la boca cerrada.</l>
+               </lg>
+               <lg>
+                  <l> Este vals, este vals, este vals, este vals</l>
+                  <l> de sí, de muerte y de coñac</l>
+                  <l> que moja su cola en el mar.</l>
+               </lg>
+               <lg>
+                  <l> Este vals…</l>
+               </lg>
+               <lg>
+                  <l> En Viena hay cuatro espejos</l>
+                  <l> donde juegan tu boca y los ecos.</l>
+                  <l> Hay una muerte para piano</l>
+                  <l> que pinta de azul a los muchachos.</l>
+                  <l> Hay mendigos por los tejados,</l>
+                  <l> frescas guirnaldas de llanto.</l>
+                  <l> ¡Ay, ay, ay, ay!</l>
+                  <l> Toma este vals… este vals, este vals que se muere en mis brazos.</l>
+               </lg>
+               <lg>
+                  <l> Este vals, este vals, este vals, este vals</l>
+                  <l> de sí, de muerte y de coñac</l>
+                  <l> que moja su cola en el mar.</l>
+               </lg>
+               <lg>
+                  <l> Este vals… este vals…</l>
+               </lg>
+               <lg>
+                  <l> [Tararea]</l>
+               </lg>
+               <lg>
+                  <l> de sí, de muerte y de coñac</l>
+                  <l> que moja su cola en el mar.</l>
+               </lg>
+               <lg>
+                  <l> Este vals, este vals, este vals, este vals.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio; a falta de fuente escrita, la
+                    puntualización y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">En 1986 Leonard Cohen musicalizó por primera vez este poema, traducido al inglés y
+            titulado “Take This Waltz”. Esta canción de Adam Cohen, su hijo, es una versión de la
+            anterior, pero en español. </note>
+      </body>
+   </text>
+</TEI>

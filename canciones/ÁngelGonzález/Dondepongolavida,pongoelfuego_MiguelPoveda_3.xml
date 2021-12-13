@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Donde pongo la vida, pongo el fuego</title>
+            <author>Miguel Poveda</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="ExtendedPlay(EP)">
+               <title>Sonetos y poemas para la libertad</title>
+               <publisher>Universal Music Spain S.L.</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=s_Hpe-XkgS4&amp;ab_channel=MiguelPoveda-Topic"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Miguel Poveda</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Ángel González</persName>
+                  <bibl>[Donde pongo la vida pongo el fuego]</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Donde pongo la vida pongo el fuego</l>
+                  <l> de mi pasión volcada y sin salida.</l>
+                  <l> Donde tengo el amor, toco la herida.</l>
+                  <l> Donde dejo la fe, me pongo en juego.</l>
+                  <l> Pongo en juego mi vida, y pierdo, y luego</l>
+                  <l> vuelvo a empezar, sin vida, otra partida.</l>
+                  <l> Perdida la de ayer, la de hoy perdida,</l>
+                  <l> no me doy por vencido, y sigo, y juego</l>
+                  <l> juego lo que me queda: un resto de esperanza.</l>
+                  <l> Al siempre va. Mantengo mi postura.</l>
+                  <l> Si sale nunca, la esperanza es muerte.</l>
+                  <l> Si sale amor, la primavera avanza.</l>
+                  <l> Pero nunca o amor, mi fe segura:</l>
+                  <l> jamás o llanto, pero mi fe fuerte.</l>
+                  <l> Donde pongo la vida pongo el fuego</l>
+                  <l> de mi pasión volcada y sin salida.</l>
+                  <l> Donde tengo el amor, toco la herida.</l>
+                  <l> Donde dejo la fe, me pongo en juego.</l>
+                  <l> Pongo en juego mi vida, y pierdo, y luego</l>
+                  <l> vuelvo a empezar, sin vida, otra partida.</l>
+                  <l> Perdida la de ayer, la de hoy perdida,</l>
+                  <l> no me doy por vencido, y sigo, y juego</l>
+                  <l> juego lo que me queda: un resto de esperanza.</l>
+                  <l> Al siempre va. Mantengo mi postura.</l>
+                  <l> Si sale nunca, la esperanza es muerte.</l>
+                  <l> Si sale amor, la primavera avanza.</l>
+                  <l> Pero nunca o amor, mi fe segura:</l>
+                  <l> jamás o llanto, pero mi fe fuerte.</l>
+                  <l> juego lo que me queda: un resto de esperanza.</l>
+                  <l> Al siempre va. Mantengo mi postura.</l>
+                  <l> Si sale nunca, la esperanza es muerte.</l>
+                  <l> Si sale amor, la primavera avanza.</l>
+                  <l> Pero nunca o amor, mi fe segura:</l>
+                  <l> jamás o llanto, pero mi fe fuerte.</l>
+                  <l> Donde pongo la vida pongo el fuego</l>
+                  <l> de mi pasión volcada y sin salida.</l>
+                  <l> Donde tengo el amor, toco la herida.</l>
+                  <l> Donde dejo la fe, me pongo en juego.</l>
+                  <l> Donde pongo la vida pongo el fuego</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns=""/>
+      </body>
+   </text>
+</TEI>

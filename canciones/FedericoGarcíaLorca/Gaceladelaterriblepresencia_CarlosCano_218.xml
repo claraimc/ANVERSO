@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gacela de la terrible presencia</title>
+            <author>Carlos Cano</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Diván del Tamarit. Gacelas y Casidas.</title>
+               <publisher>Dalur Discos</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=1JoRaowEhQY&amp;list=PLDtszg9eT1fzwhPDDvl4irXJcVoUVplcY&amp;index=19"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Carlos Cano</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Gacela de la terrible presencia</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Yo quiero que el agua se quede sin cauce.</l>
+                  <l> Yo quiero que el viento se quede sin valles.</l>
+                  <l> Quiero que la noche se quede sin ojos</l>
+                  <l> y mi corazón sin la flor del oro.</l>
+                  <l> Que los bueyes hablen con las grandes hojas</l>
+                  <l> y que la lombriz se muera de sombra.</l>
+                  <l> Que brillen los dientes de la calavera</l>
+                  <l> y los amarillos inunden la seda,</l>
+                  <l> inunden la seda.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Puedo ver el duelo de la noche herida</l>
+                  <l> luchando enroscada con el mediodía.</l>
+                  <l> Resisto un ocaso de verde veneno</l>
+                  <l> y los arcos rotos donde sufre el tiempo.</l>
+                  <l> Pero no ilumines tu limpio desnudo</l>
+                  <l> como un negro cactus abierto en los juncos.</l>
+                  <l> Déjame en un ansia de oscuros planetas,</l>
+                  <l> ¡pero no me enseñes tu cintura fresca!</l>
+                  <l> !tu cintura fresca,</l>
+                  <l> tu cintura fresca!</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización similar con repetición de versos y la modificación del verso 13 del
+            poema, donde Lorca dice «Pero no me enseñes tu limpio desnudo», Carlos Cano canta «Pero
+            no ilumines tu limpio desnudo». </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Andaluces de Jaén</title>
+            <author>Jarcha</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Andalucía vive</title>
+               <publisher>Novola</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=ENE4kGjneiw"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Jarcha</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Aceituneros</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Andaluces de Jaén,</l>
+                  <l> aceituneros altivos,</l>
+                  <l> decidme en el alma: ¿quién,</l>
+                  <l> quién levantó los olivos?</l>
+                  <l> Andaluces de Jaén.</l>
+               </lg>
+               <lg>
+                  <l> No los levantó la nada,</l>
+                  <l> ni el dinero ni el señor,</l>
+                  <l> sino la tierra callada</l>
+                  <l> el trabajo y el sudor.</l>
+               </lg>
+               <lg>
+                  <l> Unidos al agua pura</l>
+                  <l> y a los planetas unidos,</l>
+                  <l> los tres dieron la hermosura</l>
+                  <l> de los troncos retorcidos.</l>
+               </lg>
+               <lg>
+                  <l> Andaluces de Jaén,</l>
+                  <l> aceituneros altivos,</l>
+                  <l> decidme en el alma: ¿quién,</l>
+                  <l> quién levantó los olivos?</l>
+                  <l> Andaluces de Jaén.</l>
+               </lg>
+               <lg>
+                  <l> ¡Cuántos siglos de aceituna,</l>
+                  <l> los pies y las manos presos,</l>
+                  <l> sol a sol y luna a luna</l>
+                  <l> pesan sobre vuestros huesos!</l>
+               </lg>
+               <lg>
+                  <l> Jaén levántate, brava,</l>
+                  <l> sobre tus piedras lunares,</l>
+                  <l> no vayas a ser esclava</l>
+                  <l> con todos tus olivares.</l>
+                  <l> Andaluces de Jaén,</l>
+                  <l> aceituneros altivos,</l>
+                  <l> pregunta mi alma: ¿de quién,</l>
+                  <l> de quién son estos olivos? [Estrofa x 3]</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Las primeras musicalizaciones conocidas de “Aceituneros” son de Paco Ibáñez (Paco
+            Ibáñez 2, 1967), Pablo Sorozábal Serrano (Cantos de amor y lucha. Cantos de amor y paz,
+            1969) y Enrique Morente (Homenaje flamenco a Miguel Hernández, 1971, solo en la edición
+            de México; no está en la edición española). Ninguna de estas versiones está en esta base
+            de datos, por ser anteriores a 1975. Esta canción de Jarcha es una versión basada en la
+            de Paco Ibáñez; sin embargo, hay que tener en cuenta que la música de la canción de Paco
+            Ibáñez la había compuesto Ángel Corpa, quien es también componente de Jarcha. </note>
+      </body>
+   </text>
+</TEI>

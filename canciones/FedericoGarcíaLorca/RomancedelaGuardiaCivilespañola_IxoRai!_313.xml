@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romance de la Guardia Civil española</title>
+            <author>Ixo Rai!</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Pasa pues</title>
+               <publisher>DRO/EastWest Spain</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=dtaaHbzwENI"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Ixo Rai!</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Romance de la Guardia Civil española</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Los caballos negros son.</l>
+                  <l> Las herraduras son negras.</l>
+                  <l> Sobre las capas relucen</l>
+                  <l> manchas de tinta y de cera.</l>
+                  <l> Tienen, por eso no lloran,</l>
+                  <l> de plomo las calaveras.</l>
+                  <l> Con el alma de charol</l>
+                  <l> vienen por la carretera.</l>
+                  <l> Jorobados y nocturnos,</l>
+                  <l> por donde animan ordenan</l>
+                  <l> silencios de goma oscura</l>
+                  <l> y miedos de fina arena.</l>
+                  <l> Pasan, si quieren pasar,</l>
+                  <l> y ocultan en la cabeza</l>
+                  <l> una vaga astronomía</l>
+                  <l> de pistolas inconcretas.</l>
+               </lg>
+               <lg>
+                  <l> Por las calles empinadas</l>
+                  <l> suben las capas siniestras,</l>
+                  <l> dejando detrás fugaces</l>
+                  <l> remolinos de tijeras,</l>
+                  <l> en un aire donde estallan</l>
+                  <l> rosas de pólvora negra.</l>
+                  <l> Cuando todos los tejados</l>
+                  <l> eran surcos en la tierra.</l>
+               </lg>
+               <lg>
+                  <l> Avanzan de dos en fondo</l>
+                  <l> a la ciudad de la fiesta.</l>
+                  <l> Un rumor de siemprevivas</l>
+                  <l> invade las cartucheras.</l>
+                  <l> Avanzan de dos en fondo.</l>
+                  <l> Doble nocturno de tela.</l>
+                  <l> El cielo, se les antoja,</l>
+                  <l> una vitrina de espuelas.</l>
+                  <l> La ciudad libre de miedo,</l>
+                  <l> multiplicaba sus puertas.</l>
+                  <l> Cuarenta guardias civiles</l>
+                  <l> entran a saco por ellas.</l>
+                  <l> Los relojes se pararon,</l>
+                  <l> y el coñac de las botellas</l>
+                  <l> se disfrazó de noviembre</l>
+                  <l> para no infundir sospechas.</l>
+               </lg>
+               <lg>
+                  <l> Por las calles empinadas</l>
+                  <l> suben las capas siniestras,</l>
+                  <l> dejando detrás fugaces</l>
+                  <l> remolinos de tijeras,</l>
+                  <l> en un aire donde estallan</l>
+                  <l> rosas de pólvora negra.</l>
+                  <l> Cuando todos los tejados</l>
+                  <l> eran surcos en la tierra.</l>
+               </lg>
+               <lg>
+                  <l> Por las calles empinadas</l>
+                  <l> suben las capas siniestras,</l>
+                  <l> dejando detrás fugaces</l>
+                  <l> remolinos de tijeras.</l>
+                  <l> Por las calles empinadas</l>
+                  <l> suben las capas siniestras,</l>
+                  <l> dejando detrás fugaces</l>
+                  <l> remolinos de tijeras.</l>
+                  <l> Por las calles empinadas</l>
+                  <l> suben las capas siniestras,</l>
+                  <l> dejando detrás fugaces</l>
+                  <l> remolinos de tijeras.</l>
+               </lg>
+               <lg> </lg>
+            </lg>
+         </div>
+         <note xmlns="">Selecciona solo algunas partes del original. </note>
+      </body>
+   </text>
+</TEI>

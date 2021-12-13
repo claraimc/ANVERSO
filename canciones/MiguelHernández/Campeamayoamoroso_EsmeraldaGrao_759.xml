@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Campea mayo amoroso</title>
+            <author>Esmeralda Grao</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Miguel Hernández. Su pueblo y el mío</title>
+               <publisher>Loccade Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=goujvloSnVo"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Esmeralda Grao</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Romancillo de mayo</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Por fin trajo el verde mayo</l>
+                  <l> correhuelas y albahacas</l>
+                  <l> a la entrada de la aldea</l>
+                  <l> y al umbral de las ventanas.</l>
+               </lg>
+               <lg>
+                  <l> Al verlo venir se han puesto</l>
+                  <l> cintas de amor las guitarras,</l>
+                  <l> celos de amor las clavijas,</l>
+                  <l> las cuerdas lazos de rabia,</l>
+                  <l> y relinchan impacientes</l>
+                  <l> por salir de serenata.</l>
+               </lg>
+               <lg>
+                  <l> En los templados establos</l>
+                  <l> donde el amor huele a paja,</l>
+                  <l> a honrado estiércol y a leche,</l>
+                  <l> hay un estruendo de vacas</l>
+                  <l> que se enamoran a solas</l>
+                  <l> y a solas rumian y braman.</l>
+               </lg>
+               <lg>
+                  <l> Campea mayo amoroso;</l>
+                  <l> el amor ronda majadas,</l>
+                  <l> ronda establos y pastores,</l>
+                  <l> ronda puertas, ronda camas,</l>
+                  <l> ronda mozas en el baile</l>
+                  <l> y en aire ronda faldas…</l>
+               </lg>
+               <lg>
+                  <l> Los toros de las dehesas</l>
+                  <l> las oyen dentro del agua</l>
+                  <l> y hunden con ira en la arena</l>
+                  <l> sus enamoradas astas.</l>
+                  <l> Remudan los claros ciervos</l>
+                  <l> su cornamenta arbolada</l>
+                  <l> igual que un ramo de rayos</l>
+                  <l> y una visión de navajas.</l>
+               </lg>
+               <lg>
+                  <l> La cabra cambia de pelo,</l>
+                  <l> cambia la oveja de lana,</l>
+                  <l> cambia de color el lobo</l>
+                  <l> y de raíces la grama.</l>
+               </lg>
+               <lg>
+                  <l> Campea mayo amoroso;</l>
+                  <l> el amor ronda majadas,</l>
+                  <l> ronda establos y pastores,</l>
+                  <l> ronda puertas, ronda camas,</l>
+                  <l> ronda mozas en el baile</l>
+                  <l> y en aire ronda faldas…</l>
+                  <l> Ronda faltas… [Verso x 4]</l>
+               </lg>
+               <lg>
+                  <l> Son otras las intenciones</l>
+                  <l> y son otras las palabras</l>
+                  <l> en la frente y en la lengua</l>
+                  <l> de la juventud temprana.</l>
+                  <l> En la frente y en la lengua</l>
+                  <l> de la juventud temprana.</l>
+               </lg>
+               <lg>
+                  <l> Los celosos chivos pierden</l>
+                  <l> entre sus dientes sus barbas:</l>
+                  <l> se rinden a cabezazos,</l>
+                  <l> se embisten y se maltratan,</l>
+                  <l> y en medio de los ganados</l>
+                  <l> mueven, lo mismo que espadas</l>
+                  <l> rabiosas y deseosas,</l>
+                  <l> lenguas amantes y patas.</l>
+                  <l> Van los asnos suspirando</l>
+                  <l> reciamente por las asnas.</l>
+               </lg>
+               <lg>
+                  <l> Con luna y aves, las noches</l>
+                  <l> son vidrio de puro claras;</l>
+                  <l> (de puro claras)</l>
+                  <l> las tardes, de puro verdes,</l>
+                  <l> de puro azul, esmeraldas;</l>
+                  <l> plata pura, las auroras</l>
+                  <l> parecen de puro blancas</l>
+                  <l> y las mañanas son miel</l>
+                  <l> de puro y puro doradas.</l>
+               </lg>
+               <lg>
+                  <l> Campea mayo amoroso;</l>
+                  <l> el amor ronda majadas,</l>
+                  <l> ronda establos y pastores,</l>
+                  <l> ronda puertas, ronda camas,</l>
+                  <l> ronda mozas en el baile</l>
+                  <l> y en aire ronda faldas…</l>
+                  <l> Randa faldas [Verso x 4]</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Joan Manuel Serrat musicalizó por primera vez el «Romancillo de mayo» en el
+            álbum Miguel Hernández (1972), que no está incluida en esta base de datos por ser
+            anterior a 1975. Esta canción de Esmeralda Grao no es una versión de aquella de Serrat.
+        </note>
+      </body>
+   </text>
+</TEI>

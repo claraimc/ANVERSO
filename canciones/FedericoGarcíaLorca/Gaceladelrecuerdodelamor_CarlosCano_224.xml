@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gacela del recuerdo del amor</title>
+            <author>Carlos Cano</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Diván del Tamarit. Gacelas y Casidas.</title>
+               <publisher>Dalur Discos</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=dXmyhnBnE8g&amp;list=PLDtszg9eT1fzwhPDDvl4irXJcVoUVplcY&amp;index=12"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Carlos Cano</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Gacela del recuerdo de amor</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>No te lleves tu recuerdo.</l>
+                  <l> Déjalo solo en mi pecho.</l>
+                  <l> No te lleves tu recuerdo.</l>
+                  <l> Déjalo solo en mi pecho.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Temblor de blanco cerezo</l>
+                  <l> en el martirio de Enero.</l>
+                  <l> Temblor de blanco cerezo</l>
+                  <l> en el martirio de Enero.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Me separa de los muertos</l>
+                  <l> un muro de malos sueños.</l>
+                  <l> Me separa de los muertos</l>
+                  <l> un muro de malos sueños.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Doy pena de lirio fresco</l>
+                  <l> para un corazón de yeso.</l>
+                  <l> Doy pena de lirio fresco</l>
+                  <l> para un corazón de yeso.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Toda la noche</l>
+                  <l> en el huerto</l>
+                  <l> mis ojos</l>
+                  <l> como dos perros.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Toda la noche</l>
+                  <l> comiendo</l>
+                  <l> los membrillos de veneno.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Algunas veces el viento</l>
+                  <l> es un tulipán de miedo.</l>
+                  <l> Es un tulipán enfermo</l>
+                  <l> la madrugada de invierno.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Un muro de malos sueños</l>
+                  <l> me separa de los muertos.</l>
+                  <l> La niebla cubre en silencio</l>
+                  <l> el valle gris de tu cuerpo.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Por el arco del encuentro</l>
+                  <l> la cicuta está corriendo.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Pero deja tu recuerdo.</l>
+                  <l> ¡Déjalo solo en mi pecho!</l>
+                  <l> Pero deja tu recuerdo.</l>
+                  <l> ¡Déjalo solo en mi pecho!</l>
+                  <l> Pero deja tu recuerdo.</l>
+                  <l> ¡Déjalo solo en mi pecho!</l>
+                  <l> ¡Toda la noche!</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio, a falta de buena fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización similar, con repetición de estrofas, y palabras que cambian
+            significativamente algún verso: «La niebla cubre en silencio» donde en el poema de Lorca
+            encontramos «La hierba cubre en silencio». </note>
+      </body>
+   </text>
+</TEI>

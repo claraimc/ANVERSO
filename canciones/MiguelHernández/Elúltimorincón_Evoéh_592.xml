@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El último rincón</title>
+            <author>Evoéh</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Otros">
+               <title>Cadencias</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://evoeh.bandcamp.com/track/el-ltimo-rinc-n"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Evoéh</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>El último rincón</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>El último y el primero:</l>
+                  <l> rincón para el sol más grande,</l>
+                  <l> sepultura de esta vida</l>
+                  <l> donde tus ojos no caben.</l>
+               </lg>
+               <lg>
+                  <l> Carne de mi movimiento,</l>
+                  <l> huesos de ritmos mortales,</l>
+                  <l> me muero por respirar</l>
+                  <l> sobre vuestros ademanes.</l>
+               </lg>
+               <lg>
+                  <l> De tato querer te ahogas,</l>
+                  <l> como un mar entre dos mares</l>
+                  <l> De tanto querer me ahogo,</l>
+                  <l> y no me es posible ahogarme.</l>
+               </lg>
+               <lg>
+                  <l> El naranjo sabe a vida</l>
+                  <l> y el olivo a tiempo sabe</l>
+                  <l> y entre el clamor de los dos</l>
+                  <l> mi corazón se debate.</l>
+               </lg>
+               <lg>
+                  <l> Ay, el rincón de tu vientre;</l>
+                  <l> el callejón de tu carne:</l>
+                  <l> el callejón sin salida</l>
+                  <l> donde agonicé una tarde.</l>
+               </lg>
+               <lg>
+                  <l> El último y el primero:</l>
+                  <l> náufrago rincón, estanque</l>
+                  <l> de saliva detenida</l>
+                  <l> sobre su amoroso cauce.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar del poema de Miguel Hernández. El autor
+            utiliza versos  agrupados, parte de las diferentes estrofas, para componer la canción a
+            modo de estrofas de esta; por ejemplo: «…Carne de mi movimiento,/huesos de ritmos
+            mortales,/me muero por respirar/sobre vuestros ademanes…», versos que, en el caso del
+            poema, van unidos en una estrofa a «…Corazón que entre dos piedras/ansiosas de
+            machacarte,/de tanto querer te ahogas/como un mar entre dos mares…».       </note>
+      </body>
+   </text>
+</TEI>

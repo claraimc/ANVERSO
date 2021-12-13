@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Habanera</title>
+            <author>Pedro Guerra</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>La palabra en el aire</title>
+               <publisher>El Europeo Música</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=n1rERaZR1eU"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Pedro Guerra</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Ángel González</persName>
+                  <bibl>La paloma (versión libre)</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Se habla de la esperanza</l>
+                  <l> últimamente.</l>
+               </lg>
+               <lg>
+                  <l> … en donde vivo yo</l>
+               </lg>
+               <lg>
+                  <l> Alguien la vio pasar por los suburbios</l>
+                  <l> de París, allá hacia el año</l>
+                  <l> mil novecientos cuarenta</l>
+                  <l> y tantos. Poco después</l>
+                  <l> aparecieron huellas de su vuelo</l>
+                  <l> en Roma. También es cierto</l>
+                  <l> que desde las Antillas voló un día</l>
+                  <l> tan alta, que su sombra</l>
+                  <l> cubrió pueblos enteros,</l>
+                  <l> acarició los montes y los ríos,</l>
+                  <l> cruzó sobre las olas,</l>
+                  <l> saltó a otros continentes,</l>
+                  <l> parecía…</l>
+               </lg>
+               <lg>
+                  <l> … ay, que vente conmigo</l>
+                  <l> adonde vivo yo.</l>
+               </lg>
+               <lg>
+                  <l> Años más tarde,</l>
+                  <l> un profesor ilustre</l>
+                  <l> dedujo de unas plumas mancilladas,</l>
+                  <l> halladas entre sangre</l>
+                  <l> cerca de un arrozal, en el Sudeste</l>
+                  <l> asiático, que ahí</l>
+                  <l> estaba</l>
+                  <l> ella:</l>
+                  <l> en el sitio y la hora de la ira.</l>
+               </lg>
+               <lg>
+                  <l> … en donde vivo yo</l>
+               </lg>
+               <lg>
+                  <l> No en el lugar del pacto, no</l>
+                  <l> en el de la renuncia,</l>
+                  <l> jamás en el dominio</l>
+                  <l> de la conformidad,</l>
+                  <l> donde la vida se doblega, nunca.</l>
+               </lg>
+               <lg>
+                  <l> … en donde muero yo.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción musicaliza el poema original sin alteraciones textuales de ningún tipo. En
+            la práctica, lo que ocurre es que el propio Ángel González recita el poema (sin
+            cantarlo), con acompañamiento musical de Pedro Guerra, quien, además, entona a modo de
+            estribillo los versos en cursiva. </note>
+      </body>
+   </text>
+</TEI>

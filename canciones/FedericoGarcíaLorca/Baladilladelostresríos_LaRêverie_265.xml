@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Baladilla de los tres ríos</title>
+            <author>La Rêverie</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Canciones redondas. Rounded Songs</title>
+               <publisher>La Rêverie</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=8TkK4EBpVMs"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>La Rêverie</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Baladilla de los tres ríos</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>El río Guadalquivir</l>
+                  <l> va entre naranjos y olivos.</l>
+                  <l> Los dos ríos de Granada</l>
+                  <l> bajan de la nieve al trigo.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay, amor</l>
+                  <l> que se fue y no vino!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> El río Guadalquivir</l>
+                  <l> tiene las barbas granates.</l>
+                  <l> Los dos ríos de Granada</l>
+                  <l> uno llanto y otro sangre.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay, amor</l>
+                  <l> que se fue por el aire!</l>
+                  <l> ¡Ay, amor</l>
+                  <l> que se fue y no vino!</l>
+                  <l> ¡Ay, amor</l>
+                  <l> que se fue por el aire!</l>
+                  <l> ¡Ay, amor</l>
+                  <l> que se fue por el aire!</l>
+                  <l> ¡Ay, amor</l>
+                  <l> que se fue y no vino!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Para los barcos de vela,</l>
+                  <l> Sevilla tiene un camino;</l>
+                  <l> por el agua de Granada</l>
+                  <l> solo reman los suspiros.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay, amor</l>
+                  <l> que se fue y no vino!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Guadalquivir, alta torre</l>
+                  <l> y viento en los naranjales.</l>
+                  <l> Darro y Genil, torrecillas</l>
+                  <l> muertas sobre los estanques.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay, amor</l>
+                  <l> que se fue por el aire!</l>
+                  <l> ¡Ay, amor</l>
+                  <l> que se fue y no vino!</l>
+                  <l> ¡Ay, amor</l>
+                  <l> que se fue por el aire!</l>
+                  <l> ¡Ay, amor</l>
+                  <l> que se fue por el aire!</l>
+                  <l> ¡Ay, amor</l>
+                  <l> que se fue y no vino!</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización similar versionando las anteriores canciones sobre este poema, con la
+            omisión de las últimas estrofas y la repetición y mezcla del estribillo. </note>
+      </body>
+   </text>
+</TEI>

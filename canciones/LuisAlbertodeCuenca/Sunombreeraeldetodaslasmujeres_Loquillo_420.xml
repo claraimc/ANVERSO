@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Su nombre era el de todas las mujeres</title>
+            <author>Loquillo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Su nombre era el de todas las mujeres</title>
+               <publisher>Dro</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=QSi8yK2bS2Y"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Loquillo</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Luis Alberto de Cuenca</persName>
+                  <bibl>El olvido</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Era una criatura detestable</l>
+                  <l> en el plano moral, un ser abyecto,</l>
+                  <l> una abominación lovecraftiana.</l>
+                  <l> No era tampoco guapa, ni atractiva,</l>
+                  <l> ni graciosa, ni joven, ni simpática.</l>
+                  <l> Era un montón perverso de basura.</l>
+                  <l> Pero fuiste tan imbécil que por ella</l>
+                  <l> dejaste a la que amabas y vendiste</l>
+                  <l> tu alma en los bazares de la noche.</l>
+                  <l> Los bazares de la noche.</l>
+                  <l> Tu alma en los bazares de la noche.</l>
+               </lg>
+               <lg>
+                  <l> Era todo tan triste y tan absurdo.</l>
+                  <l> No vivías apenas. Te colgabas</l>
+                  <l> de la pared de la melancolía</l>
+                  <l> y veías pasar las lentas horas</l>
+                  <l> que hacia nada conducen y hacia nunca.</l>
+                  <l> Las mujeres te habían retirado</l>
+                  <l> su protección, los dioses su asistencia</l>
+                  <l> y la literatura su cobijo.</l>
+                  <l> Fueron tiempos difíciles aquellos.</l>
+                  <l> Fueron tiempos difíciles.</l>
+                  <l> Fueron tiempos difíciles aquellos.</l>
+               </lg>
+               <lg>
+                  <l> La olvidé. Por completo. Para siempre</l>
+                  <l> (o eso creía entonces). Me cruzaba</l>
+                  <l> con ella por la calle y no era ella</l>
+                  <l> quien se paraba en un escaparate</l>
+                  <l> de ropa deportiva, no era ella</l>
+                  <l> quien compraba el periódico en un quiosco</l>
+                  <l> y se perdía entre la muchedumbre.</l>
+                  <l> Como si hubiera muerto. No era ella.</l>
+                  <l> Su nombre era el de todas las mujeres.</l>
+                  <l> Todas las mujeres.</l>
+                  <l> Su nombre era el de todas las mujeres.</l>
+               </lg>
+               <lg>
+                  <l> Su nombre era el de todas las mujeres.</l>
+                  <l> Todas las mujeres.</l>
+                  <l> Su nombre era el de todas las mujeres. [Estrofa x 2]</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y en contraste con el poema original; a
+                    falta de fuente escrita, la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Loquillo construye su canción fusionando los tres poemas de Luis Alberto de Cuenca, de
+            modo que cada poema constituye una estrofa de la letra. La musicalización es similar,
+            excepto porque repite algunos versos y hay alguna alteración léxica mínima. </note>
+      </body>
+   </text>
+</TEI>

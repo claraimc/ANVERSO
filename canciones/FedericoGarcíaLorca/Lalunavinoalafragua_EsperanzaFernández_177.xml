@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La luna vino a la fragua</title>
+            <author>Esperanza Fernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Otros">
+               <title>Creo en tí. Programa de Canal Sur</title>
+               <publisher>Canal Sur</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=LZn3wznJrY4"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Esperanza Fernández</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Romance de la luna, luna</bibl>
+                  <relation>Continuación</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>La luna vino a la fragua</l>
+                  <l> con su polisón de nardos.</l>
+                  <l> El niño la mira mira.</l>
+                  <l> El niño la mira mira.</l>
+                  <l> El niño la está mirando.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Niño mira que te traigo</l>
+                  <l> un martillito de plata.</l>
+                  <l> Luna, no quiero martillo</l>
+                  <l> Luna, no quiero martillo</l>
+                  <l> dadle un duende a mi garganta.</l>
+                  <l> Luna, luna, se la dió</l>
+                  <l> bendita sea y el chiquillo</l>
+                  <l> se durmió, ea la ea.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Duende va a tu garganta</l>
+                  <l> los duendes,</l>
+                  <l> duende al corazón de gitano</l>
+                  <l> yunque, clavo y alcayata,</l>
+                  <l> muerte que vienes buscando muerte,</l>
+                  <l> deja tranquilo al hermano</l>
+                  <l> déjalo no seas ingrata</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Hoy la fragua huele a muerte</l>
+                  <l> y a tu tumba para eso vengo</l>
+                  <l> ya se que no puedo verte</l>
+                  <l> vengo a partirme la camisita</l>
+                  <l> que tengo.</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio, a falta de buena fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Hubo varias musicalizaciones anteriores a 1975, por eso no recogidas en esta base de
+            datos: Gabriela Ortega (Federico García Lorca, 1958), Pepe Albaicín, “Romance de la
+            luna, luna” (Cante gitano por Pepe Albaicín, vol. II, 1963), Paco Ibáñez (España de hoy
+            y de siempre, 1964) y Nati Mistral (La maravillosa Natu Mistral, 1972).   Sigue la
+            musicalización de El Bache de las comparsas de Cádiz de 1993. </note>
+      </body>
+   </text>
+</TEI>

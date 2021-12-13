@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elegía del niño marinero</title>
+            <author>Rosa León</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Paloma desesperada</title>
+               <publisher>ION Música</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/Bwpv0YYE6Ik?t=1725"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Rosa León</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <bibl>Elegía del niño marinero</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Marinerito delgado,</l>
+                  <l> Luis Gonzaga de la mar,</l>
+                  <l> ¡qué fresco era tu pescado,</l>
+                  <l> acabado de pescar!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay mi niño marinero,</l>
+                  <l> tan morenito y galán,</l>
+                  <l> tan guapo y tan pinturero,</l>
+                  <l> más puro y bueno que el pan!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Te fuiste, marinerito,</l>
+                  <l> en una noche lunada,</l>
+                  <l> ¡tan alegre, tan bonito,</l>
+                  <l> cantando, a la mar salada!</l>
+                  <l> ¡tan alegre, tan bonito,</l>
+                  <l> cantando, a la mar salada!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Qué humilde estaba la mar!</l>
+                  <l> ¡Él cómo la gobernaba!</l>
+                  <l> Tan dulce era su cantar,</l>
+                  <l> su cantar,</l>
+                  <l> que le aire se enajenaba,</l>
+                  <l> se enajenaba, se enajenaba.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Cinco delfines remeros</l>
+                  <l> su barca le cortejaban.</l>
+                  <l> Dos ángeles marineros,</l>
+                  <l> invisibles, la guiaban.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Tendió las redes, ¡qué pena!,</l>
+                  <l> por sobre la mar helada.</l>
+                  <l> Y pescó la luna llena,</l>
+                  <l> sola, en su red plateada.</l>
+                  <l> Y pescó la luna llena,</l>
+                  <l> sola, en su red plateada.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Qué negra quedó la mar!</l>
+                  <l> ¡La noche qué desolada!</l>
+                  <l> Derribado su cantar,</l>
+                  <l> la barca fue derribada,</l>
+                  <l> fue derribada.</l>
+                  <l> fue derribada.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Flotadora va en el viento</l>
+                  <l> la sonrisa amortajada</l>
+                  <l> de su rostro. ¡Qué lamento</l>
+                  <l> el de la noche cerrada!</l>
+                  <l> ¡Qué lamento</l>
+                  <l> el de la noche cerrada!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Qué humilde estaba la mar!</l>
+                  <l> ¡Él cómo la gobernaba!</l>
+                  <l> Tan dulce era su cantar,</l>
+                  <l> su cantar,</l>
+                  <l> que le aire se enajenaba,</l>
+                  <l> se enajenaba, se enajenaba.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original; la puntuación y
+                    ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Hubo dos musicalizaciones anteriores a 1975, por eso no recogidas en esta base de
+            datos: Mikaela (Mikaela canta poesías de Rafael Alberti, 1970) y Alfredo Arrebola
+            ‎(Cante a los poemas Marinero en tierra de Rafael Alberti, 1973). La principal
+            diferencia con el poema de Alberti radica en que solo se usan las ocho primero estrofas
+            para componer la canción, omitiendo las dos últimas. Hay una variación en el orden de
+            estas: donde podemos observar en la canción que la séptima estrofa del poema aparece en
+            segundo lugar. También se observa una repetición en algunos versos enteros como en el
+            caso de las estrofas segunda, quinta, donde se repiten los dos últimos versos de estas;
+            y en las estrofas tercera, sexta y séptima, donde solo se repiten el final de los
+            últimos versos a modo de ecos. La tercer estrofa del poema se repite cerrando la canción
+            con la variación comentada.   </note>
+      </body>
+   </text>
+</TEI>

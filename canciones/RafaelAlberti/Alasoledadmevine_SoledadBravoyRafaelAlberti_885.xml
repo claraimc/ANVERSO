@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A la soledad me vine</title>
+            <author>Soledad Bravo y Rafael Alberti</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Rafael Alberti</title>
+               <publisher>CBS</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=G0jBjjMVYZQ"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Soledad Bravo y Rafael Alberti</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <bibl>Canción 17 [A la soledad me vine]</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>A la soledad me vine</l>
+                  <l> por ver si encontraba el río,</l>
+                  <l> ¡ay!, del olvido.</l>
+                  <l> Y en la soledad no había</l>
+                  <l> más que soledad sin río.</l>
+               </lg>
+               <lg>
+                  <l> Cuando se ha visto la sangre,</l>
+                  <l> en la soledad no hay río</l>
+                  <l> del olvido.</l>
+                  <l> Lo hubiera, y nunca sería,</l>
+                  <l> ¡ay!, el del olvido.</l>
+               </lg>
+               <lg>
+                  <l> (Alberti recita sin música el poema original)</l>
+               </lg>
+               <lg>
+                  <l> Cuando se ha visto la sangre,</l>
+                  <l> en la soledad no hay río</l>
+                  <l> del olvido.</l>
+                  <l> Lo hubiera, y nunca sería,</l>
+                  <l> ¡ay!, el del olvido.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original; la puntuación y
+                    ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Tiene apenas ligeras variaciones léxicas; a mitad de la canción, el propio Alberti
+            recita sin música el poema original. </note>
+      </body>
+   </text>
+</TEI>

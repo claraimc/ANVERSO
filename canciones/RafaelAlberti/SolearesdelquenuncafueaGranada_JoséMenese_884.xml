@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Soleares del que nunca fue a Granada</title>
+            <author>José Menese</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Sencillo(single)">
+               <title>Soleares del que nunca fue a Granada</title>
+               <publisher>RCA Victor</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=zRzoF5TIJAE"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+               <term>Latina</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>José Menese</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <bibl>Balada del que nunca fue a Granada</bibl>
+                  <relation>Alusión</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Mis ojos que tanto vieron</l>
+                  <l> nunca llegaron a ti</l>
+                  <l> porque para ti murieron.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Ven a Granada. Y Granada,</l>
+                  <l> que estaba cerca, qué lejos</l>
+                  <l> se fue aquella madrugada.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Ven en el verano. Y era</l>
+                  <l> verano cuando en Granada</l>
+                  <l> murió aquella primavera.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Ya sólo la puedo ver</l>
+                  <l> como una fuente que llora</l>
+                  <l> desde aquel amanecer.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Como una torre de pena</l>
+                  <l> sobre un jardín donde el agua</l>
+                  <l> en llanto se desmelena.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Como una flor escondida</l>
+                  <l> que cuatro muros de cal</l>
+                  <l> sueña que pierde la vida.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Como fruta ensangrentada,</l>
+                  <l> fruta en el atardecer</l>
+                  <l> del que nunca fue a Granada.</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Letra obtenida de la carátula del disco Rafael Alberti, José Menese, Single:
+                    Soleares del que nunca fue a Granada, 1975. Fuente SGAE,
+                    canciondetodos.com).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Hubo dos musicalizaciones anteriores a 1975, por eso no están recogidas en esta base
+            de datos: Paco Ibáñez (Paco Ibáñez II, 1968) y Dina Rot (Yo canto a los poetas, 1971).
+            Es una canción completamente diferente, ya que se trata de un poema que apareció en la
+            primera edición de Baldas y canciones del Panraná, pero que apareció en las siguientes.
+            Comparte con el poema de Rafael Alberti, Balada del que nunca fue a Granada, el tema y
+            el enunciado del título en el último verso. </note>
+      </body>
+   </text>
+</TEI>

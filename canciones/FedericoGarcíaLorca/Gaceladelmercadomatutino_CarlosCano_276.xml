@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gacela del mercado matutino</title>
+            <author>Carlos Cano</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Diván del Tamarit. Gacelas y Casidas.</title>
+               <publisher>Dalur Discos</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=-qRG0JDJ71A"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Carlos Cano</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Gacela del mercado matutino</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Por el arco del Elvira</l>
+                  <l> quiero verte pasar</l>
+                  <l> para saber tu nombre</l>
+                  <l> y ponerme a llorar</l>
+                  <l> y ponerme a llorar.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¿Qué luna gris de las nueve</l>
+                  <l> te desangró la mejilla?</l>
+                  <l> ¿Quién recoge tu semilla</l>
+                  <l> de llamara en la nieve?</l>
+                  <l> ¿Qué alfiler de cactus breve</l>
+                  <l> asesina tu cristal?</l>
+                  <l> Asesina tu cristal.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Por el arco de Elvira</l>
+                  <l> voy a verte a pasar</l>
+                  <l> para beber tus ojos</l>
+                  <l> y ponerme a llorar</l>
+                  <l> y ponerme a llorar.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Qué voz para mi castigo</l>
+                  <l> levantas por el mercado!</l>
+                  <l> ¿Qué clavel enajenado</l>
+                  <l> en los montones de trigo!</l>
+                  <l> ¡Qué lejos estoy contigo!,</l>
+                  <l> ¡qué cerca cuando te vas!</l>
+                  <l> Qué cerca cuando te vas.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Por el arco de Elvira</l>
+                  <l> voy a verte pasar</l>
+                  <l> para sentir tus muslos</l>
+                  <l> y ponerme a llorar</l>
+                  <l> y ponerme a llorar.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización idéntica excepto porque repite el último verso de cada estrofa. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Baladilla de los tres ríos</title>
+            <author>Miguel López</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Canto a los poetas</title>
+               <publisher>DiscMedi Blau</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=TFoql_aDybE"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Flamenco</term>
+               <term>Latina</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Miguel López</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Baladilla de los tres ríos</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>El río Guadalquivir</l>
+                  <l> va entre naranjos y olivos.</l>
+                  <l> Por los ríos de Granada</l>
+                  <l> solo reman los suspiros.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> El río Guadalquivir</l>
+                  <l> va entre naranjos y olivos.</l>
+                  <l> Los dos ríos de Granada</l>
+                  <l> bajan de la nieve al trigo.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay, amor, amor, amor, amor, amor,</l>
+                  <l> amor que se fue y no vino!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> El río Guadalquivir</l>
+                  <l> tiene las barbas granates.</l>
+                  <l> Los dos ríos de Granada,</l>
+                  <l> y uno es llanto y otro es sangre.</l>
+                  <l> Y el río Guadalquivir</l>
+                  <l> tiene las barbas granates.</l>
+                  <l> Los dos ríos de Granada,</l>
+                  <l> y uno es llanto y otro es sangre.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay, amor, amor, amor, amor!</l>
+                  <l> ¡Ay, amor, que se fue por el aire!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Para los barcos de vela</l>
+                  <l> Sevilla tiene un camino;</l>
+                  <l> por las aguas de Granada</l>
+                  <l> solo reman los suspiros.</l>
+               </lg>
+               <lg>
+                  <l> Suspiros.</l>
+                  <l> Suspiros.</l>
+                  <l> Suspiros.</l>
+               </lg>
+               <lg>
+                  <l> Para los barcos de vela</l>
+                  <l> Sevilla tiene un camino;</l>
+                  <l> por las aguas de Granada</l>
+                  <l> solo reman los suspiros.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay, amor!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Guadalquivir, altas torres</l>
+                  <l> y vientos en los naranjales,</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay amor!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Darro, Genil, torrecillas</l>
+                  <l> muertas sobre los estanques.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay, amor!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Guadalquivir, altas torres</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay, amor!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> y vientos en los naranjales,</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización similar donde se mezclan, en la primera estrofa de la canción, los
+            versos 1-2 y 15-16 del poema, se omiten los versos 25-26 y 29-30,  y se sucede una
+            repetición y variación del estribillo, cortando la repetición de la última estrofa de la
+            canción. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El reto</title>
+            <author>Klanghör</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Maqueta/Demo">
+               <title>Zamora</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="low"/>
+            </bibl>
+            <bibl>
+               <link target=""/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Heavy metal</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Klanghör</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Juan de Escobar</persName>
+                  <bibl>Después que Vellido Dolfos</bibl>
+                  <relation>Alusión</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>—Me acusan de ser traidor</l>
+                  <l> y asesino en el reino.</l>
+                  <l> Muy pronto veré la condena,</l>
+                  <l> mi cuerpo muriendo—.</l>
+                  <l> Esto no es verdad</l>
+                  <l> ha sido un error</l>
+                  <l> en esta ciudad no hay traición.</l>
+                  <l> Si ha de luchar</l>
+                  <l> lo hará con valor</l>
+                  <l> él va a demostrar</l>
+                  <l> en esta lucha su interior,</l>
+                  <l> dará el corazón.</l>
+               </lg>
+               <lg>
+                  <l> —Ha sido acto bueno</l>
+                  <l> mas costumbre mala—,</l>
+                  <l> quedó en la mente zamorana.</l>
+                  <l> Está cerca el reto</l>
+                  <l> vayamos allá</l>
+                  <l> con el fuego dentro</l>
+                  <l> hacia el Campo de la Verdad</l>
+                  <l> allá está el final.</l>
+               </lg>
+               <lg>
+                  <l> Tras el duro enfrentamiento</l>
+                  <l> dos de sus hijos cayeron</l>
+                  <l> y el vencedor</l>
+                  <l> también acabó muriendo.</l>
+                  <l> Arias perdió</l>
+                  <l> la familia ante este hecho</l>
+                  <l> pero ganó</l>
+                  <l> libertad para su pueblo.</l>
+               </lg>
+               <lg>
+                  <l> Ya tiempo después la inquietud</l>
+                  <l> se sigue manteniendo</l>
+                  <l> ¿quién puede saber si este hombre</l>
+                  <l> fue héroe o rastrero?</l>
+               </lg>
+               <lg>
+                  <l> No era verdad</l>
+                  <l> eso fue un error</l>
+                  <l> nunca ha habido aquí algún traidor.</l>
+                  <l> —Yo he perdido más</l>
+                  <l> que nadie aquí</l>
+                  <l> fue por mi ciudad</l>
+                  <l> y ahora me juzgan a mi</l>
+                  <l> ¿por qué estoy aquí?— .</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns=""> Aunque no hay ninguna referencia explícita a ningún romance, puesto que la banda basa
+            otras canciones en las versiones de los romances cidianos de Juan de Escobar en Historia
+            del muy noble y valeroso cavallero, el Cid Ruy Diez de Bivar en romances en lenguaje
+            antiguo (1605), asociamos la canción con los poemas correspondientes de dicha edición.  
+            Todo el ábum trata el tema del cerco de Zamora. </note>
+      </body>
+   </text>
+</TEI>

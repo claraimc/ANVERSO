@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Liviana/Serrana</title>
+            <author>Luís Marín</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Cantata de Andalucía</title>
+               <publisher>Movieplay</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/eo5U6mrpLhA"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Luís Marín</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Nanas de la cebolla</bibl>
+                  <relation>Alusión</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>No soy canto de rico,</l>
+                  <l> que soy de pobre, que soy de pobre.</l>
+                  <l> Y expreso con mi canto,</l>
+                  <l> todos los olores.</l>
+                  <l> Ay, en la cuna del hambre,</l>
+                  <l> mi niño estaba, mi niño estaba,</l>
+                  <l> con sangre de cebolla, con sangre de cebolla</l>
+                  <l> Se amamantaba, se amamantaba.</l>
+                  <l> Frontera de los besos, será mañana,</l>
+                  <l> cuando la dentadura sienta un alma.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">En esta versión se utiliza el poema como referencia, pero no musicaliza las estrofas
+            íntegra o parcialmente. </note>
+      </body>
+   </text>
+</TEI>

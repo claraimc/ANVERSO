@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Martinetes</title>
+            <author>Manuel Gerena</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Manuel Gerena canta con Miguel Hernández</title>
+               <publisher>Alía Discos</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://music.youtube.com/watch?v=5R7ECddWTxc&amp;list=OLAK5uy_mNHbPoQJPB9mMkUfaTfXFR405rLr-UbY0"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Manuel Gerena</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>El niño Yuntero</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Cada día es</l>
+                  <l> más raíz y menos criatura,</l>
+                  <l> que escucha bajo sus pies</l>
+                  <l> la voz de la sepultura.</l>
+               </lg>
+               <lg>
+                  <l> En la tierra lentamente.</l>
+                  <l> Y como raíz se hunde</l>
+                  <l> en la tierra lentamente</l>
+                  <l> para que la tierra inunde</l>
+                  <l> de paz y panes su frente.</l>
+               </lg>
+               <lg>
+                  <l> ¿Quién salvará a este chiquillo</l>
+                  <l> menor que un grano de avena?</l>
+                  <l> ¿De dónde saldrá el martillo</l>
+                  <l> verdugo de esta cadena?</l>
+               </lg>
+               <lg>
+                  <l> Que salga del corazón</l>
+                  <l> de los hombres jornaleros,</l>
+                  <l> que antes de ser hombres son</l>
+                  <l> y han sido niños yunteros.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns=""/>
+      </body>
+   </text>
+</TEI>

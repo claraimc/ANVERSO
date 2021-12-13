@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gacela del amor desesperado</title>
+            <author>Carlos Cano</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Diván del Tamarit. Gacelas y Casidas.</title>
+               <publisher>Dalur Discos</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=1MjZQwsVrUA&amp;list=PLDtszg9eT1fzwhPDDvl4irXJcVoUVplcY&amp;index=18"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Carlos Cano</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Gacela del amor desesperado</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>La noche no quiere venir,</l>
+                  <l> la noche no quiere venir</l>
+                  <l> para que tú no vengas</l>
+                  <l> ni yo pueda ir.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Pero yo iré</l>
+                  <l> aunque un sol de alacranes me coma la sien.</l>
+                  <l> Pero tú vendrás</l>
+                  <l> con la lengua quemada por la lluvia de sal.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> El día no quiere venir,</l>
+                  <l> el día no quiere venir,</l>
+                  <l> el día no quiere venir</l>
+                  <l> para que tú no vengas</l>
+                  <l> ni yo pueda ir.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Pero yo iré</l>
+                  <l> entregando a los sapos mi mordido clavel.</l>
+                  <l> Pero tú vendrás</l>
+                  <l> por las turbias cloacas de la oscuridad.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Ni la noche ni el día quieren venir</l>
+                  <l> ni la noche ni el día quieren venir</l>
+                  <l> para que por ti muera</l>
+                  <l> y tú mueras por mí.</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización idéntica a excepción de la repetición de los versos 1, 8 y 15 del poema
+            de Federico García Lorca. </note>
+      </body>
+   </text>
+</TEI>

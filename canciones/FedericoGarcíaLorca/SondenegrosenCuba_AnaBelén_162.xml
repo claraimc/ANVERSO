@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Son de negros en Cuba</title>
+            <author>Ana Belén</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Lorquiana. Poemas de Federico García Lorca</title>
+               <publisher>Ariola y MBG España</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=PFac5YCjsd4"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Ana Belén</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Son de negros en Cuba</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Cuando llegue la luna llena iré a Santiago de Cuba,</l>
+                  <l> iré a Santiago en un coche</l>
+                  <l> de agua negra,</l>
+                  <l> iré a Santiago,</l>
+                  <l> cantarán los techos de palmera,</l>
+                  <l> iré a Santiago.</l>
+                  <l> Cuando la palma quiere ser cigüeña</l>
+                  <l> iré a Santiago</l>
+                  <l> y cuando quiere ser medusa el plátano</l>
+                  <l> iré a Santiago.</l>
+                  <l> Iré a Santiago.</l>
+                  <l> Iré a Santiago.</l>
+                  <l> Iré a Santiago</l>
+                  <l> con la rubia cabeza de Fonseca.</l>
+                  <l> Iré a Santiago.</l>
+                  <l> Y con el rosa de Romeo y Julieta</l>
+                  <l> iré a Santiago.</l>
+                  <l> Mar de papel y plata de monedas.</l>
+                  <l> Iré a Santiago.</l>
+                  <l> ¡Oh Cuba! ¡Oh ritmo de semillas secas!</l>
+                  <l> Iré a Santiago.</l>
+                  <l> ¡Oh cintura caliente y gota de madera!</l>
+                  <l> Iré a Santiago.</l>
+                  <l> Arpa de troncos vivos. Caimán. Flor de tabaco.</l>
+                  <l> Iré a Santiago.</l>
+                  <l> Siempre he dicho que yo iría a Santiago.</l>
+                  <l> Iré a Santiago.</l>
+                  <l> Iré a Santiago.</l>
+                  <l> Iré a Santiago.</l>
+                  <l> Iré a Santiago.</l>
+                  <l> Cantarán los techos de palmera,</l>
+                  <l> iré a Santiago.</l>
+                  <l> Cuando la palma quiere ser cigüeña</l>
+                  <l> iré a Santiago.</l>
+                  <l> Iré a Santiago.</l>
+                  <l> Iré a Santiago.</l>
+                  <l> Con la rubia cabeza de Fonseca.</l>
+                  <l> Iré a Santiago.</l>
+                  <l> Y con la rosa de Romeo y Julieta</l>
+                  <l> iré a Santiago.</l>
+                  <l> En un coche de agua negra.</l>
+                  <l> Iré a Santiago.</l>
+                  <l> Brisa y alcohol en las ruedas.</l>
+                  <l> Iré a Santiago.</l>
+                  <l> Mi coral en la tiniebla.</l>
+                  <l> Iré a Santiago.</l>
+                  <l> El mar ahogado en la arena.</l>
+                  <l> Iré a Santiago.</l>
+                  <l> Calor blanco, fruta muerta.</l>
+                  <l> Iré a Santiago.</l>
+                  <l> ¡Oh bovino frescor de cañavera!</l>
+                  <l> Iré a Santiago.</l>
+                  <l> Iré a Santiago.</l>
+                  <l> Iré a Santiago.</l>
+                  <l> Iré a Santiago.</l>
+                  <l> ¡Oh Cuba!</l>
+                  <l> Iré a Santiago.</l>
+                  <l> ¡Oh curva de suspiro y barro!</l>
+                  <l> Iré a Santiago.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio, a falta de buena fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">— </note>
+      </body>
+   </text>
+</TEI>

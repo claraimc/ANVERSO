@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Casi nada (Bulería)</title>
+            <author>Duquenque</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Los flamencos cantan a Miguel Hernández: Para la libertad</title>
+               <publisher>Universal y Ekiyoo</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=Y20KMgdUgks"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Duquenque</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Casi nada</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>¡Ay, tú! ¡Tú!</l>
+                  <l> ¡Casi nada! ¡Casi nada!</l>
+                  <l> ¡Ay! ¡Ay! ¡Ay!</l>
+               </lg>
+               <lg>
+                  <l> Manantial casi fuente; ¡ay!, casi río</l>
+                  <l> fuente; ya casi mar casi río apenas;</l>
+                  <l> ¡ay!, mar casi-casi océano de frío.</l>
+                  <l> Principio y Fin del agua y las arenas.</l>
+               </lg>
+               <lg>
+                  <l> Casi azul, casi cano, casi umbrío,</l>
+                  <l> casi cielo salino con antenas,</l>
+                  <l> casi diafanidad, casi vacío</l>
+                  <l> casi lleno de arpones y ballenas.</l>
+               </lg>
+               <lg>
+                  <l> ¡Ay! Participo del ave, ¡ay!, por el trino;</l>
+                  <l> por la proximidad, polvo, del lodo</l>
+                  <l> participas, desierto, del oasis,</l>
+               </lg>
+               <lg>
+                  <l> distancia, de la vena del camino:</l>
+                  <l> por la gracia de Dios —¡ved!—, casi todo.</l>
+                  <l> Gran-Todo-de-la-nada-y-de-los-casis.</l>
+               </lg>
+               <lg>
+                  <l> ¡Casi nada! ¡Casi nada!</l>
+                  <l> ¡Ay! ¡Ay! ¡Ay! ¡Ay! ¡Ay! ¡Ay! ¡Ay! ¡Ay! ¡Ay!</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Se musicaliza el soneto íntegro, con ligeras variaciones léxicas y añadiendo el título
+            a la letra de la canción, así como interjecciones propias del flamenco. Por esta razón,
+            es posible que sea una versión a partir de la canción de Laventa (Al compás del viento,
+            1978) </note>
+      </body>
+   </text>
+</TEI>

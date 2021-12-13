@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tus cartas son un vino</title>
+            <author>Soledad Jiménez</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>El canto que no cesa. Homenaje a Miguel Hernández</title>
+               <publisher>Dulcimer Songs</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/FidGVSWo7XU"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Soledad Jiménez</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>A mi gran Josefina adorada</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Tus cartas son un vino</l>
+                  <l> que me trastorna y son</l>
+                  <l> el único alimento</l>
+                  <l> para mi corazón.</l>
+               </lg>
+               <lg>
+                  <l> Desde que estoy ausente</l>
+                  <l> no sé sino soñar,</l>
+                  <l> igual que el mar tu cuerpo,</l>
+                  <l> amargo igual que el mar.</l>
+               </lg>
+               <lg>
+                  <l> Tus cartas apaciento</l>
+                  <l> metido en un rincón</l>
+                  <l> y por redil y hierba</l>
+                  <l> les doy mi corazón.</l>
+               </lg>
+               <lg>
+                  <l> Aunque bajo la tierra</l>
+                  <l> mi amante cuerpo esté,</l>
+                  <l> escríbeme, paloma,</l>
+                  <l> que yo te escribiré.</l>
+               </lg>
+               <lg>
+                  <l> Tus cartas son un vino</l>
+                  <l> que me trastorna y son</l>
+                  <l> el único alimento</l>
+                  <l> para mi corazón.</l>
+               </lg>
+               <lg>
+                  <l> Aunque bajo la tierra</l>
+                  <l> mi amante cuerpo esté,</l>
+                  <l> escríbeme, paloma,</l>
+                  <l> que yo te escribiré.</l>
+               </lg>
+               <lg>
+                  <l> Cuando me falte sangre</l>
+                  <l> con zumo de clavel,</l>
+                  <l> y encima de mis huesos</l>
+                  <l> de amor cuando papel.</l>
+               </lg>
+               <lg>
+                  <l> Tus cartas son un vino</l>
+                  <l> que me trastorna y son</l>
+                  <l> el único alimento</l>
+                  <l> para mi corazón.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar del poema de Miguel Hernández. Este
+            tema toma su letra de la versión creada por Joan Manuel Serrat. </note>
+      </body>
+   </text>
+</TEI>

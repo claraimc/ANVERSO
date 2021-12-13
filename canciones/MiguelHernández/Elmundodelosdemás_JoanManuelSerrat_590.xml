@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El mundo de los demás</title>
+            <author>Joan Manuel Serrat</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Hijo de la luz y de la sombra (Miguel Hernández)</title>
+               <publisher>Sony Music</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/YRg9baBmkwE"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Joan Manuel Serrat</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[El mundo es como aparece]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>El mundo es como aparece</l>
+                  <l> ante mis cinco sentidos,</l>
+                  <l> y ante los tuyos que son</l>
+                  <l> las orillas de los míos.</l>
+               </lg>
+               <lg>
+                  <l> El mundo de los demás</l>
+                  <l> no es el nuestro: no es el mismo.</l>
+                  <l> Lecho del agua que soy,</l>
+                  <l> tú, los dos, somos el río</l>
+                  <l> donde cuanto más profundo</l>
+                  <l> se ve más despacio y límpido.</l>
+               </lg>
+               <lg>
+                  <l> Imágenes de la vida:</l>
+                  <l> a la vez las recibimos,</l>
+                  <l> nos reciben, entregados</l>
+                  <l> más unidamente a un ritmo.</l>
+                  <l> Pero las cosas se forman</l>
+                  <l> con nuestros propios delirios.</l>
+               </lg>
+               <lg>
+                  <l> Ciegos para los demás,</l>
+                  <l> oscuros, siempre remisos,</l>
+                  <l> miramos siempre hacia adentro,</l>
+                  <l> vemos desde lo más íntimo.</l>
+               </lg>
+               <lg>
+                  <l> El mundo de los demás</l>
+                  <l> no es el nuestro: no es el mismo.</l>
+               </lg>
+               <lg>
+                  <l> Trabajo y amor me cuesta</l>
+                  <l> conmigo así, ver contigo:</l>
+                  <l> aparecer, como el agua</l>
+                  <l> con la arena, siempre unidos.</l>
+                  <l> Nadie me verá del todo.</l>
+                  <l> Ni es nadie como lo miro.</l>
+               </lg>
+               <lg>
+                  <l> Somos algo más que vemos,</l>
+                  <l> algo menos que inquirimos.</l>
+                  <l> Algún suceso de todos</l>
+                  <l> pasa desapercibido.</l>
+                  <l> Nadie nos ha visto. A nadie</l>
+                  <l> ciegos de ver, hemos visto.</l>
+               </lg>
+               <lg>
+                  <l> El mundo de los demás</l>
+                  <l> no es el nuestro: no es el mismo.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+               <lg> </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar del poema de Miguel Hernández. El autor
+            utiliza el poema casi en su totalidad, aunque omite algunos versos: «…El aire tiene el
+            tamaño/del corazón que respiro/y el sol es como la luz/con que yo le desafío…». Además,
+            utiliza los versos «…El mundo de los demás/no es el nuestro: no es el mismo…» a modo de
+            estribillo en la canción. </note>
+      </body>
+   </text>
+</TEI>

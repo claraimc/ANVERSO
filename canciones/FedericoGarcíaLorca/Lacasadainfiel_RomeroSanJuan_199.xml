@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La casada infiel</title>
+            <author>Romero San Juan</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Andalucina</title>
+               <publisher>RCA</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=kyxUW9FqLd8&amp;list=OLAK5uy_lr0vVrq2Ji42zLSs7ObOV1joWo9UgRnzw"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Flamenco</term>
+               <term>Latina</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Romero San Juan</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>La casada infiel</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Y que yo me la llevé al río</l>
+                  <l> creyendo que era mozuela,</l>
+                  <l> pero tenía marido.</l>
+                  <l> Fue la noche de Santiago</l>
+                  <l> y casi por compromiso.</l>
+                  <l> Se apagaron los faroles</l>
+                  <l> y se encendieron los grillos.</l>
+                  <l> En las últimas esquinas</l>
+                  <l> toqué sus pechos dormidos,</l>
+                  <l> Que  yo me la llevé al río</l>
+                  <l> creyendo que era mozuela.</l>
+                  <l> Y  yo me la llevé del río</l>
+                  <l> sucia de besos y arena.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Pasadas las zarzamoras,</l>
+                  <l> los juncos y los espinos,</l>
+                  <l> bajo su mata de pelo</l>
+                  <l> hice un hoyo sobre el limo.</l>
+                  <l> Yo me quite la corbata.</l>
+                  <l> Ella se quitó el vestido.</l>
+                  <l> Yo el cinturón con revólver.</l>
+                  <l> Ella sus cuatro corpiños.</l>
+                  <l> Que yo me la llevé al río</l>
+                  <l> creyendo que era mozuela.</l>
+                  <l> Y yo me la llevé del río</l>
+                  <l> sucia de besos y arena.</l>
+                  <l> Que yo me la llevé al río</l>
+                  <l> creyendo que era mozuela.</l>
+                  <l> Y yo me la llevé del río</l>
+                  <l> sucia de besos y arena.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Sus muslos se me escapaban</l>
+                  <l> como peces sorprendidos,</l>
+                  <l> la mitad llenos de lumbre,</l>
+                  <l> la mitad llenos de frío.</l>
+                  <l> Aquella noche corrí</l>
+                  <l> el mejor de los caminos,</l>
+                  <l> montado en potra de nácar</l>
+                  <l> sin bridas y sin estribos.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Que yo me la llevé al río</l>
+                  <l> creyendo que era mozuela.</l>
+                  <l> Y yo me la llevé del río</l>
+                  <l> sucia de besos y arena.</l>
+                  <l> Que yo me la llevé al río</l>
+                  <l> creyendo que era mozuela.</l>
+                  <l> Y yo me la llevé del río</l>
+                  <l> sucia de besos y arena.</l>
+                  <l> Que yo me la llevé al río</l>
+                  <l> creyendo que era mozuela.</l>
+                  <l> Y yo me la llevé del río</l>
+                  <l> sucia de besos y arena.</l>
+                  <l> Que yo me la llevé al río</l>
+                  <l> creyendo que era mozuela.</l>
+                  <l> Y yo me la llevé del río</l>
+                  <l> sucia de besos y arena.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Hubo dos musicalizaciones anteriores a 1975, por eso no recogidas en esta base de
+            datos: Pepe Albaicín (Sin título, 1964) y Pepe de Córdoba (Canta a Federico García
+            Lorca, 1972). Las principales variaciones con el poema de Lorca radican en la omisión de
+            versos (vv. 10-19, 28-31, 40-43, 46-55) y la creación de un estribillo mediante la
+            conjunción de cuatro versos tomados de diferentes lugares del poema (vv. 1, 2, 45 y 44).
+        </note>
+      </body>
+   </text>
+</TEI>

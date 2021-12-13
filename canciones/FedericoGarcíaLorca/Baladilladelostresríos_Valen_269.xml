@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Baladilla de los tres ríos</title>
+            <author>Valen</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Valen canta a poetas andaluces</title>
+               <publisher>Edicast</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=MX4k846Qh0w"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+               <term>Flamenco</term>
+               <term>Latina</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Valen</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <bibl>Baladilla de los tres ríos</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>El río Guadalquivir</l>
+                  <l> va entre naranjos y olivos.</l>
+                  <l> Los dos ríos de Granada</l>
+                  <l> bajan de la nieve al trigo.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay, amor, ay, amor, ay, amor, que se fue y no vino!</l>
+                  <l> ¡Ay, amor, ay, amor, ay, amor, que se fue y no vino!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> El río Guadalquivir</l>
+                  <l> tiene las barbas granates.</l>
+                  <l> Los dos ríos de Granada,</l>
+                  <l> uno llanto y otro sangre.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay, amor, ay, amor, ay, amor, que se fue por el aire!</l>
+                  <l> ¡Ay, amor, ay, amor, ay, amor, que se fue por el aire!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Para los barcos de vela</l>
+                  <l> Sevilla tiene un camino;</l>
+                  <l> por el agua de Granada</l>
+                  <l> solo reman los suspiros.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay, amor, ay, amor, ay, amor, que se fue y no vino!</l>
+                  <l> ¡Ay, amor, ay, amor, ay, amor, que se fue y no vino!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> Guadalquivir, altas torres</l>
+                  <l> y vientos en los naranjales,</l>
+                  <l> Darro, Genil, torrecillas</l>
+                  <l> muertas sobre los estanques.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay, amor, ay, amor, ay, amor, que se fue por el aire!</l>
+                  <l> ¡Ay, amor, ay, amor, ay, amor, que se fue por el aire!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Quien dirá que el agua lleva</l>
+                  <l> un fuego fatuo de gritos!</l>
+                  <l> Lleva azahar y olivas</l>
+                  <l> Andalucía a tus mares.</l>
+               </lg>
+               <lg>
+                  <l> ¡Ay, amor, ay, amor, ay, amor, que se fue por el aire!</l>
+                  <l> ¡Ay, amor, ay, amor, ay, amor, que se fue por el aire!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Quien dirá que el agua lleva</l>
+                  <l> un fuego fatuo de gritos!</l>
+                  <l> Lleva azahar y olivas</l>
+                  <l> Andalucía a tus mares.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> ¡Ay, amor, ay, amor, ay, amor, que se fue por el aire!</l>
+                  <l> ¡Ay, amor, ay, amor, ay, amor, que se fue por el aire!</l>
+                  <l> ¡Ay, amor, ay, amor, ay, amor, que se fue por el aire!</l>
+                  <l> ¡Ay, amor, ay, amor, ay, amor, que se fue por el aire!</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio a falta de fuente escrita; la
+                    puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización idéntica con la repetición de las últimas cuatro estrofas y la
+            repetición dos veces más de «¡Ay, amor!» en cada estribillo. </note>
+      </body>
+   </text>
+</TEI>

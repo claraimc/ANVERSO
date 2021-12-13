@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El último rey</title>
+            <author>Dark Moor</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Ars musica</title>
+               <publisher>Scarlet Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=HZWuLvwchds"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Heavy metal</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Dark Moor</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Romance del rey Chico «El año de cuatrocientos»</bibl>
+                  <relation>Alusión</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Por el Albaicín,</l>
+                  <l> mis recuerdos van,</l>
+                  <l> de uno a otro confín,</l>
+                  <l> crecen.</l>
+               </lg>
+               <lg>
+                  <l> En tu gran jardin,</l>
+                  <l> reina el arrayán</l>
+                  <l> que brisas sin fin</l>
+                  <l> mecen.</l>
+               </lg>
+               <lg>
+                  <l> Flor nazarí,</l>
+                  <l> yo te perdí</l>
+                  <l> y ahora me siento aún más andalusí.</l>
+                  <l> Sueño La Alhambra</l>
+                  <l> donde yo nací…</l>
+               </lg>
+               <lg>
+                  <l> Miré hacia atrás,</l>
+                  <l> lloré por ti, Granada.</l>
+                  <l> Nunca jamás,</l>
+                  <l> quise rendir mi amada.</l>
+                  <l> Todo mi ser</l>
+                  <l> quedó en tu sol, Granada,</l>
+                  <l> al perder, llorando como mujer.</l>
+               </lg>
+               <lg>
+                  <l> Perla occidental,</l>
+                  <l> mi gran capital</l>
+                  <l> fuiste para mí</l>
+                  <l> y te perdí….</l>
+                  <l> Como una mujer,</l>
+                  <l> lloro tu nombre</l>
+                  <l> y aunque me asombre,</l>
+                  <l> no supe vencer</l>
+                  <l> como un hombre.</l>
+               </lg>
+               <lg>
+                  <l> Flor nazarí,</l>
+                  <l> yo te perdí</l>
+                  <l> y ahora me síento aún más andalusí.</l>
+                  <l> Sueño La Alhambra</l>
+                  <l> donde yo nací…</l>
+               </lg>
+               <lg>
+                  <l> Miré hacia atrás,</l>
+                  <l> lloré por ti, Granada.</l>
+                  <l> Nunca jamás,</l>
+                  <l> quise rendir mi amada.</l>
+                  <l> Todo mi ser</l>
+                  <l> quedó en tu sol, Granada,</l>
+                  <l> al perder, llorando como mujer.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La alusión a las lágrimas de Boabdil es tópica y no es necesario que se remonte al
+            romance. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Umbrío por la pena</title>
+            <author>José Miguel Arranz</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Miguel Hernández, sublime</title>
+               <publisher>--</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=D1e-IgQUKEQ"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>José Miguel Arranz</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Umbrío por la pena]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Umbrío por la pena, casi bruno,</l>
+                  <l> porque la pena tizna cuando estalla,</l>
+                  <l> donde yo no me hallo no se halla</l>
+                  <l> hombre más apenado que ninguno.</l>
+               </lg>
+               <lg>
+                  <l> Pena con pena y pena desayuno,</l>
+                  <l> pena es mi paz y pena mi batalla,</l>
+                  <l> perro que ni me deja ni se calla,</l>
+                  <l> siempre a su dueño fiel, pero importuno.</l>
+               </lg>
+               <lg>
+                  <l> Cardos, penas me oponen su corona,</l>
+                  <l> cardos, penas me azuzan sus leopardos</l>
+                  <l> y no me dejan bueno hueso alguno.</l>
+               </lg>
+               <lg>
+                  <l> No podrá con la pena mi persona</l>
+                  <l> circundada de penas y de cardos:</l>
+                  <l> ¡cuánto penar para morirse uno! [Verso x 2]</l>
+               </lg>
+               <lg>
+                  <l> Umbrío por la pena, casi bruno,</l>
+                  <l> porque la pena tizna cuando estalla,</l>
+                  <l> donde yo no me hallo no se halla</l>
+                  <l> hombre más apenado que ninguno.</l>
+               </lg>
+               <lg>
+                  <l> Pena con pena y pena desayuno,</l>
+                  <l> pena es mi paz y pena mi batalla,</l>
+                  <l> perro que ni me deja ni se calla,</l>
+                  <l> siempre a su dueño fiel, pero importuno.</l>
+               </lg>
+               <lg>
+                  <l> Cardos, penas me oponen su corona,</l>
+                  <l> cardos, penas me azuzan sus leopardos</l>
+                  <l> y no me dejan bueno hueso alguno.</l>
+               </lg>
+               <lg>
+                  <l> No podrá con la pena mi persona</l>
+                  <l> circundada de penas y de cardos:</l>
+                  <l> ¡cuánto penar para morirse uno! [Verso x 2]</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Este soneto fue musicado por primera vez por Joan Manuel Serrat (Miguel Hernández,
+            1972); sin embargo, al ser anterior a 1975, esta canción no está recogida en esta base
+            de datos. En la versión de José Miguel Arranz, se usan las variantes léxicas de la letra
+            de Serrat que no estaban en el «Umbrío por la pena» de Miguel Hernández. Por ejemplo, el
+            quinto verso hernandiano, «Sobre la pena duermo solo y uno», es cambiado por «Pena con
+            pena y pena desayuno». </note>
+      </body>
+   </text>
+</TEI>

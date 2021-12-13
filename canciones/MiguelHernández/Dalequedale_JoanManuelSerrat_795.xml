@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dale que dale</title>
+            <author>Joan Manuel Serrat</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Hijo de la luz y de la sombra (Miguel Hernández)</title>
+               <publisher>Sony Music</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=tkByAuwB33o"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Joan Manuel Serrat</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>El silbo del dale</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>(Dale.</l>
+                  <l> Dale que dale, que dale, que dale.</l>
+                  <l> Dale.</l>
+                  <l> Dale que dale, que dale, que dale.</l>
+                  <l> Dale.)</l>
+               </lg>
+               <lg>
+                  <l> Dale al aspa, molino,</l>
+                  <l> hasta nevar el trigo.</l>
+               </lg>
+               <lg>
+                  <l> Dale que dale, dale que dale.</l>
+                  <l> Dale que dale.</l>
+               </lg>
+               <lg>
+                  <l> Dale a la piedra, agua</l>
+                  <l> (dale),</l>
+                  <l> hasta ponerla mansa.</l>
+               </lg>
+               <lg>
+                  <l> Dale que dale, dale que dale.</l>
+                  <l> Dale que dale.</l>
+               </lg>
+               <lg>
+                  <l> Dale al molino, aire</l>
+                  <l> (dale)</l>
+                  <l> hasta lo inacabable.</l>
+               </lg>
+               <lg>
+                  <l> Dale que dale, dale que dale.</l>
+                  <l> Dale que dale.</l>
+               </lg>
+               <lg>
+                  <l> Dale al aire, cabrero,</l>
+                  <l> (dale, que dale)</l>
+                  <l> hasta que silbe tierno.</l>
+               </lg>
+               <lg>
+                  <l> Dale que dale, dale que dale.</l>
+                  <l> Dale que dale.</l>
+               </lg>
+               <lg>
+                  <l> Dale al cabrero, monte</l>
+                  <l> (dale que dale)</l>
+                  <l> hasta dejarle inmóvil</l>
+                  <l> (dale).</l>
+               </lg>
+               <lg>
+                  <l> Dale que dale, dale que dale.</l>
+                  <l> Dale que dale.</l>
+               </lg>
+               <lg>
+                  <l> Dale al monte, lucero</l>
+                  <l> (dale que dale)</l>
+                  <l> hasta que se haga cielo</l>
+                  <l> (dale).</l>
+               </lg>
+               <lg>
+                  <l> Dale que dale, dale que dale.</l>
+                  <l> Dale que dale.</l>
+               </lg>
+               <lg>
+                  <l> Dale, Dios, a mi alma</l>
+                  <l> (dale que dale)</l>
+                  <l> hasta perfeccionarla</l>
+                  <l> (dale que dale).</l>
+               </lg>
+               <lg>
+                  <l> Dale que dale, dale que dale.</l>
+                  <l> Dale que dale.</l>
+               </lg>
+               <lg>
+                  <l> Molino, piedra, aire,</l>
+                  <l> cabrero, monte, astro.</l>
+                  <l> [Se repite dale intercalado a lo largo de la estrofa]</l>
+               </lg>
+               <lg>
+                  <l> Dale que dale, dale que dale.</l>
+                  <l> Dale que dale, largo.</l>
+               </lg>
+               <lg>
+                  <l> Dale que dale, dale que dale.</l>
+                  <l> Dale que dale, Dios.</l>
+                  <l> Dale que dale, dale que dale.</l>
+                  <l> Dale que dale, hasta la perfección.</l>
+                  <l> [Se repite dale intercalado a lo largo de la estrofa]</l>
+               </lg>
+               <lg>
+                  <l> Dale que dale [se repite hasta terminar]</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Aunque Serrat respeta el texto bastante, lo usa con mucha libertad, repitiendo
+            ampliamente dale y dale que dale a modo de estribillo y mediante un coro. En concreto,
+            logra un efecto ascendente, haciendo que la repetición sea cada vez más marcada. Esto
+            explica el cambio de título: «Dale que dale». </note>
+      </body>
+   </text>
+</TEI>

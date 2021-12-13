@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Princesa</title>
+            <author>Joaquín Sabina</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Juez y parte</title>
+               <publisher>BMG Ariola</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=_AEK1fCJYUQ"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+               <term>Pop</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Joaquín Sabina</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Rubén Darío</persName>
+                  <bibl>Sonatina</bibl>
+                  <relation>Intertextualidad</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Entre la cirrosis</l>
+                  <l> y la sobredosis</l>
+                  <l> andas siempre, muñeca,</l>
+                  <l> con tu sucia camisa</l>
+                  <l> y, en lugar de sonrisa,</l>
+                  <l> una especie de mueca.</l>
+               </lg>
+               <lg>
+                  <l> Cómo no imaginarte,</l>
+                  <l> cómo no recordarte,</l>
+                  <l> hace apenas dos años,</l>
+                  <l> cuando eras la princesa</l>
+                  <l> de la boca de fresa,</l>
+                  <l> cuando tenías aún esa</l>
+                  <l> forma de hacerme daño</l>
+               </lg>
+               <lg>
+                  <l> Ahora es demasiado tarde, princesa;</l>
+                  <l> búscate otro perro que te ladre, princesa.</l>
+               </lg>
+               <lg>
+                  <l> Maldito sea el gurú</l>
+                  <l> que levantó entre tú</l>
+                  <l> y yo un silencio oscuro,</l>
+                  <l> del que ya sólo sales</l>
+                  <l> para decirme: “vale,</l>
+                  <l> déjame veinte duros”.</l>
+               </lg>
+               <lg>
+                  <l> Ya no te tengo miedo,</l>
+                  <l> nena, pero no puedo</l>
+                  <l> seguirte en tu viaje,</l>
+                  <l> cúantas veces hubiera</l>
+                  <l> dado la vida entera</l>
+                  <l> porque tú me pidieras</l>
+                  <l> llevarte el equipaje.</l>
+               </lg>
+               <lg>
+                  <l> Ahora es demasiado tarde, princesa;</l>
+                  <l> búscate otro perro que te ladre, princesa.</l>
+               </lg>
+               <lg>
+                  <l> Tú que sembraste en todas</l>
+                  <l> las islas de la moda</l>
+                  <l> las flores de tu gracia,</l>
+                  <l> ¿cómo no ibas a verte</l>
+                  <l> envuelta en una muerte</l>
+                  <l> con asalto a farmacia?</l>
+               </lg>
+               <lg>
+                  <l> ¿Con qué ley condenarte</l>
+                  <l> si somos juez y parte</l>
+                  <l> todos de tus andanzas?</l>
+                  <l> Sigue con tus movidas,</l>
+                  <l> reina, pero no pidas</l>
+                  <l> que me pase la vida</l>
+                  <l> pagándote fianzas.</l>
+               </lg>
+               <lg>
+                  <l> Ahora es demasiado tarde, princesa;</l>
+                  <l> búscate otro perro que te ladre, princesa.</l>
+                  <l> [Estrofa x 4]</l>
+               </lg>
+               <lg>
+                  <l> [Letra tomada de Joaquín Sabina, Con buena letra (Madrid: Temas de Hoy, 2002),
+                    p. 70]</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Sabina relaciona intertextualmente la historia de su princesa, atormentada por las
+            drogas en los años 80 de Madrid, con la triste princesa de la «Sonatina» de Rubén Darío.
+            Darío, al comienzo del poema, dice de su princesa que: «Los suspiros se escapan de su
+            boca de fresa». Para Sabina, la mujer protagonista de su canción, antes de arruinarse la
+            vida con la heroína, era: «la princesa / de la boca de fresa». </note>
+      </body>
+   </text>
+</TEI>

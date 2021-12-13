@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rosa de almendra</title>
+            <author>Fraskito</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="Otros">
+               <title>Tierra y sangre (Un homenaje Miguel Hernández)</title>
+               <publisher>Frasko Records</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/040PdQNaq2k"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Fraskito</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>Rosa de almendra</bibl>
+                  <relation>Alusión</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Propósito de espuma y de ángel eres,</l>
+                  <l> víctima de tu propio terciopelo,</l>
+                  <l> que, sin temor a la impiedad del hielo,</l>
+                  <l> de blanco naces y de verde mueres. (coros)</l>
+               </lg>
+               <lg>
+                  <l> Propósito de espuma y de ángel eres,</l>
+                  <l> víctima de tu propio terciopelo.</l>
+               </lg>
+               <lg>
+                  <l> Ay… pintada y no vacía.</l>
+               </lg>
+               <lg>
+                  <l> Pintada esta mi casa del color de las grandes</l>
+                  <l> pasiones y desgracias, del color de las grandes</l>
+                  <l> pasiones y desgracias.</l>
+               </lg>
+               <lg>
+                  <l> Regresaras del llanto a donde fue llevada,</l>
+                  <l> con su desierta mesa con su ruinosa cama.</l>
+               </lg>
+               <lg>
+                  <l> Florecerán los versos sobre la almohada, corazón en</l>
+                  <l> una copa, donde me lo bebo todo y no se lo bebe</l>
+                  <l> nadie, nadie sabe su sabor.</l>
+               </lg>
+               <lg>
+                  <l> Odio vida cuanto odio solo solo por amor.</l>
+               </lg>
+               <lg>
+                  <l> Que yo no se lo que me pasa si te quiero o no te</l>
+                  <l> quiero si tu casa no es tu casa si hiela un querer o se</l>
+                  <l> abraza si me matas o me muero.</l>
+               </lg>
+               <lg>
+                  <l> Las olas del mas salino las penas de mis pesares una</l>
+                  <l> se fue y otra, vino.</l>
+               </lg>
+               <lg>
+                  <l> Propósito de espuma y de ángel eres,</l>
+                  <l> víctima de tu propio terciopelo,</l>
+                  <l> que, sin temor a la impiedad del hielo,</l>
+                  <l> de blanco naces y de verde mueres. (coros)</l>
+               </lg>
+               <lg>
+                  <l> Propósito de espuma y de ángel eres,</l>
+                  <l> víctima de tu propio terciopelo.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del audio y el poema original de Miguel
+                    Hernández; la puntuación y ortografía son estimadas)</l>
+               </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg> </lg>
+               <lg> </lg>
+            </lg>
+         </div>
+         <note xmlns="">Aunque la canción tiene título idéntico al poema, esta sólo utiliza la primera estrofa
+            del mismo como coros en la melodía. El intérprete también utiliza la mitad de la primera
+            estrofa del poema para iniciar y terminar la canción. </note>
+      </body>
+   </text>
+</TEI>

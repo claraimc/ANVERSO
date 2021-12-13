@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Con dos años</title>
+            <author>Jarcha</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Jarcha a Miguel Hernández. El rayo que no cesa</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://open.spotify.com/album/0Paql3xZvAdI6FTdwWN1Qm#login"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Folk, country y otras músicas tradicionales del mundo</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Jarcha</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Con dos años, dos flores]</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Con dos años, dos flores</l>
+                  <l> cumples ahora.</l>
+                  <l> Dos alondras llenando</l>
+                  <l> toda tu aurora.</l>
+                  <l> Niño radiante:</l>
+                  <l> va mi sangre contigo</l>
+                  <l> siempre adelante.</l>
+               </lg>
+               <lg>
+                  <l> Sangre mía, adelante,</l>
+                  <l> no retrocedas.</l>
+                  <l> La luz rueda en el mundo,</l>
+                  <l> mientras tú ruedas.</l>
+                  <l> Todo te mueve,</l>
+                  <l> universo de un cuerpo</l>
+                  <l> dorado y leve.</l>
+               </lg>
+               <lg>
+                  <l> Herramienta es tu risa,</l>
+                  <l> luz que proclama</l>
+                  <l> la victoria del trigo</l>
+                  <l> sobre la grama.</l>
+               </lg>
+               <lg>
+                  <l> Ríe. Contigo</l>
+                  <l> venceré siempre al tiempo</l>
+                  <l> que es mi enemigo.</l>
+               </lg>
+               <lg>
+                  <l> Con dos años, dos flores</l>
+                  <l> cumples ahora.</l>
+                  <l> Dos alondras llenando</l>
+                  <l> toda tu aurora.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización similar al poema de Miguel Hernández. El único
+            cambio que se produce es que se repiten los cuatro primeros versos de la primera estrofa
+            para concluir la canción. </note>
+      </body>
+   </text>
+</TEI>

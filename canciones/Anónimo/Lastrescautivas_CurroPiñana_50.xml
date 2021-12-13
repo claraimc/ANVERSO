@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Las tres cautivas</title>
+            <author>Curro Piñana</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>El alma lastimada y otros poemas</title>
+               <publisher>Karonte</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=dRug_9hCYJA"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Flamenco</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Curro Piñana</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Romance de las tres cautivas «Campito del moro»</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Cautivaron a tres niñas</l>
+                  <l> a la verde oliva</l>
+                  <l> y al pie de la reina mora.</l>
+                  <l> Llevan a las tres cautivas.</l>
+                  <l> Que la laven, que la vistan.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">La canción es por taranto y reduce el romance a su mínima expresión, a pesar de lo
+            cual es reconocible. La relacionamos con una versión del romance similar pero no
+            idéntica, ya que se trata de un romance con muchas variaciones en la tradición oral.  
+            La unidad conceptual del álbum viene dada por la obra de Ibn Gabirol, poeta
+            hispanohebreo. Este romance encaja en este concepto en cuanto que pertenece a la
+            tradición sefardí. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Levaysme, amor, d'aquesta terra</title>
+            <author>Amancio Prada</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Del amor que quita el sueño (Romances y canciones desde el Reino de León)</title>
+               <publisher>Musicamaina</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=7FycIp-XsSk"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Amancio Prada</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <bibl>Levaysme, amor, d’aquesta terra</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Levaysme amor d’aquesta terra</l>
+                  <l> que non faré màs vida en ella.</l>
+                  <l> Levaysme amor al ysla perdida,</l>
+                  <l> levaysme con vos pos soys minya vida,</l>
+                  <l> qu’el corpo sin alma non vive en la terra.</l>
+                  <l> Que non faré mai vida en ella.</l>
+               </lg>
+               <lg>
+                  <l> Levaysme amor al ysla perdida,</l>
+                  <l> levaysme con vos pos soys minya vida,</l>
+                  <l> levaysme amor d’aquesta terra,</l>
+                  <l> que non faré màs vida en ella.</l>
+                  <l> Levaysme con vos…</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Musicalización conservadora, que únicamente juega con la repetición.   Como señala el
+            subtítulo del álbum, todo él está dedicado a piezas de la lírica castellana medieval y
+            temprano-moderna. </note>
+      </body>
+   </text>
+</TEI>

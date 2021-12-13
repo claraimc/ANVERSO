@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>No volveré a ser joven</title>
+            <author>Loquillo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>La vida por delante</title>
+               <publisher>Hispavox</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://www.youtube.com/watch?v=owl6UgqvefQ"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Rock</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Loquillo</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Jaime Gil de Biedma</persName>
+                  <bibl>No volveré a ser joven</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Que la vida iba en serio</l>
+                  <l> uno lo empieza a comprender más tarde:</l>
+                  <l> como todos los jóvenes, yo vine</l>
+                  <l> a llevarme la vida por delante.</l>
+                  <l> Como todos los jóvenes, yo vine</l>
+                  <l> a llevarme la vida por delante.</l>
+               </lg>
+               <lg>
+                  <l> Dejar huella quería</l>
+                  <l> y marcharme entre aplausos:</l>
+                  <l> envejecer, morir, eran tan sólo</l>
+                  <l> las dimensiones del teatro.</l>
+                  <l> Envejecer, morir, eran tan sólo</l>
+                  <l> las dimensiones del teatro.</l>
+               </lg>
+               <lg>
+                  <l> Pero ha pasado el tiempo</l>
+                  <l> y la verdad desagradable asoma:</l>
+                  <l> envejecer, morir,</l>
+                  <l> es el único argumento de la obra.</l>
+                  <l> Envejecer, morir,</l>
+                  <l> es el único argumento de la obra.</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Prácticamente sin variaciones respecto del poema, excepto que repite algunos versos.
+        </note>
+      </body>
+   </text>
+</TEI>

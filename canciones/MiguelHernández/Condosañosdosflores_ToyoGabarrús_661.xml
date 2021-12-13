@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Con dos años dos flores</title>
+            <author>Toyo Gabarrús</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="album" subtype="LongPlay(LP)">
+               <title>Voces de romAmor</title>
+               <publisher>Autoeditado</publisher>
+               <date cert="high"/>
+            </bibl>
+            <bibl>
+               <link target="https://youtu.be/cyI7D1QeLII"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Canción de autor</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="performer">
+                  <persName>Toyo Gabarrús</persName>
+                  <nationality>España</nationality>
+               </person>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <bibl>[Con dos años, dos flores]</bibl>
+                  <relation>Musicalización idéntica</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <lg>
+                  <l>Con dos años, dos flores</l>
+                  <l> cumples ahora.</l>
+                  <l> Dos alondras llenando</l>
+                  <l> toda tu aurora.</l>
+                  <l> Niño radiante:</l>
+                  <l> va mi sangre contigo</l>
+                  <l> siempre adelante.</l>
+                  <l> Va mi sangre contigo</l>
+                  <l> siempre adelante.</l>
+               </lg>
+               <lg>
+                  <l> Sangre mía, adelante,</l>
+                  <l> no retrocedas.</l>
+                  <l> La luz rueda en el mundo,</l>
+                  <l> mientras tú ruedas.</l>
+                  <l> Todo te mueve,</l>
+                  <l> universo de un cuerpo</l>
+                  <l> dorado y leve.</l>
+                  <l> Universo de un cuerpo</l>
+                  <l> dorado y leve.</l>
+               </lg>
+               <lg>
+                  <l> Herramienta es tu risa,</l>
+                  <l> luz que proclama</l>
+                  <l> la victoria del trigo</l>
+                  <l> sobre la grama.</l>
+                  <l> Ríe. Contigo</l>
+                  <l> venceré siempre al tiempo</l>
+                  <l> que es mi enemigo.</l>
+                  <l> Venceré siempre al tiempo</l>
+                  <l> que es mi enemigo.</l>
+               </lg>
+               <lg>
+                  <l> (Transcripción propia a partir del poema y del audio de la canción, a falta de
+                    fuente escrita; la puntuación y ortografía son estimadas).</l>
+               </lg>
+            </lg>
+         </div>
+         <note xmlns="">Esta versión supone una musicalización idéntica del poema de Miguel Hernández. </note>
+      </body>
+   </text>
+</TEI>
