@@ -12,7 +12,7 @@
                 select="descendant::author/persName => replace('\s+', '') => encode-for-uri()"/>
             <xsl:variable name="title"
                 select="title[not(@type)] => replace('\s+', '') => encode-for-uri()"/>
-            <xsl:result-document href="{$author}/{$title}_{$nr}.xml">
+            <xsl:result-document href="../poemas/{$author}/{$title}_{$nr}.xml">
                 <TEI>
                     <teiHeader>
                         <fileDesc>
@@ -35,7 +35,7 @@
                                     <date>
                                         <xsl:attribute name="cert">
                                             <xsl:choose>
-                                                <xsl:when test="descendant::bib/cert eq '1'">
+                                                <xsl:when test="descendant::bib/cert = ('1', 'Sí')">
                                                   <xsl:text>high</xsl:text>
                                                 </xsl:when>
                                                 <xsl:otherwise>
@@ -53,9 +53,13 @@
                             </sourceDesc>
                         </fileDesc>
                         <profileDesc>
-                            <textClass>
+                            <textClass type="genre">
                                 <keywords>
                                     <xsl:apply-templates select="genre"/>
+                                </keywords>
+                            </textClass>
+                            <textClass type="topic">
+                                <keywords>
                                     <list>
                                         <xsl:apply-templates select="topic"/>
                                     </list>
@@ -67,8 +71,9 @@
                                         <persName>
                                             <xsl:value-of select="author/persName"/>
                                         </persName>
-                                        <xsl:copy-of select="author/idno"/>
-                                        <xsl:copy-of select="author/nationality"/>
+                                        <xsl:copy-of select="author/idno" copy-namespaces="no"/>
+                                        <xsl:copy-of select="author/nationality"
+                                            copy-namespaces="no"/>
                                         <birth>
                                             <date>
                                                 <xsl:attribute name="cert">
@@ -118,7 +123,7 @@
                                     <xsl:apply-templates select="lg/lg"/>
                                 </lg>
                             </div>
-                            <xsl:copy-of select="descendant::note"/>
+                            <xsl:copy-of select="descendant::note" copy-namespaces="no"/>
                         </body>
                     </text>
                 </TEI>
@@ -126,7 +131,7 @@
         </xsl:for-each>
     </xsl:template>
     <xsl:template match="editor">
-        <publisher type="{@type}">
+        <publisher n="{@type}">
             <xsl:apply-templates/>
         </publisher>
     </xsl:template>
@@ -151,5 +156,13 @@
         <l>
             <xsl:apply-templates/>
         </l>
+    </xsl:template>
+    <xsl:template match="sp">
+        <sp>
+            <xsl:apply-templates/>
+        </sp>
+    </xsl:template>
+    <xsl:template match="speaker">
+        <speaker><xsl:apply-templates/></speaker>
     </xsl:template>
 </xsl:stylesheet>
