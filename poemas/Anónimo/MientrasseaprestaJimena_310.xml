@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mientras se apresta Jimena</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Romancero viejo</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">Romancero de romances caballerescos e historicos anteriores
+                al siglo XVIII (Imprenta de don Eusebio Aguado, 1832)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>El Cid (Rodrigo Díaz de Vivar)</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Mientras se apresta Jimena</l>
+                  <l>con algunos de los suyos</l>
+                  <l>para partir de Valencia</l>
+                  <l>con el silencio noturno,</l>
+                  <l>y los nobles castellanos,</l>
+                  <l>más valerosos que muchos,</l>
+                  <l>con fingidas alegrías</l>
+                  <l>velan los soberbios muros,</l>
+                  <l>Alvar Fañez de Minaya,</l>
+                  <l>Don Ordoño y don Bermudo,</l>
+                  <l>para la batalla aprestan</l>
+                  <l>del Cid el cuerpo difunto.</l>
+                  <l>No le visten la loriga</l>
+                  <l>que él en las lides trujo</l>
+                  <l>por cumplir lo que mandó</l>
+                  <l>en su postrimero punto.</l>
+                  <l>De pergamino pintado</l>
+                  <l>le ponen yelmo y escudo</l>
+                  <l>y en medio de dos tablones</l>
+                  <l>el embalsamado bulto;</l>
+                  <l>y de un cendal claro verde</l>
+                  <l>vestido un tabardo justo;</l>
+                  <l>al pecho su roja insignia,</l>
+                  <l>honor y asombro del mundo;</l>
+                  <l>unas calzas de colores</l>
+                  <l>guarnecidas de dibujo,</l>
+                  <l>en lienzo crudo pintadas</l>
+                  <l>y ellas son de lienzo crudo.</l>
+                  <l>El derecho brazo alzado</l>
+                  <l>al menos cuanto se pudo,</l>
+                  <l>en la mano su Tizona</l>
+                  <l>el limpio fierro desnudo.</l>
+                  <l>Desta guisa le aprestaron</l>
+                  <l>y cuando aprestado estuvo</l>
+                  <l>pavor les dio de miralle,</l>
+                  <l>tal se muestra de sañudo.</l>
+                  <l>Trujeron pues a Babieca,</l>
+                  <l>y en mirándole se puso</l>
+                  <l>tan triste como si fuera</l>
+                  <l>más razonable que bruto.</l>
+                  <l>Atáronle a los arzones</l>
+                  <l>Fuertemente por los muslos,</l>
+                  <l>y los pies a los estribos</l>
+                  <l>porque fuesen mas seguros.</l>
+                  <l>Y a la lumbre del lucero</l>
+                  <l>que por verle se detuvo,</l>
+                  <l>con su capitán sin alma</l>
+                  <l>salieron al campo juntos,</l>
+                  <l>donde vencieron a Búcar</l>
+                  <l>solo porque a dios le plugo,</l>
+                  <l>y acabando la batalla</l>
+                  <l>el sol acabó su curso.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>El texto que edita Durán proviene del Romancero general. </note>
+      </body>
+   </text>
+</TEI>

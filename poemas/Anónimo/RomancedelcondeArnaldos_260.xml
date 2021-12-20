@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romance del conde Arnaldos</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Romancero viejo</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">Romancero (Biblioteca Nueva, 2004)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Conde Arnaldos y Canción</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>¡Quién hubiese tal ventura sobre las aguas del mar</l>
+                  <l>como hubo el conde Arnaldos la mañana de San Juan!</l>
+                  <l>Con un halcón en la mano la caza iba a cazar;</l>
+                  <l>vio venir una galera que a tierra quiere llegar;</l>
+                  <l>las velas traía de seda, la ejercia de un cendal,</l>
+                  <l>marinero que la manda, diciendo viene un cantar</l>
+                  <l>que la mar hacía en calma, los vientos hace amainar,</l>
+                  <l>los peces que andan nel hondo arriba los hace andar,</l>
+                  <l>las aves que andan volando en el mástil las haz posar.</l>
+                  <l>Allí habló el conde Arnaldos, bien oiréis lo que dirá:</l>
+                  <l>—Por Dio te ruego, marinero, dígasme ora ese cantar.</l>
+                  <l>Respondiole el marinero, tal respuesta le fue a dar:</l>
+                  <l>—Yo no digo esta canción sino a quien conmigo va.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Romance con bastantes versiones. </note>
+      </body>
+   </text>
+</TEI>

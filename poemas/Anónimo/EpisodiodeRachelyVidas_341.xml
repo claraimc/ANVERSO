@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Episodio de Rachel y Vidas</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cantar de mio Cid</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">1913 - Ediciones de La Lectura</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Cantares de gesta</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>El Cid (Rodrigo Díaz de Vivar)</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l/>
+                  <l/>
+                  <l>Fabló mió Çid, el que en buen ora cinxo espada:</l>
+                  <l>«Martín Antolínez, sodes ardida lança !</l>
+                  <l>«si yo bivo, doblar vos he la soldada.</l>
+                  <l>«Espeso e el oro e toda la plata,</l>
+                  <l>«bien lo vendes que yo no travo nada,</l>
+                  <l>«huebos me serié pora toda mi compaña;</l>
+                  <l>«fer lo he amidos, de grado non avrié nada.</l>
+                  <l>«Con vuestro consejo bastir quiero dos arcas;</l>
+                  <l>«inchámoslas d’arena, ca bien serán pesadas,</l>
+                  <l>«cubiertas de guadalmeçí e bien enclaveadas.</l>
+                  <l>«Los guadameçís vermejos e los clavos bien dorados.</l>
+                  <l>«Por Raquel e Vidas vayádesme privado :</l>
+                  <l>«quando en Burgos me vedaron compra y el rey me a ayrado.</l>
+                  <l>«non puedo traer el aver, ca mucho es pesado,</l>
+                  <l>«enpeñar gelo he por lo que fore guisado ;</l>
+                  <l>«de noche lo lieven, que non lo vean cristianos.</l>
+                  <l>«Véalo el Criador con todos los sos santos,</l>
+                  <l>«yo más non puedo e amidos lo fago.»</l>
+                  <l>Martín Antolínez non lo detardava</l>
+                  <l>passó por Burgos, al castiello entrava,</l>
+                  <l>por Raquel e Vidas apriessa demandava.</l>
+                  <l>Raquel e Vidas en uno estavan amos,</l>
+                  <l>en cuenta de sus averes, de los que avien ganados.</l>
+                  <l>Llegó Martín Antolínez a guisa de menbrado:</l>
+                  <l>«¿O sodes, Raquel e Vidas, los mios amigos caros?</l>
+                  <l>«En poridad fablar querría con amos.»</l>
+                  <l>Non lo detardan, todos tres se apartaron.</l>
+                  <l>«Raquel e Vidas, amos me dat las manos,</l>
+                  <l>«que non me descubrades a moros nin a cristianos;</l>
+                  <l>«por siempre vos faré ricos, que non seades menguados.</l>
+                  <l>«El Campeador por las parias fo entrado,</l>
+                  <l>«grandes averes priso e mucho sobejanos,</l>
+                  <l>«retovo dellos quanto que fo algo;</l>
+                  <l>«por en vino a aquesto por que fo acusado.</l>
+                  <l>»Tiene dos arcas llennas de oro esmerado.</l>
+                  <l>«Ya lo verdes que el rey le a ayrado.</l>
+                  <l>«Dexado ha heredades e casas e palacios.</l>
+                  <l>«Aquellas non las puede levar, sinon, serié ventado ;</l>
+                  <l>«el Campeador dexar las ha en vuestra mano,</l>
+                  <l>«e prestalde de aver lo que sea guisado.</l>
+                  <l>«Prended las arcas e metedlas en vuestro salvo;</l>
+                  <l>«con grand jura meted i las fedes amos,</l>
+                  <l>«que non las catedes en todo aqueste año.»</l>
+                  <l>Raquel e Vidas seíense consejando:</l>
+                  <l>«Nos huebos avemos en todo de ganar algo.</l>
+                  <l>«Bien lo sabemos que él algo a gañado.</l>
+                  <l>«quando a tierra de moros entró, que grant aver a sacado ;</l>
+                  <l>«non duerme sin sospecha qui aver trae monedado.</l>
+                  <l>«Estas arcas prendámoslas amos,</l>
+                  <l>«en logar las metamos que non sea ventado.</l>
+                  <l>«Mas dezidnos del Çid, de qué será pagado,</l>
+                  <l>«o qué ganancia nos dará por todo aqueste año?»</l>
+                  <l>Respuso Martín Antolínez a guisa de menbrado :</l>
+                  <l>«myo Çid querrá lo que ssea aguisado;</l>
+                  <l>«pedir vos a poco por dexar so aver en salvo.</l>
+                  <l>«Acógensele omnes de todas partes menguados,</l>
+                  <l>«a menester seysçientos marcos.»</l>
+                  <l>Dixo Raquel e Vidas: «dar gelos hemos de grado.»</l>
+                  <l>— «Ya vedes que entra la noch, el Çid es pressurado,</l>
+                  <l>«huebos avemos que nos dedes los marcos.»</l>
+                  <l>Dixo Raquel e Vidas: «non se faze assí el mercado,</l>
+                  <l>«sinon primero prendiendo e después dando.»</l>
+                  <l>Dixo Martín Antolínez : «yo desso me pago.</l>
+                  <l>«Amos tred al Campeador contado,</l>
+                  <l>«e nos vos ayudaremos, que assí es aguisado,</l>
+                  <l>«por aduzir las arcas e meterlas en vuestro salvo,</l>
+                  <l>»que non lo sepan moros nin cristianos.»</l>
+                  <l>Dixo Raquel e Vidas: «nos desto nos pagamos.</l>
+                  <l>«Las archas aduchas, prendet seysçientos marcos.»</l>
+                  <l>Martín Antolínez caualgó privado</l>
+                  <l>con Raquel e Vidas, de voluntad e de grado.</l>
+                  <l>Non viene a la puent, ca por el agua a passado,</l>
+                  <l>que gelo non ventassen de Burgos omne nado.</l>
+                  <l>Afévoslos a la tienda del Campeador contado;</l>
+                  <l>assí commo entraron, al Çid besáronle las manos.</l>
+                  <l>Sonrrisós mió Çid, estávalos fablando :</l>
+                  <l>«¡ya don Raquel e Vidas, avédesme olbidado !</l>
+                  <l>«Ya me exco de tierra, ca del rey so ayrado.</l>
+                  <l>«A lo quem semeja, de lo mió avredes algo;</l>
+                  <l>«mientra que vivades non seredes menguados.»</l>
+                  <l>Raquel e Vidas a mió Çid besáronle las manos.</l>
+                  <l>Martín Antolínez el pleyto a parado,</l>
+                  <l>que sobre aquellas arcas dar le íen seysçientos marcos,</l>
+                  <l>e bien gelas guardarien fasta cabo del año;</l>
+                  <l>ca assil dieran la fed e gelo auien jurado,</l>
+                  <l>que si antes las catassen que fossen perjurados,</l>
+                  <l>non les diesse mió Çid de ganancia un dinero malo.</l>
+                  <l>Dixo Martín Antolínez : «carguen las arcas privado.</l>
+                  <l>«Levaldas, Raquel e Vidas, ponedlas en vuestro salvo ;</l>
+                  <l>«yo iré convusco, que adugamos los marcos,</l>
+                  <l>«ca a mover ha mió Çid ante que cante el gallo.»</l>
+                  <l>Al cargar de las arcas veriedes gozo tanto:</l>
+                  <l>Non las podien poner en somo maguer eran esforzados.</l>
+                  <l>Grádanse Raquel e Vidas con averedes monedados,</l>
+                  <l>ca mientra que visquiessen refechos eran amos</l>
+                  <l/>
+                  <l/>
+               </lg>
+            </lg>
+         </div>
+         <note>Vv. 78-173 del Cantar de mio Cid. </note>
+      </body>
+   </text>
+</TEI>

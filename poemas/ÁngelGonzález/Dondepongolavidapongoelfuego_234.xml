@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Donde pongo la vida pongo el fuego</title>
+            <author>Ángel González</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Sin esperanza, con convencimiento</title>
+               <date cert="high"/>
+               <pubPlace>Barcelona</pubPlace>
+               <publisher n="first_editor">Jaime Salinas Editor [Col. Colliure]</publisher>
+               <publisher n="used_edition">2017-Planeta [Austral]</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Sonetos</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor y Carpe diem</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Ángel González</persName>
+                  <idno type="viaf">http://viaf.org/viaf/84475449</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1925</date>
+                  </birth>
+                  <death>
+                     <date cert="low">2008</date>
+                  </death>
+                  <floruit>Generación del 50</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Donde pongo la vida pongo el fuego</l>
+                  <l>de mi pasión volcada y sin salida.</l>
+                  <l>Donde tengo el amor, toco la herida.</l>
+                  <l>Donde dejo la fe, me pongo en juego.</l>
+               </lg>
+               <lg>
+                  <l>Pongo en juego mi vida, y pierdo, y luego</l>
+                  <l>vuelvo a empezar, sin vida, otra partida.</l>
+                  <l>Perdida la de ayer, la de hoy perdida,</l>
+                  <l>no me doy por vencido, y sigo, y juego</l>
+               </lg>
+               <lg>
+                  <l>lo que me queda: un resto de esperanza.</l>
+                  <l>Al siempre va. Mantengo mi postura.</l>
+                  <l>Si sale nunca, la esperanza es muerte.</l>
+               </lg>
+               <lg>
+                  <l>Si sale amor, la primavera avanza.</l>
+                  <l>Pero nunca o amor, mi fe segura:</l>
+                  <l>jamás o llanto, pero mi fe fuerte.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>La musicalización solo supone una mínima alteración textual, entre los versos ocho y
+            nueve del poema original, y repeticiones de versos. </note>
+      </body>
+   </text>
+</TEI>

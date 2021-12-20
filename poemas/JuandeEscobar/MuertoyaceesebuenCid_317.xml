@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Muerto yace ese buen Cid</title>
+            <author>Juan de Escobar</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Romancero e historia del muy noble y valeroso cavallero, el Cid Ruy Diez
+            de Bivar en romances en lenguaje antiguo</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">1706 - Martín de Zavala</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>El Cid (Rodrigo Díaz de Vivar)</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Juan de Escobar</persName>
+                  <idno type="viaf">http://viaf.org/viaf/71438109</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1500</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1600</date>
+                  </death>
+                  <floruit>Renacimiento</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Mverto yaze esse buen Cid,</l>
+                  <l>que de Bivar se llamava,</l>
+                  <l>Gil Díaz, su buen criado,</l>
+                  <l>cumpliera lo que mandara.</l>
+                  <l>Embalsamara su cuerpo,</l>
+                  <l>y muy yerto se parava,</l>
+                  <l>cara tiene de hermosura,</l>
+                  <l>muy hermosa y colorada;</l>
+                  <l>los ojos igual abiertos,</l>
+                  <l>muy apuesta la su barba,</l>
+                  <l>non parece que está muerto,</l>
+                  <l>antes vivo semejava.</l>
+                  <l>Y para que esté derecho</l>
+                  <l>este ardid Gil Díaz vsava:</l>
+                  <l>puso el cuerpo en vna silla,</l>
+                  <l>vna tabla en las espaldas</l>
+                  <l>y otra delante del pecho</l>
+                  <l>y a los lados se juntaban;</l>
+                  <l>llegaban baxo los braços</l>
+                  <l>y el colodrillo tapavan.</l>
+                  <l>Esta era la de atrás,</l>
+                  <l>y otra llegava a la barba,</l>
+                  <l>teniendo el cuerpo derecho,</l>
+                  <l>a ningún cabo inclinava.</l>
+                  <l>Doze dias son passados</l>
+                  <l>después que el Cid acabara,</l>
+                  <l>aderézanse las gentes</l>
+                  <l>para salir a batalla</l>
+                  <l>con Búcar, ese Rey Moro,</l>
+                  <l>y contra la su canalla.</l>
+                  <l>Quando fuera media noche,</l>
+                  <l>el cuerpo assí como estava,</l>
+                  <l>le ponen sobre Bavieca</l>
+                  <l>y al caballo lo atavan.</l>
+                  <l>Derecho está y muy igual,</l>
+                  <l>estar vivo semejava,</l>
+                  <l>calças tiene en las sus piernas</l>
+                  <l>de blanco y negro labradas,</l>
+                  <l>parecian brasoneras</l>
+                  <l>ee las que en vida calçaba;</l>
+                  <l>vistiéronle vestidura</l>
+                  <l>que el pespunte se mostrava,</l>
+                  <l>su escudo puesto al cuello</l>
+                  <l>con su divisa ondeada;</l>
+                  <l>capellina en su cabeza</l>
+                  <l>de pergamino pintada;</l>
+                  <l>parece que era de fíerro</l>
+                  <l>según está bien labrada,</l>
+                  <l>en la su mano derecha</l>
+                  <l>la Tizona le fue atada;</l>
+                  <l>sutilmente, a maravilla,</l>
+                  <l>iba en la su mano alçada.</l>
+                  <l>De vn cabo iba el Obispo</l>
+                  <l>Don Gerónimo de fama,’</l>
+                  <l>del otro iba Gil Díaz,</l>
+                  <l>el que a Bavieca guiaba.</l>
+                  <l>Salió don Pedro Bermudez</l>
+                  <l>con seña del Cid alçada,</l>
+                  <l>con quatrocientos fidalgos</l>
+                  <l>que con él van en su guarda.</l>
+                  <l>Saliera luego el recuage,</l>
+                  <l>otros tantos lo guardavan;</l>
+                  <l>saliera el cuerpo del Cid</l>
+                  <l>con gente muy esforçada;</l>
+                  <l>ciento son los guardadores</l>
+                  <l>que el cuerpo honrado llevavan.</l>
+                  <l>Tras él va doña Ximena</l>
+                  <l>con toda la su compaña,</l>
+                  <l>con seiscientos Cavalleros</l>
+                  <l>que para guarda le davan;</l>
+                  <l>callando van y tan paso</l>
+                  <l>que veinte no semejavan.</l>
+                  <l>Ya están fuera de Valencia,</l>
+                  <l>claro el día se mostrava,</l>
+                  <l>Alvar Fañez el primero</l>
+                  <l>que arremetió con gran saña</l>
+                  <l>contra el gran poder de Moros</l>
+                  <l>que Búcar trae en su compaña.</l>
+                  <l>Halló delante de sí</l>
+                  <l>una Mora muy gallarda,</l>
+                  <l>gran Maestra en el tirar</l>
+                  <l>con saetas del aljava ,</l>
+                  <l>de los arcos de Turquía</l>
+                  <l>Estrella era nombrada</l>
+                  <l>por la destreza que avía</l>
+                  <l>en el herir de la xara.</l>
+                  <l>Ella fuera la primera</l>
+                  <l>que a cavallo cavalgara</l>
+                  <l>con otras cien compañeras</l>
+                  <l>muy valientes y esforçadas..</l>
+                  <l>Los del Cid las fieren recio,</l>
+                  <l>muertas en tierra quedaran;</l>
+                  <l>visto lo avía el Rey Búcar</l>
+                  <l>con los Reyes de su vanda</l>
+                  <l>y quedan maravillados</l>
+                  <l>en ver la gente Christiana:</l>
+                  <l>setenta mil Cavalleros</l>
+                  <l>les pareció que llegavan.</l>
+                  <l>Todos blancos como nieve,</l>
+                  <l>y uno que los assombrava,</l>
+                  <l>más crecido que ninguno,</l>
+                  <l>en blanco cavallo andava,</l>
+                  <l>Cruz colorada en el pecho,</l>
+                  <l>en su mano señal blanca,</l>
+                  <l>la espada semeja a fuego</l>
+                  <l>con que a los Moros llegava;</l>
+                  <l>gran mortandad faze en ellos,</l>
+                  <l>fuyendo van, que no aguardan.</l>
+                  <l>El Rey Búcar y sus Reyes</l>
+                  <l>el campo desamparavan,</l>
+                  <l>camino van de la mar</l>
+                  <l>do los navios estavan:</l>
+                  <l>los del Cid los van firiendo,</l>
+                  <l>ninguno avia de escapar,</l>
+                  <l>en la mar se ahogan todos,</l>
+                  <l>más de diez mil se anegavan,</l>
+                  <l>que con la priessa que traen</l>
+                  <l>todos juntos no se embarcan.</l>
+                  <l>De los Reyes mueren veinte,</l>
+                  <l>Búcar huyendo se escapa,</l>
+                  <l>los del Cid ganan las riendas,</l>
+                  <l>con mucho oro y mucha plata;</l>
+                  <l>el más pobre queda rico</l>
+                  <l>de lo que ende ganara.</l>
+                  <l>Caminan para Castilla</l>
+                  <l>como el buen Cid ordenava:</l>
+                  <l>llegados son a San Pedro,</l>
+                  <l>de Cardeña se nombrava,</l>
+                  <l>do quedó el cuerpo del Cid,</l>
+                  <l>el que a España tanto honrava.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Este romance es luna de las reelaboraciones poéticas más conocida de la leyenda de la
+            victoria después de muerto. </note>
+      </body>
+   </text>
+</TEI>

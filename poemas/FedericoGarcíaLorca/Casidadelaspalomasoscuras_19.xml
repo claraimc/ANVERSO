@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Casida de las palomas oscuras</title>
+            <author>Federico García Lorca</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Diván del Tamarit</title>
+               <date cert="high"/>
+               <pubPlace>Nueva York</pubPlace>
+               <publisher n="first_editor">Revista Hispánica Moderna</publisher>
+               <publisher n="used_edition">Obra completa II. Poesía, 2 (Akal, 2008)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Casidas</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Incomunicación y Devenir</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <idno type="viaf">http://viaf.org/viaf/34456883</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1898</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1936</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>A Claudio Guillén</l>
+               </lg>
+               <lg>
+                  <l>Por las ramas del laurel</l>
+                  <l>vi dos palomas oscuras:</l>
+                  <l>La una era el sol,</l>
+                  <l>la otra la luna.</l>
+                  <l>Vecinita; les dije:</l>
+                  <l>¿dónde está mi sepultura?</l>
+                  <l>En mi cola, dijo el sol,</l>
+                  <l>en mi garganta, dijo la luna.</l>
+                  <l>Y yo que estaba caminando</l>
+                  <l>con la tierra por la cintura</l>
+                  <l>vi dos águilas de nieve</l>
+                  <l>y una muchacha desnuda.</l>
+                  <l>La una era la otra</l>
+                  <l>y la muchacha era ninguna.</l>
+                  <l>Aguilitas; les dije:</l>
+                  <l>¿dónde está mi sepultura?</l>
+                  <l>En mi cola, dijo el Sol;</l>
+                  <l>en mi garganta, dijo la Luna.</l>
+                  <l>Por las ramas del laurel</l>
+                  <l>vi dos palomas desnudas.</l>
+                  <l>La una era la otra</l>
+                  <l>y las dos eran ninguna.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>El poemario fue escrito presumiblemente entre 1931 y 1934, y la Universidad de Granada
+            llegó a preparar una edición que iba a publicarse en 1934 o 1935, pero no pasó de
+            pruebas de imprenta y no llegó a publicarse. Hubo una musicalización anterior a 1975,
+            por eso no recogida en esta base de datos: Paco Ibáñez (Paco Ibañez – 1. Poemas de
+            Federico García Lorca y Luis de Góngora, 1964). </note>
+      </body>
+   </text>
+</TEI>

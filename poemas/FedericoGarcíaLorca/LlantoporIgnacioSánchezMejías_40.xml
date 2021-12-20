@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Llanto por Ignacio Sánchez Mejías</title>
+            <author>Federico García Lorca</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Llanto por Ignacio Sánchez Mejías</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Revista Cruz y Raya</publisher>
+               <publisher n="used_edition">Obra completa II. Poesía, 2 (Akal, 2008)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amistad, Muerte, Torero y Toros</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <idno type="viaf">http://viaf.org/viaf/34456883</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1898</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1936</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>A mi querida amiga</l>
+                  <l>Encarnación López Júlvez.</l>
+               </lg>
+               <lg>
+                  <l>1. La cogida y la muerte</l>
+               </lg>
+               <lg>
+                  <l>A las cinco de la tarde.</l>
+                  <l>Eran las cinco en punto de la tarde.</l>
+                  <l>Un niño trajo la blanca sábana</l>
+                  <l>a las cinco de la tarde.</l>
+                  <l>Una espuerta de cal ya prevenida</l>
+                  <l>a las cinco de la tarde.</l>
+                  <l>Lo demás era muerte y sólo muerte</l>
+                  <l>a las cinco de la tarde.</l>
+               </lg>
+               <lg>
+                  <l>El viento se llevó los algodones</l>
+                  <l>a las cinco de la tarde,</l>
+                  <l>y el óxido sembró cristal y níquel</l>
+                  <l>a las cinco de la tarde.</l>
+                  <l>Ya luchan la paloma y el leopardo</l>
+                  <l>a las cinco de la tarde,</l>
+                  <l>y un muslo con un asta desolada</l>
+                  <l>a las cinco de la tarde.</l>
+                  <l>Comenzaron los sones del bordón</l>
+                  <l>a las cinco de la tarde.</l>
+                  <l>Las campanas de arsénico y el humo</l>
+                  <l>a las cinco de la tarde.</l>
+                  <l>En las esquinas grupos de silencio</l>
+                  <l>a las cinco de la tarde,</l>
+                  <l>¡y el toro solo corazón arriba!</l>
+                  <l>a las cinco de la tarde.</l>
+                  <l>Cuando el sudor de nieve fue llegando</l>
+                  <l>a las cinco de la tarde,</l>
+                  <l>cuando la plaza se cubrió de yodo</l>
+                  <l>a las cinco de la tarde,</l>
+                  <l>la muerte puso huevos en la herida</l>
+                  <l>a las cinco de la tarde.</l>
+                  <l>A las cinco de la tarde.</l>
+                  <l>A las cinco en punto de la tarde.</l>
+               </lg>
+               <lg>
+                  <l>Un ataúd con ruedas es la cama</l>
+                  <l>a las cinco de la tarde.</l>
+                  <l>Huesos y flautas suenan en su oído</l>
+                  <l>a las cinco de la tarde.</l>
+                  <l>El toro ya mugía por su frente</l>
+                  <l>a las cinco de la tarde.</l>
+                  <l>El cuarto se irisaba de agonía</l>
+                  <l>a las cinco de la tarde.</l>
+                  <l>A lo lejos ya viene la gangrena</l>
+                  <l>a las cinco de la tarde.</l>
+                  <l>Trompa de lirio por las verdes ingles</l>
+                  <l>a las cinco de la tarde.</l>
+                  <l>Las heridas quemaban como soles</l>
+                  <l>a las cinco de la tarde,</l>
+                  <l>y el gentío rompía las ventanas</l>
+                  <l>a las cinco de la tarde.</l>
+                  <l>A las cinco de la tarde.</l>
+                  <l>¡Ay qué terribles cinco de la tarde!</l>
+                  <l>¡Eran las cinco en todos los relojes!</l>
+                  <l>¡Eran las cinco en sombra de la tarde!</l>
+               </lg>
+               <lg>
+                  <l>2. La sangre derramada</l>
+               </lg>
+               <lg>
+                  <l>¡Que no quiero verla!</l>
+               </lg>
+               <lg>
+                  <l>Dile a la luna que venga,</l>
+                  <l>que no quiero ver la sangre</l>
+                  <l>de Ignacio sobre la arena.</l>
+               </lg>
+               <lg>
+                  <l>¡Que no quiero verla!</l>
+               </lg>
+               <lg>
+                  <l>La luna de par en par.</l>
+                  <l>Caballo de nubes quietas,</l>
+                  <l>y la plaza gris del sueño</l>
+                  <l>con sauces en las barreras.</l>
+                  <l>¡Que no quiero verla!</l>
+                  <l>Que mi recuerdo se quema.</l>
+                  <l>¡Avisad a los jazmines</l>
+                  <l>con su blancura pequeña!</l>
+               </lg>
+               <lg>
+                  <l>¡Que no quiero verla!</l>
+               </lg>
+               <lg>
+                  <l>La vaca del viejo mundo</l>
+                  <l>pasaba su triste lengua</l>
+                  <l>sobre un hocico de sangres</l>
+                  <l>derramadas en la arena,</l>
+                  <l>y los toros de Guisando,</l>
+                  <l>casi muerte y casi piedra,</l>
+                  <l>mugieron como dos siglos</l>
+                  <l>hartos de pisar la tierra.</l>
+                  <l>No.</l>
+                  <l>¡Que no quiero verla!</l>
+               </lg>
+               <lg>
+                  <l>Por las gradas sube Ignacio</l>
+                  <l>con toda su muerte a cuestas.</l>
+                  <l>Buscaba el amanecer,</l>
+                  <l>y el amanecer no era.</l>
+                  <l>Busca su perfil seguro,</l>
+                  <l>y el sueño lo desorienta.</l>
+                  <l>Buscaba su hermoso cuerpo</l>
+                  <l>y encontró su sangre abierta.</l>
+                  <l>¡No me digáis que la vea!</l>
+                  <l>No quiero sentir el chorro</l>
+                  <l>cada vez con menos fuerza;</l>
+                  <l>ese chorro que ilumina</l>
+                  <l>los tendidos y se vuelca</l>
+                  <l>sobre la pana y el cuero</l>
+                  <l>de muchedumbre sedienta.</l>
+                  <l>¡Quién me grita que me asome!</l>
+                  <l>¡No me digáis que la vea!</l>
+               </lg>
+               <lg>
+                  <l>No se cerraron sus ojos</l>
+                  <l>cuando vio los cuernos cerca,</l>
+                  <l>pero las madres terribles</l>
+                  <l>levantaron la cabeza.</l>
+                  <l>Y a través de las ganaderías,</l>
+                  <l>hubo un aire de voces secretas</l>
+                  <l>que gritaban a toros celestes,</l>
+                  <l>mayorales de pálida niebla.</l>
+               </lg>
+               <lg>
+                  <l>No hubo príncipe en Sevilla</l>
+                  <l>que comparársele pueda,</l>
+                  <l>ni espada como su espada</l>
+                  <l>ni corazón tan de veras.</l>
+                  <l>Como un río de leones</l>
+                  <l>su maravillosa fuerza,</l>
+                  <l>y como un torso de mármol</l>
+                  <l>su dibujada prudencia.</l>
+                  <l>Aire de Roma andaluza</l>
+                  <l>le doraba la cabeza</l>
+                  <l>donde su risa era un nardo</l>
+                  <l>de sal y de inteligencia.</l>
+                  <l>¡Qué gran torero en la plaza!</l>
+                  <l>¡Qué buen serrano en la sierra!</l>
+                  <l>¡Qué blando con las espigas!</l>
+                  <l>¡Qué duro con las espuelas!</l>
+                  <l>¡Qué tierno con el rocío!</l>
+                  <l>¡Qué deslumbrante en la feria!</l>
+                  <l>¡Qué tremendo con las últimas</l>
+                  <l>banderillas de tiniebla!</l>
+               </lg>
+               <lg>
+                  <l>Pero ya duerme sin fin.</l>
+                  <l>Ya los musgos y la hierba</l>
+                  <l>abren con dedos seguros</l>
+                  <l>la flor de su calavera.</l>
+                  <l>Y su sangre ya viene cantando:</l>
+                  <l>cantando por marismas y praderas,</l>
+                  <l>resbalando por cuernos ateridos,</l>
+                  <l>vacilando sin alma por la niebla,</l>
+                  <l>tropezando con miles de pezuñas</l>
+                  <l>como una larga, oscura, triste lengua,</l>
+                  <l>para formar un charco de agonía</l>
+                  <l>junto al Guadalquivir de las estrellas.</l>
+                  <l>¡Oh blanco muro de España!</l>
+                  <l>¡Oh negro toro de pena!</l>
+                  <l>¡Oh sangre dura de Ignacio!</l>
+                  <l>¡Oh ruiseñor de sus venas!</l>
+                  <l>No.</l>
+                  <l>¡Que no quiero verla!</l>
+                  <l>Que no hay cáliz que la contenga,</l>
+                  <l>que no hay golondrinas que se la beban,</l>
+                  <l>no hay escarcha de luz que la enfríe,</l>
+                  <l>no hay canto ni diluvio de azucenas,</l>
+                  <l>no hay cristal que la cubra de plata.</l>
+                  <l>No.</l>
+                  <l>¡¡Yo no quiero verla!!</l>
+               </lg>
+               <lg>
+                  <l>3. Cuerpo presente</l>
+               </lg>
+               <lg>
+                  <l>La piedra es una frente donde los sueños gimen</l>
+                  <l>sin tener agua curva ni cipreses helados.</l>
+                  <l>La piedra es una espalda para llevar al tiempo</l>
+                  <l>con árboles de lágrimas y cintas y planetas.</l>
+               </lg>
+               <lg>
+                  <l>Yo he visto lluvias grises correr hacia las olas</l>
+                  <l>levantando sus tiernos brazos acribillados,</l>
+                  <l>para no ser cazadas por la piedra tendida</l>
+                  <l>que desata sus miembros sin empapar la sangre.</l>
+               </lg>
+               <lg>
+                  <l>Porque la piedra coge simientes y nublados,</l>
+                  <l>esqueletos de alondras y lobos de penumbra;</l>
+                  <l>pero no da sonidos, ni cristales, ni fuego,</l>
+                  <l>sino plazas y plazas y otras plazas sin muros.</l>
+               </lg>
+               <lg>
+                  <l>Ya está sobre la piedra Ignacio el bien nacido.</l>
+                  <l>Ya se acabó; ¿qué pasa? Contemplad su figura:</l>
+                  <l>la muerte le ha cubierto de pálidos azufres</l>
+                  <l>y le ha puesto cabeza de oscuro minotauro.</l>
+               </lg>
+               <lg>
+                  <l>Ya se acabó. La lluvia penetra por su boca.</l>
+                  <l>El aire como loco deja su pecho hundido,</l>
+                  <l>y el Amor, empapado con lágrimas de nieve,</l>
+                  <l>se calienta en la cumbre de las ganaderías.</l>
+               </lg>
+               <lg>
+                  <l>¿Qué dicen? Un silencio con hedores reposa.</l>
+                  <l>Estamos con un cuerpo presente que se esfuma,</l>
+                  <l>con una forma clara que tuvo ruiseñores</l>
+                  <l>y la vemos llenarse de agujeros sin fondo.</l>
+               </lg>
+               <lg>
+                  <l>¿Quién arruga el sudario? ¡No es verdad lo que dice!</l>
+                  <l>Aquí no canta nadie, ni llora en el rincón,</l>
+                  <l>ni pica las espuelas, ni espanta la serpiente:</l>
+                  <l>aquí no quiero más que los ojos redondos</l>
+                  <l>para ver ese cuerpo sin posible descanso.</l>
+               </lg>
+               <lg>
+                  <l>Yo quiero ver aquí los hombres de voz dura.</l>
+                  <l>Los que doman caballos y dominan los ríos:</l>
+                  <l>los hombres que les suena el esqueleto y cantan</l>
+                  <l>con una boca llena de sol y pedernales.</l>
+               </lg>
+               <lg>
+                  <l>Aquí quiero yo verlos. Delante de la piedra.</l>
+                  <l>Delante de este cuerpo con las riendas quebradas.</l>
+                  <l>Yo quiero que me enseñen dónde está la salida</l>
+                  <l>para este capitán atado por la muerte.</l>
+               </lg>
+               <lg>
+                  <l>Yo quiero que me enseñen un llanto como un río</l>
+                  <l>que tenga dulces nieblas y profundas orillas,</l>
+                  <l>para llevar el cuerpo de Ignacio y que se pierda</l>
+                  <l>sin escuchar el doble resuello de los toros.</l>
+               </lg>
+               <lg>
+                  <l>Que se pierda en la plaza redonda de la luna</l>
+                  <l>que finge cuando niña doliente res inmóvil;</l>
+                  <l>que se pierda en la noche sin canto de los peces</l>
+                  <l>y en la maleza blanca del humo congelado.</l>
+               </lg>
+               <lg>
+                  <l>No quiero que le tapen la cara con pañuelos</l>
+                  <l>para que se acostumbre con la muerte que lleva.</l>
+                  <l>Vete, Ignacio: No sientas el caliente bramido.</l>
+                  <l>Duerme, vuela, reposa: ¡También se muere el mar!</l>
+               </lg>
+               <lg>
+                  <l>4. Alma ausente</l>
+               </lg>
+               <lg>
+                  <l>No te conoce el toro ni la higuera,</l>
+                  <l>ni caballos ni hormigas de tu casa.</l>
+                  <l>No te conoce el niño ni la tarde</l>
+                  <l>porque te has muerto para siempre.</l>
+               </lg>
+               <lg>
+                  <l>No te conoce el lomo de la piedra,</l>
+                  <l>ni el raso negro donde te destrozas.</l>
+                  <l>No te conoce tu recuerdo mudo</l>
+                  <l>porque te has muerto para siempre.</l>
+               </lg>
+               <lg>
+                  <l>El otoño vendrá con caracolas,</l>
+                  <l>uva de niebla y montes agrupados,</l>
+                  <l>pero nadie querrá mirar tus ojos</l>
+                  <l>porque te has muerto para siempre.</l>
+               </lg>
+               <lg>
+                  <l>Porque te has muerto para siempre,</l>
+                  <l>como todos los muertos de la Tierra,</l>
+                  <l>como todos los muertos que se olvidan</l>
+                  <l>en un montón de perros apagados.</l>
+               </lg>
+               <lg>
+                  <l>No te conoce nadie. No. Pero yo te canto.</l>
+                  <l>Yo canto para luego tu perfil y tu gracia.</l>
+                  <l>La madurez insigne de tu conocimiento.</l>
+                  <l>Tu apetencia de muerte y el gusto de su boca.</l>
+                  <l>La tristeza que tuvo tu valiente alegría.</l>
+               </lg>
+               <lg>
+                  <l>Tardará mucho tiempo en nacer, si es que nace,</l>
+                  <l>un andaluz tan claro, tan rico de aventura.</l>
+                  <l>Yo canto su elegancia con palabras que gimen</l>
+                  <l>y recuerdo una brisa triste por los olivos.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>El poema fue compuesto en 1934, pocos meses después de la muerte de Ignacio Sánchez
+            Mejías ese año. Las musicalizaciones se basan en distintas partes de este largo poema.
+            Hubo dos musicalizaciones anteriores a 1975, por eso no recogidas en esta base de datos:
+            Gabriela Ortega, Antonio Arenas (Llanto por la muerte de Ignacio Sánchez Mejías, 1967) y
+            Alfredo Arrebola (Cantos a los poemas de Federico García Lorca, 1971). </note>
+      </body>
+   </text>
+</TEI>

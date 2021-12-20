@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Primero de mayo de 1937</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Viento del pueblo</title>
+               <date cert="high"/>
+               <pubPlace>Valencia</pubPlace>
+               <publisher n="first_editor">Socorro Rojo</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesías políticas y Poesías sociales</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Guerra Civil y Justicia social</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>No sé qué sepultada artillería</l>
+                  <l>dispara desde abajo los claveles,</l>
+                  <l>ni qué caballería</l>
+                  <l>cruza tronando y hace que huelan los laureles.</l>
+               </lg>
+               <lg>
+                  <l>Sementales corceles,</l>
+                  <l>toros emocionados,</l>
+                  <l>como una fundición de bronce y hierro,</l>
+                  <l>surgen tras una crin de todos lados,</l>
+                  <l>tras un rendido y pálido cencerro.</l>
+               </lg>
+               <lg>
+                  <l>Mayo los animales pone airados:</l>
+                  <l>la guerra más se aíra,</l>
+                  <l>y detrás de las armas los arados</l>
+                  <l>braman, hierven las flores, el sol gira.</l>
+               </lg>
+               <lg>
+                  <l>Hasta el cadáver secular delira.</l>
+               </lg>
+               <lg>
+                  <l>Los trabajos de mayo:</l>
+                  <l>escala su cenit la agricultura.</l>
+               </lg>
+               <lg>
+                  <l>Aparece la hoz igual que un rayo</l>
+                  <l>inacabable en una mano oscura.</l>
+               </lg>
+               <lg>
+                  <l>A pesar de la guerra delirante,</l>
+                  <l>no amordazan los picos sus canciones,</l>
+                  <l>y el rosal da su olor emocionante</l>
+                  <l>porque el rosal no teme a los cañones.</l>
+               </lg>
+               <lg>
+                  <l>Mayo es hoy más colérico y potente:</l>
+                  <l>lo alimenta la sangre derramada,</l>
+                  <l>la juventud que convirtió en torrente</l>
+                  <l>su ejecución de lumbre entrelazada.</l>
+               </lg>
+               <lg>
+                  <l>Deseo a España un mayo ejecutivo,</l>
+                  <l>vestido con la eterna plenitud de la era.</l>
+                  <l>El primer árbol es su abierto olivo</l>
+                  <l>y no va a ser su sangre la postrera.</l>
+               </lg>
+               <lg>
+                  <l>La España que hoy no se ara, se arará toda entera.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

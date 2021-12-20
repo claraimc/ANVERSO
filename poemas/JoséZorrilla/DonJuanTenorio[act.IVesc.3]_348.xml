@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Don Juan Tenorio [act. IV esc. 3]</title>
+            <author>José Zorrilla</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Don Juan Tenorio</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Imprenta de Repullés</publisher>
+               <publisher n="used_edition">2002 - Biblioteca Virtual Miguel de Cervantes</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Teatro en verso</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>José Zorrilla</persName>
+                  <idno type="viaf">http://viaf.org/viaf/31991713</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1817</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1893</date>
+                  </death>
+                  <floruit>Romanticismo</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>¡Ah! ¿No es cierto, ángel de amor,</l>
+                  <l>que en esta apartada orilla</l>
+                  <l>más pura la luna brilla</l>
+                  <l>y se respira mejor?</l>
+               </lg>
+            </lg>
+         </div>
+         <note>[Se transcriben solo los versos de la obra de teatro anteriores y posteriores al
+            citado en la canción. Forma parte de una intervención de Don Juan (act. IV; esc. 3; vv.
+            261-264)];"La letra de la canción incluye una cita parcial e inexacta, pero evidente,
+            del verso 263, «más pura la luna brilla», del Don Juan Tenorio, de José Zorrilla,
+            ampliamente extendido en el imaginario colectivo español. Aunque cita, su uso es de
+            trasposición paródica, porque dentro de la letra el verso adquiere un nuevo sentido
+            provocador y burlesco, frente a la tradición literaria establecida. </note>
+      </body>
+   </text>
+</TEI>

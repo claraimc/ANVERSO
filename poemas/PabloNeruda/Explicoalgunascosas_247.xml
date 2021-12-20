@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Explico algunas cosas</title>
+            <author>Pablo Neruda</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Tercera residencia</title>
+               <date cert="high"/>
+               <pubPlace>Buenos Aires</pubPlace>
+               <publisher n="first_editor">Losada</publisher>
+               <publisher n="used_edition"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>--</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Guerra Civil, Muerte y Violencia</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Pablo Neruda</persName>
+                  <idno type="viaf">http://viaf.org/viaf/95126958</idno>
+                  <nationality>Chile</nationality>
+                  <birth>
+                     <date cert="low">1904</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1973</date>
+                  </death>
+                  <floruit>Vanguardismo</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>PREGUNTARÉIS: ¿Y dónde están las lilas?</l>
+                  <l>¿Y la metafísica cubierta de amapolas?</l>
+                  <l>¿Y la lluvia que a menudo golpeaba</l>
+                  <l>sus palabras llenándolas</l>
+                  <l>de agujeros y pájaros?</l>
+               </lg>
+               <lg>
+                  <l>Os voy a contar todo lo que me pasa.</l>
+               </lg>
+               <lg>
+                  <l>Yo vivía en un barrio</l>
+                  <l>de Madrid, con campanas,</l>
+                  <l>con relojes, con árboles.</l>
+                  <l>Desde allí se veía</l>
+                  <l>el rostro seco de Castilla</l>
+                  <l>como un océano de cuero.</l>
+                  <l>Mi casa era llamada</l>
+                  <l>la casa de las flores, porque por todas partes</l>
+                  <l>estallaban geranios: era</l>
+                  <l>una bella casa</l>
+                  <l>con perros y chiquillos.</l>
+                  <l>Raúl, ¿te acuerdas?</l>
+                  <l>¿Te acuerdas, Rafael?</l>
+                  <l>Federico, ¿te acuerdas</l>
+                  <l>debajo de la tierra,</l>
+                  <l>te acuerdas de mi casa con balcones en donde</l>
+                  <l>la luz de junio ahogaba flores en tu boca?</l>
+                  <l>¡Hermano, hermano!</l>
+                  <l>Todo</l>
+                  <l>eran grandes voces, sal de mercaderías,</l>
+                  <l>aglomeraciones de pan palpitante,</l>
+                  <l>mercados de mi barrio de Argüelles con su estatua</l>
+                  <l>como un tintero pálido entre las merluzas:</l>
+                  <l>el aceite llegaba a las cucharas,</l>
+                  <l>un profundo latido</l>
+                  <l>de pies y manos llenaba las calles,</l>
+                  <l>metros, litros, esencia</l>
+                  <l>aguda de la vida,</l>
+                  <l>pescados hacinados,</l>
+                  <l>contextura de techos con sol frío en el cual</l>
+                  <l>la flecha se fatiga,</l>
+                  <l>delirante marfil fino de las patatas,</l>
+                  <l>tomates repetidos hasta el mar.</l>
+                  <l>Y una mañana todo estaba ardiendo</l>
+                  <l>y una mañana las hogueras</l>
+                  <l>salían de la tierra</l>
+                  <l>devorando seres,</l>
+                  <l>y desde entonces fuego,</l>
+                  <l>pólvora desde entonces,</l>
+                  <l>y desde entonces sangre.</l>
+                  <l>Bandidos con aviones y con moros,</l>
+                  <l>bandidos con sortijas y duquesas,</l>
+                  <l>bandidos con frailes negros bendiciendo</l>
+                  <l>venían por el cielo a matar niños,</l>
+                  <l>y por las calles la sangre de los niños</l>
+                  <l>corría simplemente, como sangre de niños.</l>
+               </lg>
+               <lg>
+                  <l>¡Chacales que el chacal rechazaría,</l>
+                  <l>piedras que el cardo seco mordería escupiendo,</l>
+                  <l>víboras que las víboras odiaran!</l>
+               </lg>
+               <lg>
+                  <l>¡Frente a vosotros he visto la sangre</l>
+                  <l>de España levantarse</l>
+                  <l>para ahogaros en una sola ola</l>
+                  <l>de orgullo y de cuchillos!</l>
+               </lg>
+               <lg>
+                  <l>Generales</l>
+                  <l>traidores:</l>
+                  <l>mirad mi casa muerta,</l>
+                  <l>mirad España rota:</l>
+                  <l>pero de cada casa muerta sale metal ardiendo</l>
+                  <l>en vez de flores,</l>
+                  <l>pero de cada hueco de España</l>
+                  <l>sale España,</l>
+                  <l>pero de cada niño muerto sale un fusil con ojos,</l>
+                  <l>pero de cada crimen nacen balas</l>
+                  <l>que os hallarán un día el sitio</l>
+                  <l>del corazón.</l>
+               </lg>
+               <lg>
+                  <l>Preguntaréis por qué su poesía</l>
+                  <l>no nos habla del sueño, de las hojas,</l>
+                  <l>de los grandes volcanes de su país natal?</l>
+               </lg>
+               <lg>
+                  <l>Venid a ver la sangre por las calles,</l>
+                  <l>venid a ver</l>
+                  <l>la sangre por las calles,</l>
+                  <l>¡venid a ver la sangre</l>
+                  <l>por las calles!</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

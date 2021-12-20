@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Casida del herido por el agua</title>
+            <author>Federico García Lorca</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Diván del Tamarit</title>
+               <date cert="high"/>
+               <pubPlace>Nueva York</pubPlace>
+               <publisher n="first_editor">Revista Hispánica Moderna</publisher>
+               <publisher n="used_edition">Obra completa II. Poesía, 2 (Akal, 2008)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Casidas</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Muerte y Agonía</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <idno type="viaf">http://viaf.org/viaf/34456883</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1898</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1936</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Quiero bajar al pozo</l>
+                  <l>quiero subir los muros de Granada</l>
+                  <l>para mirar el corazón pasado</l>
+                  <l>por el punzón oscuro de las aguas.</l>
+               </lg>
+               <lg>
+                  <l>El niño herido gemía</l>
+                  <l>con una corona de escarcha.</l>
+                  <l>Estanques, aljibes y fuentes</l>
+                  <l>levantaban al aire sus espadas.</l>
+                  <l>¡Ay qué furia de amor! ¡qué hiriente filo!</l>
+                  <l>¡qué nocturno rumor! ¡qué muerte blanca!</l>
+                  <l>¡qué desiertos de luz iban hundiendo</l>
+                  <l>los arenales de la madrugada!</l>
+                  <l>El niño estaba solo</l>
+                  <l>con la ciudad dormida en la garganta.</l>
+                  <l>Un surtidor que viene de los sueños</l>
+                  <l>lo defiende del hambre de las algas.</l>
+                  <l>El niño y su agonía frente a frente</l>
+                  <l>eran dos verdes lluvias enlazadas.</l>
+                  <l>El niño se tendía por la tierra</l>
+                  <l>y su agonía se curvaba.</l>
+               </lg>
+               <lg>
+                  <l>Quiero bajar al pozo</l>
+                  <l>quiero morir mi muerte a bocanadas</l>
+                  <l>quiero llenar mi corazón de musgo</l>
+                  <l>para ver al herido por el agua.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>El poemario fue escrito presumiblemente entre 1931 y 1934, y la Universidad de Granada
+            llegó a preparar una edición que iba a publicarse en 1934 o 1935, pero no pasó de
+            pruebas de imprenta y no llegó a publicarse. </note>
+      </body>
+   </text>
+</TEI>

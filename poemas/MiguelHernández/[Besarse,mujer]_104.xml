@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Besarse, mujer]</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cancionero y romancero de ausencias</title>
+               <date cert="high"/>
+               <pubPlace>Buenos Aires</pubPlace>
+               <publisher n="first_editor">Lautaro</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Besarse, mujer,</l>
+                  <l>al sol, es besarnos</l>
+                  <l>en toda la vida,</l>
+                  <l>ascienden los labios</l>
+                  <l>eléctricamente</l>
+                  <l>vibrantes de rayos,</l>
+                  <l>con todo el furor</l>
+                  <l>de un sol entre cuatro.</l>
+               </lg>
+               <lg>
+                  <l>Besarse a la luna,</l>
+                  <l>mujer, es besarnos</l>
+                  <l>en toda la muerte.</l>
+                  <l>Descienden los labios</l>
+                  <l>con toda la luna</l>
+                  <l>pidiendo su ocaso,</l>
+                  <l>del labio de arriba,</l>
+                  <l>del labio de abajo,</l>
+                  <l>gastada y helada</l>
+                  <l>y en cuatro pedazos.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Aunque publicado póstumamente por primera vez en 1958, el poema fue escrito en la
+            cárcel entre 1938 y 1941. En la Obra poética completa consultada aquí, se informa de una
+            variante: “vibrantes de rayos” cambia por “tremantes de rayos”. </note>
+      </body>
+   </text>
+</TEI>

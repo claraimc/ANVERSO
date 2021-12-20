@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[El lagarto está llorando]</title>
+            <author>Federico García Lorca</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Canciones (1921-1924)</title>
+               <date cert="high"/>
+               <pubPlace>Málaga</pubPlace>
+               <publisher n="first_editor">Litoral. Primer suplemento [Imprenta Sur]</publisher>
+               <publisher n="used_edition">Obra completa I. Poesía 1 (Akal, 2008)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Letrillas</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor y Vejez</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <idno type="viaf">http://viaf.org/viaf/34456883</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1898</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1936</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>A Mademoiselle Teresita Guillén</l>
+                  <l>tocando su piano de seis notas</l>
+               </lg>
+               <lg>
+                  <l>El lagarto está llorando.</l>
+                  <l>La lagarta está llorando.</l>
+               </lg>
+               <lg>
+                  <l>El lagarto y la lagarta</l>
+                  <l>con delantaritos blancos.</l>
+               </lg>
+               <lg>
+                  <l>Han perdido sin querer</l>
+                  <l>su anillo de desposados.</l>
+               </lg>
+               <lg>
+                  <l>¡Ay, su anillito de plomo,</l>
+                  <l>ay, su anillito plomado!</l>
+               </lg>
+               <lg>
+                  <l>Un cielo grande y sin gente</l>
+                  <l>monta en su globo a los pájaros.</l>
+               </lg>
+               <lg>
+                  <l>El sol, capitán redondo,</l>
+                  <l>lleva un chaleco de raso.</l>
+               </lg>
+               <lg>
+                  <l>¡Miradlos qué viejos son!</l>
+                  <l>¡Qué viejos son los lagartos!</l>
+               </lg>
+               <lg>
+                  <l>¡Ay cómo lloran y lloran,</l>
+                  <l>¡ay! ¡ay! cómo están llorando!</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Hubo varias musicalizaciones anteriores a 1975, por no eso no están recogidas en esta
+            base de datos: Paco Ibáñez (Poèmes de Federico García Lorca ett Luis de Góngora, 1964),
+            Montserrat Caballé (Recital, 1964), María Dolores Pradera con Los Gemelos (María Dolores
+            Pradera acompañada por Los Gemelos, 1968) e Isabel Parra (Isabel Parra. Vol 2, 1968).
+        </note>
+      </body>
+   </text>
+</TEI>

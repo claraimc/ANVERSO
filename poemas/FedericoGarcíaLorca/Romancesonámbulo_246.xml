@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romance sonámbulo</title>
+            <author>Federico García Lorca</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Romancero Gitano</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Revista de Occidente</publisher>
+               <publisher n="used_edition">1928-Revista de Occidente</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <idno type="viaf">http://viaf.org/viaf/34456883</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1898</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1936</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Verde que te quiero verde.</l>
+                  <l>Verde viento. Verdes ramas.</l>
+                  <l>El barco sobre la mar</l>
+                  <l>y el caballo en la montaña.</l>
+                  <l>Con la sombra en la cintura,</l>
+                  <l>ella sueña en su baranda,</l>
+                  <l>verde carne, pelo verde,</l>
+                  <l>con ojos de fría plata.</l>
+                  <l>Verde que te quiero verde.</l>
+                  <l>Bajo la luna gitana,</l>
+                  <l>las cosas le están mirando</l>
+                  <l>y ella no puede mirarlas.</l>
+                  <l>Verde que te quiero verde.</l>
+                  <l>Grandes estrellas de escarcha</l>
+                  <l>vienen con el pez de sombra</l>
+                  <l>que abre el camino del alba.</l>
+                  <l>La higuera frota su viento</l>
+                  <l>con la lija de sus ramas,</l>
+                  <l>y el monte, gato garduño,</l>
+                  <l>eriza sus pitas agrias.</l>
+                  <l>¿Pero quién vendrá? ¿Y por dónde?…</l>
+                  <l>Ella sigue en su baranda,</l>
+                  <l>verde carne, pelo verde,</l>
+                  <l>soñando en la mar amarga.</l>
+               </lg>
+               <lg>
+                  <l>*</l>
+               </lg>
+               <lg>
+                  <l>Compadre, quiero cambiar</l>
+                  <l>mi caballo por su casa,</l>
+                  <l>mi montura por su espejo,</l>
+                  <l>mi cuchillo por su manta.</l>
+                  <l>Compadre, vengo sangrando,</l>
+                  <l>desde los montes de Cabra.</l>
+                  <l>Si yo pudiera, mocito,</l>
+                  <l>ese trato se cerraba.</l>
+                  <l>Pero yo ya no soy yo,</l>
+                  <l>ni mi casa es ya mi casa.</l>
+                  <l>Compadre, quiero morir</l>
+                  <l>decentemente en mi cama.</l>
+                  <l>De acero, si puede ser,</l>
+                  <l>con las sábanas de holanda.</l>
+                  <l>¿No ves la herida que tengo</l>
+                  <l>desde el pecho a la garganta?</l>
+                  <l>Trescientas rosas morenas</l>
+                  <l>lleva tu pechera blanca.</l>
+                  <l>Tu sangre rezuma y huele</l>
+                  <l>alrededor de tu faja.</l>
+                  <l>Pero yo ya no soy yo.</l>
+                  <l>Ni mi casa es ya mi casa.</l>
+                  <l>Dejadme subir al menos</l>
+                  <l>hasta las altas barandas,</l>
+                  <l>¡dejadme subir!, dejadme,</l>
+                  <l>hasta las verdes barandas.</l>
+                  <l>Barandales de la luna</l>
+                  <l>por donde retumba el agua.</l>
+               </lg>
+               <lg>
+                  <l>*</l>
+               </lg>
+               <lg>
+                  <l>Ya suben los dos compadres</l>
+                  <l>hacia las altas barandas.</l>
+                  <l>Dejando un rastro de sangre.</l>
+                  <l>Dejando un rastro de lágrimas.</l>
+                  <l>Temblaban en los tejados</l>
+                  <l>farolillos de hojalata.</l>
+                  <l>Mil panderos de cristal,</l>
+                  <l>herían la madrugada.</l>
+               </lg>
+               <lg>
+                  <l>*</l>
+               </lg>
+               <lg>
+                  <l>Verde que te quiero verde,</l>
+                  <l>verde viento, verdes ramas.</l>
+                  <l>Los dos compadres subieron.</l>
+                  <l>El largo viento dejaba</l>
+                  <l>en la boca un raro gusto</l>
+                  <l>de hiel, de menta y de albahaca.</l>
+                  <l>¡Compadre! ¿Dónde está, dime?</l>
+                  <l>¿Dónde está tu niña amarga?</l>
+                  <l>¡Cuántas veces te esperó!</l>
+                  <l>¡Cuántas veces te esperara,</l>
+                  <l>cara fresca, negro pelo,</l>
+                  <l>en esta verde baranda!</l>
+               </lg>
+               <lg>
+                  <l>*</l>
+               </lg>
+               <lg>
+                  <l>Sobre el rostro del aljibe</l>
+                  <l>se mecía la gitana.</l>
+                  <l>Verde carne, pelo verde,</l>
+                  <l>con ojos de fría plata.</l>
+                  <l>Un carámbano de luna</l>
+                  <l>la sostiene sobre el agua.</l>
+                  <l>La noche su puso íntima</l>
+                  <l>como una pequeña plaza.</l>
+                  <l>Guardias civiles borrachos,</l>
+                  <l>en la puerta golpeaban.</l>
+                  <l>Verde que te quiero verde.</l>
+                  <l>Verde viento. Verdes ramas.</l>
+                  <l>El barco sobre la mar.</l>
+                  <l>Y el caballo en la montaña.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>La primera versión de este poema la hizo Manzanita en 1978 con el título de «Verde».
+            La mayoría de versiones posteriores se basan en la canción de Manzanita. </note>
+      </body>
+   </text>
+</TEI>

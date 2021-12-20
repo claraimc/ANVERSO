@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El Cid reclama tres mil marcos</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cantar de mio Cid</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">1913 - Ediciones de La Lectura</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Cantares de gesta</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>El Cid (Rodrigo Díaz de Vivar)</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Luego se levantó mió Çid el Campeador;</l>
+                  <l>«Grado al Criador e a vos, rey señor !</l>
+                  <l>«ya pagado so de mis espadas, de Colada e de Tizón.</l>
+                  <l>«Otra rencura he de ifantes de Carrión:</l>
+                  <l>«quando sacaron de Valençia mis fijas amas a dos,</l>
+                  <l>«en oro e en plata tres mill marcos les dío;</l>
+                  <l>«yo faziendo esto, ellos acabaron lo so;</l>
+                  <l>«denme mios averes, quando mios yernos non son.»</l>
+                  <l>Aquí veriedes quexarse ifantes de Carrión !</l>
+                  <l>Dize el comde don Remond: «dezid de ssí o de no.»</l>
+                  <l>Essora responden ifantes de Carrión:</l>
+                  <l>«Por essol diemos sus espadas al Çid Campeador,</l>
+                  <l>«que al no nos demandasse, que aquí fincó la boz.»</l>
+                  <l>Allí les respondió el comde don Remond:</l>
+                  <l>«Si ploguiere al rey, assí dezimos nos:</l>
+                  <l>«a lo que demanda el Çid quel recudades vos.»</l>
+                  <l>Dixo el buen rey: «assí lo otorgo yo.»</l>
+                  <l>Levantós en pie el Çid Campeador;</l>
+                  <l>«Dcstos averes que vos di yo,</l>
+                  <l>«si me los dades, o dedes dello razón.»</l>
+                  <l>Essora salien aparte ifantes de Carrión ;</l>
+                  <l>non acuerdan en conssejo, ca los averes grandes son:</l>
+                  <l>espesos los han ifantes de Carrión.</l>
+                  <l>Tornan con el conssejo e fablavan a sso sabor:</l>
+                  <l>«Mucho nos afinca el que Valençia gañó.</l>
+                  <l>«quando de nuestros averes, assíl prende sabor ;</l>
+                  <l>«pagar le hemos de heredades en tierras de Carrión.»</l>
+                  <l>Dixieron los alcaldes quando manfestados son :</l>
+                  <l>«Si esso ploguiere al Çid, non gelo vedamos nos;</l>
+                  <l>«mas en nuestro juvizio assi lo mandamos nos,</l>
+                  <l>«que aquí lo enterguedes dentro en la cort.»</l>
+                  <l>A estas palabras fabló rey don Alfons:</l>
+                  <l>«Nos bien la sabemos, aquesta razón,</l>
+                  <l>«que derecho demanda el Çid Campeador.</l>
+                  <l>«Destos tres mil marcos los dozientos tengo yo ;</l>
+                  <l>«entramos me los dieron ifantes de Carrión.</l>
+                  <l>«Tornárgelos quiero, ca tan desfechos son.</l>
+                  <l>«enterguen a mió Çid el que en buen ora naçió;</l>
+                  <l>«quando ellos los an a pechar, non gelos quiero yo.»</l>
+                  <l>Ferrand Gonçálvez odredes qué fabló :</l>
+                  <l>«averes monedados non tenemos nos.»</l>
+                  <l>Luego respondió el conde don Remond :</l>
+                  <l>«el oro e la plata espendiésteslo vos ;</l>
+                  <l>«por juvizio lo damos antel rey don Alfons:</l>
+                  <l>páguenle en apreçiadura e préndalo el Campeador.»</l>
+                  <l>Ya vieron que es a fer ifantes de Carrión.</l>
+                  <l>Veriedes aduzir tanto cavallo corredor,</l>
+                  <l>tanta gruessa mula, tanto palafré de sazón.</l>
+                  <l>tanta buena espada con toda guarnizón ;</l>
+                  <l>recibiólo mió Çid commo apreçiaron en la cort.</l>
+                  <l>Sobre los dozientos marcos que tenía el rey Alfons</l>
+                  <l>pagaron los ifantes al que en buen ora nació;</l>
+                  <l>enpréstanles de lo ageno, que non les cumple lo so.</l>
+                  <l>Mal escapan jogados, sabed, desta razón.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Vv. 3199-3249 del Cantar de mio Cid. </note>
+      </body>
+   </text>
+</TEI>

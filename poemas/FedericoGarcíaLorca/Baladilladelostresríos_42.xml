@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Baladilla de los tres ríos</title>
+            <author>Federico García Lorca</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Poema del cante jondo</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Ulises</publisher>
+               <publisher n="used_edition">Obra completa I. Poesía 1 (Akal, 2008)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <idno type="viaf">http://viaf.org/viaf/34456883</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1898</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1936</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>A Salvador Quintero</l>
+               </lg>
+               <lg>
+                  <l>El río Guadalquivir</l>
+                  <l>va entre naranjos y olivos.</l>
+                  <l>Los dos ríos de Granada</l>
+                  <l>bajan de la nieve al trigo.</l>
+               </lg>
+               <lg>
+                  <l>¡Ay, amor</l>
+                  <l>que se fue y no vino!</l>
+               </lg>
+               <lg>
+                  <l>El río Guadalquivir</l>
+                  <l>tiene las barbas granates.</l>
+                  <l>Los dos ríos de Granada</l>
+                  <l>uno llanto y otro sangre.</l>
+               </lg>
+               <lg>
+                  <l>¡Ay, amor</l>
+                  <l>que se fue por el aire!</l>
+               </lg>
+               <lg>
+                  <l>Para los barcos de vela,</l>
+                  <l>Sevilla tiene un camino;</l>
+                  <l>por el agua de Granada</l>
+                  <l>sólo reman los suspiros.</l>
+               </lg>
+               <lg>
+                  <l>¡Ay, amor</l>
+                  <l>que se fue y no vino!</l>
+               </lg>
+               <lg>
+                  <l>Guadalquivir, alta torre</l>
+                  <l>y viento en los naranjales.</l>
+                  <l>Dauro y Genil, torrecillas</l>
+                  <l>muertas sobre los estanques,</l>
+               </lg>
+               <lg>
+                  <l>¡Ay, amor</l>
+                  <l>que se fue por el aire!</l>
+               </lg>
+               <lg>
+                  <l>¡Quién dirá que el agua lleva</l>
+                  <l>un fuego fatuo de gritos!</l>
+               </lg>
+               <lg>
+                  <l>¡Ay, amor</l>
+                  <l>que se fue y no vino!</l>
+               </lg>
+               <lg>
+                  <l>Lleva azahar, lleva olivas,</l>
+                  <l>Andalucía, a tus mares.</l>
+               </lg>
+               <lg>
+                  <l>¡Ay, amor</l>
+                  <l>que se fue por el aire!</l>
+               </lg>
+            </lg>
+         </div>
+         <note>El libro estaba en lo esencial escrito en 1921, pero se publicó en 1931. Este poema en
+            concreto se sabe que estaba acabado en 1922, porque Lorca se lo mandó transcrito por
+            carta a Melchor Fernández Almagro en diciembre de ese año. Hubo multitud de
+            musicalizaciones anteriores a 1975, por eso no están recogidas en esta base de datos:
+            Pepe Albaicín con Miguel El Santo (Canto y Tronío, 1958). Juanito Valderrama (Sin
+            título, 1959). Flamenco. Enrique Montoya, “Tiento de los tres ríos” (Diego Castellón,
+            Enrique Montoya, Goyo Reyes, Serenata andaluza. Sabicas, 1959). Enrique Montoya (Anda
+            jaleo, 1960). Gabriela Ortega (Sin título, 1960). Los Chuiquitos de Algeciras (Pepe y
+            Paco de Lucía) (Los chuiquitos de Algeciras, vol. 1, 1961). Pepe de Córdoba (Canta a
+            Federico García Lorca, 1972). Chiquito de Osuna, Lucas de Écija (Desafío de cante,
+            1973). Tipo B2. </note>
+      </body>
+   </text>
+</TEI>

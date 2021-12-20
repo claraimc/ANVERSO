@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Canto del honor</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>--</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesías populares</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Canción de boda</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Nacionalismo y regionalismo</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Uno de los temas más recurrentes entre los temas de la tradición musical de
+                    Castilla y León son los cantos de boda, también llamados galas, albadas o cantos
+                    de honor. Las Canciones de Honor eran cantadas por las mozas, amigas de la novia
+                    con la intención de homenajear a los novios. Musicalmente tienen su origen en la
+                    seguidilla castellana. “El día de la boda se levantaban temprano los novios,
+                    familiares e invitados. Al salir de la casa de los padres, por última vez como
+                    solteros, cada novio recibía la bendición de sus mayores. El novio se dirigía
+                    entonces, acompañado de sus familiares y amigos, a la casa de la novia, para
+                    conducirla a la iglesia. La ceremonia religiosa solía empezar a las diez de la
+                    mañana, y a su término las mozas salían de la iglesia y se colocaban en lugares
+                    estratégicos para cantar a la salida de los novios, formando dos coros que se
+                    contestaban cada dos versos. Todas estas canciones eran cantadas por el cortejo
+                    de mozas que acompañaban a los novios a la casa de los padres de la novia, donde
+                    se iba a celebrar la comida de bodas” (tomado de »Revista de Folklore /
+                    Fundación Joaquín Díaz)</l>
+                  <l>http://aldabas.wordpress.com/2011/05/23/cantos-de-boda/</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Paloma del palomar, ¿quién te ha quitado los vuelos, que no has podido bajar desde el
+            palomar al suelo ? Crezca el honor de la espiga y el trigo, crezca el honor de novios y
+            padrinos, crezca el honor de los mozos y mozas, crezca el honor de la espina y la rosa.
+            Con un sí que dio la novia a la puerta de la iglesia con un sí que dio la novia entro
+            libre y salió presa Crezca el honor de la espiga y el trigo… ¡Qué bonita está la sierra
+            con el tomillo florido ! ¡Más bonita está la novia del brazo de su marido ! Crezca el
+            honor de la espiga y el trigo… </note>
+      </body>
+   </text>
+</TEI>

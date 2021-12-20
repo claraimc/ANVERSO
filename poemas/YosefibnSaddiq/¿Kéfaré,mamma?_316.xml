@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>¿Ké faré, mamma?</title>
+            <author>Yosef ibn Saddiq</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Serie de las jarchas hebreas</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">Lar jarchas romances de la serie árabe en su marco (Seix
+                Barral,1975)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Jarchas</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor y Duda</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Yosef ibn Saddiq</persName>
+                  <idno type="viaf">http://viaf.org/viaf/6325192</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1075</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1149</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>¿Ké faré, mamma?</l>
+                  <l>Me-u l-habib est ad yana.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Jarcha de la serie hebrea. </note>
+      </body>
+   </text>
+</TEI>

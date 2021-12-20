@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Las cárceles</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>El hombre acecha</title>
+               <date cert="high"/>
+               <pubPlace>Valencia</pubPlace>
+               <publisher n="first_editor">Delegación de la Secretaría de Propaganda / Imprenta
+                Moderna</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesías sociales</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Libertad</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>I</l>
+               </lg>
+               <lg>
+                  <l>Las cárceles se arrastran por la humedad del mundo,</l>
+                  <l>van por la tenebrosa vía de los juzgados:</l>
+                  <l>buscan a un hombre, buscan a un pueblo, lo persiguen,</l>
+                  <l>lo absorben, se lo tragan.</l>
+               </lg>
+               <lg>
+                  <l>No se ve, que se escucha la pena de metal,</l>
+                  <l>el sollozo del hierro que atropellan y escupen:</l>
+                  <l>el llanto de la espada puesta sobre los jueces</l>
+                  <l>de cemento fangoso.</l>
+               </lg>
+               <lg>
+                  <l>Allí, bajo la cárcel, la fábrica del llanto,</l>
+                  <l>el telar de la lágrima que no ha de ser estéril,</l>
+                  <l>el casco de los odios y de las esperanzas,</l>
+                  <l>fabrican, tejen, hunden.</l>
+               </lg>
+               <lg>
+                  <l>Cuando están las perdices más roncas y acopladas,</l>
+                  <l>y el azul amoroso de fuerzas expansivas,</l>
+                  <l>un hombre hace memoria de la luz, de la tierra,</l>
+                  <l>húmedamente negro.</l>
+               </lg>
+               <lg>
+                  <l>Se da contra las piedras la libertad, el día,</l>
+                  <l>el paso galopante de un hombre, la cabeza,</l>
+                  <l>la boca con espuma, con decisión de espuma,</l>
+                  <l>la libertad, un hombre.</l>
+               </lg>
+               <lg>
+                  <l>Un hombre que cosecha y arroja todo el viento</l>
+                  <l>desde su corazón donde crece un plumaje:</l>
+                  <l>un hombre que es el mismo dentro de cada frío,</l>
+                  <l>de cada calabozo.</l>
+               </lg>
+               <lg>
+                  <l>Un hombre que ha soñado con las aguas del mar,</l>
+                  <l>y destroza sus alas como un rayo amarrado,</l>
+                  <l>y estremece las rejas, y se clava los dientes</l>
+                  <l>en los dientes del trueno.</l>
+               </lg>
+               <lg>
+                  <l>II</l>
+               </lg>
+               <lg>
+                  <l>Aquí no se pelea por un buey desmayado,</l>
+                  <l>sino por un caballo que ve pudrir sus crines,</l>
+                  <l>y siente sus galopes debajo de los cascos</l>
+                  <l>pudrirse airadamente.</l>
+               </lg>
+               <lg>
+                  <l>Limpiad el salivazo que lleva en la mejilla,</l>
+                  <l>y desencadenad el corazón del mundo,</l>
+                  <l>y detened las fauces de las voraces cárceles</l>
+                  <l>donde el sol retrocede.</l>
+               </lg>
+               <lg>
+                  <l>La libertad se pudre desplumada en la lengua</l>
+                  <l>de quienes son sus siervos más que sus poseedores.</l>
+                  <l>Romped esas cadenas y las otras que escucho</l>
+                  <l>detrás de esos esclavos.</l>
+               </lg>
+               <lg>
+                  <l>Esos que sólo buscan abandonar su cárcel,</l>
+                  <l>su rincón, su cadena, no la de los demás.</l>
+                  <l>Y en cuanto lo consiguen, descienden pluma a pluma,</l>
+                  <l>enmohecen, se arrastran.</l>
+               </lg>
+               <lg>
+                  <l>Son los encadenados por siempre desde siempre.</l>
+                  <l>Ser libre es una cosa que sólo un hombre sabe:</l>
+                  <l>sólo el hombre que advierto dentro de esa mazmorra</l>
+                  <l>como si yo estuviera.</l>
+               </lg>
+               <lg>
+                  <l>Cierra las puertas, echa la aldaba, carcelero.</l>
+                  <l>Ata duro a ese hombre: no le atarás el alma.</l>
+                  <l>Son muchas llaves, muchos cerrojos, injusticias:</l>
+                  <l>no le atarás el alma.</l>
+               </lg>
+               <lg>
+                  <l>Cadenas, sí: cadenas de sangre necesita.</l>
+                  <l>Hierros venenosos, cálidos, sanguíneos eslabones,</l>
+                  <l>nudos que no rechacen a los nudos siguientes</l>
+                  <l>humanamente atados.</l>
+               </lg>
+               <lg>
+                  <l>Un hombre aguarda dentro de un pozo sin remedio,</l>
+                  <l>tenso, conmocionado, con la oreja aplicada.</l>
+                  <l>Porque un pueblo ha gritado, ¡libertad!, vuela el cielo.</l>
+                  <l>Y las cárceles vuelan.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>El hombre acecha fue editado por la Delegación de la Secretaría de Propaganda en la
+            Imprenta Moderna de Valencia; sin embargo, con la derrota de la II República en la
+            Guerra Civil, no se completaron los trabajos y la edición desapareció. Elisa Serna hizo
+            la primera versión musicada de este poema (Quejido, 1972), con solo algunos de los
+            últimos versos de la segunda parte. También hizo una versión Francisco Curto (Miguel
+            Hernández, 1974) sin embargo, como estas versiones son anteriores a 1975, no están
+            recogidas dentro de esta base de datos. </note>
+      </body>
+   </text>
+</TEI>

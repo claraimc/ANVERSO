@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Después del amor</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cancionero y romancero de ausencias</title>
+               <date cert="high"/>
+               <pubPlace>Buenos Aires</pubPlace>
+               <publisher n="first_editor">Lautaro</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>No pudimos ser. La tierra</l>
+                  <l>no pudo tanto. No somos</l>
+                  <l>cuanto se propuso el sol</l>
+                  <l>en un anhelo remoto.</l>
+                  <l>Un pie se acerca a lo claro.</l>
+                  <l>En lo oscuro insiste el otro.</l>
+                  <l>Porque el amor no es perpetuo</l>
+                  <l>en nadie, ni en mí tampoco.</l>
+                  <l>El odio aguarda su instante</l>
+                  <l>dentro del carbón más hondo.</l>
+                  <l>Rojo es el odio y nutrido.</l>
+                  <l>El amor, pálido y solo.</l>
+               </lg>
+               <lg>
+                  <l>Cansado de odiar, te amo.</l>
+                  <l>Cansado de amar, te odio.</l>
+               </lg>
+               <lg>
+                  <l>Llueve tiempo, llueve tiempo.</l>
+                  <l>Y un día triste entre todos,</l>
+                  <l>triste por toda la tierra,</l>
+                  <l>triste desde mí hasta el lobo,</l>
+                  <l>dormimos y despertamos</l>
+                  <l>con un tigre entre los ojos.</l>
+               </lg>
+               <lg>
+                  <l>Piedras, hombres como piedras,</l>
+                  <l>duros y plenos de encono,</l>
+                  <l>chocan en el aire, donde</l>
+                  <l>chocan las piedras de pronto.</l>
+               </lg>
+               <lg>
+                  <l>Soledades que hoy rechazan</l>
+                  <l>y ayer juntaban sus rostros.</l>
+                  <l>Soledades que en el beso</l>
+                  <l>guardan el rugido sordo.</l>
+                  <l>Soledades para siempre.</l>
+                  <l>Soledades sin apoyo.</l>
+               </lg>
+               <lg>
+                  <l>Cuerpos como un mar voraz,</l>
+                  <l>entrechocado, furioso.</l>
+               </lg>
+               <lg>
+                  <l>Solitariamente atados</l>
+                  <l>por el amor, por el odio,</l>
+                  <l>por las venas surgen hombres,</l>
+                  <l>cruzan las ciudades, torvos.</l>
+               </lg>
+               <lg>
+                  <l>En el corazón arraiga</l>
+                  <l>solitariamente todo.</l>
+                  <l>Huellas sin compaña quedan</l>
+                  <l>como en el agua, en el fondo.</l>
+                  <l>Sólo una voz, a lo lejos,</l>
+                  <l>siempre a lo lejos la oigo,</l>
+                  <l>acompaña y hace ir</l>
+                  <l>igual que el cuello a los hombros.</l>
+               </lg>
+               <lg>
+                  <l>Sólo una voz me arrebata</l>
+                  <l>este armazón espinoso</l>
+                  <l>de vello retrocedido</l>
+                  <l>y erizado que me pongo.</l>
+               </lg>
+               <lg>
+                  <l>Los secos vientos no pueden</l>
+                  <l>secar los mares jugosos.</l>
+                  <l>Y el corazón permanece</l>
+                  <l>fresco en su cárcel de agosto</l>
+                  <l>porque esa voz es el arma</l>
+                  <l>más tierna de los arroyos:</l>
+               </lg>
+               <lg>
+                  <l>«Miguel: me acuerdo de ti</l>
+                  <l>después del sol y del polvo,</l>
+                  <l>antes de la misma luna,</l>
+                  <l>tumba de un sueño amoroso».</l>
+               </lg>
+               <lg>
+                  <l>Amor: aleja mi ser</l>
+                  <l>de sus primeros escombros,</l>
+                  <l>y edificándome, dicta</l>
+                  <l>una verdad como un soplo.</l>
+               </lg>
+               <lg>
+                  <l>Después del amor, la tierra.</l>
+                  <l>Después de la tierra, todo.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Aunque publicado póstumamente por primera vez en 1958, el poema fue escrito en la
+            cárcel entre 1938 y 1941. </note>
+      </body>
+   </text>
+</TEI>

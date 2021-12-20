@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nacido nos ha un bailico</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Romancero sefardí</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Rufianesca</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Renacimiento</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>En la ciudad de Toledo</l>
+                  <l>y en la ciudad de Aragón,</l>
+                  <l>nacido nos había un baile,</l>
+                  <l>nacido nos había un varón;</l>
+                  <l>chiquito era de cuerpo,</l>
+                  <l>malo y de mala intención.</l>
+                  <l>Mató a su padre y su madre</l>
+                  <l>y a un hermanito, el mayor;</l>
+                  <l>tres hermanas que tenía,</l>
+                  <l>un mal oficio les dió:</l>
+                  <l>una puso en la taberna</l>
+                  <l>y la otra en el mesón</l>
+                  <l>y la más chiquita de ellas</l>
+                  <l>la puso a vender cairón.</l>
+                  <l>Otro día en la mañana</l>
+                  <l>su hermano por áhi pasó.</l>
+                  <l>— ¿A cómo vendes, hermana,</l>
+                  <l>a cómo vendes cairón?</l>
+                  <l>— ¡Cómo lo haré, mi hermano,</l>
+                  <l>no lo sabo vender, no!;</l>
+                  <l>si la gente vende a libra,</l>
+                  <l>yo lo vendo a cuarterón.—</l>
+                  <l>Alzó vara de membrillo,</l>
+                  <l>las cien varadas le dio.</l>
+                  <l>Otro día en la mañana</l>
+                  <l>la niña ya se enseñó:</l>
+                  <l>— ¿A cómo vendes, hermana,</l>
+                  <l>a cómo vendes cairón?</l>
+                  <l>— Si la gente vende a treinta,</l>
+                  <l>yo lo vendo a treinta y dos.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Romance conservado en la tradición sefardí. </note>
+      </body>
+   </text>
+</TEI>

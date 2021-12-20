@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Saber sin estudiar</title>
+            <author>Nicolás Fernández de Moratín</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Obras póstumas</title>
+               <date cert="high"/>
+               <pubPlace>Barcelona</pubPlace>
+               <publisher n="first_editor">Imprenta de la viuda de Roca</publisher>
+               <publisher n="used_edition">1821 - Imprenta de la viuda de Roca</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesías didácticas</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Aprendizaje</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Nicolás Fernández de Moratín</persName>
+                  <idno type="viaf">http://viaf.org/viaf/24853607</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1737</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1780</date>
+                  </death>
+                  <floruit>Neoclasicismo</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Admirose un portugués</l>
+                  <l>de ver que en su tierna infancia</l>
+                  <l>todos los niños en Francia</l>
+                  <l>supiesen hablar francés:</l>
+                  <l>«Arte diabólica es»,</l>
+                  <l>dijo, torciendo el mostacho,</l>
+                  <l>«que para hablar en gabacho</l>
+                  <l>un fidalgo en Portugal</l>
+                  <l>llega a viejo, y lo habla mal;</l>
+                  <l>y aquí lo parla un muchacho».</l>
+               </lg>
+            </lg>
+         </div>
+         <note>La canción comienza musicalizando, con solo variaciones mínimas, el poema original.
+            Luego, la letra de la canción se amplía con repeticiones de versos del poema original y
+            con versos de nueva creación. </note>
+      </body>
+   </text>
+</TEI>

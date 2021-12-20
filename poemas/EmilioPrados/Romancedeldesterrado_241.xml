@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romance del desterrado</title>
+            <author>Emilio Prados</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Romancero general de la guerra española</title>
+               <date cert="high"/>
+               <pubPlace>Buenos Aires</pubPlace>
+               <publisher n="first_editor">Patronato Hispano Argentino de Cultura</publisher>
+               <publisher n="used_edition">2006 - Visor</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Destierro</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Emilio Prados</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1899</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1962</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l>¡Ay, nuevos campos perdidos,</l>
+                  <l>campos de mi mala suerte! </l>
+                  <l>Ahí se quedan tus olivos</l>
+                  <l>y tus naranjos nacientes;</l>
+                  <l>brilla el agua en tus acequias,</l>
+                  <l>surcan la tierra tus bueyes</l>
+                  <l>y yo cruzo tus caminos</l>
+                  <l>y jamás volveré a verte.</l>
+                  <l>Los tiernos brazos del trigo</l>
+                  <l>entre tus vientos se mueren.</l>
+                  <l>¡Ay, los brazos de mi sangre</l>
+                  <l>son molinos de mi muerte!</l>
+                  <l>No tengo casa ni amigo,</l>
+                  <l>ni tengo un lecho caliente,</l>
+                  <l>ni pan que calme mis hambres,</l>
+                  <l>ni palabra que me aliente.</l>
+                  <l>¡Ay, cuerpos desheredados!</l>
+                  <l>¿Cómo tu tronco sostienes,</l>
+                  <l>si al que corta tus raíces</l>
+                  <l>tu fresca sombra le ofreces?</l>
+                  <l>Mal cuerpo me ha dado el mundo;</l>
+                  <l>mal árbol que ni florece,</l>
+                  <l>ni puede tener seguro</l>
+                  <l>fruto que en su rama crece.</l>
+                  <l>¡Ay, el valor de mis manos!</l>
+                  <l>¡Ay, los ojos de mi frente!</l>
+                  <l>¡Ay, bajo la luz del alba!</l>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l>¡Ay, bajo la sombra fuerte! </l>
+                  <l>Ya siempre andarán despiertos,</l>
+                  <l>despiertos sin conocerme,</l>
+                  <l>que sólo miran al viento</l>
+                  <l>por donde sus penas vienen.</l>
+                  <l>¡Ay campo, campo lejano,</l>
+                  <l>donde mi color se muere;</l>
+                  <l>nunca encontrarás mi olvido</l>
+                  <l>si he de olvidar el perderte!</l>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

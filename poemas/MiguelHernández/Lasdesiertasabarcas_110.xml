@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Las desiertas abarcas</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>[Poemas no recogidos en libro - 1937-1939]</title>
+               <date cert="high"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica, Poesías autobiográficas y Poesías sociales</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Pobreza y Justicia social</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Por el cinco de enero,</l>
+                  <l>cada enero ponía</l>
+                  <l>mi calzado cabrero</l>
+                  <l>a la ventana fría.</l>
+               </lg>
+               <lg>
+                  <l>Y encontraban los días</l>
+                  <l>que derriban las puertas,</l>
+                  <l>mis abarcas vacías,</l>
+                  <l>mis abarcas desiertas.</l>
+               </lg>
+               <lg>
+                  <l>Nunca tuve zapatos,</l>
+                  <l>ni trajes, ni palabras:</l>
+                  <l>siempre tuve regatos,</l>
+                  <l>siempre penas y cabras.</l>
+               </lg>
+               <lg>
+                  <l>Me vistió la pobreza,</l>
+                  <l>me lamió el cuerpo el río</l>
+                  <l>y del pie a la cabeza</l>
+                  <l>pasto fui del rocío.</l>
+               </lg>
+               <lg>
+                  <l>Por el cinco de enero,</l>
+                  <l>para el seis, yo quería</l>
+                  <l>que fuera el mundo entero</l>
+                  <l>una juguetería.</l>
+               </lg>
+               <lg>
+                  <l>Y al andar la alborada</l>
+                  <l>removiendo las huertas,</l>
+                  <l>mis abarcas sin nada,</l>
+                  <l>mis abarcas desiertas.</l>
+               </lg>
+               <lg>
+                  <l>Ningún rey coronado</l>
+                  <l>tuvo pie, tuvo gana</l>
+                  <l>para ver el calzado</l>
+                  <l>de mi pobre ventana.</l>
+               </lg>
+               <lg>
+                  <l>Toda gente de trono,</l>
+                  <l>toda gente de botas</l>
+                  <l>se rió con encono</l>
+                  <l>de mis abarcas rotas.</l>
+               </lg>
+               <lg>
+                  <l>Rabié de llanto, hasta</l>
+                  <l>cubrir de sal mi piel,</l>
+                  <l>por un mundo de pasta</l>
+                  <l>y unos hombres de miel.</l>
+               </lg>
+               <lg>
+                  <l>Por el cinco de enero,</l>
+                  <l>de la majada mía</l>
+                  <l>mi calzado cabrero</l>
+                  <l>a la escarcha salía.</l>
+               </lg>
+               <lg>
+                  <l>Y hacia el seis, mis miradas</l>
+                  <l>hallaban en sus puertas</l>
+                  <l>mis abarcas heladas,</l>
+                  <l>mis abarcas desiertas.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Hubo una primera musicalización de Francisco Curto (Miguel Hernández, 1974), pero no
+            se incluye en esta base de datos por ser anterior a 1975. </note>
+      </body>
+   </text>
+</TEI>

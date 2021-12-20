@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[En el fondo del hombre]</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cancionero y romancero de ausencias</title>
+               <date cert="high"/>
+               <pubPlace>Buenos Aires</pubPlace>
+               <publisher n="first_editor">Lautaro</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Naturaleza del ser humano, Esperanza y Pesimismo</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>--</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>En el fondo del hombre</l>
+                  <l>agua removida.</l>
+               </lg>
+               <lg>
+                  <l>En el agua más clara</l>
+                  <l>quiero ver la vida.</l>
+               </lg>
+               <lg>
+                  <l>En el fondo del hombre</l>
+                  <l>agua removida.</l>
+               </lg>
+               <lg>
+                  <l>En el agua más clara</l>
+                  <l>sombra sin salida.</l>
+               </lg>
+               <lg>
+                  <l>En el fondo del hombre,</l>
+                  <l>agua removida.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Aunque publicado póstumamente por primera vez en 1958, el poema fue escrito en la
+            cárcel entre 1938 y 1941. En la Obra poética completa consultada aquí, se señalan las
+            siguientes variantes: “sombra sin salida” cambia por “quisiera ver la vida”, y se añaden
+            al final dos versos más: “En el agua más clara / sombra sin salida”. </note>
+      </body>
+   </text>
+</TEI>

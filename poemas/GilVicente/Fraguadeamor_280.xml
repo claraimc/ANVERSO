@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fragua de amor</title>
+            <author>Gil Vicente</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Complilaçam de toda las obras</title>
+               <date cert="high"/>
+               <pubPlace>Lisboa</pubPlace>
+               <publisher n="first_editor">Joan Alvares</publisher>
+               <publisher n="used_edition">1562 - Joan Alvares</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Villancicos (Literatura)</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Gil Vicente</persName>
+                  <idno type="viaf">http://viaf.org/viaf/9854778</idno>
+                  <nationality>Portugal</nationality>
+                  <birth>
+                     <date cert="low">1465</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1536</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>El que quisiere apurarse</l>
+                  <l>véngase muy sin temor</l>
+                  <l>a la Fragua del Amor.</l>
+               </lg>
+               <lg>
+                  <l>Todo oro que se afina</l>
+                  <l>es de más fina valía</l>
+                  <l>porque tiene mejoría</l>
+                  <l>de cuando estaba en la mina.</l>
+                  <l>Ansí se apura y refina</l>
+                  <l>el hombre y cobra valor</l>
+                  <l>en la Fragua del Amor.</l>
+               </lg>
+               <lg>
+                  <l>El fuego vivo y ardiente</l>
+                  <l>mejor apura el metal</l>
+                  <l>y cuanto más mejor sal</l>
+                  <l>más claro y más excellente.</l>
+                  <l>Ansí el vivir presente</l>
+                  <l>se para mucho mejor</l>
+                  <l>en la Fragua del Amor.</l>
+               </lg>
+               <lg>
+                  <l>Cuanto persona más alta</l>
+                  <l>se debe querer más fina</l>
+                  <l>porqu’es de más fina mina</l>
+                  <l>donde no se espera falta.</l>
+                  <l>Mas tal oro no se esmalta</l>
+                  <l>ni cobra rica color</l>
+                  <l>sin la Fragua del Amor.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>El villancico (en castellano) estaba concebido para ser incorporado a la obra teatral
+            del mismo título (en portugués), con música. </note>
+      </body>
+   </text>
+</TEI>

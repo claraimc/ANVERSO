@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Campo de amor</title>
+            <author>Blas de Otero</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Que trata de España</title>
+               <date cert="high"/>
+               <pubPlace>París</pubPlace>
+               <publisher n="first_editor">Ruebo Ibérico</publisher>
+               <publisher n="used_edition">Colección Visor de poesía - 1981</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesías sociales</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Fugacidad, El tiempo, Recuerdos y La vida</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Blas de Otero</persName>
+                  <idno type="viaf">http://viaf.org/viaf/22158847</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1916</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1979</date>
+                  </death>
+                  <floruit>Generación del 50</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Si me muero, que sepan que he vivido</l>
+                  <l>luchando por la vida y por la paz.</l>
+                  <l>Apenas he podido con la pluma,</l>
+                  <l>apláudanme el cantar.</l>
+               </lg>
+               <lg>
+                  <l>Si me muero, será porque he nacido</l>
+                  <l>para pasar el tiempo a los de atrás.</l>
+                  <l>Confío que entre todos dejaremos</l>
+                  <l>al hombre en su lugar.</l>
+               </lg>
+               <lg>
+                  <l>Si me muero, ya sé que no veré</l>
+                  <l>naranjas de la china, ni el trigal.</l>
+                  <l>He levantado el rastro, esto me basta.</l>
+                  <l>Otros ahecharán.</l>
+               </lg>
+               <lg>
+                  <l>Si me muero, que no me mueran antes</l>
+                  <l>de abriros el balcón de par en par.</l>
+                  <l>Un niño, acaso un niño, está mirándome</l>
+                  <l>el pecho de cristal.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

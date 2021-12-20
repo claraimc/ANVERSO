@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dátiles y gloria</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>[Poemas no recogidos en libro - Poemas varios 1933-1934]</title>
+               <date cert="high"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Deseo</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Proyectiles de oriámbar</l>
+                  <l>a guerra de deseo.</l>
+                  <l>Exento de su ambiente,</l>
+                  <l>deleite con sombrero,</l>
+                  <l>archivo, sobre causa,</l>
+                  <l>del más esbelto efecto,</l>
+                  <l>el hueso cae: parábola</l>
+                  <l>del femenino sexo.</l>
+               </lg>
+               <lg>
+                  <l>Dátiles: altos bienes,</l>
+                  <l>declinación del cielo.</l>
+               </lg>
+               <lg>
+                  <l>Troncos, no de madera,</l>
+                  <l>de equilibrio perfecto,</l>
+                  <l>sus cinturas prorrogan</l>
+                  <l>hasta el último viento;</l>
+                  <l>comban tribulaciones,</l>
+                  <l>puntas, y no, de acero,</l>
+                  <l>puestas, para ser luz,</l>
+                  <l>a oscuro tratamiento,</l>
+                  <l>si con rigor de esparto,</l>
+                  <l>con intención de templo.</l>
+               </lg>
+               <lg>
+                  <l>—¡Tientas! de claridades:</l>
+                  <l>¡regidas por los dedos,</l>
+                  <l>irán una mañana</l>
+                  <l>hasta abriles idénticos,</l>
+                  <l>soles clarificando</l>
+                  <l>con sus desasosiegos!—</l>
+               </lg>
+               <lg>
+                  <l>Regalos de la altura</l>
+                  <l>a la mía los llevo.</l>
+               </lg>
+               <lg>
+                  <l>¡Tanta! categoría,</l>
+                  <l>¡tanta! talla tuvieron</l>
+                  <l>¿para qué?… Los ensarto,</l>
+                  <l>para quedar en tierra</l>
+                  <l>¡qué vilmente depuestos!</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

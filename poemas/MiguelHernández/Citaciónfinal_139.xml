@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Citación final</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>[Poemas no recogidos en libro - Poemas varios 1933-1934]</title>
+               <date cert="high"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Epitafios</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Muerte, Tauromaquia y Elegía</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Se citaron los dos para en la plaza</l>
+                  <l>tal día, y a tal hora, y en tal suerte:</l>
+                  <l>una vida de muerte</l>
+                  <l>y una muerte de raza.</l>
+               </lg>
+               <lg>
+                  <l>Dentro del ruedo, un sol que daba pena,</l>
+                  <l>se hacía más redondo y amarillo</l>
+                  <l>en la inquietud inmóvil de la arena</l>
+                  <l>con Dios alrededor, perfecto anillo.</l>
+               </lg>
+               <lg>
+                  <l>Fuera, arriba, en el palco y en la grada.</l>
+                  <l>deseos con mantillas.</l>
+                  <l>Salió la muerte astada,</l>
+                  <l>palco de banderillas.</l>
+               </lg>
+               <lg>
+                  <l>(Había hecho antes,</l>
+                  <l>a lo sutil, lo primoroso y fino,</l>
+                  <l>el clarín sus galleos más brillantes,</l>
+                  <l>verdadera y fatalmente divino.)</l>
+               </lg>
+               <lg>
+                  <l>Vino la muerte del chiquero: vino</l>
+                  <l>de la valla, de Dios, hasta su encuentro</l>
+                  <l>la vida entre la luz, su indumentaria;</l>
+                  <l>y las dos se pararon en el centro,</l>
+                  <l>ante la una mortal, la otra estatuaria.</l>
+               </lg>
+               <lg>
+                  <l>Comenzó el juego, expuesto</l>
+                  <l>por una y otra parte…</l>
+                  <l>La vida se libraba, ¡con qué gesto,</l>
+                  <l>de morir, ¡con qué arte!</l>
+               </lg>
+               <lg>
+                  <l>Pero una vez —había de ser una—,</l>
+                  <l>es copada la vida por la muerte,</l>
+                  <l>y se desafortuna</l>
+                  <l>la burla, y en tragedia se convierte.</l>
+               </lg>
+               <lg>
+                  <l>Morir es una suerte</l>
+                  <l>como vivir: ¡de qué, de qué manera!</l>
+                  <l>supiste ejecutarla y el berrendo.</l>
+                  <l>Tu muerte fue vivida a la torera,</l>
+                  <l>lo mismo que tu vida fue muriendo.</l>
+               </lg>
+               <lg>
+                  <l>No: a ti no te distrajo,</l>
+                  <l>el tendido vicioso e iracundo,</l>
+                  <l>el difícil trabajo</l>
+                  <l>de ir a Dios por la muerte y por el mundo.</l>
+               </lg>
+               <lg>
+                  <l>Tu atención sólo han sido toro y ruedo:</l>
+                  <l>tu vocación el cuerno fulminante.</l>
+                  <l>Con el valor sublime de tu miedo,</l>
+                  <l>el valor más gigante,</l>
+                  <l>la esperabas de mármol elegante.</l>
+               </lg>
+               <lg>
+                  <l>Te dedicaste al hueso más avieso,</l>
+                  <l>que te ha dejado a ti en el puro hueso,</l>
+                  <l>y eres el colmo ya de la finura.</l>
+                  <l>Mas ¿qué importa que acabes?… ¿No acabamos</l>
+                  <l>todos, aquí, criatura,</l>
+                  <l>allí en el sitio donde Todo empieza.</l>
+                  <l>Total, total, total: di: ¿no tocamos</l>
+                  <l>a muerte, a infierno, a gloria por cabeza?</l>
+               </lg>
+               <lg>
+                  <l>Quisiera yo, Mejías,</l>
+                  <l>a quien el hueso y cuerno</l>
+                  <l>han hecho estatua, callado, paz, eterno,</l>
+                  <l>esperar y mirar, cual tú solías,</l>
+                  <l>a la muerte: ¡de cara!,</l>
+                  <l>con un valor que era temor interno</l>
+                  <l>de que no te matara.</l>
+               </lg>
+               <lg>
+                  <l>Quisiera el desgobierno</l>
+                  <l>de la carne, vidriera delicada,</l>
+                  <l>la manifestación del hueso fuerte.</l>
+                  <l>Estoy queriendo, y temo la cornada</l>
+                  <l>de tu momento, muerte.</l>
+               </lg>
+               <lg>
+                  <l>Espero, a pie parado,</l>
+                  <l>el ser, cuando Dios quiera, despenado,</l>
+                  <l>con la vida de miedo medio muerta,</l>
+                  <l>que en ese cuando, amigo,</l>
+                  <l>alguien diga por mí lo que yo digo</l>
+                  <l>por ti con voz serena que aparento:</l>
+               </lg>
+               <lg>
+                  <l>San Pedro, ¡abre! la puerta:</l>
+                  <l>abre los brazos, Dios, y ¡dale! asiento.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

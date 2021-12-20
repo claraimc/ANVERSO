@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Por una senda van los hortelanos]</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>El rayo que no cesa</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Héroe</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Sonetos</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor, Tauromaquia y Labranza</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Por una senda van los hortelanos,</l>
+                  <l>que es la sagrada hora del regreso,</l>
+                  <l>con la sangre injuriada por el peso</l>
+                  <l>de inviernos, primaveras y veranos.</l>
+               </lg>
+               <lg>
+                  <l>Vienen de los esfuerzos sobrehumanos</l>
+                  <l>y van a la canción, y van al beso,</l>
+                  <l>y van dejando por el aire impreso</l>
+                  <l>un olor de herramientas y de manos.</l>
+               </lg>
+               <lg>
+                  <l>Por otra senda yo, por otra senda</l>
+                  <l>que no conduce al beso aunque es la hora,</l>
+                  <l>sino que merodea sin destino.</l>
+               </lg>
+               <lg>
+                  <l>Bajo su frente trágica y tremenda,</l>
+                  <l>un toro solo en la ribera llora</l>
+                  <l>olvidando que es toro y masculino.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>La primera versión musical de este poema fue de Amancio Prada (Vida e morte, 1974),
+            pero, al ser anterior a 1975, no está recogida en esta base de datos. </note>
+      </body>
+   </text>
+</TEI>

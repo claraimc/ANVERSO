@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Piedra negra sobre una piedra blanca</title>
+            <author>César Vallejo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Poemas humanos</title>
+               <date cert="high"/>
+               <pubPlace>París</pubPlace>
+               <publisher n="first_editor">Les Editions des Presses Modernes au Palais Royal</publisher>
+               <publisher n="used_edition">[Obras completas, vol. VIII] 1977-Editorial Laia</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica y Sonetos</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Muerte</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>César Vallejo</persName>
+                  <idno type="viaf">http://viaf.org/viaf/46768177</idno>
+                  <nationality>Perú</nationality>
+                  <birth>
+                     <date cert="low">1892</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1938</date>
+                  </death>
+                  <floruit>Vanguardismo</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Me moriré en París con aguacero,</l>
+                  <l>un día del cual tengo ya el recuerdo.</l>
+                  <l>Me moriré en París —y no me corro—</l>
+                  <l>tal vez un jueves, como es hoy, de otoño.</l>
+               </lg>
+               <lg>
+                  <l>Jueves será, porque hoy, jueves, que proso</l>
+                  <l>estos versos, los húmeros me he puesto</l>
+                  <l>a la mala y, jamás como hoy, me he vuelto,</l>
+                  <l>con todo mi camino, a verme solo.</l>
+               </lg>
+               <lg>
+                  <l>César Vallejo ha muerto, le pegaban</l>
+                  <l>todos sin que él les haga nada;</l>
+                  <l>le daban duro con un palo y duro</l>
+               </lg>
+               <lg>
+                  <l>también con una soga; son testigos</l>
+                  <l>los días jueves y los huesos húmeros,</l>
+                  <l>la soledad, la lluvia, los caminos…</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

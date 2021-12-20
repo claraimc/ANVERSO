@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gacela del mercado matutino</title>
+            <author>Federico García Lorca</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Diván del Tamarit</title>
+               <date cert="high"/>
+               <pubPlace>Nueva York</pubPlace>
+               <publisher n="first_editor">Revista Hispánica Moderna</publisher>
+               <publisher n="used_edition">Obra completa II. Poesía, 2 (Akal, 2008)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor, Erotismo y Efectos del amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <idno type="viaf">http://viaf.org/viaf/34456883</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1898</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1936</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Por el arco de Elvira</l>
+                  <l>quiero verte pasar</l>
+                  <l>para saber tu nombre</l>
+                  <l>y ponerme a llorar.</l>
+               </lg>
+               <lg>
+                  <l>¿Qué luna gris de las nueve</l>
+                  <l>te desangró la mejilla?</l>
+                  <l>¿Quién recoge tu semilla</l>
+                  <l>de llamarada en la nieve?</l>
+                  <l>¿Qué alfiler de cactus breve</l>
+                  <l>asesina tu cristal?</l>
+               </lg>
+               <lg>
+                  <l>Por el arco de Elvira</l>
+                  <l>voy a verte pasar</l>
+                  <l>para beber tus ojos</l>
+                  <l>y ponerme a llorar.</l>
+               </lg>
+               <lg>
+                  <l>¡Qué voz para mi castigo</l>
+                  <l>levantas por el mercado!</l>
+                  <l>¡Qué clavel enajenado</l>
+                  <l>en los montones de trigo!</l>
+                  <l>¡Qué lejos estoy contigo!</l>
+                  <l>¡qué cerca cuando te vas!</l>
+               </lg>
+               <lg>
+                  <l>Por el arco de Elvira</l>
+                  <l>voy a verte pasar</l>
+                  <l>para sentir tus muslos</l>
+                  <l>y ponerme a llorar.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>El poemario fue escrito presumiblemente entre 1931 y 1934, y la Universidad de Granada
+            llegó a preparar una edición que iba a publicarse en 1934 o 1935, pero no pasó de
+            pruebas de imprenta y no llegó a publicarse. En la última estrofa se recoge en algunas
+            editoriales «para sufrir tus muslos» (ver, por ejemplo, la edición de Akal, Poesía II,
+            1982). </note>
+      </body>
+   </text>
+</TEI>

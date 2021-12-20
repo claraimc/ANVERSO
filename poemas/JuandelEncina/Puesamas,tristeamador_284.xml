@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pues amas, triste amador</title>
+            <author>Juan del Encina</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cancionero musical de Palacio</title>
+               <date cert="high"/>
+               <pubPlace>Salamanca</pubPlace>
+               <publisher n="first_editor">Cancionero de las obras de Juan del Encina</publisher>
+               <publisher n="used_edition">An Electronic Corpus of 15th Century Castilian Cancionero
+                Manuscripts</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Villancicos (Literatura)</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Juan del Encina</persName>
+                  <idno type="viaf">http://viaf.org/viaf/160940015</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1468</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1529</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Uillancico.</l>
+               </lg>
+               <lg>
+                  <l>Pues amas triſte amador</l>
+                  <l>di me que coſa es amor.</l>
+                  <l>Es amor vn mal que mata</l>
+                  <l>a quien le mas obedece</l>
+                  <l>mal que mucho mas mal trata</l>
+                  <l>al que menos mal merece:</l>
+                  <l>favor que mas favorece</l>
+                  <l>al menos merecedor.</l>
+               </lg>
+               <lg>
+                  <l>Es amor vna aficion</l>
+                  <l>de deſſeo deſſeoſo</l>
+                  <l>donde falta la razon</l>
+                  <l>al tiempo mas peligroſo:</l>
+                  <l>y es vn deleyte engañoſo</l>
+                  <l>guarnecido de dolor.</l>
+               </lg>
+               <lg>
+                  <l>Es amor vn tal poder</l>
+                  <l>que fuerça la voluntad</l>
+                  <l>a donde pone querer</l>
+                  <l>quita luego libertad:</l>
+                  <l>es mas firme ſu amiſtad</l>
+                  <l>quando finge deſamor.</l>
+               </lg>
+               <lg>
+                  <l>Es vna fuente do mana</l>
+                  <l>agua dulce y amargoſa</l>
+                  <l>que a los vnos es muy ſana</l>
+                  <l>y a los otros peligroſa:</l>
+                  <l>vnas vezes muy ſabroſa</l>
+                  <l>y otras vezes ſin ſabor.</l>
+               </lg>
+               <lg>
+                  <l>Es vna roſa en abrojos</l>
+                  <l>que nace en qualquier ſazon</l>
+                  <l>quando ſe vencen los ojos</l>
+                  <l>conſintiendo el coraçon:</l>
+                  <l>cogeſe con gran paſſion</l>
+                  <l>con gran peligro y temor.</l>
+               </lg>
+               <lg>
+                  <l>Fin.</l>
+               </lg>
+               <lg>
+                  <l>Es vn xarope mezclado</l>
+                  <l>de vn plazer y mil triſturas</l>
+                  <l>deſleydo con cuydado</l>
+                  <l>en dos mil deſaventuras:</l>
+                  <l>que ſi bever lo procuras</l>
+                  <l>moriras ſi no ay favor.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Aunque el poema se publicó en el Cancionero de 1496 (del que tomamos la
+            transcripción), nos interesa mucho más su presencia en el Cancionero musical de Palacio,
+            ya que evidencia la existencia de una musicación histórica. </note>
+      </body>
+   </text>
+</TEI>

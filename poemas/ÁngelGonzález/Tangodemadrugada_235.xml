@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tango de madrugada</title>
+            <author>Ángel González</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Tratado de urbanismo</title>
+               <date cert="high"/>
+               <pubPlace>Barcelona</pubPlace>
+               <publisher n="first_editor">Seix Barral [Col. El Bardo]</publisher>
+               <publisher n="used_edition">2017-Planeta [Austral]</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Costumbrismo</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Ángel González</persName>
+                  <idno type="viaf">http://viaf.org/viaf/84475449</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1925</date>
+                  </birth>
+                  <death>
+                     <date cert="low">2008</date>
+                  </death>
+                  <floruit>Generación del 50</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>El bandoneón recorre</l>
+                  <l>estremecidamente</l>
+                  <l>escotes y columnas vertebrales.</l>
+                  <l>Aprisionado por guitarras de amplio radio,</l>
+                  <l>por profundas y agónicas guitarras,</l>
+                  <l>el bandoneón estira</l>
+                  <l>su indolencia y su ronca</l>
+                  <l>sonoridad marina trasplantada.</l>
+               </lg>
+               <lg>
+                  <l>Hay un instante frívolo</l>
+                  <l>cuando baila la gente.</l>
+                  <l>Hay un momento turbio</l>
+                  <l>en el que desfallezco.</l>
+                  <l>Hay un minuto roto</l>
+                  <l>en el que todo es llanto.</l>
+               </lg>
+               <lg>
+                  <l>Por detrás del violín apunta la esperanza:</l>
+                  <l>una leve esperanza densamente imposible.</l>
+                  <l>“Sé que no has de volver”.</l>
+                  <l>La mujer canta.</l>
+                  <l>“Sé que no has</l>
+                  <l>de volver”. La noche</l>
+                  <l>sigue. “Sé</l>
+                  <l>que no has de volver”.</l>
+                  <l>La canción huye,</l>
+                  <l>borracha y sollozante,</l>
+                  <l>hacia la calle,</l>
+                  <l>donde el duro reflejo de unos vidrios helados</l>
+                  <l>la rechaza y la triza contra el suelo.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>La canción musicaliza el poema original sin alteraciones textuales, excepto que se
+            repiten algunos versos. </note>
+      </body>
+   </text>
+</TEI>

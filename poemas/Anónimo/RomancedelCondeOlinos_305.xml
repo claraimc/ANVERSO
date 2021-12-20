@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romance del Conde Olinos</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Romancero sefardí</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">Florilegio de romances sefardíes de la Diáspora (Seminario
+                Menéndez Pidal, 1980)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Conde Olinos</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Renacimiento</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Madrugaba el Conde Olinos, mañanitas de San Juan,</l>
+                  <l>a dar agua a su caballo a las orillas del mar.</l>
+                  <l>Mientras el caballo bebe, canta un hermoso cantar;</l>
+                  <l>las aves que iban volando se paraban a escuchar.</l>
+                  <l>Desde las torres más altas la Reina le oyó cantar.</l>
+                  <l>—Mira, hija, cómo canta la sirenita del mar.</l>
+                  <l>—No es la sirenita, madre, ni menos es su cantar;</l>
+                  <l>que es la voz del Conde Olinos que por mí penando está.</l>
+                  <l>—Si es la voz del Conde Olinos yo le mandaré matar,</l>
+                  <l>que para casar contigo le falta sangre real.</l>
+                  <l>—No le mande matar, madre, no le mande usted matar;</l>
+                  <l>que si al Conde Olinos mata  a mí la muerte me da—.</l>
+                  <l>Guardas mandaba la Reina al Conde Olinos a buscar,</l>
+                  <l>que lo maten a lanzadas y echen su cuerpo a la mar.</l>
+                  <l>La infantita, con gran pena, no cesaba de llorar.</l>
+                  <l>Él murió a la medianoche y ella, a los gallos cantar.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Es uno de los romances más difundidos en la tradición oral. </note>
+      </body>
+   </text>
+</TEI>

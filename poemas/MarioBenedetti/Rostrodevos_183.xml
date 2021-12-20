@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rostro de vos</title>
+            <author>Mario Benedetti</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Poemas de otros</title>
+               <date cert="high"/>
+               <pubPlace>Buenos Aires</pubPlace>
+               <publisher n="first_editor">Seix Barral</publisher>
+               <publisher n="used_edition">El amor la mujeres y la vida - 2014- Alfaguara</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor y Soledad</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Mario Benedetti</persName>
+                  <idno type="viaf">http://viaf.org/viaf/56585930</idno>
+                  <nationality>Uruguay</nationality>
+                  <birth>
+                     <date cert="low">1920</date>
+                  </birth>
+                  <death>
+                     <date cert="low">2009</date>
+                  </death>
+                  <floruit>Siglo XX</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l/>
+                  <l>Tengo una soledad</l>
+                  <l>tan concurrida</l>
+                  <l>tan llena de nostalgias</l>
+                  <l>y de rostros de vos</l>
+                  <l>de adioses hace tiempo</l>
+                  <l>y besos bienvenidos</l>
+                  <l>de primeras de cambio</l>
+                  <l>y de último vagón</l>
+                  <l>tengo una soledad</l>
+                  <l>tan concurrida</l>
+                  <l>que puedo organizarla</l>
+                  <l>como una procesión</l>
+                  <l>por colores</l>
+                  <l>tamaños</l>
+                  <l>y promesas</l>
+                  <l>por época</l>
+                  <l>por tacto</l>
+                  <l>y por sabor</l>
+                  <l>sin temblor de más</l>
+                  <l>me abrazo a tus ausencias</l>
+                  <l>que asisten y me asisten</l>
+                  <l>con mi rostro de vos</l>
+                  <l>estoy lleno de sombras</l>
+                  <l>de noches y deseos</l>
+                  <l>de risas y de alguna</l>
+                  <l>maldición</l>
+                  <l>mis huéspedes concurren</l>
+                  <l>concurren como sueños</l>
+                  <l>con sus rencores nuevos</l>
+                  <l>su falta de candor</l>
+                  <l>yo les pongo una escoba</l>
+                  <l>tras la puerta</l>
+                  <l>porque quiero estar solo</l>
+                  <l>con mi rostro de vos</l>
+                  <l>pero el rostro de vos</l>
+                  <l>mira a otra parte</l>
+                  <l>con sus ojos de amor</l>
+                  <l>que ya no aman</l>
+                  <l>como víveres</l>
+                  <l>que buscan su hambre</l>
+                  <l>miran y miran</l>
+                  <l>y apagan mi jornada</l>
+                  <l>las paredes se van</l>
+                  <l>queda la noche</l>
+                  <l>las nostalgias se van</l>
+                  <l>no queda nada</l>
+                  <l>ya mi rostro de vos</l>
+                  <l>cierra los ojos</l>
+                  <l>y es una soledad</l>
+                  <l>tan desolada</l>
+                  <l/>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El pastor desesperado</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Flor nueva de romances viejos</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Revista de archivos</publisher>
+               <publisher n="used_edition">1963 - Espasa Calpe</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>muerte de amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1400</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1500</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Por aquel lirón arriba</l>
+                  <l>lindo pastor va llorando;</l>
+                  <l>del agua de los sus ojos</l>
+                  <l>el gabán lleva mojado.</l>
+                  <l>—Buscaréis, ovejas mías,</l>
+                  <l>pastor más aventurado,</l>
+                  <l>que os lleve a la fuente fría</l>
+                  <l>y os caree con su cayado.</l>
+                  <l>¡Adiós, adiós, compañeros,</l>
+                  <l>las alegrías de antaño!,</l>
+                  <l>si me muero deste mal,</l>
+                  <l>no me enterréis en sagrado;</l>
+                  <l>no quiero paz de la muerte,</l>
+                  <l>pues nunca fui bien amado;</l>
+                  <l>enterréisme en prado verde,</l>
+                  <l>donde paste mi ganado,</l>
+                  <l>con una piedra que diga:</l>
+                  <l>«Aquí murió un desdichado;</l>
+                  <l>murió del mal del amor,</l>
+                  <l>que es un mal desesperado».</l>
+                  <l>Ya le entierran al pastor</l>
+                  <l>en medio del verde prado,</l>
+                  <l>al son de un triste cencerro,</l>
+                  <l>que no hay allí campanario.</l>
+                  <l>Tres serranitas le lloran</l>
+                  <l>al pie del monte serrano;</l>
+                  <l>una decía: «Ay mi primo»,</l>
+                  <l>otra decía: «Ay mi hermano»,</l>
+                  <l>la más chiquitita dellas:</l>
+                  <l>«Adiós, lindo enamorado,</l>
+                  <l>mal te quise por mi mal,</l>
+                  <l>siempre viviré penando».</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

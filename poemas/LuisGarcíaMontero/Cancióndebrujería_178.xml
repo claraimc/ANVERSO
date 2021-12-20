@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Canción de brujería</title>
+            <author>Luis García Montero</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Habitaciones separadas</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Visor Libros</publisher>
+               <publisher n="used_edition">2013-Visor Libros</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Luis García Montero</persName>
+                  <idno type="viaf">http://viaf.org/viaf/49247928</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1958</date>
+                  </birth>
+                  <death>
+                     <date cert="low">Hasta la actualidad</date>
+                  </death>
+                  <floruit>Poesía de la experiencia</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Señor compañero, Señor de la noche,</l>
+               </lg>
+               <lg>
+                  <l>haz que vuelva su rostro</l>
+                  <l>quien no quiso mirarme.</l>
+               </lg>
+               <lg>
+                  <l>Que sus ojos me busquen</l>
+                  <l>sostenidos y azules</l>
+                  <l>por detrás de la barra.</l>
+               </lg>
+               <lg>
+                  <l>Que pregunte mi nombre</l>
+                  <l>y se acerque despacio</l>
+                  <l>a pedirme tabaco.</l>
+               </lg>
+               <lg>
+                  <l>Si prefiere quedarse,</l>
+                  <l>haz que todos se vayan</l>
+                  <l>y este bar se despueble</l>
+                  <l>para dejarnos solos</l>
+                  <l>con la canción más lenta.</l>
+               </lg>
+               <lg>
+                  <l>Si decide marcharse,</l>
+                  <l>que la luna disponga</l>
+                  <l>su luz en nuestro beso</l>
+                  <l>y que las calles sepan</l>
+                  <l>también dejarnos solos.</l>
+               </lg>
+               <lg>
+                  <l>Señor compañero, Señor de la noche,</l>
+                  <l>haz que no cante el gallo</l>
+                  <l>sobre los edificios,</l>
+               </lg>
+               <lg>
+                  <l>que se retrase el día</l>
+               </lg>
+               <lg>
+                  <l>y que duren tus sombras</l>
+                  <l>el tiempo necesario.</l>
+               </lg>
+               <lg>
+                  <l>El tiempo que ella tarde en decidirse.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

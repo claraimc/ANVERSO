@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gacela de la muerte oscura</title>
+            <author>Federico García Lorca</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Diván del Tamarit</title>
+               <date cert="high"/>
+               <pubPlace>Nueva York</pubPlace>
+               <publisher n="first_editor">Revista Hispánica Moderna</publisher>
+               <publisher n="used_edition">Obra completa II. Poesía, 2 (Akal, 2008)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Muerte</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <idno type="viaf">http://viaf.org/viaf/34456883</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1898</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1936</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Quiero dormir el sueño de las manzanas,</l>
+                  <l>alejarme del tumulto de los cementerios.</l>
+                  <l>Quiero dormir el sueño de aquel niño</l>
+                  <l>que quería cortarse el corazón en alta mar.</l>
+               </lg>
+               <lg>
+                  <l>No quiero que me repita que los muertos no pierden la sangre,</l>
+                  <l>que la boca podrida sigue pidiendo agua.</l>
+                  <l>No quiero enterarme de los martirios que da la hierba</l>
+                  <l>ni de la luna con boca de serpiente</l>
+                  <l>que trabaja antes del amanecer.</l>
+               </lg>
+               <lg>
+                  <l>Quiero dormir un rato,</l>
+                  <l>un rato, un minuto, un siglo,</l>
+                  <l>pero que todos sepan que no he muerto</l>
+                  <l>que hay un establo de oro en mis labios</l>
+                  <l>que soy el pequeño amigo del viento Oeste</l>
+                  <l>que soy la sombra inmensa de mis lágrimas.</l>
+               </lg>
+               <lg>
+                  <l>Cúbreme por la aurora con un velo</l>
+                  <l>porque me arrojará puñados de hormigas</l>
+                  <l>y moja con agua dura mis zapatos</l>
+                  <l>para que resbale la pinza de su alacrán.</l>
+               </lg>
+               <lg>
+                  <l>Porque quiero dormir el sueño de las manzanas</l>
+                  <l>para aprender un llanto que me limpie de tierra,</l>
+                  <l>porque quiero vivir con aquel niño oscuro</l>
+                  <l>que quería cortarse el corazón en alta mar.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>El poemario fue escrito presumiblemente entre 1931 y 1934, y la Universidad de Granada
+            llegó a preparar una edición que iba a publicarse en 1934 o 1935, pero no pasó de
+            pruebas de imprenta y no llegó a publicarse. </note>
+      </body>
+   </text>
+</TEI>

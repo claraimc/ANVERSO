@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romance de la Guardia Civil española</title>
+            <author>Federico García Lorca</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Romancero Gitano</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Revista de Occidente</publisher>
+               <publisher n="used_edition">2006-Cátedra</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Poder</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <idno type="viaf">http://viaf.org/viaf/34456883</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1898</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1936</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Los caballos negros son.</l>
+                  <l>Las herraduras son negras.</l>
+                  <l>Sobre las capas relucen</l>
+                  <l>manchas de tinta y de cera.</l>
+                  <l>Tienen, por eso no lloran,</l>
+                  <l>de plomo las calaveras.</l>
+                  <l>Con el alma de charol</l>
+                  <l>vienen por la carretera.</l>
+                  <l>Jorobados y nocturnos,</l>
+                  <l>por donde animan ordenan</l>
+                  <l>silencios de goma oscura</l>
+                  <l>y miedos de fina arena.</l>
+                  <l>Pasan, si quieren pasar,</l>
+                  <l>y ocultan en la cabeza</l>
+                  <l>una vaga astronomía</l>
+                  <l>de pistolas inconcretas.</l>
+                  <l>                  *</l>
+                  <l>¡Oh ciudad de los gitanos!</l>
+                  <l>En las esquinas banderas.</l>
+                  <l>La luna y la calabaza</l>
+                  <l>con las guindas en conserva.</l>
+                  <l>¡Oh ciudad de los gitanos!</l>
+                  <l>¿Quién te vió y no te recuerda?</l>
+                  <l>Ciudad de dolor y almizcle,</l>
+                  <l>con las torres de canela.</l>
+                  <l>                  *</l>
+                  <l>Cuando llegaba la noche,</l>
+                  <l>noche que noche nochera,</l>
+                  <l>los gitanos en sus fraguas</l>
+                  <l>forjaban soles y flechas.</l>
+                  <l>Un caballo malherido,</l>
+                  <l>llamaba a todas las puertas.</l>
+                  <l>Gallos de vidrio cantaban</l>
+                  <l>por Jerez de la Frontera.</l>
+                  <l>El viento, vuelve desnudo</l>
+                  <l>la esquina de la sorpresa,</l>
+                  <l>en la noche platinoche</l>
+                  <l>noche, que noche nochera.</l>
+                  <l>                  *</l>
+                  <l>La Virgen y San José</l>
+                  <l>perdieron sus castañuelas,</l>
+                  <l>y buscan a los gitanos</l>
+                  <l>para ver si las encuentran.</l>
+                  <l>La Virgen viene vestida</l>
+                  <l>con un traje de alcaldesa,</l>
+                  <l>de papel de chocolate</l>
+                  <l>con los collares de almendras.</l>
+                  <l>San José mueve los brazos</l>
+                  <l>bajo una capa de seda.</l>
+                  <l>Detrás va Pedro Domecq</l>
+                  <l>con tres sultanes de Persia.</l>
+                  <l>La media luna, soñaba</l>
+                  <l>un éxtasis de cigüeña.</l>
+                  <l>Estandartes y faroles</l>
+                  <l>invaden las azoteas.</l>
+                  <l>Por los espejos sollozan</l>
+                  <l>bailarinas sin caderas.</l>
+                  <l>Agua y sombra, sombra y agua</l>
+                  <l>por Jerez de la Frontera.</l>
+                  <l>                  *</l>
+                  <l>¡Oh ciudad de los gitanos!</l>
+                  <l>En las esquinas banderas.</l>
+                  <l>Apaga tus verdes luces</l>
+                  <l>que viene la benemérita.</l>
+                  <l>¡Oh ciudad de los gitanos!</l>
+                  <l>¿Quién te vio y no te recuerda?</l>
+                  <l>Dejadla lejos del mar,</l>
+                  <l>sin peines para sus crenchas.</l>
+                  <l>          *</l>
+                  <l>Avanzan de dos en fondo</l>
+                  <l>a la ciudad de la fiesta.</l>
+                  <l>Un rumor de siemprevivas</l>
+                  <l>invade las cartucheras.</l>
+                  <l>Avanzan de dos en fondo.</l>
+                  <l>Doble nocturno de tela.</l>
+                  <l>El cielo, se les antoja,</l>
+                  <l>una vitrina de espuelas.</l>
+                  <l>                  *</l>
+                  <l>La ciudad libre de miedo,</l>
+                  <l>multiplicaba sus puertas.</l>
+                  <l>Cuarenta guardias civiles</l>
+                  <l>entran a saco por ellas.</l>
+                  <l>Los relojes se pararon,</l>
+                  <l>y el coñac de las botellas</l>
+                  <l>se disfrazó de noviembre</l>
+                  <l>para no infundir sospechas.</l>
+                  <l>Un vuelo de gritos largos</l>
+                  <l>se levantó en las veletas.</l>
+                  <l>Los sables cortan las brisas</l>
+                  <l>que los cascos atropellan.</l>
+                  <l>Por las calles de penumbra</l>
+                  <l>huyen las gitanas viejas</l>
+                  <l>con los caballos dormidos</l>
+                  <l>y las orzas de monedas.</l>
+                  <l>Por las calles empinadas</l>
+                  <l>suben las capas siniestras,</l>
+                  <l>dejando detrás fugaces</l>
+                  <l>remolinos de tijeras.</l>
+                  <l>En el portal de Belén</l>
+                  <l>los gitanos se congregan.</l>
+                  <l>San José, lleno de heridas,</l>
+                  <l>amortaja a una doncella.</l>
+                  <l>Tercos fusiles agudos</l>
+                  <l>por toda la noche suenan.</l>
+                  <l>La Virgen cura a los niños</l>
+                  <l>con salivilla de estrella.</l>
+                  <l>Pero la Guardia Civil</l>
+                  <l>avanza sembrando hogueras,</l>
+                  <l>donde joven y desnuda</l>
+                  <l>la imaginación se quema.</l>
+                  <l>Rosa la de los Camborios,</l>
+                  <l>gime sentada en su puerta</l>
+                  <l>con sus dos pechos cortados</l>
+                  <l>puestos en una bandeja.</l>
+                  <l>Y otras muchachas corrían</l>
+                  <l>perseguidas por sus trenzas,</l>
+                  <l>en un aire donde estallan</l>
+                  <l>rosas de pólvora negra.</l>
+                  <l>Cuando todos los tejados</l>
+                  <l>eran surcos en la tierra,</l>
+                  <l>el alba meció sus hombros</l>
+                  <l>en largo perfil de piedra.</l>
+                  <l>                  *</l>
+                  <l>¡Oh, ciudad de los gitanos!</l>
+                  <l>La Guardia Civil se aleja</l>
+                  <l>por un túnel de silencio</l>
+                  <l>mientras las llamas te cercan.</l>
+                  <l>¡Oh, ciudad de los gitanos!</l>
+                  <l>¿Quién te vio y no te recuerda?</l>
+                  <l>Que te busquen en mi frente.</l>
+                  <l>juego de luna y arena.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

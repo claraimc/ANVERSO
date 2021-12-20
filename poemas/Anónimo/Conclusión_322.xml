@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Conclusión</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cantar de mio Cid</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">1913 - Ediciones de La Lectura</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Cantares de gesta</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>El Cid (Rodrigo Díaz de Vivar)</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Dexémonos de pleitos de ifantes de Carrión,</l>
+                  <l>de lo que an preso mucho an mal sabor ;</l>
+                  <l>fablemos nos d’ aqueste que en buen ora naçió.</l>
+                  <l>Grandes son los gozos en Valençia la mayor,</l>
+                  <l>porque tan ondrados foron los del Canpeador.</l>
+                  <l>Prisos a la barba Roy Díaz so señor :</l>
+                  <l>«Grado al rey del çielo, mis fijas vengadas son !</l>
+                  <l>«Agora las ayan quitas heredades de Carrión !</l>
+                  <l>«Sin vergüença las casaré o a qui pese o a qui non.»</l>
+                  <l>Andidieron en pleytos los de Navarra e de Aragón,</l>
+                  <l>ovieron su ajunta con Alfons el de León.</l>
+                  <l>Fizieron sos casamientos don Elvira e doña Sol ;</l>
+                  <l>los primeros foron grandes, mas aquestos son mijores ;</l>
+                  <l>a mayor ondra las casa que lo que primero fo.</l>
+                  <l>Veed qual ondra creçe al que en buen ora naçió,</l>
+                  <l>quando señoras son sues fijas de Navarra e de Aragón.</l>
+                  <l>Oy los reyes d’ España sos parientes son,</l>
+                  <l>a todos alcança ondra por el que en buena naçió.</l>
+                  <l>Passado es deste sieglo mió Çid de ValenÇia señor</l>
+                  <l>el día de cinquaesma ; de Cristus aya perdón !</l>
+                  <l>Assí ffagamos nós todos justos e peccadores!</l>
+                  <l>Estas son las nuevas de mió Çid el Canpeador ;</l>
+                  <l>en este logar se acaba esta razón.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Vv. 3708-3730 del Cantar de mio Cid. </note>
+      </body>
+   </text>
+</TEI>

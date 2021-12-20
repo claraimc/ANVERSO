@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quiero dormir y no puedo</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Tradicional y Libro de música para vihuela, intitulado Orphenica
+            Lyra</title>
+               <date cert="high"/>
+               <pubPlace>Sevilla</pubPlace>
+               <publisher n="first_editor">Martín de Montesdoca</publisher>
+               <publisher n="used_edition">Lírica española de tipo popular (Cátedra, 2004)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Villancicos (Literatura)</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Quiero dormir, y no puedo,</l>
+                  <l>que el amor me quita el sueño.</l>
+               </lg>
+               <lg>
+                  <l>Manda pregonar el rey</l>
+                  <l>por Granada y por Sevilla</l>
+                  <l>que todo hombre namorado</l>
+                  <l>que se case con su amiga.</l>
+                  <l>Que el amor me quita el sueño.</l>
+               </lg>
+               <lg>
+                  <l>Quiero dormir y no puedo,</l>
+                  <l>que el amor me quita el sueño.</l>
+               </lg>
+               <lg>
+                  <l>[Que todo hombre enamorado</l>
+                  <l>que se case con su amiga:]</l>
+                  <l>¿Qué haré, triste cuitado,</l>
+                  <l>que es ya casada la mía?</l>
+                  <l>Que el amor me quita el sueño.</l>
+               </lg>
+               <lg>
+                  <l>Quiero dormir, y no puedo,</l>
+                  <l>que el amor me quita el sueño.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Canción considerada tradicional. </note>
+      </body>
+   </text>
+</TEI>

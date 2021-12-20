@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gacela del recuerdo de amor</title>
+            <author>Federico García Lorca</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Diván del Tamarit</title>
+               <date cert="high"/>
+               <pubPlace>Nueva York</pubPlace>
+               <publisher n="first_editor">Revista Hispánica Moderna</publisher>
+               <publisher n="used_edition">Obra completa II. Poesía, 2 (Akal, 2008)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor, Ausencia de amor y Erotismo</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <idno type="viaf">http://viaf.org/viaf/34456883</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1898</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1936</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>No te lleves tu recuerdo.</l>
+                  <l>Déjalo solo en mi pecho.</l>
+               </lg>
+               <lg>
+                  <l>Temblor de blanco cerezo</l>
+                  <l>en el martirio de Enero.</l>
+               </lg>
+               <lg>
+                  <l>Me separa de los muertos</l>
+                  <l>un muro de malos sueños.</l>
+               </lg>
+               <lg>
+                  <l>Doy pena de lirio fresco</l>
+                  <l>para un corazón de yeso.</l>
+               </lg>
+               <lg>
+                  <l>Toda la noche en el huerto</l>
+                  <l>mis ojos como dos perros.</l>
+               </lg>
+               <lg>
+                  <l>Toda la noche comiendo</l>
+                  <l>los membrillos de veneno.</l>
+               </lg>
+               <lg>
+                  <l>Algunas veces el viento</l>
+                  <l>es un tulipán de miedo.</l>
+               </lg>
+               <lg>
+                  <l>Es un tulipán enfermo</l>
+                  <l>la madrugada de invierno.</l>
+               </lg>
+               <lg>
+                  <l>Un muro de malos sueños</l>
+                  <l>me separa de los muertos.</l>
+               </lg>
+               <lg>
+                  <l>La hierba cubre en silencio</l>
+                  <l>el valle gris de tu cuerpo.</l>
+               </lg>
+               <lg>
+                  <l>Por el arco del encuentro</l>
+                  <l>la cicuta está creciendo.</l>
+               </lg>
+               <lg>
+                  <l>Pero deja tu recuerdo.</l>
+                  <l>¡Déjalo solo en mi pecho!</l>
+               </lg>
+            </lg>
+         </div>
+         <note>El poemario fue escrito presumiblemente entre 1931 y 1934, y la Universidad de Granada
+            llegó a preparar una edición que iba a publicarse en 1934 o 1935, pero no pasó de
+            pruebas de imprenta y no llegó a publicarse. </note>
+      </body>
+   </text>
+</TEI>

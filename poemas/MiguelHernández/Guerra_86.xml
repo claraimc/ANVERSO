@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Guerra</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cancionero y romancero de ausencias</title>
+               <date cert="high"/>
+               <pubPlace>Buenos Aires</pubPlace>
+               <publisher n="first_editor">Lautaro</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Guerra, Guerra Civil, Maternidad y Muerte</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>--</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Todas las madres del mundo,</l>
+                  <l>ocultan el vientre, tiemblan,</l>
+                  <l>y quisieran retirarse,</l>
+                  <l>a virginidades ciegas,</l>
+                  <l>al origen solitario</l>
+                  <l>y el pasado sin herencia.</l>
+               </lg>
+               <lg>
+                  <l>Pálida, sobrecogida</l>
+                  <l>la fecundidad se queda.</l>
+                  <l>El mar tiene sed y tiene</l>
+                  <l>sed de ser agua la tierra.</l>
+                  <l>Alarga la llama el odio</l>
+                  <l>y el amor cierra las puertas.</l>
+               </lg>
+               <lg>
+                  <l>Voces como lanzas vibran,</l>
+                  <l>voces como bayonetas.</l>
+                  <l>Bocas como puños vienen,</l>
+                  <l>puños como cascos llegan.</l>
+                  <l>Pechos como muros roncos,</l>
+                  <l>piernas como patas recias.</l>
+               </lg>
+               <lg>
+                  <l>El corazón se revuelve,</l>
+                  <l>se atorbellina, revienta.</l>
+                  <l>Arroja contra los ojos</l>
+                  <l>súbitas espumas negras.</l>
+               </lg>
+               <lg>
+                  <l>La sangre enarbola el cuerpo,</l>
+                  <l>precipita la cabeza</l>
+                  <l>y busca un hueco, una herida</l>
+                  <l>por donde lanzarse afuera.</l>
+                  <l>La sangre recorre el mundo</l>
+                  <l>enjaulada, insatisfecha.</l>
+                  <l>Las flores se desvanecen</l>
+                  <l>devoradas por la hierba.</l>
+                  <l>Ansias de matar invaden</l>
+                  <l>el fondo de la azucena.</l>
+                  <l>Acoplarse con metales</l>
+                  <l>todos los cuerpos anhelan:</l>
+                  <l>desposarse, poseerse</l>
+                  <l>de una terrible manera.</l>
+               </lg>
+               <lg>
+                  <l>Desaparecer: el ansia</l>
+                  <l>general, creciente, reina.</l>
+                  <l>Un fantasma de estandartes,</l>
+                  <l>una bandera quimérica,</l>
+                  <l>un mito de patrias: una</l>
+                  <l>grave ficción de fronteras.</l>
+               </lg>
+               <lg>
+                  <l>Músicas exasperadas,</l>
+                  <l>duras como botas, huellan</l>
+                  <l>la faz de las esperanzas</l>
+                  <l>y de las entrañas tiernas.</l>
+                  <l>Crepita el alma, la ira.</l>
+                  <l>El llanto relampaguea.</l>
+                  <l>¿Para qué quiero la luz</l>
+                  <l>si tropiezo con tinieblas?</l>
+               </lg>
+               <lg>
+                  <l>Pasiones como clarines,</l>
+                  <l>coplas, trompas que aconsejan</l>
+                  <l>devorarse ser a ser,</l>
+                  <l>destruirse, piedra a piedra.</l>
+                  <l>Relinchos. Retumbos. Truenos.</l>
+                  <l>Salivazos. Besos. Ruedas.</l>
+                  <l>Espuelas. Espadas locas</l>
+                  <l>abren una herida inmensa.</l>
+                  <l>Después, el silencio, mudo</l>
+                  <l>de algodón, blanco de vendas,</l>
+                  <l>cárdeno de cirugía,</l>
+                  <l>mutilado de tristeza.</l>
+                  <l>El silencio. Y el laurel</l>
+                  <l>en un rincón de osamentas.</l>
+                  <l>Y un tambor enamorado,</l>
+                  <l>como un vientre tenso, suena</l>
+                  <l>detrás del innumerable</l>
+                  <l>muerto que jamás se aleja.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Aunque publicado póstumamente por primera vez en 1958, el poema fue escrito en la
+            cárcel entre 1938 y 1941. En la Obra poética completa consultada aquí, se señalan las
+            siguientes variantes: “la fecundidad se queda” cambia por “la virginidad se queda”.
+        </note>
+      </body>
+   </text>
+</TEI>

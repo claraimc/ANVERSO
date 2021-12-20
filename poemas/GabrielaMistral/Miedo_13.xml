@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Miedo</title>
+            <author>Gabriela Mistral</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Ternura</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Editorial Saturno Callejera / 1924</publisher>
+               <publisher n="used_edition">1946-Espasa Calpe</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesías infantiles y Poesías juveniles</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Crecimiento, Maternidad, Patriarcado, Ansiedad y Infancia</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Gabriela Mistral</persName>
+                  <idno type="viaf">http://viaf.org/viaf/7498163513737511230008</idno>
+                  <nationality>Chile</nationality>
+                  <birth>
+                     <date cert="low">1889</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1957</date>
+                  </death>
+                  <floruit>Vanguardismo</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Yo no quiero que a mi niña</l>
+                  <l>golondrina me la vuelvan;</l>
+                  <l>se hunde volando en el Cielo</l>
+                  <l>y no baja hasta mi estera;</l>
+                  <l>en el alero hace nido</l>
+                  <l>y mis manos no la peinan.</l>
+                  <l>Yo no quiero que a mi niña</l>
+                  <l>golondrina me la vuelvan.</l>
+               </lg>
+               <lg>
+                  <l>Yo no quiero que a mi niña</l>
+                  <l>la vayan a hacer princesa.</l>
+                  <l>Con zapatitos de oro</l>
+                  <l>¿cómo juega en las praderas?</l>
+                  <l>Y cuando llegue la noche</l>
+                  <l>a mi lado no se acuesta…</l>
+                  <l>Yo no quiero que a mi niña</l>
+                  <l>la vayan a hacer princesa.</l>
+               </lg>
+               <lg>
+                  <l>Y menos quiero que un día</l>
+                  <l>me la vayan a hacer reina.</l>
+                  <l>La subirían al trono</l>
+                  <l>a donde mis pies no llegan.</l>
+                  <l>Cuando viniese la noche</l>
+                  <l>yo no podría mecerla…</l>
+                  <l>¡Yo no quiero que a mi niña</l>
+                  <l>me la vayan a hacer reina!</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Para esta ficha se ha utilizado la tercera edición de Espasa Calpe (Argentina, 1946).
+            El poema «Miedo» aparece en la página 93. Las dos ediciones anteriores de Espasa Calpe
+            son de 1945. </note>
+      </body>
+   </text>
+</TEI>

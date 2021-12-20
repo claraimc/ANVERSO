@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>18 de julio 1936 - 18 de julio 1938</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>El hombre acecha</title>
+               <date cert="high"/>
+               <pubPlace>Valencia</pubPlace>
+               <publisher n="first_editor">Delegación de la Secretaría de Propaganda / Imprenta
+                Moderna</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesías de guerra y Sonetos</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Guerra Civil</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Es sangre, no granizo, lo que azota mis sienes.</l>
+                  <l>Son dos años de sangre: son dos inundaciones.</l>
+                  <l>Sangre de acción solar, devoradora vienes,</l>
+                  <l>hasta dejar sin nadie y ahogados los balcones.</l>
+               </lg>
+               <lg>
+                  <l>Sangre que es el mejor de los mejores bienes.</l>
+                  <l>Sangre que atesoraba para el amor sus dones.</l>
+                  <l>Vedla enturbiando mares, sobrecogiendo trenes,</l>
+                  <l>desalentando toros donde alentó leones.</l>
+               </lg>
+               <lg>
+                  <l>El tiempo es sangre. El tiempo circula por mis venas.</l>
+                  <l>Y ante el reloj y el alba me siento más que herido,</l>
+                  <l>y oigo un chocar de sangres de todos los tamaños.</l>
+               </lg>
+               <lg>
+                  <l>Sangre donde se puede bañar la muerte apenas:</l>
+                  <l>fulgor emocionante que no ha palidecido,</l>
+                  <l>porque lo recogieron mis ojos de mil años.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>El hombre acecha fue editado por la Delegación de la Secretaría de Propaganda en la
+            Imprenta Moderna de Valencia; sin embargo, con la derrota de la II República en la
+            Guerra Civil, no se completaron los trabajos y la edición desapareció. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Primavera celosa</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>[Poemas no recogidos en libro - Poemas varios 1933-1934]</title>
+               <date cert="high"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica y Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Me cogiste el corazón,</l>
+                  <l>y hoy precipitas su vuelo</l>
+                  <l>con un abril de pasión</l>
+                  <l>y con un mayo de celo.</l>
+               </lg>
+               <lg>
+                  <l>Vehementes frentes tremendas</l>
+                  <l>de toros de amor vehementes</l>
+                  <l>a volcanes me encomiendas</l>
+                  <l>y me arrojas a torrentes.</l>
+               </lg>
+               <lg>
+                  <l>Del abril al mayo voy</l>
+                  <l>más celoso que moreno</l>
+                  <l>y más que celoso estoy</l>
+                  <l>en mi corazón ameno.</l>
+               </lg>
+               <lg>
+                  <l>Como de un fácil vergel.</l>
+                  <l>se apropian de ti y de mi</l>
+                  <l>la vehemencia del clavel</l>
+                  <l>y el vellón del alhelí.</l>
+               </lg>
+               <lg>
+                  <l>Hay gallos de altanería</l>
+                  <l>alardeando en mis venas</l>
+                  <l>y en la frondosa alma mía</l>
+                  <l>mejoranas y azucenas.</l>
+               </lg>
+               <lg>
+                  <l>Sin sospechar sus gusanos</l>
+                  <l>llega tu carne a sus plenos.</l>
+                  <l>y se me encrespan las manos</l>
+                  <l>y se te encrespan los senos.</l>
+               </lg>
+               <lg>
+                  <l>Me desazona la planta</l>
+                  <l>un ansia de enredadera</l>
+                  <l>y de tu cuerpo y de tanta</l>
+                  <l>rosa rosal ser quisiera.</l>
+               </lg>
+               <lg>
+                  <l>Dando fruto a las abejas,</l>
+                  <l>entre labios y racimos,</l>
+                  <l>muy cerca de tus orejas.</l>
+                  <l>y de las mías vivimos.</l>
+               </lg>
+               <lg>
+                  <l>Si a higuera tu beso huele,</l>
+                  <l>suena y sabe a ruiseñor,</l>
+                  <l>y abril con amor me duele</l>
+                  <l>y mayo con flor y amor.</l>
+               </lg>
+               <lg>
+                  <l>Beso y quiero, quiero y muero;</l>
+                  <l>si nos parte en dos la ausencia.</l>
+                  <l>pues con vehemencia te quiero.</l>
+                  <l>me moriré con vehemencia.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

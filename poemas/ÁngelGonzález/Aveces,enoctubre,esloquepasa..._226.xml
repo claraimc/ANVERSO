@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A veces, en octubre, es lo que pasa...</title>
+            <author>Ángel González</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Muestra, corregida y aumentada, de algunos procedimientos narrativos y de
+            las actitudes sentimentales que habitualmente comportan</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Turner</publisher>
+               <publisher n="used_edition">2017-Planeta [Austral]</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Tempus fugit y Esperanza</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Ángel González</persName>
+                  <idno type="viaf">http://viaf.org/viaf/84475449</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1925</date>
+                  </birth>
+                  <death>
+                     <date cert="low">2008</date>
+                  </death>
+                  <floruit>Generación del 50</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Cuando nada sucede,</l>
+                  <l>y el verano se ha ido,</l>
+                  <l>y las hojas comienzan a caer de los árboles,</l>
+                  <l>y el frío oxida el borde de los ríos</l>
+                  <l>y hace más lento el curso de las aguas;</l>
+               </lg>
+               <lg>
+                  <l>cuando el cielo parece un mar violento,</l>
+                  <l>y los pájaros cambian de paisaje,</l>
+                  <l>y las palabras se oyen cada vez más lejanas,</l>
+                  <l>como susurros que dispersa el viento;</l>
+               </lg>
+               <lg>
+                  <l>entonces,</l>
+                  <l>ya se sabe,</l>
+                  <l>es lo que pasa:</l>
+               </lg>
+               <lg>
+                  <l>esas hojas, los pájaros, las nubes,</l>
+                  <l>las palabras dispersas y los ríos,</l>
+                  <l>nos llenan de inquietud súbitamente</l>
+                  <l>y de desesperanza.</l>
+               </lg>
+               <lg>
+                  <l>No busquéis el motivo en vuestros corazones.</l>
+                  <l>Tan sólo es lo que dije:</l>
+                  <l>lo que pasa.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>La canción musicaliza el poema original sin alteraciones textuales, excepto que se
+            repiten algunos versos. </note>
+      </body>
+   </text>
+</TEI>

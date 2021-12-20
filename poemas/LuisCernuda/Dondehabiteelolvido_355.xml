@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Donde habite el olvido</title>
+            <author>Luis Cernuda</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Donde habite el olvido</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Signo</publisher>
+               <publisher n="used_edition">2007-Cátedra</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesías autobiográficas y Poesías experimentales</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor, Desamor y Olvido</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Luis Cernuda</persName>
+                  <idno type="viaf">http://viaf.org/viaf/https://viaf.org/viaf/44296556/#Cernuda,_Luis,_1902-1963.</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1902</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1963</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Donde habite el olvido,</l>
+                  <l>En los vastos jardines sin aurora;</l>
+                  <l>Donde yo sólo sea</l>
+                  <l>Memoria de una piedra sepultada entre ortigas</l>
+                  <l>Sobre la cual el viento escapa a sus insomnios.</l>
+                  <l>Donde mi nombre deje</l>
+                  <l>Al cuerpo que designa en brazos de los siglos,</l>
+                  <l>Donde el deseo no exista.</l>
+                  <l>En esa gran región donde el amor, ángel terrible,</l>
+                  <l>No esconda como acero</l>
+                  <l>En mi pecho su ala,</l>
+                  <l>Sonriendo lleno de gracia aérea mientras crece el tormento.</l>
+                  <l>Allí donde termine este afán que exige un dueño a imagen suya,</l>
+                  <l>Sometiendo a otra vida su vida,</l>
+                  <l>Sin más horizonte que otros ojos frente a frente.</l>
+                  <l>Donde penas y dichas no sean más que nombres,</l>
+                  <l>Cielo y tierra nativos en torno de un recuerdo;</l>
+                  <l>Donde al fin quede libre sin saberlo yo mismo,</l>
+                  <l>Disuelto en niebla, ausencia,</l>
+                  <l>Ausencia leve como carne de niño.</l>
+                  <l>Allá, allá lejos;</l>
+                  <l>Donde habite el olvido.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

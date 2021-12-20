@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>24 de diciembre</title>
+            <author>Gloria Fuertes</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Historia de Gloria (Amor, humor y desamor)</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Ediciones Cátedra</publisher>
+               <publisher n="used_edition">1981</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica, Poesías humorísticas, Poesías religiosas y Poesías sociales</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Crítica social, Religión, prostitución y Humor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Gloria Fuertes</persName>
+                  <idno type="viaf">http://viaf.org/viaf/73969667</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1917</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1998</date>
+                  </death>
+                  <floruit>Generación del 50</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>A una mujer de alterne</l>
+                  <l>(alias) Sor Telaraña del Portal de Belén.</l>
+               </lg>
+               <lg>
+                  <l>Humilde hermana monja</l>
+                  <l>de hábito raído y toca de retales,</l>
+                  <l>humilde princesita de Jesús descalza</l>
+                  <l>descalza en sus portales.</l>
+                  <l>Desahuciada de la burguesía</l>
+                  <l>emigrada de centros y hospitales,</l>
+                  <l>dada de alta,</l>
+                  <l>porque alta eres y estarás en altares.</l>
+                  <l>Garrapata de Cristo,</l>
+                  <l>luciérnaga en los bares,</l>
+                  <l>vas haciendo milagros por donde pasas</l>
+                  <l>¿sabes?</l>
+                  <l>(No lo sabes.)</l>
+                  <l>Yo quisiera imitarte,</l>
+                  <l>(a veces me creo que soy tú)</l>
+                  <l>Telaraña del Portal de Belén,</l>
+                  <l>la más humilde sierva andante.</l>
+                  <l>monja de amor al alba</l>
+                  <l>amante de mi amante.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>En Historia de Gloria (Amor, humor y desamor) está incluido otro poema con el mismo
+            título, 24 de diciembre, que no guarda relación con el aquí transcrito. </note>
+      </body>
+   </text>
+</TEI>

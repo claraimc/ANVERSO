@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elegía primera (A Federico García Lorca, poeta)</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Viento del pueblo</title>
+               <date cert="high"/>
+               <pubPlace>Valencia</pubPlace>
+               <publisher n="first_editor">Socorro Rojo</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Muerte y Elegía</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Atraviesa la muerte con herrumbrosas lanzas</l>
+                  <l>y en traje de cañón, las parameras</l>
+                  <l>donde cultiva el hombre raíces y esperanzas,</l>
+                  <l>y llueve sal, y esparce calaveras.</l>
+               </lg>
+               <lg>
+                  <l>Verdura de las eras,</l>
+                  <l>¿qué tiempo prevalece la alegría?</l>
+                  <l>El sol pudre la sangre, la cubre de asechanzas</l>
+                  <l>y hace brotar la sombra más sombría.</l>
+               </lg>
+               <lg>
+                  <l>El dolor y su manto</l>
+                  <l>vienen una vez más a nuestro encuentro.</l>
+                  <l>Y una vez más al callejón del llanto</l>
+                  <l>lluviosamente entro.</l>
+               </lg>
+               <lg>
+                  <l>Siempre me veo dentro</l>
+                  <l>de esta sombra de acíbar revocada,</l>
+                  <l>amasado con ojos y bordones,</l>
+                  <l>que un candil de agonía tiene puesto a la entrada</l>
+                  <l>y un rabioso collar de corazones.</l>
+               </lg>
+               <lg>
+                  <l>Llorar dentro de un pozo,</l>
+                  <l>en la misma raíz desconsolada</l>
+                  <l>del agua, del sollozo,</l>
+                  <l>del corazón quisiera:</l>
+                  <l>donde nadie me viera la voz ni la mirada,</l>
+                  <l>ni restos de mis lágrimas me viera.</l>
+               </lg>
+               <lg>
+                  <l>Entro despacio, se me cae la frente</l>
+                  <l>despacio, el corazón se me desgarra</l>
+                  <l>despacio, y despaciosa y negramente</l>
+                  <l>vuelvo a llorar al pie de una guitarra.</l>
+               </lg>
+               <lg>
+                  <l>Entre todos los muertos de elegía,</l>
+                  <l>sin olvidar el eco de ninguno,</l>
+                  <l>por haber resonado más en el alma mía,</l>
+                  <l>la mano de mi llanto escoge uno.</l>
+               </lg>
+               <lg>
+                  <l>Federico García</l>
+                  <l>hasta ayer se llamó: polvo se llama.</l>
+                  <l>Ayer tuvo un espacio bajo el día</l>
+                  <l>que hoy el hoyo le da bajo la grama.</l>
+               </lg>
+               <lg>
+                  <l>¡Tanto fue! ¡Tanto fuiste y ya no eres!</l>
+                  <l>Tu agitada alegría,</l>
+                  <l>que agitaba columnas y alfileres,</l>
+                  <l>de tus dientes arrancas y sacudes,</l>
+                  <l>y ya te pones triste, y sólo quieres</l>
+                  <l>ya el paraíso de los ataúdes.</l>
+               </lg>
+               <lg>
+                  <l>Vestido de esqueleto,</l>
+                  <l>durmiéndote de plomo,</l>
+                  <l>de indiferencia armado y de respeto,</l>
+                  <l>te veo entre tus cejas si me asomo.</l>
+               </lg>
+               <lg>
+                  <l>Se ha llevado tu vida de palomo,</l>
+                  <l>que ceñía de espuma</l>
+                  <l>y de arrullos el cielo y las ventanas,</l>
+                  <l>como un raudal de pluma</l>
+                  <l>el viento que se lleva las semanas.</l>
+               </lg>
+               <lg>
+                  <l>Primo de las manzanas,</l>
+                  <l>no podrá con tu savia la carcoma,</l>
+                  <l>no podrá con tu muerte la lengua del gusano,</l>
+                  <l>y para dar salud fiera a su poma</l>
+                  <l>elegirá tus huesos el manzano.</l>
+               </lg>
+               <lg>
+                  <l>Cegado el manantial de tu saliva,</l>
+                  <l>hijo de la paloma,</l>
+                  <l>nieto del ruiseñor y de la oliva:</l>
+                  <l>serás, mientras la tierra vaya y vuelva,</l>
+                  <l>esposo siempre de la siempreviva,</l>
+                  <l>estiércol padre de la madreselva.</l>
+               </lg>
+               <lg>
+                  <l>¡Qué sencilla es la muerte: qué sencilla,</l>
+                  <l>pero qué injustamente arrebatada!</l>
+                  <l>No sabe andar despacio, y acuchilla</l>
+                  <l>cuando menos se espera su turbia cuchillada.</l>
+               </lg>
+               <lg>
+                  <l>Tú, el más firme edificio, destruido,</l>
+                  <l>tú, el gavilán más alto, desplomado,</l>
+                  <l>tú, el más grande rugido,</l>
+                  <l>callado, y más callado, y más callado.</l>
+               </lg>
+               <lg>
+                  <l>Caiga tu alegre sangre de granado,</l>
+                  <l>como un derrumbamiento de martillos feroces,</l>
+                  <l>sobre quien te detuvo mortalmente.</l>
+                  <l>Salivazos y hoces</l>
+                  <l>caigan sobre la mancha de su frente.</l>
+               </lg>
+               <lg>
+                  <l>Muere un poeta y la creación se siente</l>
+                  <l>herida y moribunda en las entrañas.</l>
+                  <l>Un cósmico temblor de escalofríos</l>
+                  <l>mueve temiblemente las montañas,</l>
+                  <l>un resplandor de muerte la matriz de los ríos.</l>
+               </lg>
+               <lg>
+                  <l>Oigo pueblos de ayes y valles de lamentos,</l>
+                  <l>veo un bosque de ojos nunca enjutos,</l>
+                  <l>avenidas de lágrimas y mantos:</l>
+                  <l>y en torbellino de hojas y de vientos,</l>
+                  <l>lutos tras otros lutos y otros lutos,</l>
+                  <l>llantos tras otros llantos y otros llantos.</l>
+               </lg>
+               <lg>
+                  <l>No aventarán, no arrastrarán tus huesos,</l>
+                  <l>volcán de arrope, trueno de panales,</l>
+                  <l>poeta entretejido, dulce, amargo,</l>
+                  <l>que al calor de los besos</l>
+                  <l>sentiste, entre dos largas hileras de puñales,</l>
+                  <l>largo amor, muerte larga, fuego largo.</l>
+               </lg>
+               <lg>
+                  <l>Por hacer a tu muerte compañía,</l>
+                  <l>vienen poblando todos los rincones</l>
+                  <l>del cielo y de la tierra bandadas de armonía,</l>
+                  <l>relámpagos de azules vibraciones.</l>
+                  <l>Crótalos granizados a montones,</l>
+                  <l>batallones de flautas, panderos y gitanos,</l>
+                  <l>ráfagas de abejorros y violines,</l>
+                  <l>tormentas de guitarras y pianos,</l>
+                  <l>irrupciones de trompas y clarines.</l>
+               </lg>
+               <lg>
+                  <l>Pero el silencio puede más que tanto instrumento.</l>
+               </lg>
+               <lg>
+                  <l>Silencioso, desierto, polvoriento</l>
+                  <l>en la muerte desierta,</l>
+                  <l>parece que tu lengua, que tu aliento,</l>
+                  <l>los ha cerrado el golpe de una puerta.</l>
+               </lg>
+               <lg>
+                  <l>Como si paseara con tu sombra,</l>
+                  <l>paseo con la mía</l>
+                  <l>por una tierra que el silencio alfombra,</l>
+                  <l>que el ciprés apetece más sombría.</l>
+               </lg>
+               <lg>
+                  <l>Rodea mi garganta tu agonía</l>
+                  <l>como un hierro de horca</l>
+                  <l>y pruebo una bebida funeraria.</l>
+                  <l>Tú sabes, Federico García Lorca,</l>
+                  <l>que soy de los que gozan una muerte diaria.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

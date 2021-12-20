@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Te recuerdo como eras en el último otoño</title>
+            <author>Pablo Neruda</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Veinte poemas de amor y una canción desesperada</title>
+               <date cert="high"/>
+               <pubPlace>Santiago de Chile</pubPlace>
+               <publisher n="first_editor">Editorial Nascimento - 1924</publisher>
+               <publisher n="used_edition">Manchester University Press-2007</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor, Memoria y Naturaleza</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Pablo Neruda</persName>
+                  <idno type="viaf">http://viaf.org/viaf/95126958</idno>
+                  <nationality>Chile</nationality>
+                  <birth>
+                     <date cert="low">1904</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1973</date>
+                  </death>
+                  <floruit>Otro</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Te recuerdo como eras en el último otoño.</l>
+                  <l>Eras la boina gris y el corazón en calma.</l>
+                  <l>En tus ojos peleaban las llamas del crepúsculo.</l>
+                  <l>Y las hojas caían en el agua de tu alma.</l>
+               </lg>
+               <lg>
+                  <l>Apegada a mis brazos como una enredadera,</l>
+                  <l>las hojas recogían tu voz lenta y en calma.</l>
+                  <l>Hoguera de estupor en que mi sed ardía.</l>
+                  <l>Dulce jacinto azul torcido sobre mi alma.</l>
+               </lg>
+               <lg>
+                  <l>Siento viajar tus ojos y es distante el otoño:</l>
+                  <l>boina gris, voz de pájaro, y corazón de casa</l>
+                  <l>hacia donde emigraban mis profundos anhelos</l>
+                  <l>y caían mis besos alegres como brasas.</l>
+               </lg>
+               <lg>
+                  <l>Cielo desde un navío. Campo desde los cerros.</l>
+                  <l>Tu recuerdo es de luz, de humo, de estanque en calma!</l>
+                  <l>Más allá de tus ojos ardían los crepúsculos.</l>
+                  <l>Hojas secas de otoño giraban en tu alma.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Se ma marcado como título el primer verso del poema. </note>
+      </body>
+   </text>
+</TEI>

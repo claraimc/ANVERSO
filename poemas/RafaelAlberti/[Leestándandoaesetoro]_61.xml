@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Le están dando a ese toro]</title>
+            <author>Rafael Alberti</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Entre el clavel y la espada</title>
+               <date cert="high"/>
+               <pubPlace>Buenos Aires</pubPlace>
+               <publisher n="first_editor">Losada</publisher>
+               <publisher n="used_edition">Obras completas. Poesía II (Seix Barral - 2003)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Toros y Exilio</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <idno type="viaf">http://viaf.org/viaf/51683733</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1902</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1999</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Le están dando a este toro</l>
+                  <l>pastos amargos,</l>
+                  <l>yerbas con sustancia de muertos,</l>
+                  <l>negras hieles</l>
+                  <l>y clara sangre ingenua de soldado.</l>
+                  <l>¡Ay, qué mala comida para este toro verde</l>
+                  <l>acostumbrado a las libres dehesas y a los ríos,</l>
+                  <l>para este toro a quien la mar y el cielo</l>
+                  <l>eran aún pequeños como establo!</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

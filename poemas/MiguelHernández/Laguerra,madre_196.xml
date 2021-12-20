@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La guerra, madre</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>--</title>
+               <date cert="high"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesías de guerra</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Guerra</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>La guerra, madre: la guerra.</l>
+                  <l>Mi casa sola y sin nadie.</l>
+                  <l>Mi almohada sin aliento.</l>
+                  <l>La guerra, madre: la guerra.</l>
+                  <l>Mi almohada sin aliento.</l>
+                  <l>La guerra, madre: la guerra.</l>
+               </lg>
+               <lg>
+                  <l>La vida, madre: la vida.</l>
+                  <l>La vida para matarse.</l>
+                  <l>Mi corazón sin compaña.</l>
+                  <l>La guerra, madre: la guerra.</l>
+                  <l>Mi corazón sin compaña.</l>
+                  <l>La guerra, madre: la guerra.</l>
+               </lg>
+               <lg>
+                  <l>¿Quién mueve sus hondos pasos</l>
+                  <l>En mi alma y en mi calle?</l>
+                  <l>Cartas moribundas, muertas.</l>
+                  <l>La guerra, madre: la guerra.</l>
+                  <l>Cartas moribundas, muertas.</l>
+                  <l>La guerra, madre: la guerra.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

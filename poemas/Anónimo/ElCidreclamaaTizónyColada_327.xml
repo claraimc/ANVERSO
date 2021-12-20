@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El Cid reclama a Tizón y Colada</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cantar de mio Cid</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">1913 - Ediciones de La Lectura</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Cantares de gesta</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>El Cid (Rodrigo Díaz de Vivar)</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>--</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Ala puerta de fuera descavalga a sabor;</l>
+                  <l>cuerdamientra entra mió Çid con todos los sos:</l>
+                  <l>elle va en medio, elos çiento aderredor.</l>
+                  <l>Quando lo vieron entrar al que en buen ora naçió.</l>
+                  <l>levantós en pie el buen rey don Alfons</l>
+                  <l>e el comde don Anrric e el comde don Remont</l>
+                  <l>e desí adelant, sabet, todos los otros de la cort :</l>
+                  <l>a grant ondra lo reçiben al que en buen ora naçió.</l>
+                  <l>Nos quiso levantar el Crespo de Grañón,</l>
+                  <l>nin todos los del bando de ifantes de Carrión.</l>
+                  <l>El rey a mió Çid a las manos le tomó :</l>
+                  <l>» Venid acá seer comigo, Campeador,</l>
+                  <l>«en aqueste escaño quem diestes vos en don ;</l>
+                  <l>«maguer que algunos pesa, mejor sodes que nos.»</l>
+                  <l>Essora dixo muchas merçedes el que Valençia gañó :</l>
+                  <l>«seed en vuestro escaño commo rey e señor ;</l>
+                  <l>«acá posaré con todos aquestos mios.»</l>
+                  <l>Lo que dixo el Çid al rey plogo de coraçón.</l>
+                  <l>En un escaño torniño essora mió Çid posó,</l>
+                  <l>los çiento quel aguardan posan aderredor.</l>
+                  <l>Catando están a mió Çid quantos ha en la cort,</l>
+                  <l>a la barba que avié luenga e presa con el cordón;</l>
+                  <l>en sos aguisamientos bien semeja varón.</l>
+                  <l>Nol pueden catar de vergüença ifantes de Carrión.</l>
+                  <l>Essora se levó en pie el buen rey don Alfons;</l>
+                  <l>«Oíd, mesnadas, sí vos vala el Criador !</l>
+                  <l>«Yo, de que fu rey, non fiz mas de dos cortes :</l>
+                  <l>«la una fo en Burgos, e la otra en Carrión,</l>
+                  <l>«esta terçera a Toledo la vin fer oy,</l>
+                  <l>«por el amor de mió Çid el que en buen ora naçió,</l>
+                  <l>«que reçiba derecho de ifantes de Carrión.</l>
+                  <l>«Grande tuerto le han tenido, sabémoslo todos nos;</l>
+                  <l>«alcaldes sean desto comde don Anrric e comde don Remond</l>
+                  <l>«e estos otros comdes que del vando non sodes.</l>
+                  <l>«Todos meted i mientes, ca sodes coñoscedores,</l>
+                  <l>«por escoger el derecho, ca tuerto non mando yo.</l>
+                  <l>«Della e della part en paz seamos oy.</l>
+                  <l>«Juro par sant Esidre, el que bolviere mi cort</l>
+                  <l>«quitar me a el reyno, perderá mi amor.</l>
+                  <l>«Con el que toviere derecho yo dessa parte me so.</l>
+                  <l>«Agora demande mió Çid el Campeador:</l>
+                  <l>«sabremos qué responden ifantes de Carrión.»</l>
+                  <l>Mió Çid la mano beso al rey e en pie se levantó;</l>
+                  <l>«Mucho vos lo gradesco commo a rey e a señor,</l>
+                  <l>«por quanto esta cort fiziestes por mi amor.</l>
+                  <l>«Esto les demando a ifantes de Carrión :</l>
+                  <l>«por mis fijas quem dexaron yo non he desonor,</l>
+                  <l>«ca vos las casastes, rey, sabredes qué fer oy ;</l>
+                  <l>«mas quando sacaron mis fijas de Valençia la mayor,</l>
+                  <l>«yo bien los quería d’ alma e de coraçón,</l>
+                  <l>«diles dos espadas a Colada e a Tizón,</l>
+                  <l>«estas yo las gané a guisa de varón,</l>
+                  <l>«ques ondrassen con ellas e sirviessen a vos;</l>
+                  <l>«quando dexaron mis fijas en el robredo de Corpes,</l>
+                  <l>«comigo non quisieron aver nada e perdieron mi amor;</l>
+                  <l>«denme mis espadas quando mios yernos non son.»</l>
+                  <l>Atorgan los alcaldes: «tod esto es razón.»</l>
+                  <l>Dixo comde don Garçía : «a esto fablemos nos.»</l>
+                  <l>Essora salién aparte ifantes de Carrión,</l>
+                  <l>con todos sos parientes y el bando que i son;</l>
+                  <l>apriessa lo ivan trayendo e acuerdan la razón :</l>
+                  <l>«Aun grand amor nos faze el Çid Campeador,</l>
+                  <l>«quando desondra de sus fijas no nos demanda oy ;</l>
+                  <l>«bien nos abendremos con el rey don Alfons.</l>
+                  <l>«Démosle sus espadas, quando assí finca la boz,</l>
+                  <l>«e quando las toviere, partir se a la cort;</l>
+                  <l>«ya mas non avrá derecho de nos el Çid Canpeador.»</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Vv. 3104-3170 del Cantar de mio Cid. </note>
+      </body>
+   </text>
+</TEI>

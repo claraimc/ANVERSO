@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nocturno</title>
+            <author>Rafael Alberti</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>De un momento a otro: poesía e historia (1932-1937) [Capital de la
+            gloria]</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Ediciones Europa-América</publisher>
+               <publisher n="used_edition">Obras completas. Poesía II (Seix Barral - 2003)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesías de guerra y Poesías políticas</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Guerra Civil, Guerra y Palabra</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <idno type="viaf">http://viaf.org/viaf/51683733</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1902</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1999</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Cuando tanto se sufre sin sueño y por la sangre</l>
+                  <l>se escucha que transita solamente la rabia,</l>
+                  <l>que en los tuétanos tiembla despabilado el odio</l>
+                  <l>y en las médulas arde continua la venganza,</l>
+                  <l>las palabras entonces no sirven: son palabras.</l>
+               </lg>
+               <lg>
+                  <l>Balas, balas.</l>
+               </lg>
+               <lg>
+                  <l>Manifiestos, artículos, comentarios, discursos,</l>
+                  <l>humaredas perdidas, neblinas estampadas;</l>
+                  <l>¡qué dolor de papeles que ha de barrer el viento,</l>
+                  <l>qué tristeza de tinta que ha de borrar el agua!</l>
+               </lg>
+               <lg>
+                  <l>Balas, balas.</l>
+               </lg>
+               <lg>
+                  <l>Ahora sufro lo pobre, lo mezquino, lo triste,</l>
+                  <l>lo desgraciado y muerto que tiene una garganta</l>
+                  <l>cuando desde el abismo de su idioma quisiera</l>
+                  <l>gritar lo que no puede por imposible, y calla.</l>
+               </lg>
+               <lg>
+                  <l>Balas, balas.</l>
+               </lg>
+               <lg>
+                  <l>Siento esta noche heridas de muerte las palabras.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Hubo una musicalización anterior a 1975, por eso no está recogida en esta base de
+            datos: Paco Ibáñez (Paco Ibáñez III, 1969). </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Glosa a “Ven, muerte, tan escondida”</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>--</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Glosas (Literatura)</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Muerte y Paradoja</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Renacimiento</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Ven, muerte, tan escondida,</l>
+                  <l>que no te sienta venir</l>
+                  <l>porque el placer de morir</l>
+                  <l>no me vuelva a dar la vida.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Esta glosa del famoso poema de cancionero del Comendador Escrivá se atribuye a Santa
+            Teresa, pero también lo recogen Cervantes, Lope de Vega y el Romancero General de 1604.
+            Dada la gran popularidad de la copla original y la recurrencia de esta versión en
+            diferentes textos literarios, nos decantamos por seguir considerándola anónima. </note>
+      </body>
+   </text>
+</TEI>

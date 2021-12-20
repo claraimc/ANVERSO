@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Antes del odio</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cancionero y romancero de ausencias</title>
+               <date cert="high"/>
+               <pubPlace>Buenos Aires</pubPlace>
+               <publisher n="first_editor">Lautaro</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor, Libertad y Prisión</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Beso soy, sombra con sombra.</l>
+                  <l>Beso, dolor con dolor,</l>
+                  <l>por haberme enamorado,</l>
+                  <l>corazón sin corazón,</l>
+                  <l>de las cosas, del aliento</l>
+                  <l>sin sombra de la creación.</l>
+                  <l>Sed con agua en la distancia,</l>
+                  <l>pero sed alrededor.</l>
+                  <l>Corazón en una copa</l>
+                  <l>donde me lo bebo yo</l>
+                  <l>y no se lo bebe nadie,</l>
+                  <l>nadie sabe su sabor.</l>
+                  <l>Odio, vida: ¡cuánto odio</l>
+                  <l>sólo por amor!</l>
+               </lg>
+               <lg>
+                  <l>No es posible acariciarte</l>
+                  <l>con las manos que me dio</l>
+                  <l>el fuego de más deseo,</l>
+                  <l>el ansia de más ardor.</l>
+                  <l>Varias alas, varios vuelos</l>
+                  <l>abaten en ellas hoy</l>
+                  <l>hierros que cercan las venas</l>
+                  <l>y las muerden con rencor.</l>
+                  <l>Por amor, vida, abatido,</l>
+                  <l>pájaro sin remisión,</l>
+                  <l>sólo por amor odiado,</l>
+                  <l>sólo por amor.</l>
+               </lg>
+               <lg>
+                  <l>Amor, tu bóveda arriba</l>
+                  <l>y yo abajo siempre, amor,</l>
+                  <l>sin otra luz que estas ansias,</l>
+                  <l>sin otra iluminación.</l>
+                  <l>Mírame aquí encadenado,</l>
+                  <l>escupido, sin calor,</l>
+                  <l>a los pies de la tiniebla</l>
+                  <l>más súbita, más feroz,</l>
+                  <l>comiendo pan y cuchillo</l>
+                  <l>como buen trabajador</l>
+                  <l>y a veces cuchillo sólo,</l>
+                  <l>sólo por amor.</l>
+               </lg>
+               <lg>
+                  <l>Todo lo que significa</l>
+                  <l>golondrinas, ascensión,</l>
+                  <l>claridad, anchura, aire,</l>
+                  <l>decidido espacio, sol,</l>
+                  <l>horizonte aleteante,</l>
+                  <l>sepultado en un rincón.</l>
+                  <l>Esperanza, mar, desierto,</l>
+                  <l>sangre, monte rodador,</l>
+                  <l>libertades de mi alma</l>
+                  <l>clamorosas de pasión,</l>
+                  <l>desfilando por mi cuerpo,</l>
+                  <l>donde no se quedan, no,</l>
+                  <l>pero donde se despliegan,</l>
+                  <l>sólo por amor.</l>
+               </lg>
+               <lg>
+                  <l>Porque dentro de la triste</l>
+                  <l>guirnalda del eslabón,</l>
+                  <l>del sabor a carcelero</l>
+                  <l>constante y a paredón,</l>
+                  <l>y a precipicio en acecho,</l>
+                  <l>alto, alegre, libre soy.</l>
+                  <l>Alto, alegre, libre, libre,</l>
+                  <l>sólo por amor.</l>
+               </lg>
+               <lg>
+                  <l>No, no hay cárcel para el hombre.</l>
+                  <l>No podrán atarme, no.</l>
+                  <l>Este mundo de cadenas</l>
+                  <l>me es pequeño y exterior.</l>
+                  <l>¿Quién encierra una sonrisa?</l>
+                  <l>¿Quién amuralla una voz?</l>
+                  <l>A lo lejos tú, más sola</l>
+                  <l>que la muerte, la una y yo.</l>
+                  <l>A lo lejos tú, sintiendo</l>
+                  <l>en tus brazos mi prisión,</l>
+                  <l>en tus brazos donde late</l>
+                  <l>la libertad de los dos.</l>
+                  <l>Libre soy. Siénteme libre.</l>
+                  <l>Sólo por amor.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Aunque publicado póstumamente por primera vez en 1958, el poema fue escrito en la
+            cárcel entre 1938 y 1941. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La conquista de Valencia</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cantar de mio Cid</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">1913 - Ediciones de La Lectura</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Cantares de gesta</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>El Cid (Rodrigo Díaz de Vivar)</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>--</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>En tierra de moros prendiendo e ganando,</l>
+                  <l>e durmiendo los días e las noches tranochando,</l>
+                  <l>en ganar aquellas villas mió Çid duró tres años.</l>
+                  <l>A los de Valençia escarmentados los han.</l>
+                  <l>non osan fueras exir nin con él se ajuntar;</l>
+                  <l>tajávales las huertas e fazíales grand mal,</l>
+                  <l>en cada uno destos años mió Çid les tollió el pan.</l>
+                  <l>Mal se aquexan los de Valençia que non sabent ques far.</l>
+                  <l>de ninguna part que sea non les viníe pan;</l>
+                  <l>nin da conssejo padre a fijo, nin fijo a padre.</l>
+                  <l>nin amigo a amigo nos pueden consolar.</l>
+                  <l>Mala cueta es, señores, aver mingua de pan,</l>
+                  <l>fijos e mugieres veer los murir de fanbre.</l>
+                  <l>Delante veyen so duelo, non se pueden huviar,</l>
+                  <l>por el rey de Marruecos ovieron a enbiar;</l>
+                  <l>con el de los Montes Claros avíe guerra tan grand,</l>
+                  <l>non les dixo consejo, nin los vino huviar.</l>
+                  <l>Sopólo mió Çid, de coraçón le plaz ;</l>
+                  <l>salió de Murviedro una noch a trasnochar</l>
+                  <l>amaneció a mió Çid en tierras de Mon Real.</l>
+                  <l>Por Aragón e por Navarra pregón mandó echar,</l>
+                  <l>a tierras de Castiella enbió sos menssajes:</l>
+                  <l>Quien quiere perder cueta e venir a rritad,</l>
+                  <l>viniesse a mío Çid que a sabor de cavalgar;</l>
+                  <l>çercar quiere a Valençia pora cristianos la dar:</l>
+                  <l>«quien quiere ir comigo cercar a Valençia.</l>
+                  <l>«todos vengan de grado, ninguno non ha premia,</l>
+                  <l>«tres días le speraré en Canal de Çelfa.»</l>
+                  <l>Esto dixo mió Çid el Campeador leal.</l>
+                  <l>Tornávas a Murviedro, ca él ganada se la a.</l>
+                  <l>Andidieron los pregones, sabet, a todas partes,</l>
+                  <l>al sabor de la ganançia, non lo quieren detardar,</l>
+                  <l>grandes yentes se le acojen de la buena cristiandad.</l>
+                  <l>Sonando van sus nuevas todas a todas partes;</l>
+                  <l>mas le vienen a mió Çid, sabet, que nos le van ;</l>
+                  <l>creçiendo va riqueza a mió Çid el de Bivar;</l>
+                  <l>quando vido las gentes juntadas, compeçós de pagar.</l>
+                  <l>Mió Çid don Rodrigo non lo quiso detardar,</l>
+                  <l>adeliñó pora Valençia e sobrellas va echar,</l>
+                  <l>bien la çerca mió Çid, que non i avía hart;</l>
+                  <l>víédales exir e viédales entrar.</l>
+                  <l>Metióla en plazdo, si les viniessen huviar.</l>
+                  <l>Nueve meses complidos, sabet, sobrella yaz,</l>
+                  <l>quando vino el dezeno oviérongela a dar.</l>
+                  <l>Grandes son los gozos que van por es logar</l>
+                  <l>quando mió Çid gañó a Valençia e entró en la çibdad.</l>
+                  <l>Los que foron de pie cavalleros se fazen ;</l>
+                  <l>el oro e la plata ¿quien vos lo podrie contar ?</l>
+                  <l>Todos eran ricos quantos que allí ha.</l>
+                  <l>Mió Çid don Rodrigo la quinta mandó tomar,</l>
+                  <l>en el aver monedado treynta mill marcos le caen,</l>
+                  <l>e los otros averes ¿quien los podrié contar?</l>
+                  <l>Alegre era el Campeador con todos los que ha,</l>
+                  <l>quando su seña cabdal sedié en somo del alcáçer.</l>
+                  <l>Ya folgava mió Çid con todas sus conpañas:</l>
+                  <l>aquel rey de Sevilla el mandado llegava,</l>
+                  <l>que presa es Valencia, que non gela enparan,</l>
+                  <l>vino los veer con treynta mill de armas.</l>
+                  <l>Aprés de la uerta ovieron la batalla,</l>
+                  <l>arrancólos mió Çid el de la luenga barba.</l>
+                  <l>Fata dentro en Xátiva duró el arrancada,</l>
+                  <l>en el passar de Xúcar i veriédes barata,</l>
+                  <l>moros en arruenço amidos bever agua.</l>
+                  <l>Aquel rey de Sevilla con tres colpes escapa.</l>
+                  <l>Tornado es mió Çid con toda esta ganançia</l>
+                  <l>Buena fo la de Valençia quando ganaron la casa,</l>
+                  <l>mas mucho fue provechosa, sabet, esta arrancada:</l>
+                  <l>a todos los menores cayeron çient marcos de plata.</l>
+                  <l>Las nuevas del cavallero ya veedes do llegavan.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Vv. 1167-1235 del Cantar de mio Cid. </note>
+      </body>
+   </text>
+</TEI>

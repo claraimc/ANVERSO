@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romance de rosa fresca</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Romancero viejo</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">Cancionero y romancero de coplas y canciones de arte menor
+                (Imprenta de don Eusebio Aguado, 1829)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor, Infidelidad y Engaño</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>—Rosa fresca, rosa fresca,</l>
+                  <l>tan garrida y con amor,</l>
+                  <l>cuando yo os tuve en mis brazos</l>
+                  <l>no vos supe servir, no,</l>
+                  <l>y ahora que os serviría</l>
+                  <l>no vos puedo haber, no.</l>
+                  <l>—Vuestra fue la culpa, amigo,</l>
+                  <l>vuestra fue, que mía no:</l>
+                  <l>enviástesme una carta</l>
+                  <l>con un vuestro servidor</l>
+                  <l>y en lugar de recaudar</l>
+                  <l>él dijera otra razón:</l>
+                  <l>que érades casado, amigo,</l>
+                  <l>allá en tierras de León,</l>
+                  <l>que tenéis mujer hermosa</l>
+                  <l>y hijos como una flor.</l>
+                  <l>—Quien os lo dijo, señora,</l>
+                  <l>no vos dijo verdad, no,</l>
+                  <l>que yo nunca entré en Castilla</l>
+                  <l>ni allá en tierras de León,</l>
+                  <l>sino cuando era pequeño</l>
+                  <l>que no sabía de amor.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Versión recogida por Durán. </note>
+      </body>
+   </text>
+</TEI>

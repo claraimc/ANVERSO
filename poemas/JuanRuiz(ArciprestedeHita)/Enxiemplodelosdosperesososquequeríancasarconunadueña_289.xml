@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Enxiemplo de los dos peresosos que querían casar con una dueña</title>
+            <author>Juan Ruiz (Arcipreste de Hita)</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Libro de buen amor</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">2000 - Biblioteca Virtual Miguel de Cervantes</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Mester de clerecía</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Exemplum y Antifeminismo</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Juan Ruiz (Arcipreste de Hita)</persName>
+                  <idno type="viaf">http://viaf.org/viaf/163823217</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1283</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1350</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Desir t’he la fasaña de los dos peresosos</l>
+                  <l>que querían casamiento e andavan acusiosos;</l>
+                  <l>amos por una dueña estavan codiçiosos</l>
+                  <l>eran muy bien apuestos e verás quán fermosos.</l>
+               </lg>
+               <lg>
+                  <l>El uno era tuerto del su ojo derecho,</l>
+                  <l>ronco era el otro, de la pierna contrecho,</l>
+                  <l>el uno del otro avía muy grand despecho.</l>
+                  <l>Coydando que tenían su casamiento fecho.</l>
+               </lg>
+               <lg>
+                  <l>Díxoles la dueña que ella quería casar</l>
+                  <l>con el más peresoso e aquel quería tomar;</l>
+                  <l>esto desíe la dueña queriéndolos abeitar.</l>
+                  <l>Fabró luego el coxo, coydose adelantar.</l>
+               </lg>
+               <lg>
+                  <l>Dixo: ‘Señora, oíd primero la mi raçón:</l>
+                  <l>‘Yo soy más peresoso que este mi compañón:</l>
+                  <l>‘por peresa de tender el pie fasta el escalón</l>
+                  <l>‘caí de la escalera, finqué con esta lisión.</l>
+               </lg>
+               <lg>
+                  <l>‘Otrosí, yo pasava nadando por el río,</l>
+                  <l>‘fasía la siesta grande, mayor que ome non vido;</l>
+                  <l>‘perdíame de sed; tal peresa yo crío,</l>
+                  <l>‘que por no abrir la boca de sed perdí el fablar mío.’</l>
+               </lg>
+               <lg>
+                  <l>Desque calló el coxo, dixo el tuerto: ‘Señora,</l>
+                  <l>‘chica es la peresa que éste dixo agora,</l>
+                  <l>‘desir vos he la mía, non vistes tal ningund hora,</l>
+                  <l>‘nin ver tal la puede ome que en Dios adora.</l>
+               </lg>
+               <lg>
+                  <l>‘Yo era enamorado de una dueña en abril;</l>
+                  <l>‘estando delante ella, sosegado e muy omil,</l>
+                  <l>‘vínome desçendimiento a las narises muy vil,</l>
+                  <l>‘por peresa de alimpiarme perdí la dueña gentil.</l>
+               </lg>
+               <lg>
+                  <l>‘Mas vos diré, señora, una noche yasía</l>
+                  <l>‘en la cama despierto, e muy fuerte llovía,</l>
+                  <l>‘dávame una gotera del agua que fasía,</l>
+                  <l>‘en el mi ojo muy resia, a menudo fería.</l>
+               </lg>
+               <lg>
+                  <l>‘Yo ove grand peresa de la cabeça redrar,</l>
+                  <l>‘la gotera que vos digo, con su mucho resio dar</l>
+                  <l>‘el ojo, de que soy tuerto, óvomelo de quebrar;</l>
+                  <l>‘devedes por más peresa, dueña, conmigo casar.’</l>
+               </lg>
+               <lg>
+                  <l>‘Non sé,’ dixo la dueña, ‘d’estas peresas grandes,</l>
+                  <l>‘quál es la mayor, d’ellas ambos pares estades,</l>
+                  <l>‘véovos, torpe cojo, de quál pie cogeades,</l>
+                  <l>‘veo, tuerto suçio, que siempre mal catades.</l>
+               </lg>
+               <lg>
+                  <l>‘Buscad con quien casedes, que la dueña non se paga</l>
+                  <l>‘de peresoso torpe, nin que vilesa faga.’</l>
+                  <l>Por ende, mi amigo, en tu coraçón non yaga,</l>
+                  <l>nin tacha nin vilesa, de que dueña se despaga.</l>
+               </lg>
+               <lg>
+                  <l>Fazle una vegada la vergüença perder</l>
+                  <l>porque aquesto faz’ mucho si la podieres aver;</l>
+                  <l>desque una vez pierde vergüença la muger</l>
+                  <l>más diabluras façe de quantas ome quier’.</l>
+               </lg>
+               <lg>
+                  <l>¡Talente de mugeres quién lo podría entender</l>
+                  <l>sus malas maestrías e su mucho mal saber!</l>
+                  <l>Quando son ençendidas et mal quieren façer,</l>
+                  <l>alma, e cuerpo, e fama, todo lo dexan perder.</l>
+               </lg>
+               <lg>
+                  <l>Desque la vergüença pierde el tafur al tablero</l>
+                  <l>si el pellote juga, jugará el braguero;</l>
+                  <l>desque la cantadera dise el cantar primero</l>
+                  <l>siempre le bullen los pies, et mal para el pandero.</l>
+               </lg>
+               <lg>
+                  <l>Texedor e cantadera nunca tienen los pies quedos</l>
+                  <l>en el telar e en la dança siempre bullen los tres dedos,</l>
+                  <l>la muger sin vergüença por darle diez Toledos</l>
+                  <l>non dexaría de façer sus antojos aredos.</l>
+               </lg>
+               <lg>
+                  <l>Non olvides la dueña díchotelo e de suso,</l>
+                  <l>muger, molino et huerta, siempre quieren grand uso,</l>
+                  <l>non se pagan de disanto emporidat nin a escuso</l>
+                  <l>nunca quieren olvido, probador lo compuso.</l>
+               </lg>
+               <lg>
+                  <l>Cierta cosa es esta qu’el molino andando gana</l>
+                  <l>huerta mexor labrada da la mexor mançana</l>
+                  <l>muger mucho seguida, siempre anda loçana:</l>
+                  <l>do estas tres guardares non es tu obra vana.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Cuadernas 457-474 del Libro de buen amor. </note>
+      </body>
+   </text>
+</TEI>

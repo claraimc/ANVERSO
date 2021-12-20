@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Al soldado internacional caído en España</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Viento del pueblo</title>
+               <date cert="high"/>
+               <pubPlace>Valencia</pubPlace>
+               <publisher n="first_editor">Socorro Rojo</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesías políticas y Sonetos</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Guerra Civil</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Si hay hombres que contienen un alma sin fronteras,</l>
+                  <l>una esparcida frente de mundiales cabellos,</l>
+                  <l>cubierta de horizontes, barcos y cordilleras,</l>
+                  <l>con arena y con nieve, tú eres uno de aquellos.</l>
+               </lg>
+               <lg>
+                  <l>Las patrias te llamaron con todas sus banderas,</l>
+                  <l>que tu aliento llenara de movimientos bellos.</l>
+                  <l>Quisiste apaciguar la sed de las panteras,</l>
+                  <l>y flameaste henchido contra sus atropellos.</l>
+               </lg>
+               <lg>
+                  <l>Con un sabor a todos los soles y los mares,</l>
+                  <l>España te recoge por que en ella realices</l>
+                  <l>tu majestad de árbol que abarca un continente.</l>
+               </lg>
+               <lg>
+                  <l>A través de tus huesos irán los olivares</l>
+                  <l>desplegando en la tierra sus más férreas raíces,</l>
+                  <l>abrazando a los hombres universal, fielmente.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

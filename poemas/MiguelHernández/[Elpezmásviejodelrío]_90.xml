@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[El pez más viejo del río]</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cancionero y romancero de ausencias</title>
+               <date cert="high"/>
+               <pubPlace>Buenos Aires</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Fábula en verso</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Tempus fugit, Vejez y Juventud</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>El pez más viejo del río</l>
+                  <l>de tanta sabiduría</l>
+                  <l>como amontonó, vivía</l>
+                  <l>brillantemente sombrío.</l>
+                  <l>Y el agua le sonreía.</l>
+               </lg>
+               <lg>
+                  <l>Tan sombrío llegó a estar</l>
+                  <l>(nada el agua le divierte)</l>
+                  <l>que después de meditar,</l>
+                  <l>tomó el camino del mar,</l>
+                  <l>es decir, el de la muerte.</l>
+               </lg>
+               <lg>
+                  <l>Reíste tú junto al río</l>
+                  <l>niño solar. Y ese día</l>
+                  <l>el pez más viejo del río</l>
+                  <l>se quitó el aire sombrío.</l>
+                  <l>Y el agua te sonreía.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Aunque publicado póstumamente por primera vez en 1958, el poema fue escrito en la
+            cárcel entre 1938 y 1941. Antes de ser recogido en la edición del libro de 1958, el
+            poema fue publicado en la revista Halcón, núm. 9, mayo de 1946. En la Obra poética
+            completa consultada aquí, se señalan las siguientes variantes: “(nada el agua le
+            divierte) / que después de meditar” cambia por “que el agua no le divierte. / Y después
+            de meditar”. </note>
+      </body>
+   </text>
+</TEI>

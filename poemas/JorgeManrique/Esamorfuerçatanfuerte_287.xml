@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Es amor fuerça tan fuerte</title>
+            <author>Jorge Manrique</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cancionero General</title>
+               <date cert="high"/>
+               <pubPlace>Valencia</pubPlace>
+               <publisher n="first_editor">Hernando del Castillo</publisher>
+               <publisher n="used_edition">An Electronic Corpus of 15th Century Castilian Cancionero
+                Manuscripts</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía cortés</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor, Antítesis y Paradoja</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Jorge Manrique</persName>
+                  <idno type="viaf">http://viaf.org/viaf/51692805</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1440</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1479</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>¶Otras ſuyas diziendo que coſa es amor.</l>
+               </lg>
+               <lg>
+                  <l>¶Es amor fuerça tan fuerte</l>
+                  <l>que fuerça toda razon</l>
+                  <l>vna fuerça de tal ſuerte</l>
+                  <l>que todo ſeſo conuierte</l>
+                  <l>en ſu fuerça y aficion</l>
+                  <l>Vna porfia forçoſa</l>
+                  <l>que no ſe puede vencer</l>
+                  <l>cuya fuerça porfioſa</l>
+                  <l>hazemos mas poderoſa</l>
+                  <l>queriendo nos defender</l>
+               </lg>
+               <lg>
+                  <l>¶Es plazer en cay dolores</l>
+                  <l>dolor en cay alegria</l>
+                  <l>vn peſar en cay dulçores</l>
+                  <l>vn eſfuerço en cay temores</l>
+                  <l>temor en cay oſadia</l>
+                  <l>Vn plazer en cay enojos</l>
+                  <l>vna gloria en cay paſſion</l>
+                  <l>vna fe en cay antojos</l>
+                  <l>fuerça que hazen los ojos</l>
+                  <l>al ſeſo y al coraçon</l>
+               </lg>
+               <lg>
+                  <l>¶Es vna catiuidad</l>
+                  <l>ſin pareſcer las priſiones</l>
+                  <l>vn robo de libertad</l>
+                  <l>vn forçar de voluntad</l>
+                  <l>donde no valen razones</l>
+                  <l>Vna ſoſpecha celoſa</l>
+                  <l>cauſada por el querer</l>
+                  <l>vna rabia deſſeoſa</l>
+                  <l>que no ſabe ques la coſa</l>
+                  <l>que deſſea tanto ver</l>
+               </lg>
+               <lg>
+                  <l>¶Es vn modo de locura</l>
+                  <l>con las mudanças que haze</l>
+                  <l>vna vez pone triſtura</l>
+                  <l>otra vez cauſa holgura</l>
+                  <l>como lo quiere y le plaze</l>
+                  <l>Vn deſſeo que al auſente</l>
+                  <l>trabaja pena y fatiga</l>
+                  <l>vn recelo que al preſente</l>
+                  <l>haze callar lo que ſiente</l>
+                  <l>temiendo pena que diga</l>
+               </lg>
+               <lg>
+                  <l>¶Cabo</l>
+               </lg>
+               <lg>
+                  <l>¶Todas eſtas propiedades</l>
+                  <l>tiene el verdadero amor</l>
+                  <l>el falſo mil falſedades</l>
+                  <l>mil mentiras mil maldades</l>
+                  <l>como fengido traydor</l>
+                  <l>El toque para prouar</l>
+                  <l>qual amor es bien forjado</l>
+                  <l>es ſofrir el deſamor</l>
+                  <l>que no puede comportar</l>
+                  <l>el falſo ſobre dorado</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Facilitamos el texto de la primera edición del Cancionero General aunque esté recogida
+            con anterioridad en el Cancionero de fray Íñigo de Mendoza, ya que la versión impresa es
+            la más difundida. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quedito, no me toquéis</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cancionero de Gabriel de Peralta</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Villancicos (Literatura)</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Erotismo</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>¡Quedito! No me toqués,</l>
+                  <l>entrañas mías,</l>
+                  <l>que tenéis las manos frías.</l>
+               </lg>
+               <lg>
+                  <l>Yo os doy my fe que venís</l>
+                  <l>esta noche tan helado</l>
+                  <l>que si vos no lo sentís,</l>
+                  <l>de sentido estáis privado;</l>
+                  <l>no toquéis en lo vedao,</l>
+                  <l>entrañas mías,</l>
+                  <l>que tenéis las manos frías.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Poena conservado en el Cancionero de Gabriel Peralta (s. XVI) pero puede que
+            tradicional, por lo menos en lo que atañe a la cabeza. </note>
+      </body>
+   </text>
+</TEI>

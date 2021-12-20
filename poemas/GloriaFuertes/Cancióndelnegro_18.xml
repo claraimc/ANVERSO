@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Canción del negro</title>
+            <author>Gloria Fuertes</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Historia de Gloria (Amor, humor y desamor)</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Ediciones Cátedra</publisher>
+               <publisher n="used_edition">1981</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica y Poesías sociales</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Esclavitud, Derechos humanos y Libertad</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Gloria Fuertes</persName>
+                  <idno type="viaf">http://viaf.org/viaf/73969667</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1917</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1998</date>
+                  </death>
+                  <floruit>Generación del 50</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Yo nací negro y libre en África del Sur,</l>
+                  <l>yo vivo negro y libre en la América del Norte.</l>
+                  <l>Los blancos me quitaron la libertad</l>
+                  <l>pero no pudieron contra mi piel,</l>
+                  <l>yo sigo negro y libre en la América del Norte.</l>
+               </lg>
+               <lg>
+                  <l>Mis abuelos del África del Sur</l>
+                  <l>aún rizan el cabello de mis hijos</l>
+                  <l>en el vientre de mi mujer.</l>
+                  <l>Yo nací negro y libre en el África del Sur,</l>
+                  <l>ahora soy un ciudadano norteamericano.</l>
+               </lg>
+               <lg>
+                  <l>Tengo que seguir siendo fuerte, negro y libre</l>
+                  <l>y nunca contar a mis hijos que sus amigos</l>
+                  <l>son biznietos de los que me hicieron esclavo.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romance del prisionero</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Romancero viejo</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">Flor nueva de romances viejos (Austral, 1989)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Encierro</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Que por mayo era, por mayo,</l>
+                  <l>cuando hace la calor,</l>
+                  <l>cuando los trigos encañan</l>
+                  <l>y están los campos en flor,</l>
+                  <l>cuando canta la calandria</l>
+                  <l>y responde el ruiseñor,</l>
+                  <l>cuando los enamorados</l>
+                  <l>van a servir al amor;</l>
+                  <l>sino yo, triste, cuitado,</l>
+                  <l>que vivo en esta prisión;</l>
+                  <l>que ni sé cuándo es de día</l>
+                  <l>ni cuándo las noches son,</l>
+                  <l>sino por una avecilla</l>
+                  <l>que me cantaba el albor.</l>
+                  <l>Matómela un ballestero;</l>
+                  <l>dele Dios mal galardón.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Versión breve, que es la más extendida. Versión editada por Menéndez Pidal. </note>
+      </body>
+   </text>
+</TEI>

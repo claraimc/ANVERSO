@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Como el toro he nacido para el luto]</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>El rayo que no cesa</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Héroe</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Sonetos</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor y Tauromaquia</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Como el toro he nacido para el luto</l>
+                  <l>y el dolor, como el toro estoy marcado</l>
+                  <l>por un hierro infernal en el costado</l>
+                  <l>y por varón en la ingle con un fruto.</l>
+               </lg>
+               <lg>
+                  <l>Como el toro lo encuentra diminuto</l>
+                  <l>todo mi corazón desmesurado,</l>
+                  <l>y del rostro del beso enamorado,</l>
+                  <l>como el toro a tu amor se lo disputo.</l>
+               </lg>
+               <lg>
+                  <l>Como el toro me crezco en el castigo,</l>
+                  <l>la lengua en corazón tengo bañada</l>
+                  <l>y llevo al cuello un vendaval sonoro.</l>
+               </lg>
+               <lg>
+                  <l>Como el toro te sigo y te persigo,</l>
+                  <l>y dejas mi deseo en una espada,</l>
+                  <l>como el toro burlado, como el toro.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Hubo una primera versión musicada de Pedro Ávila (El hombre nuevo cantado, 1971); sin
+            embargo, por ser anterior a 1975, no está recogida en esta base de datos. </note>
+      </body>
+   </text>
+</TEI>

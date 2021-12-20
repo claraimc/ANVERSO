@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Alfonso casa las hijas del Cid</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cantar de mio Cid</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">1913 - Ediciones de La Lectura</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Cantares de gesta</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>El Cid (Rodrigo Díaz de Vivar)</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Al otro día mañana, assí commo salió el sol,</l>
+                  <l>el obispo don Jerome la missa cantó.</l>
+                  <l>Al salir de la missa todos juntados son;</l>
+                  <l>non lo tardó el rey, la razón conpeçó :</l>
+                  <l>«Oídme, las escuelas, cuemdes e ifançones !</l>
+                  <l>«cometer quiero un ruego a mió Çid el Campeador;</l>
+                  <l>«assí lo mande Cristus que sea a so pro.</l>
+                  <l>«Vuestras fijas vos pido, don Elvira e doña Sol,</l>
+                  <l>«que las dedes por mugieres, a ifantes de Carrión.</l>
+                  <l>«Semejam el casamiento ondrado e con grant pro,</l>
+                  <l>«ellos vos las piden e mándovoslo yo.</l>
+                  <l>«Della e della parte, quantos que aquí son,</l>
+                  <l>«los mios e los vuestros que sean rogadores;</l>
+                  <l>«dándoslas, mió Çid, si vos vala el Criador !»</l>
+                  <l>«Non abría fijas de casar», respuso el Campeador,</l>
+                  <l>«ca non han grant hedad e de días pequeñas son.</l>
+                  <l>«De grandes nuevas son ifantes de Carrión,</l>
+                  <l>«perteneçen pora mis fijas e aun pora mejores.</l>
+                  <l>«Hyo las engendré amas e criásteslas vos,</l>
+                  <l>«entre yo y ellas en vuestra merçed somos nos ;</l>
+                  <l>«afellas en vuestra mano don Elvira e doña Sol,</l>
+                  <l>«dadlas a qui quisiéredes vos, ca yo pagado so.»</l>
+                  <l>«Graçias», dixo el rey, «a vos e a tod esta cort.»</l>
+                  <l>Luego se levantaron iffantes de Carrión,</l>
+                  <l>ban besar las manos al que en ora buena naçió;</l>
+                  <l>camearon las espadas antel rey don Alfons.</l>
+                  <l>Fabló rey don Alfons commo tan buen señor:</l>
+                  <l>«Gracias, Çid, commo tan bueno, e primero al Criador,</l>
+                  <l>«quem dades vuestras fijas pora ifantes de Carrión.</l>
+                  <l>«‘Daquí las prendo por mis manos don Elvira e doña Sol.</l>
+                  <l>«e dólas por veladas a ifantes de Carrión.</l>
+                  <l>«Yo las caso a vuestras fijas con vuestro amor,</l>
+                  <l>«al Criador plega que avades ende sabor.</l>
+                  <l>«Afellos en vuestras manos ifantes de Carrión,</l>
+                  <l>«ellos vayan convusco, ca d’ aquén me torno yo.</l>
+                  <l>«Trezientos marcos de plata en ayuda les do yo,</l>
+                  <l>«que metan en sus bodas o do quisiéredes vos;</l>
+                  <l>«pues fueren en vuestro poder en Valençia la mayor,</l>
+                  <l>«los yernos e las fijas todos vuestros fijos son:</l>
+                  <l>«lo que vos ploguiere, dellos fet, Campeador.»</l>
+                  <l>Mió Çid gelos reçibe, las manos le besó :</l>
+                  <l>«Mucho vos lo gradesco, commo a rey e a señor !</l>
+                  <l>«Vos casades mis fijas, ca non gelas do yo.»</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Vv. 2068-2110 del Cantar de mio Cid. </note>
+      </body>
+   </text>
+</TEI>

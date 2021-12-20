@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Caminando</title>
+            <author>Nicolas Guillén</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cantos para soldados y sones para turistas</title>
+               <date cert="high"/>
+               <pubPlace>México</pubPlace>
+               <publisher n="first_editor">1937/ Edición Masas</publisher>
+               <publisher n="used_edition">1937 - Edición Masas</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesías sociales</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Violencia, Tristeza y Venganza</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Nicolas Guillén</persName>
+                  <idno type="viaf">http://viaf.org/viaf/29534974</idno>
+                  <nationality>Cuba</nationality>
+                  <birth>
+                     <date cert="low">1902</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1989</date>
+                  </death>
+                  <floruit>Otro</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>A Ñico López</l>
+               </lg>
+               <lg>
+                  <l>Caminando, caminando,</l>
+                  <l>caminando!</l>
+               </lg>
+               <lg>
+                  <l>Voy sin rumbo caminando,</l>
+                  <l>caminando;</l>
+                  <l>voy sin plata caminando,</l>
+                  <l>caminando;</l>
+                  <l>voy muy triste caminando,</l>
+                  <l>caminando!</l>
+               </lg>
+               <lg>
+                  <l>Está lejos quien me espera,</l>
+                  <l>caminando;</l>
+                  <l>quien me busca está más lejos,</l>
+                  <l>caminando;</l>
+                  <l>y ya empeñé mi guitarra,</l>
+                  <l>caminando!</l>
+               </lg>
+               <lg>
+                  <l>Ay,</l>
+                  <l>las piernas se ponen duras,</l>
+                  <l>caminando;</l>
+                  <l>los ojos ven desde lejos,</l>
+                  <l>caminando;</l>
+                  <l>la mano agarra y no suelta,</l>
+                  <l>caminando.</l>
+               </lg>
+               <lg>
+                  <l>Al que yo coja y lo apriete,</l>
+                  <l>caminando,</l>
+                  <l>ése la paga por todos,</l>
+                  <l>caminando.</l>
+                  <l>A ése, le parto el pescuezo,</l>
+                  <l>caminando;</l>
+                  <l>y aunque me pida perdón,</l>
+                  <l>me lo como y me lo bebo,</l>
+                  <l>me lo bebo y me lo como,</l>
+                  <l>caminando,</l>
+                  <l>caminando,</l>
+                  <l>caminando!</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Hay tantísimos caminos]</title>
+            <author>José Bergamín</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Apartada orilla (1971-1972)</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Turner / 1976</publisher>
+               <publisher n="used_edition">Turner / 1976</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Destino, Soledad y Incertidumbre</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>José Bergamín</persName>
+                  <idno type="viaf">http://viaf.org/viaf/109502857</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1895</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1983</date>
+                  </death>
+                  <floruit>Vanguardismo</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Hay tantísimos caminos</l>
+                  <l>que van a donde no van</l>
+                  <l>que por cualquiera que vayas</l>
+                  <l>todos te equivocarán</l>
+               </lg>
+               <lg>
+                  <l>Caminos que serpentean</l>
+                  <l>al subir como al bajar</l>
+                  <l>y se tuercen en lo llano</l>
+                  <l>para poderse alargar</l>
+               </lg>
+               <lg>
+                  <l>Son caminos de silencio;</l>
+                  <l>Caminos de soledad;</l>
+                  <l>Caminos descaminados</l>
+                  <l>Que engañan tu caminar.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Este poema también aparece en Poesías [7 volúmenes], en el tomo Poesía III, Ediciones
+            Turner, 1983-84, p. 73. </note>
+      </body>
+   </text>
+</TEI>

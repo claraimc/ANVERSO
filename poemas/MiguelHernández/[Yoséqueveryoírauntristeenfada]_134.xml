@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Yo sé que ver y oír a un triste enfada]</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>El rayo que no cesa</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Héroe</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Sonetos</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Yo sé que ver y oír a un triste enfada</l>
+                  <l>cuando se viene y va de la alegría</l>
+                  <l>como un mar meridiano a una bahía,</l>
+                  <l>a una región esquiva y desolada.</l>
+               </lg>
+               <lg>
+                  <l>Lo que he sufrido y nada todo es nada</l>
+                  <l>para lo que me queda todavía</l>
+                  <l>que sufrir, el rigor de esta agonía</l>
+                  <l>de andar de este cuchillo a aquella espada.</l>
+               </lg>
+               <lg>
+                  <l>Me callaré, me apartaré si puedo</l>
+                  <l>con mi constante pena instante, plena,</l>
+                  <l>a donde ni has de oírme ni he de verte.</l>
+               </lg>
+               <lg>
+                  <l>Me voy, me voy, me voy, pero me quedo,</l>
+                  <l>pero me voy, desierto y sin arena:</l>
+                  <l>adiós, amor, adiós, hasta la muerte.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

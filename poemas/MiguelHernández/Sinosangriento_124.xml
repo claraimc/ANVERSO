@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sino sangriento</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>[Poemas no recogidos en libros - Entre El rayo que no cesa y Viento del
+            pueblo]</title>
+               <date cert="high"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Muerte</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>De sangre en sangre vengo,</l>
+                  <l>como el mar de ola en ola,</l>
+                  <l>de color de amapola el alma tengo,</l>
+                  <l>de amapola sin suerte es mi destino,</l>
+                  <l>y llego de amapola en amapola</l>
+                  <l>a dar en la cornada de mi sino.</l>
+               </lg>
+               <lg>
+                  <l>Criatura hubo que vino</l>
+                  <l>desde la sementera de la nada,</l>
+                  <l>y vino más de una,</l>
+                  <l>bajo el designio de una estrella airada</l>
+                  <l>y en una turbulenta y mala luna.</l>
+               </lg>
+               <lg>
+                  <l>Cayó una pincelada</l>
+                  <l>de ensangrentado pie sobre mi herida,</l>
+                  <l>cayó un planeta de azafrán en celo,</l>
+                  <l>cayó una nube roja enfurecida,</l>
+                  <l>cayó un mar malherido, cayó un cielo.</l>
+               </lg>
+               <lg>
+                  <l>Vine con un dolor de cuchillada,</l>
+                  <l>me esperaba un cuchillo en mi venida,</l>
+                  <l>me dieron a mamar leche de tuera,</l>
+                  <l>zumo de espada loca y homicida,</l>
+                  <l>y al sol el ojo abrí por vez primera</l>
+                  <l>y lo que vi primero era una herida</l>
+                  <l>y una desgracia era.</l>
+               </lg>
+               <lg>
+                  <l>Me persigue la sangre, ávida y fiera,</l>
+                  <l>desde que fui fundado,</l>
+                  <l>y aun antes de que fuera</l>
+                  <l>proferido, empujado</l>
+                  <l>por mi madre a esta tierra codiciosa</l>
+                  <l>que de los pies me tira y del costado,</l>
+                  <l>y cada vez más fuerte, hacia la fosa.</l>
+               </lg>
+               <lg>
+                  <l>Lucho contra la sangre, me debato</l>
+                  <l>contra tanto zarpazo y tanta vena,</l>
+                  <l>y cada cuerpo que tropiezo y trato</l>
+                  <l>es otro borbotón de sangre, otra cadena.</l>
+               </lg>
+               <lg>
+                  <l>Aunque leves, los dardos de la pena</l>
+                  <l>aumentan las insignias de mi pecho:</l>
+                  <l>en él se dio el amor a la labranza,</l>
+                  <l>y mi alma de barbecho</l>
+                  <l>hondamente ha surcado</l>
+                  <l>de heridas sin remedio mi esperanza</l>
+                  <l>por las ansias de muerte de su arado.</l>
+               </lg>
+               <lg>
+                  <l>Todas las herramientas en mi acecho:</l>
+                  <l>el hacha me ha dejado</l>
+                  <l>recónditas señales,</l>
+                  <l>las piedras, los deseos y los días</l>
+                  <l>cavaron en mi cuerpo manantiales</l>
+                  <l>que sólo se tragaron las arenas</l>
+                  <l>y las melancolías.</l>
+               </lg>
+               <lg>
+                  <l>Son cada vez más grandes las cadenas,</l>
+                  <l>son cada vez más grandes las serpientes,</l>
+                  <l>más grande y más cruel su poderío,</l>
+                  <l>más grandes sus anillos envolventes,</l>
+                  <l>más grande el corazón, más grande el mío.</l>
+               </lg>
+               <lg>
+                  <l>En su alcoba poblada de vacío</l>
+                  <l>donde sólo concurren las visitas,</l>
+                  <l>el picotazo y el color de un cuervo,</l>
+                  <l>un manojo de cartas y pasiones escritas,</l>
+                  <l>un puñado de sangre y una muerte conservo.</l>
+               </lg>
+               <lg>
+                  <l>¡Ay sangre fulminante,</l>
+                  <l>ay trepadora púrpura rugiente,</l>
+                  <l>sentencia a todas horas resonante</l>
+                  <l>bajo el yunque sufrido de mi frente!</l>
+               </lg>
+               <lg>
+                  <l>La sangre me ha parido y me ha hecho preso,</l>
+                  <l>la sangre me reduce y me agiganta,</l>
+                  <l>un edificio soy de sangre y yeso</l>
+                  <l>que se derriba él mismo y se levanta</l>
+                  <l>sobre andamios de huesos.</l>
+               </lg>
+               <lg>
+                  <l>Un albañil de sangre, muerto y rojo,</l>
+                  <l>llueve y cuelga su blusa cada día</l>
+                  <l>en los alrededores de mi ojo,</l>
+                  <l>y cada noche con el alma mía,</l>
+                  <l>y hasta con las pestañas lo recojo.</l>
+               </lg>
+               <lg>
+                  <l>Crece la sangre, agranda</l>
+                  <l>la expansión de sus frondas en mi pecho</l>
+                  <l>que álamo desbordante se desmanda</l>
+                  <l>y en varios torvos ríos cae deshecho.</l>
+               </lg>
+               <lg>
+                  <l>Me veo de repente</l>
+                  <l>envuelto en sus coléricos raudales,</l>
+                  <l>y nado contra todos desesperadamente</l>
+                  <l>como contra un fatal torrente de puñales.</l>
+               </lg>
+               <lg>
+                  <l>Me arrastra encarnizada su corriente,</l>
+                  <l>me despedaza, me hunde, me atropella,</l>
+                  <l>quiero apartarme de ella a manotazos,</l>
+                  <l>y se me van los brazos detrás de ella,</l>
+                  <l>y se me van las ansias en los brazos.</l>
+               </lg>
+               <lg>
+                  <l>Me dejaré arrastrar hecho pedazos,</l>
+                  <l>ya que así se lo ordenan a mi vida</l>
+                  <l>la sangre y su marea,</l>
+                  <l>los cuerpos y mi estrella ensangrentada.</l>
+               </lg>
+               <lg>
+                  <l>Seré una sola y dilatada herida</l>
+                  <l>hasta que dilatadamente sea</l>
+                  <l>un cadáver de espuma: viento y nada.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Eterna sombra</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>[Otros poemas de la serie del Cancionero y romancero de ausencias y
+            poemas últimos]</title>
+               <date cert="high"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Prisión, Libertad y Esperanza</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Yo que creí que la luz era mía</l>
+                  <l>precipitado en la sombra me veo.</l>
+                  <l>Ascua solar, sideral alegría</l>
+                  <l>ígnea de espuma, de luz, de deseo.</l>
+               </lg>
+               <lg>
+                  <l>Sangre ligera, redonda, granada:</l>
+                  <l>raudo anhelar sin perfil ni penumbra.</l>
+                  <l>Fuera, la luz en la luz sepultada.</l>
+                  <l>Siento que sólo la sombra me alumbra.</l>
+               </lg>
+               <lg>
+                  <l>Sólo la sombra. Sin astro. Sin cielo.</l>
+                  <l>Seres. Volúmenes. Cuerpos tangibles</l>
+                  <l>dentro del aire que no tiene vuelo,</l>
+                  <l>dentro del árbol de los imposibles.</l>
+               </lg>
+               <lg>
+                  <l>Cárdenos ceños, pasiones de luto.</l>
+                  <l>Dientes sedientos de ser colorados.</l>
+                  <l>Oscuridad del rencor absoluto.</l>
+                  <l>Cuerpos lo mismo que pozos cegados.</l>
+               </lg>
+               <lg>
+                  <l>Falta el espacio. Se ha hundido la risa.</l>
+                  <l>Ya no es posible lanzarse a la altura.</l>
+                  <l>El corazón quiere ser más de prisa</l>
+                  <l>fuerza que ensancha la estrecha negrura.</l>
+               </lg>
+               <lg>
+                  <l>Carne sin norte que va en oleada</l>
+                  <l>hacia la noche siniestra, baldía.</l>
+                  <l>¿Quién es el rayo de sol que la invada?</l>
+                  <l>Busco. No encuentro ni rastro del día.</l>
+               </lg>
+               <lg>
+                  <l>Sólo el fulgor de los puños cerrados,</l>
+                  <l>el resplandor de los dientes que acechan.</l>
+                  <l>Dientes y puños de todos los lados.</l>
+                  <l>Más que las manos, los montes se estrechan.</l>
+               </lg>
+               <lg>
+                  <l>Turbia es la lucha sin sed de mañana.</l>
+                  <l>¡Qué lejanía de opacos latidos!</l>
+                  <l>Soy una cárcel con una ventana</l>
+                  <l>ante una gran soledad de rugidos.</l>
+               </lg>
+               <lg>
+                  <l>Soy una abierta ventana que escucha.</l>
+                  <l>por donde va tenebrosa la vida.</l>
+                  <l>Pero hay un rayo de sol en la lucha</l>
+                  <l>que siempre deja la sombra vencida.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>El poema no fue incluido en ningún poemario y solo empezó a publicarse recientemente
+            en ediciones de obras completas y similar. Es uno de sus últimos poemas, por tanto
+            escrito en la cárcel en torno a 1939 y 1942. </note>
+      </body>
+   </text>
+</TEI>

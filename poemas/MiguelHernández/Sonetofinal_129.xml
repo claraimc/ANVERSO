@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Soneto final</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>El rayo que no cesa</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Héroe</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Sonetos</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Por desplumar arcángeles glaciales,</l>
+                  <l>la nevada lilial de esbeltos dientes</l>
+                  <l>es condenada al llanto de las fuentes</l>
+                  <l>y al desconsuelo de los manantiales.</l>
+               </lg>
+               <lg>
+                  <l>Por difundir su alma en los metales,</l>
+                  <l>por dar el fuego al hierro sus orientes,</l>
+                  <l>al dolor de los yunques inclementes</l>
+                  <l>lo arrastran los herreros torrenciales.</l>
+               </lg>
+               <lg>
+                  <l>Al doloroso trato de la espina,</l>
+                  <l>al fatal desaliento de la rosa</l>
+                  <l>y a la acción corrosiva de la muerte</l>
+               </lg>
+               <lg>
+                  <l>arrojado me veo, y tanta ruina</l>
+                  <l>no es por otra desgracia ni por otra cosa</l>
+                  <l>que por quererte y sólo por quererte.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

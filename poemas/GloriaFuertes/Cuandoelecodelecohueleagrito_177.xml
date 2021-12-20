@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cuando el eco del eco huele a grito</title>
+            <author>Gloria Fuertes</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Historia de Gloria (Amor, humor y desamor)</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Ediciones Cátedra</publisher>
+               <publisher n="used_edition">1981- Cátedra</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Hipocresía</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Gloria Fuertes</persName>
+                  <idno type="viaf">http://viaf.org/viaf/73969667</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1917</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1998</date>
+                  </death>
+                  <floruit>Generación del 50</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Cuando el eco del eco huele a grito</l>
+                  <l>y nadie huele nada,</l>
+                  <l>y el náufrago se rompe entre las rocas</l>
+                  <l>y grita y le entra agua.</l>
+                  <l>¿Acaso la belleza no tiene corazón?</l>
+                  <l>El mar es bello y mata.</l>
+                  <l>La gente es bella y calla,</l>
+                  <l>cuando el eco del eco huele a grito</l>
+                  <l>y ponemos la radio alta</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

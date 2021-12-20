@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cántica de loores de Santa María “Quiero seguir a ti...”</title>
+            <author>Juan Ruiz (Arcipreste de Hita)</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Libro de buen amor</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">2000 - Biblioteca Virtual Miguel de Cervantes</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Cantigas</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Alabanza de la virgen María</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Juan Ruiz (Arcipreste de Hita)</persName>
+                  <idno type="viaf">http://viaf.org/viaf/163823217</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1283</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1350</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Quiero seguir a ti, flor de las flores,</l>
+                  <l>siempre desir cantar de tus loores;</l>
+                  <l>non me partir de te servir</l>
+                  <l>mejor de la mejores.</l>
+               </lg>
+               <lg>
+                  <l>Grand fiança he yo en ti, Señora,</l>
+                  <l>la mi esperança en ti es toda hora,</l>
+                  <l>de tribulaçión sin tardança</l>
+                  <l>venme librar agora.</l>
+               </lg>
+               <lg>
+                  <l>Virgen muy santa, yo paso atribulado,</l>
+                  <l>pena atanta con dolor atormentado</l>
+                  <l>en tu esperança coyta atanta</l>
+                  <l>que veo, ¡mal pecado!</l>
+               </lg>
+               <lg>
+                  <l>Estrella del mar, puerto de folgura,</l>
+                  <l>de dolor complido et de tristura</l>
+                  <l>venme librar et conortar,</l>
+                  <l>Señora del altura.</l>
+               </lg>
+               <lg>
+                  <l>Nunca falleçe la tu merçed complida,</l>
+                  <l>siempre guaresçes de coytas et das vida,</l>
+                  <l>nunca peresçe nin entristeçe</l>
+                  <l>quien a ti non olvida.</l>
+               </lg>
+               <lg>
+                  <l>Sufro grand mal sin meresçer, a tuerto,</l>
+                  <l>escribo tal porque pienso ser muerto,</l>
+                  <l>mas tú me val’, que non veo ál</l>
+                  <l>que me saque a puerto.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Estrofas 1678-1683 del Libro de buen amor. </note>
+      </body>
+   </text>
+</TEI>

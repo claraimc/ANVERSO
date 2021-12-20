@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Balada del que nunca fue a Granada</title>
+            <author>Rafael Alberti</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Baladas y canciones del Paraná</title>
+               <date cert="high"/>
+               <pubPlace>Buenos Aires</pubPlace>
+               <publisher n="first_editor">Losada</publisher>
+               <publisher n="used_edition">Obras completas. Poesía III (Seix Barral - 2006)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica y Poesías políticas</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Exilio, Guerra Civil y Nostalgia</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <idno type="viaf">http://viaf.org/viaf/51683733</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1902</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1999</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>¡Qué lejos por mares, campos y montañas!</l>
+                  <l>Ya otros soles miran mi cabeza cana.</l>
+                  <l>Nunca fui a Granada.</l>
+               </lg>
+               <lg>
+                  <l>Mi cabeza cana, los años perdidos.</l>
+                  <l>Quiero hallar los viejos, borrados caminos.</l>
+                  <l>Nunca vi Granada.</l>
+               </lg>
+               <lg>
+                  <l>Dadle un ramo verde de luz a mi mano.</l>
+                  <l>Una rienda corta y un galope largo.</l>
+                  <l>Nunca entré en Granada.</l>
+               </lg>
+               <lg>
+                  <l>¿Qué gente enemiga puebla sus adarves?</l>
+                  <l>¿Quién los claros ecos libres de sus aires?</l>
+                  <l>Nunca fui a Granada.</l>
+               </lg>
+               <lg>
+                  <l>¿Quién hoy sus jardines aprisiona y pone</l>
+                  <l>cadenas al habla de sus surtidores?</l>
+                  <l>Nunca vi Granada.</l>
+               </lg>
+               <lg>
+                  <l>Venid los que nunca fuisteis a Granada.</l>
+                  <l>Hay sangre caída, sangre que me llama.</l>
+                  <l>Nunca entré en Granada.</l>
+               </lg>
+               <lg>
+                  <l>Hay sangre caída del mejor hermano.</l>
+                  <l>Sangre por los mirtos y aguas de los patios.</l>
+                  <l>Nunca fui a Granada.</l>
+               </lg>
+               <lg>
+                  <l>Del mejor amigo, por los arrayanes.</l>
+                  <l>Sangre por el Darro, por el Genil sangre.</l>
+                  <l>Nunca vi Granada.</l>
+               </lg>
+               <lg>
+                  <l>Si altas son las torres, el valor es alto.</l>
+                  <l>Venid por montañas, por mares y campos.</l>
+                  <l>Entraré en Granada.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Baladas y canciones del Paraná se publicó en 1953 junto con Ora marítima. Hubo dos
+            musicalizaciones anteriores a 1975, por eso no están recogidas en esta base de datos:
+            Paco Ibáñez (Paco Ibáñez II, 1968) y Dina Rot (Yo canto a los poetas, 1971). </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aquí fabla de la pelea qu'el arçipreste ovo con don Amor</title>
+            <author>Juan Ruiz (Arcipreste de Hita)</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Libro de buen amor</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">2000 - Biblioteca Virtual Miguel de Cervantes</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Mester de clerecía</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Conquista amorosa</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Juan Ruiz (Arcipreste de Hita)</persName>
+                  <idno type="viaf">http://viaf.org/viaf/163823217</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1283</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1350</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Tal eres, como el lobo, retrahes lo que fases,</l>
+                  <l>estrañas lo que ves, et non el lodo en que yases,</l>
+                  <l>eres mal enemigo; a todos quantos plases</l>
+                  <l>fablas con grant simplesa, porque muchos engañes.</l>
+               </lg>
+               <lg>
+                  <l>A obla de piedad nunca paras mientes,</l>
+                  <l>nin visitas los presos, nin quieres ver dolientes,</l>
+                  <l>si non solteros, sanos, mançebos e valientes:</l>
+                  <l>si loçanas encuentras, fáblaslas entre dientes.</l>
+               </lg>
+               <lg>
+                  <l>Reças muy bien las oras con garçones folguynes</l>
+                  <l>Cum his qui oderunt paçem fasta que el salterio afines.</l>
+                  <l>Diçes ecce quem bonum, con sonajas, et baçines,</l>
+                  <l>in noctibus stolite, después vas a maitines.</l>
+               </lg>
+               <lg>
+                  <l>Do tu amiga mora comienças a levantar</l>
+                  <l>domine labia mea en alta voz a cantar,</l>
+                  <l>primo dierum ortu los estormentos tocar</l>
+                  <l>nostras preçes ut audiat, et fáçeslos despertar.</l>
+               </lg>
+               <lg>
+                  <l>Desque sientes a ella tu coraçón espaçias</l>
+                  <l>con la maitinada cántate en las frurias laçias</l>
+                  <l>laudes aurora luçe dasles grandes graçias</l>
+                  <l>con miserere mei mucho te lo engraçias.</l>
+               </lg>
+               <lg>
+                  <l>Et saliendo el sol comienças luego prima</l>
+                  <l>debe in notem tuo ruegas a tu saquima</l>
+                  <l>que la lieve por agua e que dé a toda çima</l>
+                  <l>va en achaque de agua a verte la mala esquima.</l>
+               </lg>
+               <lg>
+                  <l>Et si es tal que non usa andar por las callexas</l>
+                  <l>que la lieve a las huertas por las rosas vermejas</l>
+                  <l>si cree la babieca sus dichos e consejas</l>
+                  <l>cueva tristis trae de quicumque vult redruexas.</l>
+               </lg>
+               <lg>
+                  <l>Et si es dueña tu amiga que d’esto non se compone</l>
+                  <l>tú católica e ella, cata manera que la trastorne</l>
+                  <l>os, linga, mens le añade seso con ardor pospone</l>
+                  <l>va la dueña a terçia caridat a longe pone.</l>
+               </lg>
+               <lg>
+                  <l>Tú vas luego a la iglesia por le deçir tu raçón</l>
+                  <l>más que por oír la misa, nin ganar de Dios perdón,</l>
+                  <l>quieres la misa de los novios sin gloria, e sin son,</l>
+                  <l>caxqueas al dar ofrenda, bien trotas el comendón.</l>
+               </lg>
+               <lg>
+                  <l>Acabada la misa reças tú bien la sexta</l>
+                  <l>que la vieja que tiene a tu amiga presta</l>
+                  <l>comienças in verbum tuum, e diçes tú de aquésta</l>
+                  <l>Sed sanctus sant’ licor por la grand misa de fiesta.</l>
+               </lg>
+               <lg>
+                  <l>Diçes quomodo dilexi nuestra fabla varona</l>
+                  <l>susçipe me secundum, que para la mi corona</l>
+                  <l>lucerna pedibus meis es la vuestra persona,</l>
+                  <l>ella te diçe quam dulçia que recabdas a la nona.</l>
+               </lg>
+               <lg>
+                  <l>Vas a reçar la nona con la dueña loçana</l>
+                  <l>Mirabilia comienças, diçes de aquesta plana</l>
+                  <l>Gresus meos dirige, responde doña fulana</l>
+                  <l>Iustus es Domine tañer a nona la campana.</l>
+               </lg>
+               <lg>
+                  <l>Nunca vi sancristán que a vísperas mexor tanga</l>
+                  <l>todos los instierros toca con la chica manga</l>
+                  <l>la que viene a tus vísperas por bien que se remanga</l>
+                  <l>con virga virtutis tue faces, que de ay retanga.</l>
+               </lg>
+               <lg>
+                  <l>Sede a destris meis diçes a la que viene;</l>
+                  <l>cantas letatus sum, si allí se detiene;</l>
+                  <l>illic enim asçenderunt a qualquier que allí se atiene.</l>
+                  <l>La fiesta de seis capas contigo la Pascua tiene39.</l>
+               </lg>
+               <lg>
+                  <l>Nunca vi cura de almas que tan bien diga completas.</l>
+                  <l>Vengan fermosas, o feas, quier’ blancas, quier’prietas</l>
+                  <l>digan te conoscas nos se grado abres las puertas</l>
+                  <l>después custodinos te ruegan las encubiertas.</l>
+               </lg>
+               <lg>
+                  <l>Fasta el quod parasti non la quieres dexar</l>
+                  <l>ante façiem eius sabes las alxar</l>
+                  <l>in gloria plebis tuae façes las aveitar</l>
+                  <l>salve regina, diçes, si de ti se va quexar.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Cuadernas 372-387 del Libro de buen amor. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aquí dise de cómo segund natura los omes e las otras animalias quieren aver compañía
+            con las fembras</title>
+            <author>Juan Ruiz (Arcipreste de Hita)</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Libro de buen amor</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">2000 - Biblioteca Virtual Miguel de Cervantes</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Mester de clerecía</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor, Deseo, Instinto y Naturalismo amoroso</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Juan Ruiz (Arcipreste de Hita)</persName>
+                  <idno type="viaf">http://viaf.org/viaf/163823217</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1283</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1350</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Como dise Aristóteles, cosa es verdadera,</l>
+                  <l>el mundo por dos cosas trabaja: la primera,</l>
+                  <l>por aver mantenençia; la otra era</l>
+                  <l>por aver juntamiento con fembra plasentera.</l>
+               </lg>
+               <lg>
+                  <l>Si lo dixiese de mío, sería de culpar;</l>
+                  <l>díselo grand filósofo, non só yo de rebtar;</l>
+                  <l>de lo que dise el sabio non debemos dubdar,</l>
+                  <l>que por obra se prueba el sabio e su fablar.</l>
+               </lg>
+               <lg>
+                  <l>Que dis’ verdat el sabio claramente se prueba</l>
+                  <l>omes, aves, animalias, toda bestia de cueva</l>
+                  <l>quieren, segund natura, compaña siempre nueva;</l>
+                  <l>et quanto más el omen que a toda cosa se mueva.</l>
+               </lg>
+               <lg>
+                  <l>Digo muy más del omen, que de toda criatura:</l>
+                  <l>todos a tiempo çierto se juntan con natura,</l>
+                  <l>el omen de mal seso todo tiempo sin mesura</l>
+                  <l>cada que puede quiere faser esta locura.</l>
+               </lg>
+               <lg>
+                  <l>El fuego siempre quiere estar en la senisa,</l>
+                  <l>como quier’ que más arde, quanto más se atisa,</l>
+                  <l>el omen quando peca, bien ve que deslisa,</l>
+                  <l>mas non se parte ende, ca natura lo entisa.</l>
+               </lg>
+               <lg>
+                  <l>Et yo como soy omen como otro pecador,</l>
+                  <l>ove de las mugeres a veses grand amor;</l>
+                  <l>probar omen las cosas non es por ende peor,</l>
+                  <l>e saber bien, e mal, e usar lo mejor.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Cuadernas 71-76 del Libro de buen amor. </note>
+      </body>
+   </text>
+</TEI>

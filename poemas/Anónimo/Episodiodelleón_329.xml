@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Episodio del león</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cantar de mio Cid</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">1913 - Ediciones de La Lectura</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Cantares de gesta</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>El Cid (Rodrigo Díaz de Vivar)</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>En Valencia sedi mió Çid con todos los sos,</l>
+                  <l>con elle amos sos yernos ifantes de Carrión.</l>
+                  <l>Yazies en un escaño, durmie el Campeador,</l>
+                  <l>mala sobrevienta, sabed, que les cuntió:</l>
+                  <l>saliós de la red e desatós el león.</l>
+                  <l>En grant miedo se vieron por medio de la cort;</l>
+                  <l>embraçan los mantos los del Campeador,</l>
+                  <l>e çercan el escaño, e fincan sobre so señor.</l>
+                  <l>Ferrant Gonçálvez, ifant de Carrión,</l>
+                  <l>non vido allí dos alçasse, nin cámara abierta nin torre;</l>
+                  <l>metiós sol escaño, tanto ovo el pavor.</l>
+                  <l>Díag Gonçálvez por la puerta salió,</l>
+                  <l>diziendo de la boca: «non veré Carrión !»</l>
+                  <l>Tras una viga lagar metiós con grant’ pavor ;</l>
+                  <l>el manto e el brial todo suzio lo sacó.</l>
+                  <l>En esto despertó el que en buen ora naçió;</l>
+                  <l>vido çercado el escaño de sos buenos varones:</l>
+                  <l>«Qués esto, mesnadas, o qué queredes vos ?»</l>
+                  <l>«Ya señor ondrado rebata nos dio el león.»</l>
+                  <l>Mió Çid fincó el cobdo, en pie se levantó,</l>
+                  <l>el manto trae al cuello, e adeliñó pora’ león ;</l>
+                  <l>el león quando lo vío, assí envergonçó,</l>
+                  <l>ante mió Çid la cabeça premió e el rostro fincó.</l>
+                  <l>Mió Çid don Rodrigo al cuello lo tomó,</l>
+                  <l>e liévalo adestrando, en la red le metió.</l>
+                  <l>A maravilla lo han quantos que i son,</l>
+                  <l>e tornáronse al palaçio pora la cort.</l>
+                  <l>Mió Çid por sos yernos demandó e no los falló ;</l>
+                  <l>maguer los están llamando, ninguno non responde.</l>
+                  <l>Quando los fallaron, assí vinieron sin color ;</l>
+                  <l>non vidiestes tal juego commo iva por la cort;</l>
+                  <l>mandólo vedar mió Çid el Campeador,</l>
+                  <l>Muchos tovieron por enbaídos ifantes de Carrión,</l>
+                  <l>fiera cosa les pesa desto que les cuntió.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Vv. 2278-2310 del Cantar de mio Cid. </note>
+      </body>
+   </text>
+</TEI>

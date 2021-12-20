@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romance del rey Chico</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Romancero viejo</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">Spanish ballads (Cmbridge University Press, 1927)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Caída de Granada y Boabdil el Chico</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>El año de cuatrocientos que noventa y dos corría,</l>
+                  <l>el rey Chico de Granada perdió el reino que tenía.</l>
+                  <l>Salióse de la ciudad un lunes a mediodía,</l>
+                  <l>cercado de caballeros la flor de la Morería.</l>
+                  <l>Su madre lleva consigo que la tiene compañía.</l>
+                  <l>Por ese Genil abajo que el rey Chico se salía,</l>
+                  <l>los estribos se han mojado que eran de gran valía.</l>
+                  <l>Por mostrar más su dolor que en el corazón tenía,</l>
+                  <l>ya que esa áspera Alpujarra era su jornada y vía,</l>
+                  <l>desde una cuesta muy alta Granada se parecía.</l>
+                  <l>Volvió a mirar a Granada, desta manera decía:</l>
+                  <l>—¡Oh, Granada la famosa, mi consuleo y alegría!</l>
+                  <l>¡Oh, mi alto Albayzín y mi rica Alcaycería!</l>
+                  <l>¡Oh mi Alhambra y Alijares y mezquita de valía,</l>
+                  <l>mis baños, huertas y ríos, donde holgar me solía!</l>
+                  <l>¿Quién os ha de mí apartado que jamás yo vos vería?</l>
+                  <l>Ahora te estoy mirando desde lejos, ciudad mía;</l>
+                  <l>mas presto no te veré, pues ya de ti me partía.</l>
+                  <l>¡Oh, rueda de la fortuna, loco es quien en ti fía,</l>
+                  <l>que ayer era rey famoso y hoy no tengo cosa mía!—.</l>
+                  <l>Siempre el triste corazón lloraba su cobardía,</l>
+                  <l>y, estas palabras diciendo, de desmayo se caía.</l>
+                  <l>Iba su madre delante con otra caballería,</l>
+                  <l>viendo la gente parada la reina se detenía</l>
+                  <l>y la causa preguntaba porque ella no lo sabía.</l>
+                  <l>Respondióle un moro viejo con honesta cortesía:</l>
+                  <l>—Tu hijo mira Granada y la pena le afligía—.</l>
+                  <l>Respondido había la madre, desta manera decía:</l>
+                  <l>—Bien es que como mujer llore con grande agonía</l>
+                  <l>el que como caballero su estado no defendía—.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>La crítica de la madres es lo que más ha calado de este romance. </note>
+      </body>
+   </text>
+</TEI>

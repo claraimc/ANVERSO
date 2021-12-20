@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Yo voy soñando caminos]</title>
+            <author>Antonio Machado</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Soledades. Galerías. Otros poemas</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Librería de Pueyo</publisher>
+               <publisher n="used_edition">1999-Espasa [Austral]</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Sentido de la vida</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Antonio Machado</persName>
+                  <idno type="viaf">http://viaf.org/viaf/7385547</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1875</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1939</date>
+                  </death>
+                  <floruit>Generación del 98</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Yo voy soñando caminos</l>
+                  <l>de la tarde. ¡Las colinas</l>
+                  <l>doradas, los verdes pinos,</l>
+                  <l>las polvorientas encinas!…</l>
+                  <l>¿Adónde el camino irá?</l>
+                  <l>Yo voy cantando, viajero,</l>
+                  <l>a lo largo del sendero…</l>
+                  <l>—La tarde cayendo está—.</l>
+                  <l>“En el corazón tenía</l>
+                  <l>la espina de una pasión;</l>
+                  <l>logré arrancármela un día;</l>
+                  <l>ya no siento el corazón”.</l>
+               </lg>
+               <lg>
+                  <l>Y todo el campo un momento</l>
+                  <l>se queda, mudo y sombrío,</l>
+                  <l>meditando. Suena el viento</l>
+                  <l>en los álamos del río.</l>
+               </lg>
+               <lg>
+                  <l>La tarde más se oscurece;</l>
+                  <l>y el camino se serpea</l>
+                  <l>y débilmente blanquea,</l>
+                  <l>se enturbia y desaparece.</l>
+               </lg>
+               <lg>
+                  <l>Mi cantar vuelve a plañir:</l>
+                  <l>“Aguda espina dorada,</l>
+                  <l>quién te volviera a sentir</l>
+                  <l>en el corazón clavada”.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>En la primera edición de Soledades (1903) no apareció este poema, sino en la edición
+            aumentada en 1907 como Soledades. Galerías. Otros poemas. </note>
+      </body>
+   </text>
+</TEI>

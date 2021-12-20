@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La huelga</title>
+            <author>Pablo Neruda</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Canto General</title>
+               <date cert="high"/>
+               <pubPlace>México</pubPlace>
+               <publisher n="first_editor">Talleres Gráficos de La Nación</publisher>
+               <publisher n="used_edition">1973-Editorial Losana</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesías políticas y Poesías sociales</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Subversión, Igualdad, Fraternidad y Perseverancia</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Pablo Neruda</persName>
+                  <idno type="viaf">http://viaf.org/viaf/95126958</idno>
+                  <nationality>Chile</nationality>
+                  <birth>
+                     <date cert="low">1904</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1973</date>
+                  </death>
+                  <floruit>Otro</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Fui más allá del oro:</l>
+                  <l>entré en la huelga.</l>
+                  <l>Allí duraba el hilo delicado</l>
+                  <l>que une a los seres, allí la cinta pura</l>
+                  <l>del hombre estaba viva.</l>
+                  <l>La muerte los mordía,</l>
+                  <l>el oro, ácidos dientes y veneno</l>
+                  <l>estiraba hacia ellos, pero el pueblo</l>
+                  <l>puso sus pedernales en la puerta,</l>
+                  <l>fue terrón solidario que dejaba</l>
+                  <l>transcurrir la ternura y el combate</l>
+                  <l>como dos aguas paralelas</l>
+                  <l>hilos</l>
+                  <l>de las raíces, olas de la estirpe.</l>
+               </lg>
+               <lg>
+                  <l>Vi la huelga en los brazos reunidos</l>
+                  <l>que apartan el desvelo</l>
+                  <l>y en una pausa trémula de lucha</l>
+                  <l>vi por primera vez lo único vivo!</l>
+                  <l>La unidad de las vidas de los hombres.</l>
+               </lg>
+               <lg>
+                  <l>En la cocina de la resistencia</l>
+                  <l>con sus fogones pobres, en los ojos</l>
+                  <l>de las mujeres, en las manos insignes</l>
+                  <l>que con torpeza se inclinaban</l>
+                  <l>hacia el ocio de un día</l>
+                  <l>como en un mar azul desconocido,</l>
+                  <l>en la fraternidad del pan escaso,</l>
+                  <l>en la reunión inquebrantable, en todos</l>
+                  <l>los gérmenes de piedra que surgían</l>
+                  <l>en aquella granada valerosa</l>
+                  <l>elevada en la sal del desamparo,</l>
+                  <l>hallé por fin la fundación perdida,</l>
+                  <l>la remota cuidad de la ternura.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Para esta transcripción se ha utilizado el volumen Obras completas (Tercera edición
+            aumentada) de Editoral Losana (Buenos Aires, 1973). </note>
+      </body>
+   </text>
+</TEI>

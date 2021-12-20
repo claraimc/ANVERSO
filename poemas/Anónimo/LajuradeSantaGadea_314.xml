@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La jura de Santa Gadea</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Romancero viejo</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">Romancero (Cátedra, 1994)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>El Cid (Rodrigo Díaz de Vivar)</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>En Santa Águeda de Burgos, do juran los hijos de algo,</l>
+                  <l>allí toma juramento el Cid al rey castellano:</l>
+                  <l>si se halló en la muerte del rey don Sancho su hermano.</l>
+                  <l>Las juras eran muy recias, el rey no las ha otorgado.</l>
+                  <l>Villanos te maten, Alfonso, villanos que no hidalgos,</l>
+                  <l>de las Asturias de Oviedo, que no sean castellanos,</l>
+                  <l>si ellos son de León yo te los do por marcados;</l>
+                  <l>caballeros vayan en yeguas, en yeguas que no en caballos;</l>
+                  <l>las riendas traigan de cuerda y no con frenos dorados;</l>
+                  <l>abarcas traigan calzadas y no zapatos con lazo;</l>
+                  <l>las piernas traigan desnudas, no calzas de fino paño;</l>
+                  <l>trayan capas aguaderas, no capuces ni tabardos;</l>
+                  <l>con camisones de estopa, no de holanda ni labrados;</l>
+                  <l>mátente con aguijadas, no con lanzas ni con dardos;</l>
+                  <l>con cuchillos cachicuernos, no con puñales dorados;</l>
+                  <l>mátente por las aradas, no por caminos hoyados;</l>
+                  <l>sáquente el corazón por el derecho costado,</l>
+                  <l>si no dices la verdad de lo que te es preguntado:</l>
+                  <l>si tú fuiste o consentiste en la muerte de tu hermano.</l>
+                  <l>— Allí respondió el buen rey, bien oiréis lo que ha hablado:</l>
+                  <l>—Mucho me aprietas, Rodrigo; Rodrigo, mal me has tratado.</l>
+                  <l>Mas hoy me tomas la jura, cras me besarás la mano.—</l>
+                  <l>Allí respondió el buen Cid como hombre muy enojado:</l>
+                  <l>—Aqueso será, buen rey, como fuere galardonado;</l>
+                  <l>que allá en las otras tierras dan sueldo a los hijos d’algo.</l>
+                  <l>Por besar mano de rey no me tengo por honrado;</l>
+                  <l>porque la besó mi padre me tengo por afrentado.</l>
+                  <l>—Vete de mis tierras, Cid, mal caballero probado;</l>
+                  <l>vete, no m’entres en ellas hasta un año pasado.</l>
+                  <l>—Que me place —dijo el Cid—, que me place de buen grado</l>
+                  <l>por ser la primera cosa que mandas en tu reinado.</l>
+                  <l>Tú me destierras por uno, yo me destierro por cuatro.—</l>
+                  <l>Ya se partía el buen Cid de Vivar, de esos palacios;</l>
+                  <l>las puertas deja cerradas, los alamudes echados,</l>
+                  <l>las cadenas deja llenas de podencos y de galgos;</l>
+                  <l>con él lleva sus halcones, los pollos y los mudados;</l>
+                  <l>con él van cien caballeros, todos eran hijos de algo,</l>
+                  <l>los unos iban a mula y los otros a caballo.</l>
+                  <l>Por una ribera arriba al Cid van acompañando;</l>
+                  <l>acompañándolo iban mientras él iba cazando.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Versión correspondiente a la edición de Paloma Díaz Mas para su edición del Romancero
+            para Crítica (1994). </note>
+      </body>
+   </text>
+</TEI>

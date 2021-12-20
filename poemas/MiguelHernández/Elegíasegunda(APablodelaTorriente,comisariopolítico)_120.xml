@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elegía segunda (A Pablo de la Torriente, comisario político)</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Viento del pueblo</title>
+               <date cert="high"/>
+               <pubPlace>Valencia</pubPlace>
+               <publisher n="first_editor">Socorro Rojo</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Muerte y Elegía</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>“Me quedaré en España, compañero”,</l>
+                  <l>me dijiste con gesto enamorado.</l>
+                  <l>Y al fin sin tu edificio trotante de guerrero</l>
+                  <l>en la hierba de España te has quedado.</l>
+               </lg>
+               <lg>
+                  <l>Nadie llora a tu lado:</l>
+                  <l>desde el soldado al duro comandante,</l>
+                  <l>todos te ven, te cercan y te atienden</l>
+                  <l>con ojos de granito amenazante,</l>
+                  <l>con cejas incendiadas que todo el cielo encienden.</l>
+               </lg>
+               <lg>
+                  <l>Valentín el volcán, que si llora algún día</l>
+                  <l>será con unas lágrimas de hierro,</l>
+                  <l>se viste emocionado de alegría</l>
+                  <l>para robustecer el río de tu entierro.</l>
+               </lg>
+               <lg>
+                  <l>Como el yunque que pierde su martillo,</l>
+                  <l>Manuel Moral se calla</l>
+                  <l>colérico y sencillo.</l>
+               </lg>
+               <lg>
+                  <l>Y hay muchos capitanes y muchos comisarios</l>
+                  <l>quitándote pedazos de metralla,</l>
+                  <l>poniéndote trofeos funerarios.</l>
+               </lg>
+               <lg>
+                  <l>Ya no hablarás de vivos y de muertos,</l>
+                  <l>ya disfrutas la muerte del héroe, ya la vida</l>
+                  <l>no te verá en las calles ni en los puertos</l>
+                  <l>pasar como una ráfaga garrida.</l>
+               </lg>
+               <lg>
+                  <l>Pablo de la Torriente,</l>
+                  <l>has quedado en España</l>
+                  <l>y en mi alma caído:</l>
+                  <l>nunca se pondrá el sol sobre tu frente,</l>
+                  <l>heredará tu altura la montaña</l>
+                  <l>y tu valor el toro del bramido.</l>
+               </lg>
+               <lg>
+                  <l>De una forma vestida de preclara</l>
+                  <l>has perdido las plumas y los besos,</l>
+                  <l>con el sol español puesto en la cara</l>
+                  <l>y el de Cuba en los huesos.</l>
+               </lg>
+               <lg>
+                  <l>Pasad ante el cubano generoso,</l>
+                  <l>hombres de su Brigada,</l>
+                  <l>con el fusil furioso,</l>
+                  <l>las botas iracundas y la mano crispada.</l>
+               </lg>
+               <lg>
+                  <l>Miradlo sonriendo a los terrones</l>
+                  <l>y exigiendo venganza bajo sus dientes mudos</l>
+                  <l>a nuestros más floridos batallones</l>
+                  <l>y a sus varones como rayos rudos.</l>
+               </lg>
+               <lg>
+                  <l>Ante Pablo los días se abstienen ya y no andan.</l>
+                  <l>No temáis que se extinga su sangre sin objeto,</l>
+                  <l>porque éste es de los muertos que crecen y se agrandan</l>
+                  <l>aunque el tiempo devaste su gigante esqueleto.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

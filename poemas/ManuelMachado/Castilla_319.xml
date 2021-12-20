@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Castilla</title>
+            <author>Manuel Machado</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Alma</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Imp. de A. Marzo</publisher>
+               <publisher n="used_edition"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesías narrativas</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>El Cid (Rodrigo Díaz de Vivar)</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Manuel Machado</persName>
+                  <idno type="viaf">http://viaf.org/viaf/34524742</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1874</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1947</date>
+                  </death>
+                  <floruit>Modernismo</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>El ciego sol se estrella</l>
+                  <l>en las duras aristas de las armas,</l>
+                  <l>llaga de luz los petos y espaldares</l>
+                  <l>y flamea en las puntas de las lanzas.</l>
+                  <l>El ciego sol, la sed y la fatiga.</l>
+                  <l>Por la terrible estepa castellana,</l>
+                  <l>al destierro, con doce de los suyos</l>
+                  <l>—polvo, sudor y hierro—, el Cid cabalga.</l>
+               </lg>
+               <lg>
+                  <l>Cerrado está el mesón a piedra y lodo.</l>
+                  <l>Nadie responde. Al pomo de la espada</l>
+                  <l>y al cuento de las picas, el postigo</l>
+                  <l>va a ceder… ¡Quema el sol, el aire abrasa!</l>
+                  <l>A los terribles golpes</l>
+                  <l>de eco ronco, una voz pura, de plata</l>
+                  <l>y de cristal, responde… Hay una niña</l>
+                  <l>muy débil y muy blanca</l>
+                  <l>en el umbral. Es toda</l>
+                  <l>ojos azules; y en los ojos, lágrimas.</l>
+                  <l>Oro pálido nimba</l>
+                  <l>su carita curiosa y asustada.</l>
+                  <l>—Buen Cid, pasad… El rey nos dará muerte,</l>
+                  <l>arruinará la casa</l>
+                  <l>y sembrará de sal el pobre campo</l>
+                  <l>que mi padre trabaja…</l>
+                  <l>Idos. El cielo os colme de venturas…</l>
+                  <l>En nuestro mal, oh Cid, no ganáis nada.</l>
+                  <l>Calla la niña y llora sin gemido…</l>
+                  <l>Un sollozo infantil cruza la escuadra</l>
+                  <l>de feroces guerreros,</l>
+                  <l>y una voz inflexible grita: —«¡En marcha!»</l>
+               </lg>
+               <lg>
+                  <l>El ciego sol, la sed y la fatiga.</l>
+                  <l>Por la terrible estepa castellana,</l>
+                  <l>al destierro, con doce de los suyos</l>
+                  <l>—polvo, sudor y hierro—, el Cid cabalga.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Poema recurrente en el tratamiento musical del Cid, muchas veces en sustitución de las
+            fuentes medievales. </note>
+      </body>
+   </text>
+</TEI>

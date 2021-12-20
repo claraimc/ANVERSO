@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Por tu pie, la blancura más bailable]</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>El rayo que no cesa</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Héroe</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Sonetos</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Por tu pie, la blancura más bailable,</l>
+                  <l>donde cesa en diez partes tu hermosura,</l>
+                  <l>una paloma sube a tu cintura,</l>
+                  <l>baja a la tierra un nardo interminable.</l>
+               </lg>
+               <lg>
+                  <l>Con tu pie vas poniendo lo admirable</l>
+                  <l>del nácar en ridícula estrechura,</l>
+                  <l>y donde va tu pie va la blancura,</l>
+                  <l>perro sembrado de jazmín calzable.</l>
+               </lg>
+               <lg>
+                  <l>A tu pie, tan espuma como playa,</l>
+                  <l>arena y mar me arrimo y desarrimo</l>
+                  <l>y al redil de su planta entrar procuro.</l>
+               </lg>
+               <lg>
+                  <l>Entro y dejo que el alma se me vaya</l>
+                  <l>por la voz amorosa del racimo:</l>
+                  <l>pisa mi corazón que ya es maduro.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

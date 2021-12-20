@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hombre pequeñito</title>
+            <author>Alfonsina Storni</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Irremediablemente</title>
+               <date cert="high"/>
+               <pubPlace>Buenos Aires</pubPlace>
+               <publisher n="first_editor">Cooperativa Editorial Limitada</publisher>
+               <publisher n="used_edition">1948-R. J. Roggero Editores</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesías sociales</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Machismos, Independencia y Relaciones</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Alfonsina Storni</persName>
+                  <idno type="viaf">http://viaf.org/viaf/90658830</idno>
+                  <nationality>Argentina</nationality>
+                  <birth>
+                     <date cert="low">1892</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1938</date>
+                  </death>
+                  <floruit>Otro</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Hombre pequeñito, hombre pequeñito,</l>
+                  <l>Suelta a tu canario que quiere volar…</l>
+                  <l>Yo soy el canario, hombre pequeñito,</l>
+                  <l>Déjame saltar.</l>
+               </lg>
+               <lg>
+                  <l>Estuve en tu jaula, hombre pequeñito,</l>
+                  <l>Hombre pequeñito que jaula me das.</l>
+                  <l>Digo pequeñito porque no me entiendes,</l>
+                  <l>Ni me entenderás.</l>
+               </lg>
+               <lg>
+                  <l>Tampoco te entiendo, pero mientras tanto</l>
+                  <l>Abreme la jaula que quiero escapar;</l>
+                  <l>Hombre pequeñito, te amé media hora,</l>
+                  <l>No me pidas más.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>En la línea 10, el texto original no tiene acento en «Ábreme», sirva esta aclaración
+            para evitar dudas sobre la ortografía original. </note>
+      </body>
+   </text>
+</TEI>

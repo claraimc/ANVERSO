@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Propuesta de matrimonio</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cantar de mio Cid</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">1913 - Ediciones de La Lectura</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Cantares de gesta</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>El Cid (Rodrigo Díaz de Vivar)</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Quando lo sopo el buen Campeador,</l>
+                  <l>apriessa cavalga, a reçebirlos salió;</l>
+                  <l>sonrrisós mió Çid e bien los abraçó :</l>
+                  <l>«¿Venides, Minaya, e vos, Per Vermudoz !</l>
+                  <l>«En pocas tierras a tales dos varones.</l>
+                  <l>«¿ Cómmo son las saludes de Alfons mió señor ?</l>
+                  <l>«¿ si es pagado o reçibió el don ?»</l>
+                  <l>Dixo Minaya : «D’ alma e de coraçón</l>
+                  <l>«es pagado, e davos su amor.»</l>
+                  <l>Dixo mió Çid: «Grado al Criador !»</l>
+                  <l>Esto diziendo, conpieçan la razón,</l>
+                  <l>lo quel rogava Alfons el de León</l>
+                  <l>de dar sues fijas a iffantes de Carrión,</l>
+                  <l>quel connosçie i ondra e creçrié en onor,</l>
+                  <l>que gelo conssejava d’ alma e de coraçón.</l>
+                  <l>Quando lo oyó mió Çid el buen Campeador,</l>
+                  <l>una grand ora penssó e comidió :</l>
+                  <l>«Esto gradesco a Cristus el mió señor.</l>
+                  <l>«Echado fu de tierra, he tollida la onor,</l>
+                  <l>«con grand afán gané lo que he yo;</l>
+                  <l>«a Dios lo gradesco que del rey he su amor,</l>
+                  <l>«e pídenme mis fijas pora ifantes de Carrión.</l>
+                  <l>«¿Dezid, Minaya e vos Per Vermudoz,</l>
+                  <l>»d’ aqueste casamiento que semeja a vos?»</l>
+                  <l>«Lo que a vos ploguiere esso dezimos nos.»</l>
+                  <l>Dixo el Çid: «de grand natura son iffantes de Carrión.</l>
+                  <l>«ellos son mucho orgullosos e an part en la cort,</l>
+                  <l>«deste casamiento non avría sabor;</l>
+                  <l>»mas pues lo conseja el que más vale que nos,</l>
+                  <l>«fablemos en ello, en la poridad seamos nos.</l>
+                  <l>«Afé Dios del çielo que nos acuerde en lo mijor.»</l>
+                  <l>«Con todo esto, a vos dixo Alfons</l>
+                  <l>«que vos vernié a vistas do oviéssedes sabor;</l>
+                  <l>«querer vos ye veer e darvos su amor,</l>
+                  <l>«acordar vos yedes después a todo lo mejor.»</l>
+                  <l>Essora dixo el Çid: «plazme de coraçón.»</l>
+                  <l>«Estas vistas o las ayades vos,»</l>
+                  <l>dixo Minaya, «vos seed sabidor.»</l>
+                  <l>«Non era maravilla si quisiesse el rey Alfons,</l>
+                  <l>«fasta do lo fallássemos buscar lo iriemos nos,</l>
+                  <l>«por darle grand ondra commo a rey e señor.</l>
+                  <l>«Mas lo que él quisiere, esso queramos nos.</l>
+                  <l>»Sobre Tajo, que es una agua mayor,</l>
+                  <l>«ayamos vistas quando lo quiere mió señor.»</l>
+                  <l>Escrivien cartas, bien las seelló,</l>
+                  <l>con dos cavalleros luego las enbió :</l>
+                  <l>lo que el rey quisiere, esso ferá el Campeador</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Vv. 1916-1958 del Cantar de mio Cid. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La saeta</title>
+            <author>Antonio Machado</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Campos de Castilla (1907-1917) [Poesías completas, 1917]</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">[Fortanet] Publicaciones de la Residencia de
+                Estudiantes</publisher>
+               <publisher n="used_edition">1999-Espasa [Austral]</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesías religiosas</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Religión</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Antonio Machado</persName>
+                  <idno type="viaf">http://viaf.org/viaf/7385547</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1875</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1939</date>
+                  </death>
+                  <floruit>Generación del 98</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>¿Quién me presta una escalera,</l>
+                  <l>para subir al madero,</l>
+                  <l>para quitarle los clavos</l>
+                  <l>a Jesús el Nazareno?</l>
+                  <l>Saeta popular</l>
+               </lg>
+               <lg>
+                  <l>¡Oh, la saeta, el cantar</l>
+                  <l>al Cristo de los gitanos,</l>
+                  <l>siempre con sangre en las manos,</l>
+                  <l>siempre por desenclavar!</l>
+                  <l>¡Cantar del pueblo andaluz,</l>
+                  <l>que todas las primaveras</l>
+                  <l>anda pidiendo escaleras</l>
+                  <l>para subir a la cruz!</l>
+                  <l>¡Cantar de la tierra mía,</l>
+                  <l>que echa flores</l>
+                  <l>al Jesús de la agonía,</l>
+                  <l>y es la fe de mis mayores!</l>
+                  <l>¡Oh, no eres tú mi cantar!</l>
+                  <l>¡No puedo cantar, ni quiero</l>
+                  <l>a ese Jesús del madero,</l>
+                  <l>sino al que anduvo en el mar!</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Fue Joan Manuel Serral quien hizo la primera musicalización de este poema en Dedicado
+            a Antonio Machado, poeta (1969), si bien esta canción no está incluida en la base de
+            datos, porque se sale de los márgenes temporales que la delimitan. Tampoco está otra
+            versión anterior a 1975: Manolo Vega, en un single de 1971, que adapta la melodía de
+            Serrat al flamenco. Es interesante destacar que Serrat incorpora como parte de la letra
+            la saeta popular que antepone Machado en su poema, y este recurso será repetido en
+            muchas versiones posteriores. </note>
+      </body>
+   </text>
+</TEI>

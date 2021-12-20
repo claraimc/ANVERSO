@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tierra y Luna</title>
+            <author>Federico García Lorca</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Tierra y Luna</title>
+               <date cert="high"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">Obra completa II. Poesía, 2 (Akal, 2008)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Muerte</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <idno type="viaf">http://viaf.org/viaf/34456883</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1898</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1936</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Me quedo con el transparente hombrecillo</l>
+                  <l>que come los huevos de la golondrina.</l>
+                  <l>Me quedo con el niño desnudo</l>
+                  <l>que pisotean los borrachos de Brooklyn,</l>
+                  <l>con las criaturas mudas que pasan bajo los arcos.</l>
+                  <l>Con el arroyo de venas ansioso de abrir sus manecitas.</l>
+               </lg>
+               <lg>
+                  <l>Tierra tan sólo. Tierra.</l>
+                  <l>Tierra para los manteles estremecidos,</l>
+                  <l>para la pupila viciosa de nube,</l>
+                  <l>para las heridas recientes y el húmedo pensamiento.</l>
+                  <l>Tierra para todo lo que huye de la Tierra.</l>
+               </lg>
+               <lg>
+                  <l>No es la ceniza en vilo de las cosas quemadas,</l>
+                  <l>ni los muertos que mueven sus lenguas bajo los árboles.</l>
+                  <l>Es la Tierra desnuda que bala por el cielo</l>
+                  <l>y deja atrás los grupos ligeros de ballenas.</l>
+               </lg>
+               <lg>
+                  <l>Es la tierra alegrísima, imperturbable nadadora,</l>
+                  <l>la que yo encuentro en el niño y en las criaturas que pasan los arcos.</l>
+                  <l>Viva tierra de mi pulso y del baile de los helechos,</l>
+                  <l>que deja a veces por el aire un duro perfil de Faraón.</l>
+               </lg>
+               <lg>
+                  <l>Me quedo con la mujer fría</l>
+                  <l>donde se queman los musgos inocentes;</l>
+                  <l>me quedo con los borrachos de Brooklyn</l>
+                  <l>que pisan al niño desnudo;</l>
+                  <l>me quedo con los signos desgarrados</l>
+                  <l>de la lenta comida de los osos.</l>
+               </lg>
+               <lg>
+                  <l>Pero entonces bajó la Luna despeñada por las escaleras</l>
+                  <l>poniendo las ciudades de hule celeste y talco sensitivo,</l>
+                  <l>llenando los pies de mármol la llanura sin recodos</l>
+                  <l>y olvidando, bajo las sillas, diminutas carcajadas de algodón.</l>
+               </lg>
+               <lg>
+                  <l>¡Oh Diana, Diana, Diana vacía!</l>
+                  <l>Convexa resonancia donde la abeja se vuelve loca.</l>
+                  <l>Mi amor es paso, tránsito, larga muerte gustada,</l>
+                  <l>nunca la piel ilesa de tu desnudo huido.</l>
+               </lg>
+               <lg>
+                  <l>Es Tierra, ¡Dios mío!, Tierra, lo que vengo buscando.</l>
+                  <l>Embozo de horizonte, latido y sepultura.</l>
+                  <l>Es dolor que se acaba y amor que se consume.</l>
+                  <l>Torre de sangre abierta con las manos quemadas.</l>
+               </lg>
+               <lg>
+                  <l>Pero la Luna subía y bajaba las escaleras,</l>
+                  <l>repartiendo lentejas desangradas en los ojos,</l>
+                  <l>dando escobazos de plata a los niños de los muelles</l>
+                  <l>y borrando mi apariencia por el término del aire.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Los poemas de Tierra y Luna fueron compuestos por las mismas fechas y mismo estilo
+            surrealista que Poeta en Nueva York, pero Lorca no llegó a publicarlos. En la Obra
+            completa aquí consultada, este poema está fechado el 28 de agosto de 1929 en Vermont.
+        </note>
+      </body>
+   </text>
+</TEI>

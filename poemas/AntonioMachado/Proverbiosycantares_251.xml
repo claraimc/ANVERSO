@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proverbios y cantares</title>
+            <author>Antonio Machado</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Campos de Castilla</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Renacimiento</publisher>
+               <publisher n="used_edition">1999-Espasa [Austral]</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesías didácticas</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Sabiduría diaria</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Antonio Machado</persName>
+                  <idno type="viaf">http://viaf.org/viaf/7385547</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1875</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1939</date>
+                  </death>
+                  <floruit>Generación del 98</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>I</l>
+                  <l>Nunca perseguí la gloria</l>
+                  <l>ni dejar en la memoria</l>
+                  <l>de los hombres mi canción;</l>
+                  <l>yo amo los mundos sutiles,</l>
+                  <l>ingrávidos y gentiles</l>
+                  <l>como pompas de jabón.</l>
+                  <l>Me gusta verlos pintarse</l>
+                  <l>de sol y grana, volar</l>
+                  <l>bajo el cielo azul, temblar</l>
+                  <l>súbitamente y quebrarse.</l>
+               </lg>
+               <lg>
+                  <l>II</l>
+                  <l>¿Para qué llamar caminos</l>
+                  <l>a los surcos del azar?…</l>
+                  <l>Todo el que camina anda,</l>
+                  <l>como Jesús, sobre el mar.</l>
+               </lg>
+               <lg>
+                  <l>III</l>
+                  <l>A quien nos justifica nuestra desconfianza</l>
+                  <l>llamamos enemigo, ladrón de una esperanza.</l>
+                  <l>jamás perdona el necio si ve la nuez vacía</l>
+                  <l>que dio a cascar al diente de la sabiduría.</l>
+               </lg>
+               <lg>
+                  <l>IV</l>
+                  <l>Nuestras horas son minutos</l>
+                  <l>cuando esperamos saber,</l>
+                  <l>y siglos cuando sabemos</l>
+                  <l>lo que se puede aprender.</l>
+               </lg>
+               <lg>
+                  <l>V</l>
+                  <l>Ni vale nada el fruto</l>
+                  <l>cogido sin sazón…</l>
+                  <l>Ni aunque te elogie un bruto</l>
+                  <l>ha de tener razón.</l>
+               </lg>
+               <lg>
+                  <l>VI</l>
+                  <l>De lo que llaman los hombres</l>
+                  <l>virtud, justicia y bondad,</l>
+                  <l>una mitad es envidia,</l>
+                  <l>y la otra no es caridad.</l>
+               </lg>
+               <lg>
+                  <l>VII</l>
+                  <l>Yo he visto garras fieras en las pulidas manos;</l>
+                  <l>conozco grajos mélicos y líricos marranos…</l>
+                  <l>El más truhán se lleva la mano al corazón,</l>
+                  <l>y el bruto más espeso se carga de razón.</l>
+               </lg>
+               <lg>
+                  <l>VIII</l>
+                  <l>En preguntar lo que sabes</l>
+                  <l>el tiempo no has de perder…</l>
+                  <l>Y a preguntas sin respuesta,</l>
+                  <l>¿quién te podrá responder?</l>
+               </lg>
+               <lg>
+                  <l>IX</l>
+                  <l>El hombre, a quien el hambre de la rapiña acucia,</l>
+                  <l>de ingénita malicia y natural astucia,</l>
+                  <l>formó la inteligencia y acaparó la tierra.</l>
+                  <l>¡Y aun la verdad proclama! ¡Supremo ardid de guerra!</l>
+               </lg>
+               <lg>
+                  <l>X</l>
+                  <l>La envidia de la virtud</l>
+                  <l>hizo a Caín criminal.</l>
+                  <l>¡Gloria a Caín! Hoy el vicio</l>
+                  <l>es lo que se envidia más.</l>
+               </lg>
+               <lg>
+                  <l>XI</l>
+                  <l>La mano del piadoso nos quita siempre honor;</l>
+                  <l>mas nunca ofende al darnos su mano el lidiador.</l>
+                  <l>Virtud es fortaleza, ser bueno es ser valiente;</l>
+                  <l>escudo, espada y maza llevar bajo la frente;</l>
+                  <l>porque el valor honrado de todas armas viste:</l>
+                  <l>no sólo para, hiere, y más que aguarda, embiste.</l>
+                  <l>Que la piqueta arruine, y el látigo flagele;</l>
+                  <l>la fragua ablande el hierro, la lima pula y gaste,</l>
+                  <l>y que el buril burile, y que el cincel cincele,</l>
+                  <l>la espada punce y hienda y el gran martillo aplaste.</l>
+               </lg>
+               <lg>
+                  <l>XII</l>
+                  <l>¡Ojos que a la luz se abrieron</l>
+                  <l>un día para, después,</l>
+                  <l>ciegos tornar a la tierra,</l>
+                  <l>hartos de mirar sin ver!</l>
+               </lg>
+               <lg>
+                  <l>XIII</l>
+                  <l>Es el mejor de los buenos</l>
+                  <l>quien sabe que en esta vida</l>
+                  <l>todo es cuestión de medida:</l>
+                  <l>un poco más, algo menos…</l>
+               </lg>
+               <lg>
+                  <l>XIV</l>
+                  <l>Virtud es la alegría que alivia el corazón</l>
+                  <l>más grave y desarruga el ceño de Catón.</l>
+                  <l>El bueno es el que guarda, cual venta del camino,</l>
+                  <l>para el sediento, el agua; para el borracho, el vino.</l>
+               </lg>
+               <lg>
+                  <l>XV</l>
+                  <l>Cantad conmigo en coro: Saber, nada sabemos,</l>
+                  <l>de arcano mar vinimos, a ignota mar iremos…</l>
+                  <l>Y entre los dos misterios está el enigma grave;</l>
+                  <l>tres arcas cierra una desconocida llave.</l>
+                  <l>La luz nada ilumina y el sabio nada enseña.</l>
+                  <l>¿Qué dice la palabra? ¿Qué el agua de la peña?</l>
+               </lg>
+               <lg>
+                  <l>XVI</l>
+                  <l>El hombre es por natura la bestia paradójica,</l>
+                  <l>un animal absurdo que necesita lógica.</l>
+                  <l>Creó de nada un mundo y, su obra terminada,</l>
+                  <l>«Ya estoy en el secreto —se dijo—: todo es nada.»</l>
+               </lg>
+               <lg>
+                  <l>XVII</l>
+                  <l>El hombre sólo es rico en hipocresía.</l>
+                  <l>En sus diez mil disfraces para engañar confía;</l>
+                  <l>y con la doble llave que guarda su mansión</l>
+                  <l>para la ajena hace ganzúa de ladrón.</l>
+               </lg>
+               <lg>
+                  <l>XVIII</l>
+                  <l>¡Ah, cuando yo era niño</l>
+                  <l>soñaba con los héroes de la Ilíada!</l>
+                  <l>Áyax era más fuerte que Diomedes;</l>
+                  <l>Héctor, más fuerte que Áyax,</l>
+                  <l>y Aquiles, el más fuerte; porque era</l>
+                  <l>el más fuerte… ¡Inocencias de la infancia!</l>
+                  <l>¡Ah, cuando yo era niño</l>
+                  <l>soñaba con los héroes de la Ilíada!</l>
+               </lg>
+               <lg>
+                  <l>XIX</l>
+                  <l>El casca-nueces-vacías,</l>
+                  <l>Colón de cien vanidades,</l>
+                  <l>vive de supercherías</l>
+                  <l>que vende como verdades.</l>
+               </lg>
+               <lg>
+                  <l>XX</l>
+                  <l>¡Teresa, alma de fuego;</l>
+                  <l>Juan de la Cruz, espíritu de llama;</l>
+                  <l>por aquí hay mucho frío, padres; nuestros</l>
+                  <l>corazoncitos de Jesús se apagan!</l>
+               </lg>
+               <lg>
+                  <l>XXI</l>
+                  <l>Ayer soñé que veía</l>
+                  <l>a Dios y que a Dios hablaba;</l>
+                  <l>y soñé que Dios me oía…</l>
+                  <l>Después soñé que soñaba.</l>
+               </lg>
+               <lg>
+                  <l>XXII</l>
+                  <l>Cosas de hombres y mujeres:</l>
+                  <l>los amoríos de ayer</l>
+                  <l>casi los tengo olvidados,</l>
+                  <l>si fueron alguna vez.</l>
+               </lg>
+               <lg>
+                  <l>XXIII</l>
+                  <l>No extrañéis, dulces amigos,</l>
+                  <l>que esté mi frente arrugada.</l>
+                  <l>Yo vivo en paz con los hombres</l>
+                  <l>y en guerra con mis entrañas.</l>
+               </lg>
+               <lg> </lg>
+               <lg>
+                  <l>XXIV</l>
+                  <l>De diez cabezas, nueve</l>
+                  <l>embisten y una piensa.</l>
+                  <l>Nunca extrañéis que un bruto</l>
+                  <l>se descuerne luchando por la idea.</l>
+               </lg>
+               <lg>
+                  <l>XXV</l>
+                  <l>Las abejas, de las flores</l>
+                  <l>sacan miel, y melodía</l>
+                  <l>del amor, los ruiseñores;</l>
+                  <l>Dante y yo —perdón, señores—</l>
+                  <l>Trocamos —perdón, Lucía—</l>
+                  <l>el amor en Teología.</l>
+               </lg>
+               <lg>
+                  <l>XXVI</l>
+                  <l>Poned sobre los campos</l>
+                  <l>un carbonero, un sabio y un poeta.</l>
+                  <l>Veréis cómo el poeta admira y calla,</l>
+                  <l>el sabio mira y piensa…</l>
+                  <l>Seguramente, el carbonero busca</l>
+                  <l>las moras o las setas.</l>
+                  <l>Llevadlos al teatro</l>
+                  <l>y sólo el carbonero no bosteza.</l>
+                  <l>Quien prefiere lo vivo a lo pintado</l>
+                  <l>es el hombre que piensa, canta o sueña.</l>
+                  <l>El carbonero tiene</l>
+                  <l>llena de fantasías la cabeza.</l>
+               </lg>
+               <lg>
+                  <l>XXVII</l>
+                  <l>¿Dónde está la utilidad</l>
+                  <l>de nuestras utilidades?</l>
+                  <l>Volvamos a la verdad:</l>
+                  <l>vanidad de vanidades.</l>
+               </lg>
+               <lg>
+                  <l>XXVIII</l>
+                  <l>Todo hombre tiene dos</l>
+                  <l>batallas que pelear.</l>
+                  <l>En sueños lucha con Dios;</l>
+                  <l>y despierto, con el mar.</l>
+               </lg>
+               <lg>
+                  <l>XXIX</l>
+                  <l>Caminante, son tus huellas</l>
+                  <l>el camino, y nada más;</l>
+                  <l>caminante, no hay camino:</l>
+                  <l>se hace camino al andar.</l>
+                  <l>Al andar se hace camino,</l>
+                  <l>y al volver la vista atrás</l>
+                  <l>se ve la senda que nunca</l>
+                  <l>se ha de volver a pisar.</l>
+                  <l>Caminante, no hay camino,</l>
+                  <l>sino estelas en la mar.</l>
+               </lg>
+               <lg>
+                  <l>XXX</l>
+                  <l>«El que espera desespera»,</l>
+                  <l>dice la voz popular.</l>
+                  <l>¡Qué verdad tan verdadera!</l>
+                  <l>La verdad es lo que es,</l>
+                  <l>y sigue siendo verdad</l>
+                  <l>aunque se piense al revés.</l>
+               </lg>
+               <lg>
+                  <l>XXXI</l>
+                  <l>Corazón, ayer sonoro,</l>
+                  <l>¿ya no suena</l>
+                  <l>tu monedilla de oro?</l>
+                  <l>Tu alcancía,</l>
+                  <l>antes que el tiempo la rompa,</l>
+                  <l>¿se irá quedando vacía?</l>
+                  <l>Confiemos</l>
+                  <l>en que no será verdad</l>
+                  <l>nada de lo que sabemos.</l>
+               </lg>
+               <lg>
+                  <l>XXXII</l>
+                  <l>¡Oh fe del meditabundo!</l>
+                  <l>¡Oh fe después del pensar!</l>
+                  <l>Sólo si viene un corazón al mundo</l>
+                  <l>rebosa el vaso humano y se hincha el mar.</l>
+               </lg>
+               <lg>
+                  <l>XXXIII</l>
+                  <l>Soñé a Dios como una fragua</l>
+                  <l>de fuego que ablanda el hierro,</l>
+                  <l>como un forjador de espadas,</l>
+                  <l>como un bruñidor de aceros</l>
+                  <l>que iba firmando en las hojas</l>
+                  <l>de luz: Libertad. —Imperio.</l>
+               </lg>
+               <lg>
+                  <l>XXXIV</l>
+                  <l>Yo amo a Jesús que nos dijo:</l>
+                  <l>Cielo y Tierra pasarán.</l>
+                  <l>Cuando Cielo y Tierra pasen,</l>
+                  <l>mi palabra quedará.</l>
+                  <l>¿Cuál fue, Jesús, tu palabra?</l>
+                  <l>¿Amor? ¿Perdón? ¿Caridad?</l>
+                  <l>Todas tus palabras fueron</l>
+                  <l>una palabra: Velad.</l>
+               </lg>
+               <lg>
+                  <l>XXXV</l>
+                  <l>Hay dos modos de conciencia:</l>
+                  <l>una es luz, y otra paciencia.</l>
+                  <l>Una estriba en alumbrar</l>
+                  <l>un poquito el hondo mar;</l>
+                  <l>otra, en hacer penitencia</l>
+                  <l>con caña o red, y esperar</l>
+                  <l>el pez, como pescador.</l>
+                  <l>Dime tú: ¿Cuál es mejor?</l>
+                  <l>¿Conciencia de visionario</l>
+                  <l>que mira en el hondo acuario</l>
+                  <l>peces vivos,</l>
+                  <l>fugitivos,</l>
+                  <l>que no se pueden pescar,</l>
+                  <l>o esta maldita faena</l>
+                  <l>de ir arrojando a la arena,</l>
+                  <l>muertos, los peces del mar?</l>
+               </lg>
+               <lg>
+                  <l>XXXVI</l>
+                  <l>Fe empirista. Ni somos ni seremos.</l>
+                  <l>Todo nuestro vivir es emprestado.</l>
+                  <l>Nada trajimos; nada llevaremos.</l>
+               </lg>
+               <lg>
+                  <l>XXXVII</l>
+                  <l>¿Dices que nada se crea?</l>
+                  <l>No te importe; con el barro</l>
+                  <l>de la tierra, haz una copa</l>
+                  <l>para que beba tu hermano.</l>
+               </lg>
+               <lg>
+                  <l>XXXVIII</l>
+                  <l>¿Dices que nada se crea?</l>
+                  <l>Alfarero, a tus cacharros.</l>
+                  <l>Haz tu copa, y no te importe</l>
+                  <l>si no puedes hacer barro.</l>
+               </lg>
+               <lg>
+                  <l>XXXIX</l>
+                  <l>Dicen que el ave divina,</l>
+                  <l>trocada en pobre gallina</l>
+                  <l>por obra de las tijeras</l>
+                  <l>de aquel sabio profesor</l>
+                  <l>(fue Kant un esquilador</l>
+                  <l>de las aves altaneras;</l>
+                  <l>toda su filosofía,</l>
+                  <l>un sport de cetrería),</l>
+                  <l>dicen que quiere saltar</l>
+                  <l>las tapias del corralón</l>
+                  <l>y volar</l>
+                  <l>otra vez, hacia Platón.</l>
+                  <l>¡Hurra! ¡Sea!</l>
+                  <l>¡Feliz será quien lo vea!</l>
+               </lg>
+               <lg>
+                  <l>XL</l>
+                  <l>Sí, cada uno y todos sobre la tierra iguales:</l>
+                  <l>el ómnibus que arrastran dos pencos matalones,</l>
+                  <l>por el camino, a tumbos, hacia las estaciones,</l>
+                  <l>el ómnibus completo de viajeros banales,</l>
+                  <l>y en medio un hombre mudo, hipocondríaco, austero,</l>
+                  <l>a quien se cuentan cosas y a quien se ofrece vino…</l>
+                  <l>Y allá, cuando se llegue, ¿descenderá un viajero</l>
+                  <l>no más? ¿O habránse todos quedado en el camino?</l>
+               </lg>
+               <lg>
+                  <l>XLI</l>
+                  <l>Bueno es saber que los vasos</l>
+                  <l>nos sirven para beber;</l>
+                  <l>lo malo es que no sabemos</l>
+                  <l>para qué sirve la sed.</l>
+               </lg>
+               <lg>
+                  <l>XLII</l>
+                  <l>¿Dices que nada se pierde?</l>
+                  <l>Si esta copa de cristal</l>
+                  <l>se me rompe, nunca en ella</l>
+                  <l>beberé, nunca jamás.</l>
+               </lg>
+               <lg>
+                  <l>XLIII</l>
+                  <l>Dices que nada se pierde</l>
+                  <l>y acaso dices verdad;</l>
+                  <l>pero todo lo perdemos,</l>
+                  <l>y todo nos perderá.</l>
+               </lg>
+               <lg>
+                  <l>XLIV</l>
+                  <l>Todo pasa y todo queda,</l>
+                  <l>pero lo nuestro es pasar,</l>
+                  <l>pasar haciendo caminos,</l>
+                  <l>caminos sobre la mar.</l>
+               </lg>
+               <lg>
+                  <l>XLV</l>
+                  <l>Morir… ¿Caer como gota</l>
+                  <l>de mar en el mar inmenso?</l>
+                  <l>¿O ser lo que nunca he sido:</l>
+                  <l>uno, sin sombra y sin sueño,</l>
+                  <l>un solitario que avanza</l>
+                  <l>sin camino y sin espejo?</l>
+               </lg>
+               <lg>
+                  <l>XLVI</l>
+                  <l>Anoche soñé que oía</l>
+                  <l>a Dios gritándome: ¡Alerta!</l>
+                  <l>Luego era Dios quien dormía,</l>
+                  <l>y yo gritaba: ¡Despierta!</l>
+               </lg>
+               <lg>
+                  <l>XLVII</l>
+                  <l>Cuatro cosas tiene el hombre</l>
+                  <l>que no sirven en la mar:</l>
+                  <l>ancla, gobernalle y remos,</l>
+                  <l>y miedo de naufragar.</l>
+               </lg>
+               <lg>
+                  <l>XLVIII</l>
+                  <l>Mirando mi calavera</l>
+                  <l>un nuevo Hamlet dirá:</l>
+                  <l>He aquí un lindo fósil de una</l>
+                  <l>careta de carnaval.</l>
+               </lg>
+               <lg>
+                  <l>XLIX</l>
+                  <l>Ya noto, al paso que me torno viejo,</l>
+                  <l>que en el inmenso espejo</l>
+                  <l>donde orgulloso me miraba un día,</l>
+                  <l>era el azogue lo que yo ponía.</l>
+                  <l>Al espejo del fondo de mi casa</l>
+                  <l>una mano fatal</l>
+                  <l>va rayando el azogue, y todo pasa</l>
+                  <l>por él como la luz por el cristal.</l>
+               </lg>
+               <lg>
+                  <l>L</l>
+                  <l>—Nuestro español bosteza.</l>
+                  <l>¿Es hambre? ¿Sueño? ¿Hastío?</l>
+                  <l>Doctor, ¿tendrá el estómago vacío?</l>
+                  <l>—El vacío es más bien en la cabeza.</l>
+               </lg>
+               <lg>
+                  <l>LI</l>
+                  <l>Luz del alma, luz divina,</l>
+                  <l>faro, antorcha, estrella, sol…</l>
+                  <l>Un hombre a tientas camina;</l>
+                  <l>lleva a la espalda un farol.</l>
+               </lg>
+               <lg>
+                  <l>LII</l>
+                  <l>Discutiendo están dos mozos</l>
+                  <l>si a la fiesta del lugar</l>
+                  <l>irán por la carretera</l>
+                  <l>o a campo traviesa irán.</l>
+                  <l>Discutiendo y disputando</l>
+                  <l>empiezan a pelear.</l>
+                  <l>Ya con las trancas de pino</l>
+                  <l>furiosos golpes se dan;</l>
+                  <l>ya se tiran de las barbas,</l>
+                  <l>que se las quieren pelar.</l>
+                  <l>Ha pasado un carretero,</l>
+                  <l>que va cantando un cantar:</l>
+                  <l>«Romero, para ir a Roma,</l>
+                  <l>lo que importa es caminar;</l>
+                  <l>a Roma por todas partes,</l>
+                  <l>por todas partes se va.»</l>
+               </lg>
+               <lg>
+                  <l>LIII</l>
+                  <l>Ya hay un español que quiere</l>
+                  <l>vivir y a vivir empieza,</l>
+                  <l>entre una España que muere</l>
+                  <l>y otra España que bosteza.</l>
+                  <l>Españolito que vienes</l>
+                  <l>al mundo, te guarde Dios.</l>
+                  <l>Una de las dos Españas</l>
+                  <l>ha de helarte el corazón.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Lo más habitual es que los proverbios sean musicados como unidades independientes y/o
+            mezclándolos, dependiendo de la canción. </note>
+      </body>
+   </text>
+</TEI>

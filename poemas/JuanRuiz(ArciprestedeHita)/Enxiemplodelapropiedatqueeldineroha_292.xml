@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Enxiemplo de la propiedat que el dinero ha</title>
+            <author>Juan Ruiz (Arcipreste de Hita)</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Libro de buen amor</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">2000 - Biblioteca Virtual Miguel de Cervantes</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Mester de clerecía</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Avaricia, Dinero, Crítica social y Anticlericalismo</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Juan Ruiz (Arcipreste de Hita)</persName>
+                  <idno type="viaf">http://viaf.org/viaf/163823217</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1283</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1350</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Mucho fas el dinero, et mucho es de amar,</l>
+                  <l>al torpe fase bueno, et omen de prestar,</l>
+                  <l>fase correr al cojo, et al mudo fabrar,</l>
+                  <l>el que non tiene manos, dineros quiere tomar.</l>
+               </lg>
+               <lg>
+                  <l>Sea un ome nesçio et rudo labrador,</l>
+                  <l>los dineros le fasen fidalgo e sabidor,</l>
+                  <l>quanto más algo tiene, tanto es más de valor,</l>
+                  <l>el que non ha dineros, non es de sí señor.</l>
+               </lg>
+               <lg>
+                  <l>Si tovieres dineros, avrás consolaçión,</l>
+                  <l>plaser e alegría, del papa raçión,</l>
+                  <l>comprarás paraíso, ganarás salvaçión,</l>
+                  <l>do son muchos dineros, es mucha bendiçión.</l>
+               </lg>
+               <lg>
+                  <l>Yo vi en corte de Roma, do es la santidat,</l>
+                  <l>que todos al dinero fasen grand’ homilidat,</l>
+                  <l>grand’ honra le fasçían con grand’ solenidat,</l>
+                  <l>todos a él se homillan como a la magestat.</l>
+               </lg>
+               <lg>
+                  <l>Fasíe muchos priores, obispos, et abades,</l>
+                  <l>arçobispos, doctores, patriarcas, potestades,</l>
+                  <l>a muchos clérigos nesçios dávales dinidades,</l>
+                  <l>fasíe de verdat mentiras, et de mentiras verdades.</l>
+               </lg>
+               <lg>
+                  <l>Fasía muchos clérigos e muchos ordenados,</l>
+                  <l>muchos monges e monjas, religiosos sagrados,</l>
+                  <l>el dinero los dava por bien examinados,</l>
+                  <l>a los pobres desían, que non eran letrados.</l>
+               </lg>
+               <lg>
+                  <l>Dava muchos juisios, mucha mala sentençia,</l>
+                  <l>con muchos abogados era su mantenençia,</l>
+                  <l>en tener pleytos malos et faser avenençia,</l>
+                  <l>en cabo por dineros avía penitençia.</l>
+               </lg>
+               <lg>
+                  <l>El dinero quebranta las cadenas dañosas,</l>
+                  <l>tira çepos e grillos, et cadenas plagosas,</l>
+                  <l>el que non tiene dineros, échanle las posas:</l>
+                  <l>por todo el mundo fase cosas maravillosas.</l>
+               </lg>
+               <lg>
+                  <l>Yo vi fer maravilla do él mucho usava,</l>
+                  <l>muchos meresçían muerte que la vida les dava,</l>
+                  <l>otros eran sin culpa, et luego los matava,</l>
+                  <l>muchas almas perdía, et muchas salvava.</l>
+               </lg>
+               <lg>
+                  <l>Fasía perder al pobre su casa e su viña,</l>
+                  <l>sus muebles e raíçes todo los desaliña,</l>
+                  <l>por todo el mundo anda su sarna e su tiña</l>
+                  <l>do el dinero juega, allí el ojo guiña.</l>
+               </lg>
+               <lg>
+                  <l>Él fase caballeros de neçios aldeanos,</l>
+                  <l>condes, e ricos omes de algunos villanos:</l>
+                  <l>con el dinero andan todos los omes loçanos,</l>
+                  <l>quantos son en el mundo, le besan hoy las manos.</l>
+               </lg>
+               <lg>
+                  <l>Vi tener al dinero las mejores moradas,</l>
+                  <l>altas e muy costosas, fermosas, e pintadas,</l>
+                  <l>castillos, eredades, et villas entorreadas:</l>
+                  <l>todas al dinero sirven, et suyas son compladas.</l>
+               </lg>
+               <lg>
+                  <l>Comía muchos manjares de diversas naturas,</l>
+                  <l>vistía los nobles paños, doradas vestiduras,</l>
+                  <l>traía joyas preçiosas en viçios et folguras,</l>
+                  <l>guarnimientos estraños, nobles cabalgaduras.</l>
+               </lg>
+               <lg>
+                  <l>Yo vi a muchos monges en sus predicaçiones</l>
+                  <l>denostar al dinero et a sus tentaçiones,</l>
+                  <l>en cabo, por dinero, otorgan los perdones,</l>
+                  <l>asuelven el ayuno, ansí fasen oraçiones.</l>
+               </lg>
+               <lg>
+                  <l>Pero que le denuestan los monges por las plaças,</l>
+                  <l>guárdanlo en convento en vasos et en taças:</l>
+                  <l>con el dinero cumplen sus menguas, e sus raças,</l>
+                  <l>más condesignos tienen que tordos nin picaças.</l>
+               </lg>
+               <lg>
+                  <l>Como quier que los frayles et clérigos disen, que aman a Dios servir,</l>
+                  <l>si barruntan que el rico está para morir;</l>
+                  <l>quando oyen sus dineros que comienzan a retenir,</l>
+                  <l>quál de ellos lo levarán, comienzan luego a reñir.</l>
+               </lg>
+               <lg>
+                  <l>Monges, frayles, clérigos non toman los dineros,</l>
+                  <l>bien les dan de la çeja do son sus parçioneros,</l>
+                  <l>luego les toman prestos sus omes despenseros;</l>
+                  <l>pues que se disen pobles, ¿qué quieren tesoreros?</l>
+               </lg>
+               <lg>
+                  <l>Allí están esperando, quál avrá más rico tuero.</l>
+                  <l>Non es muerto, ya disen pater noster, mal agüero,</l>
+                  <l>como los cuervos al asno, quando le desuellan el cuero,</l>
+                  <l>cras, cras, nos lo avremos, que nuestro es ya por fuero.</l>
+               </lg>
+               <lg>
+                  <l>Toda muger del mundo, et dueña de altesa</l>
+                  <l>págase del dinero et de mucha riquesa,</l>
+                  <l>yo nunca vi fermosa, que quisiese poblesa,</l>
+                  <l>do son muchos dineros y es mucha noblesa.</l>
+               </lg>
+               <lg>
+                  <l>El dinero es alcalde et jues mucho loado,</l>
+                  <l>éste es consejero et sotil abogado,</l>
+                  <l>alguaçil et merino bien ardit esforzado:</l>
+                  <l>de todos los ofiçios es muy apoderado.</l>
+               </lg>
+               <lg>
+                  <l>En suma te lo digo, tómalo tú mejor,</l>
+                  <l>el dinero del mundo es grand revolvedor:</l>
+                  <l>señor fase del siervo, de señor servidor,</l>
+                  <l>toda cosa del signo se fase por su amor.</l>
+               </lg>
+               <lg>
+                  <l>Por dineros se muda el mundo e su manera</l>
+                  <l>toda muger cobdiçiosa de algo es falaguera.</l>
+                  <l>Por joyas et dineros salirá de carrera:</l>
+                  <l>el dar quebranta peñas, fiende dura madera.</l>
+               </lg>
+               <lg>
+                  <l>Derrueca fuerte muro, et derriba grant torre</l>
+                  <l>a coyta, et a gran priesa el mucho dar acorre,</l>
+                  <l>non a siervo captivo, que el dinero non le aforre:</l>
+                  <l>el que non tiene que dar, su caballo non corre.</l>
+               </lg>
+               <lg>
+                  <l>Las cosas que son graves, fáselas de ligero,</l>
+                  <l>por ende a tu talante sé franco e llenero,</l>
+                  <l>que poco o que mucho non vaya sin logrero,</l>
+                  <l>non me pago de juguetes, do non anda el dinero.</l>
+               </lg>
+               <lg>
+                  <l>Si algo non le dieres cosa mucha o poca,</l>
+                  <l>sey franco de palabra, non le digas raçón loca,</l>
+                  <l>quien no tiene miel en la orça, téngala en la boca:</l>
+                  <l>mercader que esto fase, bien vende, et bien troca.</l>
+               </lg>
+               <lg>
+                  <l>Si sabes estromentos bien tañer o templar,</l>
+                  <l>si sabes o avienes en fermoso cantar,</l>
+                  <l>a las vegadas poco en honesto lugar,</l>
+                  <l>do la muger te oya, non dexes de trobar.</l>
+               </lg>
+               <lg>
+                  <l>Si una cosa sola a la muger non muda,</l>
+                  <l>muchas cosas juntadas façerte han ayuda,</l>
+                  <l>desque lo oye la dueña mucho en ello coyda,</l>
+                  <l>non puede ser que a tiempo a bien non te recubda.</l>
+               </lg>
+               <lg>
+                  <l>Con una flaca cuerda non alzarás grand tranca,</l>
+                  <l>nin por un solo ‘¡farre!’ non anda bestia manca,</l>
+                  <l>a la peña pesada non la mueve una palanca,</l>
+                  <l>con cueros et almádanas poco a poco se arranca.</l>
+               </lg>
+               <lg>
+                  <l>Prueba façer ligereças e façer valentía,</l>
+                  <l>quier lo vea o non, saberlo a algund día,</l>
+                  <l>non será tan esquiva que non aya mejoría,</l>
+                  <l>non canses de seguirla, vençerás su porfía.</l>
+               </lg>
+               <lg>
+                  <l>El que la mucho sigue, e el que la mucho usa</l>
+                  <l>en el corazón la tiene magüer se le escusa,</l>
+                  <l>pero que todo el mundo por esto le acusa,</l>
+                  <l>en esto coyda siempre, por éste far la musa.</l>
+               </lg>
+               <lg>
+                  <l>Quanto es más sosañada, quanto es más corrida,</l>
+                  <l>quanto por ome es majada e ferida,</l>
+                  <l>tanto más por él anda loca muerta et perdida,</l>
+                  <l>non coyda ver la ora que con él seya ida.</l>
+               </lg>
+               <lg>
+                  <l>Coyda su madre que por la sosañar,</l>
+                  <l>por corrella et ferilla, et por la denostar,</l>
+                  <l>que por ende será casta, et la fará estar:</l>
+                  <l>éstos son aguijones que la façen saltar.</l>
+               </lg>
+               <lg>
+                  <l>Debía pensar su madre de quando era donçella,</l>
+                  <l>que su madre non quedava de ferirla e corrella,</l>
+                  <l>que más la ençendía, et pues debía por ella</l>
+                  <l>juzgar todas las otras, e a su fija bella.</l>
+               </lg>
+               <lg>
+                  <l>Toda muger nasçida es fecha de tal masa,</l>
+                  <l>lo que más la defiende aquello ante pasa,</l>
+                  <l>aquello la ençiende, et aquello la traspasa,</l>
+                  <l>do non es tan seguida anda más flaxa laxa.</l>
+               </lg>
+               <lg>
+                  <l>A toda cosa brava grand uso la amansa,</l>
+                  <l>la çierva montesina mucho corrida cansa,</l>
+                  <l>caçador que la sigue tómala quando descansa:</l>
+                  <l>la dueña mucho brava usándose faz’ mansa.</l>
+               </lg>
+               <lg>
+                  <l>Por una vez al día que ome gelo pida,</l>
+                  <l>cient vegadas de noche de amor es requerida,</l>
+                  <l>doña Venus gelo pide por él toda su vida,</l>
+                  <l>de lo qu’él mucho pide, anda muy ençendida.</l>
+               </lg>
+               <lg>
+                  <l>Muy blanda es el agua, mas dando en piedra dura,</l>
+                  <l>muchas vegadas dando façe grand cavadura,</l>
+                  <l>por grand’ uso el rudo sabe grand letura,</l>
+                  <l>muger mucho seguida olvida la cordura.</l>
+               </lg>
+               <lg>
+                  <l>Guárdate non te abuelvas a la casamentera,</l>
+                  <l>donear non la quieras, ca es una manera</l>
+                  <l>porque te faría perder a la entendera,</l>
+                  <l>ca una congrueça de otro siempre tiene dentera.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Cuadernas 490-527 del Libro de buen amor. </note>
+      </body>
+   </text>
+</TEI>

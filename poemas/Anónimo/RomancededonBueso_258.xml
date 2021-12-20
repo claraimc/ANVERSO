@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romance de don Bueso</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Romancero viejo</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">Romancero (Biblioteca Nueva, 2004)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Anagnórisis, Cautiverio, Don Bueso y Relaciones cristiano-musulmanas</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>De las altas mares traen a la niña.</l>
+                  <l>cubierta la traen d’oro y perlería;</l>
+                  <l>en su cabeza lleva una piedra zafira</l>
+                  <l>qu’arrelumbra de noche más que al mediodía.</l>
+                  <l>¿Ónde la llevaría anesta cativa?</l>
+                  <l>Ande la reina mora, qu’ahí lo merecía.</l>
+                  <l>—¿Yo qué la quiería anesta cativa?</l>
+                  <l>El rey es mancebo, se la namoraría—.</l>
+                  <l>La niña hermosa, el rey la quiería,</l>
+                  <l>la reina celosa a llorar se metía.</l>
+                  <l>—Metelda, siñora, a lavar al varo,</l>
+                  <l>que piedra colores y que cobre desmayos—.</l>
+                  <l>Cuanto más la meten a lavar al varo,</l>
+                  <l>más arrelumbraba el su puerpo galano.</l>
+                  <l>—Quitalde, siñora, el beber del vino,</l>
+                  <l>que piedra cololer, que cobre suspiros—.</l>
+                  <l>Cuanto mas le quita el beber del vino</l>
+                  <l>más arrelumbraba el su puerpo lucido.</l>
+                  <l>Inda no’s de día ni amanecía,</l>
+                  <l>cuando la blanca niña lavaba y espandía.</l>
+                  <l>Su hermano, el don Bueso, por ahí pasaría.</l>
+                  <l>— Oh, qué manos blancas en el agua fría.</l>
+                  <l>Enteras parecen de una hermana mía.</l>
+                  <l>¿Vos plaze, siñora, venir en mi compañía?</l>
+                  <l>—Los paños del rey, ¿ónde los dejaría?</l>
+                  <l>—Los que son deoro con ti los traerías,</l>
+                  <l>los que son de seda al río dejarías.</l>
+                  <l>—Oh, qué pachás blancas enriba el caballo.</l>
+                  <l>Enteras parecen de un querido hermano.</l>
+                  <l>Dicimi, mancebo, ¿ande me llevarías?</l>
+                  <l>Estábamos cerca los campos d’Oliva?</l>
+                  <l>—Dicimi, la niña, la niña lucida,</l>
+                  <l>¿d’onde conocías los campos d’Oliva?</l>
+                  <l>—Ahí fue criada y ahí fue nacida;</l>
+                  <l>so hija de reyes, de bueno venida,</l>
+                  <l>me cautivaron moros por la mañanica.</l>
+                  <l>—Abrisme, mi madre, puertas del castillo,</l>
+                  <l>que en lugar de nuera hija vos hay traído.</l>
+                  <l>—Si es la mi nuera, entre en mi cillero;</l>
+                  <l>si era mi hija, venga en los mis brazos.</l>
+                  <l>—Abrisme, mi madre, puertas del palacio:</l>
+                  <l>en lugar d’ernuera hija yo vos traigo.</l>
+                  <l>—Si me traés hija, venga en los mism pechos;</l>
+                  <l>si es mi nuera, entre en mi cillero—.</l>
+                  <l>Esto que oyó la madre sus puetas abriría,</l>
+                  <l>la besó y la abrazó, arriba la subiría.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Es solo una de las versiones del romance, ediada por Piñero. </note>
+      </body>
+   </text>
+</TEI>

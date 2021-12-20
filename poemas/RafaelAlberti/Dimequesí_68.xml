@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dime que sí</title>
+            <author>Rafael Alberti</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Marinero en tierra</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Biblioteca Nueva</publisher>
+               <publisher n="used_edition">Obras completas. Poesía I (Seix Barral - 2003)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Letrillas</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <idno type="viaf">http://viaf.org/viaf/51683733</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1902</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1999</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Dime que sí,</l>
+                  <l>compañera,</l>
+                  <l>marinera,</l>
+                  <l>dime que sí.</l>
+               </lg>
+               <lg>
+                  <l>Dime que he de ver la mar,</l>
+                  <l>que en la mar he de quererte;</l>
+                  <l>compañera,</l>
+                  <l>dime que sí.</l>
+               </lg>
+               <lg>
+                  <l>Dime que he de ver el viento,</l>
+                  <l>que en el viento he de quererte;</l>
+                  <l>marinera,</l>
+                  <l>dime que sí.</l>
+               </lg>
+               <lg>
+                  <l>Dime que sí,</l>
+                  <l>compañera,</l>
+                  <l>dime,</l>
+                  <l>dime que sí.</l>
+               </lg>
+               <lg>
+                  <l>Del barco que yo tuviera,</l>
+                  <l>serías la costurera.</l>
+               </lg>
+               <lg>
+                  <l>Las jarcias, de seda fina;</l>
+                  <l>de fina Holanda, la vela.</l>
+               </lg>
+               <lg>
+                  <l>—¿Y el hilo, marinerito?</l>
+                  <l>—Un cabello de tus trenzas.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Me basta así</title>
+            <author>Ángel González</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Palabra sobre palabra</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Poesía para todos</publisher>
+               <publisher n="used_edition">2017-Planeta [Austral]</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Ángel González</persName>
+                  <idno type="viaf">http://viaf.org/viaf/84475449</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1925</date>
+                  </birth>
+                  <death>
+                     <date cert="low">2008</date>
+                  </death>
+                  <floruit>Generación del 50</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Si yo fuese Dios</l>
+                  <l>y tuviese el secreto,</l>
+                  <l>haría</l>
+                  <l>un ser exacto a ti;</l>
+                  <l>lo probaría</l>
+                  <l>(a la manera de los panaderos</l>
+                  <l>cuando prueban el pan, es decir:</l>
+                  <l>con la boca),</l>
+                  <l>y si ese sabor fuese</l>
+                  <l>igual al tuyo, o sea</l>
+                  <l>tu mismo olor, y tu manera</l>
+                  <l>de sonreír,</l>
+                  <l>y de guardar silencio,</l>
+                  <l>y de estrechar mi mano estrictamente,</l>
+                  <l>y de besarnos sin hacernos daño</l>
+                  <l>—de esto sí estoy seguro: pongo</l>
+                  <l>tanta atención cuando te beso—;</l>
+                  <l>entonces,</l>
+                  <l>si yo fuese Dios,</l>
+                  <l>podría repetirte y repetirte,</l>
+                  <l>siempre la misma y siempre diferente,</l>
+                  <l>sin cansarme jamás del juego idéntico,</l>
+                  <l>sin desdeñar tampoco la que fuiste</l>
+                  <l>por la que ibas a ser dentro de nada;</l>
+                  <l>ya no sé si me explico, pero quiero</l>
+                  <l>aclarar que si yo fuese</l>
+                  <l>Dios, haría</l>
+                  <l>lo posible por ser Ángel González</l>
+                  <l>para quererte tal como te quiero,</l>
+                  <l>para aguardar con calma</l>
+                  <l>a que te crees tú misma cada día,</l>
+                  <l>a que sorprendas todas las mañanas</l>
+                  <l>la luz recién nacida con tu propia</l>
+                  <l>luz, y corras</l>
+                  <l>la cortina impalpable que separa</l>
+                  <l>el sueño de la vida,</l>
+                  <l>resucitándome con tu palabra,</l>
+                  <l>Lázaro alegre,</l>
+                  <l>yo,</l>
+                  <l>mojado todavía</l>
+                  <l>de sombras y pereza,</l>
+                  <l>sorprendido y absorto</l>
+                  <l>en la contemplación de todo aquello</l>
+                  <l>que, en unión de mí mismo,</l>
+                  <l>recuperas y salvas, mueves, dejas</l>
+                  <l>abandonado cuando —luego— callas…</l>
+                  <l>(Escucho tu silencio.</l>
+                  <l>Oigo</l>
+                  <l>constelaciones: existes.</l>
+                  <l>Creo en ti.</l>
+                  <l>Eres.</l>
+                  <l>Me basta.)</l>
+               </lg>
+            </lg>
+         </div>
+         <note>La canción musicaliza el poema original sin alteraciones textuales, excepto que se
+            repiten algunos versos. </note>
+      </body>
+   </text>
+</TEI>

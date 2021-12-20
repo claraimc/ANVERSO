@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Después que Vellido Dolfos</title>
+            <author>Juan de Escobar</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Romancero e historia del muy noble y valeroso cavallero, el Cid Ruy Diez
+            de Bivar en romances en lenguaje antiguo</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">1706 - Martín de Zavala</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Cerco de Zamora, El Cid (Rodrigo Díaz de Vivar) y Arias Gonzalo</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Juan de Escobar</persName>
+                  <idno type="viaf">http://viaf.org/viaf/71438109</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1500</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1600</date>
+                  </death>
+                  <floruit>Renacimiento</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Después que Vellido Dolfos,</l>
+                  <l>esse traydor afamado,</l>
+                  <l>derribó con cruda muerte</l>
+                  <l>al valiente Rey Don Sancho</l>
+                  <l>juntáronse en una tienda</l>
+                  <l>los mayores de su campo,</l>
+                  <l>juntose todo el Real</l>
+                  <l>como estaba alborotado.</l>
+                  <l>Don Diego Ordóñez de Lara</l>
+                  <l>grandes vozes está dando,</l>
+                  <l>y con coraje encendido</l>
+                  <l>muy presto se avía. armado.</l>
+                  <l>Para retar a Zamora,</l>
+                  <l>junto al muro se ha llegado,</l>
+                  <l>y lançando fuego vivo</l>
+                  <l>de esta suerte ha razonado:</l>
+                  <l>—Fementidos y traidores</l>
+                  <l>sois todos los Zamoranos,</l>
+                  <l>porque dentro de esa villa</l>
+                  <l>acogistes al malvado</l>
+                  <l>de Vellido, ese traydor,</l>
+                  <l>el que mató al Rey Don Sancho</l>
+                  <l>mi buen Señor, y buen Rey,</l>
+                  <l>de quien soy muy lastimado:</l>
+                  <l>que los que acogen traydores</l>
+                  <l>traydores sean llamados;</l>
+                  <l>y por tales yo vos reto,</l>
+                  <l>y a vuestros antepassados,</l>
+                  <l>y a los que traidores son</l>
+                  <l>los pongo en el mismo grado,</l>
+                  <l>y a los panes, y a las aguas</l>
+                  <l>de que sois alimentados</l>
+                  <l>y esto os faré conocer,</l>
+                  <l>ansí como estoy armado</l>
+                  <l>y lidiaré con aquellos</l>
+                  <l>que no quieren confessallo,</l>
+                  <l>o con cinco uno a uno,</l>
+                  <l>como en España es vsado:</l>
+                  <l>que lidie el que a concejo</l>
+                  <l>como yo avía retado—.</l>
+                  <l>Arias Gonçalo, esse viejo,</l>
+                  <l>ansí le avía fablado,</l>
+                  <l>después que huvo entendido</l>
+                  <l>lo que Ordoño ha razonado.</l>
+                  <l>—No deviera yo nacer,</l>
+                  <l>si es como tú has contado;</l>
+                  <l>mas yo aceto el desafío</l>
+                  <l>que por ti es demandado,</l>
+                  <l>y te haré yo conocer</l>
+                  <l>no ser lo que has publicado—.</l>
+                  <l>Y a todos los de Zamora</l>
+                  <l>de esta manera ha fablado:</l>
+                  <l>—Varones de grande estima</l>
+                  <l>los pequeños y de estado,</l>
+                  <l>si ay alguno entre vosotros</l>
+                  <l>que en esto se aya hallado,</l>
+                  <l>dígalo muy prontamente</l>
+                  <l>de dezillo no aya empacho;</l>
+                  <l>mas quiero irme de esta tierra</l>
+                  <l>en África desterrado,</l>
+                  <l>que no en campo ser vencido</l>
+                  <l>por alevoso y malvado—.</l>
+                  <l>Todos dicen a vna voz,</l>
+                  <l>sin alguno estar callando:</l>
+                  <l>—Mal fuego nos queme, Conde,</l>
+                  <l>si en tal muerte hemos estado:</l>
+                  <l>no ay en Zamora ninguno</l>
+                  <l>que tal huviesse mandado.</l>
+                  <l>El traidor Vellido Dolfos</l>
+                  <l>por sí solo lo ha acordado;</l>
+                  <l>muy bien podéis ir seguro,</l>
+                  <l>id con Dios, Arias Gonzalo.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Versión de Juan de Escobar del reto de Diego Ordóñez a Zamora. </note>
+      </body>
+   </text>
+</TEI>

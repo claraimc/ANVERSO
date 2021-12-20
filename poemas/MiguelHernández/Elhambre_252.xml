@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El hambre</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>El hombre acecha</title>
+               <date cert="high"/>
+               <pubPlace>Valencia</pubPlace>
+               <publisher n="first_editor">Delegación de la Secretaría de Propaganda / Imprenta
+                Moderna</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesías de guerra</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Hambre</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 36</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Tened presente el hambre: recordad su pasado</l>
+                  <l>turbio de capataces que pagaban en plomo.</l>
+                  <l>Aquel jornal al precio de la sangre cobrado,</l>
+                  <l>con yugos en el alma, con golpes en el lomo.</l>
+               </lg>
+               <lg>
+                  <l>El hambre paseaba sus vacas exprimidas,</l>
+                  <l>sus mujeres resecas, sus devoradas ubres,</l>
+                  <l>sus ávidas quijadas, sus miserables vidas</l>
+                  <l>frente a los comedores y los cuerpos salubres.</l>
+               </lg>
+               <lg>
+                  <l>Los años de abundancia, la saciedad, la hartura</l>
+                  <l>eran sólo de aquellos que se llamaban amos.</l>
+                  <l>Para que venga el pan justo a la dentadura</l>
+                  <l>del hambre de los pobres aquí estoy, aquí estamos.</l>
+               </lg>
+               <lg>
+                  <l>Nosotros no podemos ser ellos, los de enfrente,</l>
+                  <l>los que entienden la vida por un botín sangriento:</l>
+                  <l>como los tiburones, voracidad y diente,</l>
+                  <l>panteras deseosas de un mundo siempre hambriento.</l>
+               </lg>
+               <lg>
+                  <l>Años del hambre han sido para el pobre sus años.</l>
+                  <l>Sumaban para el otro su cantidad los panes.</l>
+                  <l>Y el hambre alobadaba sus rapaces rebaños</l>
+                  <l>de cuervos, de tenazas, de lobos, de alacranes.</l>
+               </lg>
+               <lg>
+                  <l>Hambrientamente lucho yo, con todas mis brechas,</l>
+                  <l>cicatrices y heridas, señales y recuerdos</l>
+                  <l>del hambre, contra tantas barrigas satisfechas:</l>
+                  <l>cerdos con un origen peor que el de los cerdos.</l>
+               </lg>
+               <lg>
+                  <l>Por haber engordado tan baja y brutalmente,</l>
+                  <l>más abajo de donde los cerdos se solazan,</l>
+                  <l>seréis atravesados por esta gran corriente</l>
+                  <l>de espigas que llamean, de puños que amenazan.</l>
+               </lg>
+               <lg>
+                  <l>No habéis querido oír con orejas abiertas</l>
+                  <l>el llanto de millones de niños jornaleros.</l>
+                  <l>Ladrabais cuando el hambre llegaba a vuestras puertas</l>
+                  <l>a pedir con la boca de los mismos luceros.</l>
+               </lg>
+               <lg>
+                  <l>En cada casa, un odio como una higuera fosca,</l>
+                  <l>como un tremante toro con los cuernos tremantes,</l>
+                  <l>rompe por los tejados, os cerca y os embosca,</l>
+                  <l>y os destruye a cornadas, perros agonizantes.</l>
+               </lg>
+               <lg>
+                  <l>El hambre es el primero de los conocimientos:</l>
+                  <l>tener hambre es la cosa primera que se aprende.</l>
+                  <l>Y la ferocidad de nuestros sentimientos,</l>
+                  <l>allá donde el estómago se origina, se enciende.</l>
+               </lg>
+               <lg>
+                  <l>Uno no es tan humano que no estrangule un día</l>
+                  <l>pájaros sin sentir herida en la conciencia:</l>
+                  <l>que no sea capaz de ahogar en nieve fría</l>
+                  <l>palomas que no saben si no es de la inocencia.</l>
+               </lg>
+               <lg>
+                  <l>El animal influye sobre mí con extremo,</l>
+                  <l>la fiera late en todas mis fuerzas, mis pasiones.</l>
+                  <l>A veces, he de hacer un esfuerzo supremo</l>
+                  <l>para acallar en mí la voz de los leones.</l>
+               </lg>
+               <lg>
+                  <l>Me enorgullece el título de animal en mi vida,</l>
+                  <l>pero en el animal humano persevero.</l>
+                  <l>Y busco por mi cuerpo lo más puro que anida,</l>
+                  <l>bajo tanta maleza, con su valor primero.</l>
+               </lg>
+               <lg>
+                  <l>Por hambre vuelve el hombre sobre los laberintos</l>
+                  <l>donde la vida habita siniestramente sola.</l>
+                  <l>Reaparece la fiera, recobra sus instintos,</l>
+                  <l>sus patas erizadas, sus rencores, su cola.</l>
+               </lg>
+               <lg>
+                  <l>Arroja sus estudios y la sabiduría,</l>
+                  <l>y se quita la máscara, la piel de la cultura,</l>
+                  <l>los ojos de la ciencia, la corteza tardía</l>
+                  <l>de los conocimientos que descubre y procura.</l>
+               </lg>
+               <lg>
+                  <l>Entonces sólo sabe del mal, del exterminio.</l>
+                  <l>Inventa gases, lanza motivos destructores,</l>
+                  <l>regresa a la pezuña, retrocede al dominio</l>
+                  <l>del colmillo, y avanza sobre los comedores.</l>
+               </lg>
+               <lg>
+                  <l>Se ejercita en la bestia, y empuña la cuchara</l>
+                  <l>dispuesto a que ninguno se le acerque a la mesa.</l>
+                  <l>Entonces sólo veo sobre el mundo una piara</l>
+                  <l>de tigres, y en mis ojos la visión duele y pesa.</l>
+               </lg>
+               <lg>
+                  <l>Yo no tengo en el alma tanto tigre admitido,</l>
+                  <l>tanto chacal prohijado, que el vino que me toca,</l>
+                  <l>el pan, el día, el hambre no tenga compartido</l>
+                  <l>con otras hambres puestas noblemente en la boca.</l>
+               </lg>
+               <lg>
+                  <l>Ayudadme a ser hombre: no me dejéis ser fiera</l>
+                  <l>hambrienta, encarnizada, sitiada eternamente.</l>
+                  <l>Yo, animal familiar, con esta sangre obrera</l>
+                  <l>os doy la humanidad que mi canción presiente.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>El hombre acecha fue editado por la Delegación de la Secretaría de Propaganda en la
+            Imprenta Moderna de Valencia; sin embargo, con la derrota de la II República en la
+            Guerra Civil, no se completaron los trabajos y la edición desapareció. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El amor ha tales mañas</title>
+            <author>Florencia Pinar</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cancionero General</title>
+               <date cert="high"/>
+               <pubPlace>Valencia</pubPlace>
+               <publisher n="first_editor">Hernando del Castillo</publisher>
+               <publisher n="used_edition">An Electronic Corpus of 15th Century Castilian Cancionero
+                Manuscripts</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía cortés</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Florencia Pinar</persName>
+                  <idno type="viaf">http://viaf.org/viaf/316674707</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1450</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1530</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>¶Ell amor ha tales mañas</l>
+                  <l>que quien no ſe guarda dellas</l>
+                  <l>ſi ſe lentra en las entrañas</l>
+                  <l>no puede ſalir ſin ellas.</l>
+               </lg>
+               <lg>
+                  <l>¶Ell amor es vn guſano</l>
+                  <l>bien mirada ſu figura</l>
+                  <l>es vn cançer de natura</l>
+                  <l>que come todo lo ſano</l>
+                  <l>Por ſus burlas por ſus ſañas</l>
+                  <l>del ſe dan tales querellas</l>
+                  <l>que ſi entra en las entrañas</l>
+                  <l>no puede ſalir ſin ellas</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Transcribimos el texto del Cancionero General. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>15 [“Me gustas cuando callas...”]</title>
+            <author>Pablo Neruda</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Veinte poemas de amor y una canción desesperada</title>
+               <date cert="high"/>
+               <pubPlace>Santiago de Chile</pubPlace>
+               <publisher n="first_editor">Nascimento</publisher>
+               <publisher n="used_edition">2008 - Cátedra [Letras Hispánicas]</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Pablo Neruda</persName>
+                  <idno type="viaf">http://viaf.org/viaf/95126958</idno>
+                  <nationality>Chile</nationality>
+                  <birth>
+                     <date cert="low">1904</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1973</date>
+                  </death>
+                  <floruit>Siglo XX</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Me gustas cuando callas porque estás como ausente,</l>
+                  <l>y me oyes desde lejos, y mi voz no te toca.</l>
+                  <l>Parece que los ojos se te hubieran volado</l>
+                  <l>y parece que un beso te cerrara la boca.</l>
+               </lg>
+               <lg>
+                  <l>Como todas las cosas están llenas de mi alma</l>
+                  <l>emerges de las cosas, llena del alma mía.</l>
+                  <l>Mariposa de sueño, te pareces a mi alma,</l>
+                  <l>y te pareces a la palabra melancolía.</l>
+               </lg>
+               <lg>
+                  <l>Me gustas cuando callas y estás como distante.</l>
+                  <l>Y estás como quejándote, mariposa en arrullo.</l>
+                  <l>Y me oyes desde lejos, y mi voz no te alcanza:</l>
+                  <l>déjame que me calle con el silencio tuyo.</l>
+               </lg>
+               <lg>
+                  <l>Déjame que te hable también con tu silencio</l>
+                  <l>claro como una lámpara, simple como un anillo.</l>
+                  <l>Eres como la noche, callada y constelada.</l>
+                  <l>Tu silencio es de estrella, tan lejano y sencillo.</l>
+               </lg>
+               <lg>
+                  <l>Me gustas cuando callas porque estás como ausente.</l>
+                  <l>Distante y dolorosa como si hubieras muerto.</l>
+                  <l>Una palabra entonces, una sonrisa bastan.</l>
+                  <l>Y estoy alegre, alegre de que no sea cierto.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Con el título de «Poema de su silencio», fue enviado por Neruda a Albertina Rosa,
+            manuscrito en tinta verde y con importantes variantes. Con el mismo título y también con
+            variantes, se publicó primero en la revista Vendimia en 1923; luego, en Zig-Zag, el 5 de
+            enero de 1924. Finalmente, poco después, fue incluido dentro del poemario de Veinte
+            poemas de amor y una canción desesperada, con su título numérico y forma definitiva.
+        </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Combates de los hombres del Cid</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cantar de mio Cid</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">1913 - Ediciones de La Lectura</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Cantares de gesta</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>El Cid (Rodrigo Díaz de Vivar)</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Per Vermudoz, el que antes rebtó,</l>
+                  <l>con Ferránt Gonçálvez de cara se juntó ;</l>
+                  <l>firiensse en los escudos sin todo pavor.</l>
+                  <l>Ferrán Gonçálvez a don Pero el escudol passó,</l>
+                  <l>prísol en vázio, en carne nol tomó,</l>
+                  <l>bien en dos logares el astil le quebró.</l>
+                  <l>Firme estido Per Vermudoz, por esso nos encamó;</l>
+                  <l>Un colpe reçibiera, mas otro firió :</l>
+                  <l>crebantó la bloca del escudo, apart gela echó,</l>
+                  <l>passógelo todo, que nada nol valió.</l>
+                  <l>Metiól la lança por los pechos, çerca del coraçón ;</l>
+                  <l>tres dobles de loriga tenie Fernando, aquestol prestó,</l>
+                  <l>las dos le desmanchan e la terçera fincó:</l>
+                  <l>el belmez con la camisa e con la guarnizón</l>
+                  <l>de dentro en la carne una mano gela metió;</l>
+                  <l>por la boca afuera la sángrel salió;</l>
+                  <l>crebáronle las çinchas, ninguna nol ovo pro,</l>
+                  <l>por la copla del cavallo en tierra lo echó.</l>
+                  <l>Assí lo tenien las yentes que mal ferido es de muort.</l>
+                  <l>En elle dexó la lança e mano al espada metió,</l>
+                  <l>quando lo vido Ferrán Gonçálvez, conuvo a Tizón ;</l>
+                  <l>antes que el colpe esperasse dixo : «vençudo so».</l>
+                  <l>Atorgaróngelo los fideles, Per Vermudoz le dexó.</l>
+                  <l>Don Martino e Díag Gonçálvez firiéronse de las lanças,</l>
+                  <l>tales foron los colpes que les crebaron amas.</l>
+                  <l>Martín Antolínez mano metió al espada,</l>
+                  <l>relumbra tod el campo, tanto es linpia e clara ;</l>
+                  <l>diol un colpe, de traviéssol tomava :</l>
+                  <l>el casco de somo apart gelo echava,</l>
+                  <l>las moncluras del yelmo todas gelas cortava,</l>
+                  <l>allá levó el almófar, fata la cofia llegava,</l>
+                  <l>la cofia e el almófar todo gelo levava,</l>
+                  <l>ráxol los pelos de la cabeça, bien a la carme llegava;</l>
+                  <l>lo uno cayó en el campo e lo al suso fincava.</l>
+                  <l>Quando este colpe a ferido Colada la preçiada,</l>
+                  <l>vido Díag Gonçálvez que no escaparie con el alma;</l>
+                  <l>bolvió la rienda al cavallo por tornasse de cara,</l>
+                  <l>espada tiene en mano mas no la ensayava.</l>
+                  <l>Essora Martín Antolínez reçibiól con el espada,</l>
+                  <l>un cólpel dio de llano con lo agudo nol tomava.</l>
+                  <l>Essora el ifante tan grandes vozes dava:</l>
+                  <l>«valme, Dios glorioso, señor, cúriam deste espada !»</l>
+                  <l>el cavallo asorrienda, e mesurándol del espada,</l>
+                  <l>sacól del mojón; don Martino en el campo fincava.</l>
+                  <l>Essora dixo el rey: «venid vos a mi compaña;</l>
+                  <l>«por quanto avedes fecho vençida avedes esta batalla.»</l>
+                  <l>Otórgangelo los fideles que dize verdadera palabra.</l>
+                  <l>Los dos han arrancado; dirévos de Muño Gustioz,</l>
+                  <l>con Anssuor Gonçálvez cómmo se adobó.</l>
+                  <l>Firiénsse en los escudos unos tan grandes colpes.</l>
+                  <l>Anssuor Gonçálvez, forçudo e de valor,</l>
+                  <l>firió en el escudo a don Muño Gustioz,</l>
+                  <l>tras el escudo falssóle la guarnizón;</l>
+                  <l>en vázio fue la lança, ca en carne nol tomó.</l>
+                  <l>Este colpe fecho, otro dio Muño Gustioz :</l>
+                  <l>por medio de la bloca el escúdol crebantó ;</l>
+                  <l>nol pudo guarir, falssóle la guarnizón,</l>
+                  <l>apart le priso, que non cab el coraçón;</l>
+                  <l>metiól por la carne adentro la lança con el pendón,</l>
+                  <l>de la otra part una braça gela echó,</l>
+                  <l>con él dio una tuerta, de la siella lo encamó,</l>
+                  <l>al tirar de la lança en tierra lo echó;</l>
+                  <l>vermejo salió el astil, e la lança y el pendón.</l>
+                  <l>Todos se cuedan que ferido es de muort.</l>
+                  <l>La lança recombró e sobrél se paró ;</l>
+                  <l>dixo Gonçalvo Anssuórez: «nol firgades, por Dios !</l>
+                  <l>«vençudo es el campo, quando esto se acabó !»</l>
+                  <l>Dixieron los fideles: «esto odimos nos».</l>
+                  <l>Mandó librar el canpo el buen rey don Alfons,</l>
+                  <l>las armas que i rastaron elle se las tomó.</l>
+                  <l>Por ondrados se parten los del buen Campeador ;</l>
+                  <l>vençieron esta lid, grado al Criador.</l>
+                  <l>Grandes son los pesares por tierras de Carrión.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Vv. 3623-3697 del Cantar de mio Cid. </note>
+      </body>
+   </text>
+</TEI>

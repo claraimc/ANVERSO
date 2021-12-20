@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Levaysme, amor, d'aquesta terra</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Libro de musica de vihuela de mano, intitulado El Maestro</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">Nuevo corpus de la antigua lírica popular hispánica (UNAM,
+                2003)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Villancicos (Literatura)</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor y Huida con el amado</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Leváy-me, amor, daquesta terra,</l>
+                  <l>que non faré más vida en ella.</l>
+                  <l>Leváy-me, amor, a l’ysla perdida,</l>
+                  <l>leváy-me con vós, poys soys miñya vida,</l>
+                  <l>qu’el corpo sin alma nan vive en la terra.</l>
+                  <l>Que non faré mas vida en ella.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Aparece en el Libro de musica de vihuela de mano, intitulado El Maestro (1536) de Luis
+            de Milán, por lo que goza de una musicalización histórica. </note>
+      </body>
+   </text>
+</TEI>

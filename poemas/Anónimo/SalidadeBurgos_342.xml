@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Salida de Burgos</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cantar de mio Cid</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">1913 - Ediciones de La Lectura</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Cantares de gesta</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>El Cid (Rodrigo Díaz de Vivar)</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>De los sos ojos tan fuertemientre llorando,</l>
+                  <l>tornava la cabecea i estávalos catando.</l>
+                  <l>Vio puertas abiertas e uços sin cañados,</l>
+                  <l>alcándaras vázias sin pielles e sin mantos</l>
+                  <l>e sin falcones e sin adtores mudados.</l>
+                  <l>Sospiró mió Çid, ca mucho avié grandes cuidados.</l>
+                  <l>Fabló mió Çid bien e tan mesurado:</l>
+                  <l>«grado a tí, señor padre, que estás en alto !</l>
+                  <l>«Esto me an buolto míos enemigos malos.»</l>
+                  <l>Allí pienssan de aguijar, allí sueltan las riendas.</l>
+                  <l>A la exida de Bivar ovieron la corneja diestra,</l>
+                  <l>e entrando a Burgos oviéronla siniestra.</l>
+                  <l>Meció mió Çid los ombros y engrameó la tiesta:</l>
+                  <l>«albricia, Alvar Fáñez, ca echados somos de tierra !</l>
+                  <l>«mas a grand ondra tornaremos a Castiella».</l>
+                  <l>Mío Çid Roy Díaz por Burgos entrava,</l>
+                  <l>En sus conpaña sessaenta pendones;</l>
+                  <l>exien lo veer mugieres e varones,</l>
+                  <l>burgeses e burgesas, por las finiestras sone,</l>
+                  <l>plorando de los ojos, tanto avien el dolore.</l>
+                  <l>De las sus bocas todos dizían una razone:</l>
+                  <l>«Dios, qué buen vassallo, si oviesse buen señore !»</l>
+                  <l>Conbidar le íen de grado, mas ninguno non osava :</l>
+                  <l>el rey don Alfonsso tanto avíe le grand saña.</l>
+                  <l>Antes de la noche en Burgos dél entró su carta,</l>
+                  <l>con grand recabdo e fuertemientre seellada :</l>
+                  <l>que a mió Çid Roy Díaz que nadi nol diessen posada,</l>
+                  <l>e aquel que gela diesse sopiesse vera palabra</l>
+                  <l>que perderíe los averes e más los ojos de la cara,</l>
+                  <l>e aun demás los cuerpos e las almas.</l>
+                  <l>Grande duelo avien las yentes cristianas ;</l>
+                  <l>ascóndense de mió Çid, ca nol osan dezir nada.</l>
+                  <l>El Campeador adeliñó a su posada ;</l>
+                  <l>así commo llegó á la puorta, fallóla bien çerrada,</l>
+                  <l>por miedo del rey Alfons, que assí lo pararan :</l>
+                  <l>que si non la quebrantás, que non gela abriessen por nada.</l>
+                  <l>Los de mió Çid a altas vozes llaman,</l>
+                  <l>los de dentro non les querién tornar palabra.</l>
+                  <l>Aguijó mió Çid, a la puerta se llegaua,</l>
+                  <l>sacó el pie del estribera, una ferídal dava ;</l>
+                  <l>non se abre la puerta, ca bien era çerrada.</l>
+                  <l>Una niña de nuef años a ojo se parava:</l>
+                  <l>«Ya Campeador, en buena qinxiestes espada !</l>
+                  <l>«El rey lo ha vedado, anoch del entró su carta,</l>
+                  <l>«con grant recabdo e fuertemientre sedlada.</l>
+                  <l>«Non vos osariemos abrir nin coger por nada;</l>
+                  <l>«si non, perderiemos los averes e las casas,</l>
+                  <l>«e aun demás los ojos de las caras.</l>
+                  <l>«Çid, en el nuestro mal vos non ganades nada;</l>
+                  <l>«mas el Criador vos vala con todas sus vertudes santas.»</l>
+                  <l>Esto la niña dixo e tornós pora su casa.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Vv. 1-49 del Cantar de mio Cid. </note>
+      </body>
+   </text>
+</TEI>

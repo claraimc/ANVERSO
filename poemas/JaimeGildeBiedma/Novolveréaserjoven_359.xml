@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>No volveré a ser joven</title>
+            <author>Jaime Gil de Biedma</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Poemas póstumos</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Poesía para todos</publisher>
+               <publisher n="used_edition"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>--</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Juventud y Muerte</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Jaime Gil de Biedma</persName>
+                  <idno type="viaf">http://viaf.org/viaf/46770462</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1929</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1990</date>
+                  </death>
+                  <floruit>Generación del 50</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Que la vida iba en serio</l>
+                  <l>uno lo empieza a comprender más tarde:</l>
+                  <l>como todos los jóvenes, yo vine</l>
+                  <l>a llevarme la vida por delante.</l>
+               </lg>
+               <lg>
+                  <l>Dejar huella quería</l>
+                  <l>y marcharme entre aplausos</l>
+                  <l>—envejecer, morir, eran tan sólo</l>
+                  <l>las dimensiones del teatro.</l>
+               </lg>
+               <lg>
+                  <l>Pero ha pasado el tiempo</l>
+                  <l>y la verdad desagradable asoma:</l>
+                  <l>envejecer, morir,</l>
+                  <l>es el único argumento de la obra.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Prácticamente sin variaciones respecto del poema, excepto que repite algunos versos.
+        </note>
+      </body>
+   </text>
+</TEI>

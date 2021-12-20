@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romance de Bernardo del Carpio</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Romancero viejo</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">Romancero General o Colección de romances castellanos
+                anteriores al siglo XVIII (Biblioteca Virtual Miguel de Cervantes)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Bernardo del Carpio</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Por las riberas de Arlanza</l>
+                  <l>Bernardo el Carpio cabalga,</l>
+                  <l>en un caballo morcillo</l>
+                  <l>enjaezado de grana;</l>
+                  <l>gruesa lanza en la mano</l>
+                  <l>armado de todas armas.</l>
+                  <l>Toda la gente de Burgos</l>
+                  <l>le mira como espantada,</l>
+                  <l>porque no se suele armar</l>
+                  <l>sino a cosa señalada.</l>
+                  <l>También lo miraba el rey,</l>
+                  <l>que fuera vuela una garza;</l>
+                  <l>diciendo estaba a los suyos:</l>
+                  <l>—Esta es una buena lanza;</l>
+                  <l>si no es Bernardo del Carpio,</l>
+                  <l>este es Muza el de Granada—.</l>
+                  <l>Ellos estando en aquesto,</l>
+                  <l>Bernardo que allí llegaba;</l>
+                  <l>ya sosegando el caballo,</l>
+                  <l>no quiso dejar la lanza.</l>
+                  <l>Mas puesta encima del hombro</l>
+                  <l>al rey de esta suerte hablaba:</l>
+                  <l>—Bastardo me llaman, rey,</l>
+                  <l>siendo hijo de tu hermana;</l>
+                  <l>y del noble Sancho Díaz,</l>
+                  <l>ese conde de Saldaña;</l>
+                  <l>que ninguno otro no osaba;</l>
+                  <l>dicen que ha sido traidor,</l>
+                  <l>y mala mujer tu hermana;</l>
+                  <l>tú y los tuyos lo habéis dicho,</l>
+                  <l>miente por medio la barba;</l>
+                  <l>mi padre no fue traidor,</l>
+                  <l>ni mi madre mujer mala,</l>
+                  <l>porque cuando fui engendrado</l>
+                  <l>ya mi madre era casada.</l>
+                  <l>Pusiste a mi padre en hierros,</l>
+                  <l>y a mi madre en orden santa,</l>
+                  <l>y porque no herede yo</l>
+                  <l>quieres dar tu reino a Francia.</l>
+                  <l>Morirán los castellanos</l>
+                  <l>antes de ver tal jornada;</l>
+                  <l>montañeses y leoneses,</l>
+                  <l>y esa gente asturiana</l>
+                  <l>y ese rey de Zaragoza</l>
+                  <l>me prestará su compaña</l>
+                  <l>para salir contra Francia</l>
+                  <l>y darle cruda batalla;</l>
+                  <l>y si buena me saliere</l>
+                  <l>será el bien de toda España;</l>
+                  <l>si mala, por la república</l>
+                  <l>moriré yo en la demanda.</l>
+                  <l>Mi padre mando que sueltes,</l>
+                  <l>pues me diste la palabra:</l>
+                  <l>si no, en campo, como quiera</l>
+                  <l>te será bien damandada.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Romance con varias versiones. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Galope</title>
+            <author>Rafael Alberti</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>De un momento a otro: poesía e historia (1932-1937) [Capital de la
+            gloria]</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Ediciones Europa-América</publisher>
+               <publisher n="used_edition">Obras completas. Poesía II (Seix Barral - 2003)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesías de guerra, Poesías políticas y Poesías sociales</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Guerra</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <idno type="viaf">http://viaf.org/viaf/51683733</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1902</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1999</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Las tierras, las tierras, las tierras, las tierras de España,</l>
+                  <l>las grandes, las solas, desiertas llanuras.</l>
+                  <l>Galopa, caballo cuatralbo,</l>
+                  <l>jinete del pueblo,</l>
+                  <l>al sol y a la luna.</l>
+               </lg>
+               <lg>
+                  <l>¡A galopar,</l>
+                  <l>a galopar,</l>
+                  <l>hasta enterrarlos en el mar!</l>
+               </lg>
+               <lg>
+                  <l>A corazón suenan, resuenan, resuenan</l>
+                  <l>las tierras de España en las herraduras.</l>
+                  <l>Galopa, jinete del pueblo,</l>
+                  <l>caballo cuatralbo,</l>
+                  <l>caballo de espuma.</l>
+               </lg>
+               <lg>
+                  <l>¡A galopar,</l>
+                  <l>a galopar,</l>
+                  <l>hasta enterrarlos en el mar!</l>
+               </lg>
+               <lg>
+                  <l>Nadie, nadie, nadie, que enfrente no hay nadie;</l>
+                  <l>que es nadie la muerte si va en tu montura.</l>
+                  <l>Galopa, caballo cuatralbo,</l>
+                  <l>jinete del pueblo,</l>
+                  <l>que la tierra es tuya.</l>
+               </lg>
+               <lg>
+                  <l>¡A galopar,</l>
+                  <l>a galopar,</l>
+                  <l>hasta enterrarlos en el mar!</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Hubo una primera musicalización de Paco Ibáñez de (“A galopar”, Paco Ibáñez 3, 1969)
+            de la que parten prácticamente todas las versiones posteriores. Para adaptarlo a la
+            melodía, Ibáñez hizo variaciones mínimas respecto del poema en el texto, repeticiones de
+            versos y/o palabras y alteraciones de la disposición versal. </note>
+      </body>
+   </text>
+</TEI>

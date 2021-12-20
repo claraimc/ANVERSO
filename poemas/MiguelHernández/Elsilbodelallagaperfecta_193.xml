@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El silbo de la llaga perfecta</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>[Poemas no recogidos en libro - Silbos]</title>
+               <date cert="high"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesías religiosas</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Religión</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Abreme, amor, la puerta</l>
+                  <l>de la llaga perfecta.</l>
+               </lg>
+               <lg>
+                  <l>Abre, Amor mío, abre</l>
+                  <l>la puerta de mi sangre.</l>
+               </lg>
+               <lg>
+                  <l>Abre, para que salgan</l>
+                  <l>todas las malas ansias.</l>
+               </lg>
+               <lg>
+                  <l>Abre, para que huyan</l>
+                  <l>las intenciones turbias.</l>
+               </lg>
+               <lg>
+                  <l>Abre, para que sean</l>
+                  <l>fuentes puras mis venas,</l>
+               </lg>
+               <lg>
+                  <l>mis manos cardos mondos,</l>
+                  <l>pozos quietos mis ojos.</l>
+               </lg>
+               <lg>
+                  <l>Abre, que viene el aire</l>
+                  <l>de tu palabra… ¡abre!</l>
+               </lg>
+               <lg>
+                  <l>Abre, Amor, que ya entra…</l>
+               </lg>
+               <lg>
+                  <l>¡Ay!</l>
+               </lg>
+               <lg>
+                  <l>Que no se salga… ¡Cierra!</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

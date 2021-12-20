@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romance de Blancaniña</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Romancero viejo</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">Romancero (Biblioteca Nueva, 2004)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Blancaniña, Infidelidad, Albaniña, Asesinato y Feminicidio</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Estando una señorita sentadita en su balcón,</l>
+                  <l>ha pasado un caballero, hijo del emperador.</l>
+                  <l>—Durmiera contigo, luna, durmiera contigo, sol—.</l>
+                  <l>La señora le responde: —Duerma Usted una noche o dos.</l>
+                  <l>Mi marido está cazando en los montes de León;</l>
+                  <l>para que no vuelva más le echaré una maldición:</l>
+                  <l>cuervos le saquen los ojos, águilas el corazón—.</l>
+                  <l>Estando en estas razones el caballero que entró:</l>
+                  <l>—¿Dónde pongo mi caballo?— En la cuadra lo metió.</l>
+                  <l>—¿Dónde pongo la escopeta? —Póngala Usted en un rincón.</l>
+                  <l>—¿Dónde pongo mi sombrero?— En la percha lo colgó.</l>
+                  <l>—¿Y dónde pongo mi cuerpo?— En la cama lo metió.</l>
+                  <l>Estando en estas razones, el marido que llegó:</l>
+                  <l>—Ábreme la puerta, luna, ábreme la puerta, sol,</l>
+                  <l>que traigo un cuervo chiquito de los montes de León</l>
+                  <l>O tú tienes calentura, o tú tienes nuevo amor.</l>
+                  <l>—Ni yo tengo calentura, ni yo tengo nuevo amor:</l>
+                  <l>se me han perdido las llaves de tu rico comedor.</l>
+                  <l>—Si tú las tenías de plata, de oro las traigo yo—.</l>
+                  <l>Estando en estas razones el caballo relinchó.</l>
+                  <l>—¿De quién es ese caballo que en la cuadra siento yo?</l>
+                  <l>—Tuyo, tuyo, dueño mío, mi padre te lo mandó,</l>
+                  <l>pa’ que vayas a cazar a los montes de León.</l>
+                  <l>—Viva tu padre cien años, que caballo tengo yo;</l>
+                  <l>cuando yo no lo tenía, tu padre no me lo dio—.</l>
+                  <l>Estando en estas razones hacia el rincón reparó:</l>
+                  <l>—¿De quién es esa escopeta que en el rincón veo yo?</l>
+                  <l>—Tuya, tuya, dueño mío, mi padre te la mandón,</l>
+                  <l>pa que vayas a cazar a los montes de León.</l>
+                  <l>—Viva tu padre cien años, que escopeta tengo yo;</l>
+                  <l>cuando yo no la tenía tu padre no me la dio—.</l>
+                  <l>Estando en estas razones hacia la percha miró:</l>
+                  <l>—¿De quién es ese sombrero que en la percha veo yo?</l>
+                  <l>—Tuyo, tuyo, esposo mío, mi padre te lo mandó</l>
+                  <l>pa’ que vayas a la boda de mi hermana la mayor.</l>
+                  <l>—Viva tu padre cien años, que sombrero tengo yo;</l>
+                  <l>cuando yo no lo tenía tu padre no me lo dio—.</l>
+                  <l>Estando en estas razones el caballero tosió:</l>
+                  <l>—¿Quién es este caballero que en la alcoba siento yo?</l>
+                  <l>—Mátame, marido mío, te he jugado una traición—.</l>
+                  <l>—Que te mate Dios del cielo, que fue el que te crió—.</l>
+                  <l>La ha agarrado de la mano y a su padre la llevó:</l>
+                  <l>—Aquí tiene Usted a su hija: me ha jugado traición.</l>
+                  <l>—haz con ella lo que quieras, que la iglesia te la dio—.</l>
+                  <l>La ha agarrado de la mano y hacia un monte la llevó</l>
+                  <l>y le dio tres puñaladas que le partio el corazón.</l>
+                  <l>A la una murió ella y a las dos murió el traidor.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>El romance tiene muchísimas versiones con distintos desenlaces y motivos. Esta es solo
+            una de las verisones editadas por Piñero. </note>
+      </body>
+   </text>
+</TEI>

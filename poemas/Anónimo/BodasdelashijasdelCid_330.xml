@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bodas de las hijas del Cid</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cantar de mio Cid</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">1913 - Ediciones de La Lectura</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Cantares de gesta</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>El Cid (Rodrigo Díaz de Vivar)</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Penssaron de adobar essora el palaçio,</l>
+                  <l>por el suelo e suso tan bien encortinado,</l>
+                  <l>tanta pórpola e tanto xámed e tanto paño preçiado.</l>
+                  <l>Sabor abriedes de seer e de comer en el palaçio.</l>
+                  <l>Todos sos cavalleros apriessa son juntados,</l>
+                  <l>Por iffantes de Carrión essora enbiaron,</l>
+                  <l>cavalgan los iffantes, adelant adeliñavan al palaçio,</l>
+                  <l>con buenas vestiduras e fuertemientre adobados;</l>
+                  <l>de pie e a sabor. Dios, qué quedos entraron !</l>
+                  <l>Reçibiólos mió Çid con todos sos vasallos ;</l>
+                  <l>a elle e a ssu mugier delant se le omillaron.</l>
+                  <l>e ivan posar en un preçioso escaño.</l>
+                  <l>Todos los de mió Çid tan bien son acordados,</l>
+                  <l>están parando mientes al que en buen ora nasco.</l>
+                  <l>El Campeador en pie es levantado:</l>
+                  <l>«Pues que a fazer lo avernos, por qué lo irnos tardando ?</l>
+                  <l>«Venit acá, Álbar Fáñez, el que yo quiero e amo !</l>
+                  <l>«affé amas mis fijas, métolas en vuestra mano;</l>
+                  <l>«sabedes que al rey assí gelo he mandado,</l>
+                  <l>«no lo quiero fallir por nada de quanto ay parado ;</l>
+                  <l>«a ifantes de Carrión dadlas con vuestra mano,</l>
+                  <l>«e prendan bendiçiones e vayamos recabdando.»</l>
+                  <l>Estoz dixo Minaya: «esto faré yo de grado.»</l>
+                  <l>Levántanse derechas e metiógelas en mano.</l>
+                  <l>A if antes de Carrión Minaya va fablando :</l>
+                  <l>«Afevos delant Minaya, amos sodes hermanos.</l>
+                  <l>«Por mano del rey Alfons, que a mí lo ovo mandado,</l>
+                  <l>«dovos estas dueñas, amas son fijas dalgo,</l>
+                  <l>«que las tomassedes por mugieres a ondra e a recabdo.»</l>
+                  <l>Amos las reçiben d’ amor e de grado,</l>
+                  <l>a mió Çid e a su mugier van besar la mano.</l>
+                  <l>Quando ovieron aquesto fecho, salieron del palaçio,</l>
+                  <l>pora Santa María a priessa adelinnando;</l>
+                  <l>el obispo don Jerome vistiós tan privado,</l>
+                  <l>a la puerta de la ecclegia sediellos sperando;</l>
+                  <l>dióles bendictiones, la missa a cantado.</l>
+                  <l>Al salir de la ecclegia cavalgaron tan privado,</l>
+                  <l>a la glera de Valençia fuera dieron salto ;</l>
+                  <l>Dios, qué bien tovieron armas el Çid e sos vassallos !</l>
+                  <l>Tres cavallos cameó el que en buen ora nasco.</l>
+                  <l>Mió Çid de lo que vidie mucho era pagado :</l>
+                  <l>ifantes de Carrión bien an cavalgado.</l>
+                  <l>Tórnanse con las dueñas, a Valençia an entrado ;</l>
+                  <l>ricas fueron las bodas en el alcaçer ondrado,</l>
+                  <l>e al otro día fizo mió Çid fincar siete tablados:</l>
+                  <l>antes que entrassen a yantar todos los crebantaron.</l>
+                  <l>Quinze días conplidos en las bodas duraron,</l>
+                  <l>çerca de los quinze días yas van los fijos dalgo.</l>
+                  <l>Mió Çid don Rodrigo, el que en buen ora nasco,</l>
+                  <l>entre palafrés e mulas e corredores cavallos,</l>
+                  <l>en bestias sines al çiento ha mandados ;</l>
+                  <l>mantos e pelliçones e otros vestidos largos ;</l>
+                  <l>non foron en cuenta los averes monedados.</l>
+                  <l>Los vassallos de mió Çid, assí son acordados,</l>
+                  <l>cada uno por sí sos dones avien dados.</l>
+                  <l>Qui aver quiere prender bien era abastado;</l>
+                  <l>ricos tornan a Castiella los que a las bodas llegaron.</l>
+                  <l>Yas ivan partiendo aquestos ospedados,</l>
+                  <l>espidiéndos de Roy Díaz, el que en buen ora nasco,</l>
+                  <l>e a todas las dueñas e a los fijos dalgo ;</l>
+                  <l>por pagados se parten de mió Çid e de sos vassallos.</l>
+                  <l>Grant bien dizen dellos ca será aguisado.</l>
+                  <l>Mucho eran alegres Dídago e Ferrando;</l>
+                  <l>estos foron fijos del comide don Gonçalvo.</l>
+                  <l>Venidos son a Castiella aquestos ospedados,</l>
+                  <l>el Çid e sos hyernos en Valençia son rastados.</l>
+                  <l>Y moran los ifantes bien çerca de dos años,</l>
+                  <l>los amores que les fazen mucho eran sobejanos.</l>
+                  <l>Alegre era el Çid e todos sos vassallos.</l>
+                  <l>¡ Plega a santa María e al Padre santo</l>
+                  <l>ques pague des casamiento mió Çid o el que lo ovo algo</l>
+                  <l>Las coplas deste cantar aquis van acabando.</l>
+                  <l>El Criador vos vala con todos los sos santos.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Vv. 2205-2277 del Cantar de mio Cid. </note>
+      </body>
+   </text>
+</TEI>

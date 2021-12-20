@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Ausencia en todo veo]</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cancionero y romancero de ausencias</title>
+               <date cert="high"/>
+               <pubPlace>Buenos Aires</pubPlace>
+               <publisher n="first_editor">Lautaro</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor y Ausencia de amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Ausencia en todo veo:</l>
+                  <l>tus ojos la reflejan.</l>
+               </lg>
+               <lg>
+                  <l>Ausencia en todo escucho:</l>
+                  <l>tu voz a tiempo suena.</l>
+               </lg>
+               <lg>
+                  <l>Ausencia en todo aspiro:</l>
+                  <l>tu aliento huele a hierba.</l>
+               </lg>
+               <lg>
+                  <l>Ausencia en todo toco:</l>
+                  <l>tu cuerpo se despuebla.</l>
+               </lg>
+               <lg>
+                  <l>Ausencia en todo siento.</l>
+                  <l>Ausencia, ausencia, ausencia.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Aunque publicado póstumamente por primera vez en 1958, el poema fue escrito en la
+            cárcel entre 1938 y 1941. En la Obra poética completa consultada aquí, se indica que en
+            un borrador parece otro dístico antecediendo al último:   Ausencia en todo pecho: tu
+            boca me destierra. </note>
+      </body>
+   </text>
+</TEI>

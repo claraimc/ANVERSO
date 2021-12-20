@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Soneto [Largo espectro de plata conmovida]</title>
+            <author>Federico García Lorca</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Canciones (1921-1924)</title>
+               <date cert="high"/>
+               <pubPlace>Málaga</pubPlace>
+               <publisher n="first_editor">Litoral. Primer suplemento [Imprenta Sur]</publisher>
+               <publisher n="used_edition">Obra completa I. Poesía 1 (Akal, 2008)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Sonetos</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <idno type="viaf">http://viaf.org/viaf/34456883</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1898</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1936</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Largo espectro de plata conmovida</l>
+                  <l>el viento de la noche suspirando,</l>
+                  <l>abrió con mano gris mi vieja herida</l>
+                  <l>y se alejó: yo estaba deseando.</l>
+               </lg>
+               <lg>
+                  <l>Llaga de amor que me dará la vida</l>
+                  <l>perpetua sangre y pura luz brotando.</l>
+                  <l>Grieta en que Filomela enmudecida</l>
+                  <l>tendrá bosque, dolor y nido blando.</l>
+               </lg>
+               <lg>
+                  <l>¡Ay qué dulce rumor en mi cabeza!</l>
+                  <l>Me tenderé junto a la flor sencilla</l>
+                  <l>donde flota sin alma tu belleza.</l>
+               </lg>
+               <lg>
+                  <l>Y el agua errante se pondrá amarilla,</l>
+                  <l>mientras corre mi sangre en la maleza</l>
+                  <l>mojada y olorosa de la orilla.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

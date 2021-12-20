@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Son las gaviotas, amor]</title>
+            <author>Ángel González</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Áspero mundo</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Rialp [Col. Adonais]</publisher>
+               <publisher n="used_edition">2017-Planeta [Austral]</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor y Locus amoenus</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Ángel González</persName>
+                  <idno type="viaf">http://viaf.org/viaf/84475449</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1925</date>
+                  </birth>
+                  <death>
+                     <date cert="low">2008</date>
+                  </death>
+                  <floruit>Generación del 50</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Son las gaviotas, amor.</l>
+                  <l>Las lentas, altas gaviotas.</l>
+               </lg>
+               <lg>
+                  <l>Mar de invierno. El agua gris</l>
+                  <l>mancha de frío las rocas.</l>
+                  <l>Tus piernas, tus dulces piernas,</l>
+                  <l>enternecen a las olas.</l>
+                  <l>Un cielo sucio se vuelca</l>
+                  <l>sobre el mar. El viento borra</l>
+                  <l>el perfil de las colinas</l>
+                  <l>de arena. Las tediosas</l>
+                  <l>charcas de sal y de frío</l>
+                  <l>copian tu luz y tu sombra.</l>
+                  <l>Algo gritan, en lo alto,</l>
+                  <l>que tú no escuchas, absorta.</l>
+               </lg>
+               <lg>
+                  <l>Son las gaviotas, amor.</l>
+                  <l>Las lentas, altas gaviotas.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>La canción musicaliza el poema original sin alteraciones textuales, excepto que se
+            repiten algunos versos. </note>
+      </body>
+   </text>
+</TEI>

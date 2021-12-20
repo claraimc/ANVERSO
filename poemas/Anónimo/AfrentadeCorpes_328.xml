@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Afrenta de Corpes</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cantar de mio Cid</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">1913 - Ediciones de La Lectura</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Cantares de gesta</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>El Cid (Rodrigo Díaz de Vivar)</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Entrados son los ifantes al robredo de Corpes,</l>
+                  <l>los montes son altos las ramas pujan con las nuoves,</l>
+                  <l>elas bestias fieras que andan aderredor.</l>
+                  <l>Fallaron un vergel con una linpia fuont ;</l>
+                  <l>mandan fincar la tienda ifantes de Carrión,</l>
+                  <l>con quantos que ellos traen i yazen essa noch,</l>
+                  <l>con sus mugieres en braços demuéstranles amor ;</l>
+                  <l>¡ mal gelo cunplieron quando salie el sol !</l>
+                  <l>Mandaron cargar las azémilas con averes a nombre,</l>
+                  <l>cogida han la tienda do albergaron de noch,</l>
+                  <l>adelant eran idos los de criazón :</l>
+                  <l>assí lo mandaron ifantes de Carrión,</l>
+                  <l>que non i fincás ninguno, mugier nin varón,</l>
+                  <l>si non amas sus mugieres doña Elvira e doña Sol:</l>
+                  <l>deportar se quieren con ellas a todo su sabor.</l>
+                  <l>Todos eran idos, ellos quatro solos son,</l>
+                  <l>tanto mal comidieron ifantes de Carrión :</l>
+                  <l>«Bien lo creades don Elvira e doña Sol,</l>
+                  <l>«aquí seredes escarnidas en estos fieros montes.</l>
+                  <l>«Oy nos partiremos, e daxadas seredes de nos;</l>
+                  <l>«non abredes part en tierras de Carrión.</l>
+                  <l>«Irán aquestos mandados al Çid Campeador ;</l>
+                  <l>«nos vengaremos aquesta por la del león.»</l>
+                  <l>Allí les tuellen los mantos e los pelliçones,</l>
+                  <l>páranlas en cuerpos y en camisas y en çiclatones.</l>
+                  <l>Espuelas tienen calçadas los malos traydores,</l>
+                  <l>en mano prenden las çinchas fuertes e duradores.</l>
+                  <l>Quando esto vieron las dueñas, fablava doña Sol:</l>
+                  <l>«Por Dios vos rogamos, don Diago e don Ferrando, nos !</l>
+                  <l>»dos espadas tenedes fuertes e tajadores,</l>
+                  <l>«al una dizen Colada e al otra Tizón,</l>
+                  <l>«cortandos las cabeças, mártires seremos nos.</l>
+                  <l>«Moros e cristianos departirán desta razón,</l>
+                  <l>«que por lo que nos mereçemos no lo prendemos nos.</l>
+                  <l>«Atan malos enssienplos non fagades sobre nos:</l>
+                  <l>«si nos fuéremos majadas, abiltaredes a vos;</l>
+                  <l>«retraer vos lo an en vistas o en cortes.»</l>
+                  <l>Lo que ruegan las dueñas non les ha ningún pro.</l>
+                  <l>Essora les conpieçan a dar ifantes de Carrión;</l>
+                  <l>con las çinchas corredizas májanlas tan sin sabor,</l>
+                  <l>con las espuelas agudas, don ellas an mal sabor,</l>
+                  <l>ronpien las camisas e las carnes a ellas amas a dos;</l>
+                  <l>linpia salie la sangre sobre los çiclatones.</l>
+                  <l>Ya lo sienten ellas en los sos coraçones.</l>
+                  <l>¡ Quál ventura serie esta, si ploguiesse al Criador,</l>
+                  <l>que assomasse essora el Çid Campeador !</l>
+                  <l>Tanto las majaron que sin cosimente son ;</l>
+                  <l>sangrientas en las camisas e todos los çiclatones.</l>
+                  <l>Canssados son de ferir ellos amos a dos,</l>
+                  <l>ensayandos amos quál dará mejores colpes.</l>
+                  <l>Ya non pueden fablar don Elvira e doña Sol,</l>
+                  <l>por muertas las dexaron en el robredo de Corpes.</l>
+                  <l>Leváronles los mantos e las pieles armiñas,</l>
+                  <l>mas déxanlas marridas en briales y en camisas,</l>
+                  <l>e a las aves del monte e a las bestias de la fiera guisa.</l>
+                  <l>Por muertas las dexaron, sabed, que non por bivas.</l>
+                  <l>¡ Quál ventura serie si assomas essora el Çid Roy Díaz!</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Vv. 2697-2753 del Cantar de mio Cid. </note>
+      </body>
+   </text>
+</TEI>

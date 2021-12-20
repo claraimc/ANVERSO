@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Amorosa</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>[Poemas no recogidos en libro - primeros poemas]</title>
+               <date cert="high"/>
+               <pubPlace>Orihuela</pubPlace>
+               <publisher n="first_editor">El Pueblo de Orihuela [30 de marzo]</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>“Juventud sin amores</l>
+                  <l>no es juventud”</l>
+                  <l>Balart</l>
+               </lg>
+               <lg>
+                  <l>Muchachita de luengos cabellos de oro</l>
+                  <l>y figura que sólo sueña el pintor,</l>
+                  <l>que deshojas las flores del gran tesoro</l>
+                  <l>de los pocos abriles sin un amor.</l>
+               </lg>
+               <lg>
+                  <l>Ama, hoy que en tu boca canta la risa</l>
+                  <l>como un pájaro de oro que hizo el nidal</l>
+                  <l>en tu ebúrnea garganta donde la brisa</l>
+                  <l>que la cerca perfuma su áureo cristal.</l>
+               </lg>
+               <lg>
+                  <l>Hoy que estás en la aurora roja y galana</l>
+                  <l>que la vida nos brinda sólo una vez;</l>
+                  <l>hoy que es fresa tu boca, coral y grana</l>
+                  <l>y alabastro bruñido tu tersa tez.</l>
+               </lg>
+               <lg>
+                  <l>Que es tu cuerpo un magnífico y airoso nardo;</l>
+                  <l>que es tu pecho turgente, rosa y marfil;</l>
+                  <l>que es tu cuello el de un cisne níveo y gallardo</l>
+                  <l>y tu aliento fragancias tiene de Abril.</l>
+               </lg>
+               <lg>
+                  <l>¡Ama! Linda muchacha de ojos de maga</l>
+                  <l>y de labios purpúreos llenos de miel.</l>
+                  <l>¡No es eterna tu aurora, su luz se apaga…</l>
+                  <l>y la sigue la noche negra y cruel!</l>
+               </lg>
+               <lg>
+                  <l>¡Ama, linda muchacha! Bajo tu reja</l>
+                  <l>florecida, te aguarda con hondo afán,</l>
+                  <l>—el chambergo tirado sobre la ceja</l>
+                  <l>y una hoguera en el pecho— gentil galán.</l>
+               </lg>
+               <lg>
+                  <l>Dale, dale que colme tales ardores</l>
+                  <l>lo más puro de tu alma… ¡No tu desdén!</l>
+                  <l>¡Ama, niña! No aguardes a que esas flores</l>
+                  <l>de tu cuerpo y tu reja mustias estén.</l>
+               </lg>
+               <lg>
+                  <l>¡Ama, vive la vida bella e inquieta!</l>
+                  <l>No te muestres esquiva, que no es virtud…</l>
+                  <l>Es…, lo dijo, filósofo, grande poeta:</l>
+                  <l>“¡Juventud sin amores, no es juventud!”</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Se trata de uno de los primeros poemas de Miguel Hernández, publicado el 30 de marzo
+            de 1930 en el diario El Pueblo de Orihuela. </note>
+      </body>
+   </text>
+</TEI>

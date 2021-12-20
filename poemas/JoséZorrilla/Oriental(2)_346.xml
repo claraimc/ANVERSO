@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oriental (2)</title>
+            <author>José Zorrilla</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Poesías. Tomo 1</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Imprenta de I. Sancha</publisher>
+               <publisher n="used_edition">1905 - Manuel P. Delgado</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesías narrativas</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>José Zorrilla</persName>
+                  <idno type="viaf">http://viaf.org/viaf/31991713</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1817</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1893</date>
+                  </death>
+                  <floruit>Romanticismo</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Corriendo van por la vega</l>
+                  <l>a las puertas de Granada</l>
+                  <l>hasta cuarenta gomeles</l>
+                  <l>y el capitán que los manda.</l>
+               </lg>
+               <lg>
+                  <l>Al entrar en la ciudad,</l>
+                  <l>parando su yegua blanca,</l>
+                  <l>le dijo este a una mujer</l>
+                  <l>que entre sus brazos lloraba:</l>
+               </lg>
+               <lg>
+                  <l>“Enjuga el llanto, cristiana,</l>
+                  <l>no me atormentes así,</l>
+                  <l>que tengo yo, mi sultana,</l>
+                  <l>un nuevo Edén para ti.</l>
+               </lg>
+               <lg>
+                  <l>Tengo un palacio en Granada,</l>
+                  <l>tengo jardines y flores,</l>
+                  <l>tengo una fuente dorada</l>
+                  <l>con más de cien surtidores.</l>
+               </lg>
+               <lg>
+                  <l>Y en la vega del Genil</l>
+                  <l>tengo parda fortaleza,</l>
+                  <l>que será reina entre mil</l>
+                  <l>cuando encierre tu belleza.</l>
+               </lg>
+               <lg>
+                  <l>Y sobre toda una orilla</l>
+                  <l>extiendo mi señorío;</l>
+                  <l>ni en Córdoba, ni en Sevilla,</l>
+                  <l>hay un parque como el mío.</l>
+               </lg>
+               <lg>
+                  <l>Allí la altiva palmera</l>
+                  <l>y el encendido granado,</l>
+                  <l>junto a la frondosa higuera,</l>
+                  <l>cubren el valle y collado.</l>
+               </lg>
+               <lg>
+                  <l>Allí el robusto nogal,</l>
+                  <l>allí el nópalo amarillo,</l>
+                  <l>allí el sombrío moral</l>
+                  <l>crecen al pie del castillo.</l>
+               </lg>
+               <lg>
+                  <l>Y olmos tengo en mi alameda</l>
+                  <l>que hasta el cielo se levantan,</l>
+                  <l>y en redes de plata y seda</l>
+                  <l>tengo pájaros que cantan.</l>
+               </lg>
+               <lg>
+                  <l>Y tú mi sultana eres;</l>
+                  <l>que desiertos mis salones</l>
+                  <l>está mi harén sin mujeres,</l>
+                  <l>mis oídos sin canciones.</l>
+               </lg>
+               <lg>
+                  <l>Yo te daré terciopelos</l>
+                  <l>y perfumes orientales,</l>
+                  <l>de Grecia te traeré velos,</l>
+                  <l>y de Cachemira chales.</l>
+               </lg>
+               <lg>
+                  <l>Y te daré blancas plumas</l>
+                  <l>para que adornes tu frente,</l>
+                  <l>más blancas que las espumas</l>
+                  <l>de nuestros mares de Oriente;</l>
+               </lg>
+               <lg>
+                  <l>Y perlas para el cabello,</l>
+                  <l>y baños para el calor,</l>
+                  <l>y collares para el cuello;</l>
+                  <l>para los labios… ¡amor!”</l>
+               </lg>
+               <lg>
+                  <l>“¿Qué me valen tus riquezas”,</l>
+                  <l>respondióle la cristiana,</l>
+                  <l>“si me quitas a mi padre,</l>
+                  <l>mis amigos y mis damas?</l>
+               </lg>
+               <lg>
+                  <l>Vuélveme, vuélveme, moro,</l>
+                  <l>a mi padre y a mi patria,</l>
+                  <l>que mis torres de León</l>
+                  <l>valen más que tu Granada”.</l>
+               </lg>
+               <lg>
+                  <l>Escuchóla en paz el moro,</l>
+                  <l>y manoseando su barba,</l>
+                  <l>dijo, como quien medita,</l>
+                  <l>en la mejilla una lágrima:</l>
+               </lg>
+               <lg>
+                  <l>“Si tus castillos mejores</l>
+                  <l>que nuestros jardines son,</l>
+                  <l>y son más bellas tus flores,</l>
+                  <l>por ser tuyas en León,</l>
+               </lg>
+               <lg>
+                  <l>y tú diste tus amores</l>
+                  <l>a alguno de tus guerreros,</l>
+                  <l>Hurí del Edén, no llores;</l>
+                  <l>vete con tus caballeros”.</l>
+               </lg>
+               <lg>
+                  <l>Y dándole su caballo</l>
+                  <l>y la mitad de su guardia,</l>
+                  <l>el capitán de los moros</l>
+                  <l>volvió en silencio la espalda.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>La canción musicaliza el poema, con ligeras variaciones léxicas en los versos y
+            suprimiendo algunas estrofas, a causa de lo cual el sentido cambia completamente. En el
+            poema original, la cristiana pide al moro que la deje, porque es feliz en su tierra de
+            León; él accede, y se va sin ella, entristecido. En la canción, el moro se lleva a la
+            gitana para hacerla feliz en su castillo. </note>
+      </body>
+   </text>
+</TEI>

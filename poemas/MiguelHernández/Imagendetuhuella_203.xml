@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Imagen de tu huella</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Imagen de tu huella</title>
+               <date cert="high"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Sonetos</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor y Religión</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>I</l>
+                  <l>Astros momificados y bravíos</l>
+                  <l>sobre cielos de abismos y barrancas,</l>
+                  <l>como densas coronas de carlancas</l>
+                  <l>y de erizados pensamientos míos.</l>
+               </lg>
+               <lg>
+                  <l>Bajo la luz mortal de los estíos,</l>
+                  <l>zancas y uñas se os ponen oriblancas,</l>
+                  <l>y os azuzáis las uñas y las zancas</l>
+                  <l>¡en qué airados y eternos desafíos!</l>
+               </lg>
+               <lg>
+                  <l>¡Qué dolor vuestro tacto y vuestra vista!</l>
+                  <l>intimidáis los ánimos más fuertes,</l>
+                  <l>anatómicas penas vegetales.</l>
+               </lg>
+               <lg>
+                  <l>Todo es peligro de agresiva arista,</l>
+                  <l>sugerencia de huesos y de muertes,</l>
+                  <l>inminencia de hogueras y de males.</l>
+               </lg>
+               <lg>
+                  <l>II</l>
+                  <l>Mis ojos, sin tus ojos, no son ojos,</l>
+                  <l>que son dos hormigueros solitarios,</l>
+                  <l>y son mis manos sin las tuyas varios</l>
+                  <l>intratables espinos a manojos.</l>
+               </lg>
+               <lg>
+                  <l>No me encuentro los labios sin tus rojos,</l>
+                  <l>que me llenan de dulces campanarios,</l>
+                  <l>sin ti mis pensamientos son calvarios</l>
+                  <l>criando cardos y agostando hinojos.</l>
+               </lg>
+               <lg>
+                  <l>No sé qué es de mi oreja sin tu acento,</l>
+                  <l>ni hacia qué polo yerro sin tu estrella,</l>
+                  <l>y mi voz sin tu trato se afemina.</l>
+               </lg>
+               <lg>
+                  <l>Los olores persigo de tu viento</l>
+                  <l>y la olvidada imagen de tu huella,</l>
+                  <l>que en ti principia, amor, y en mí termina.</l>
+               </lg>
+               <lg>
+                  <l>III</l>
+                  <l>Ya se desembaraza y se desmembra</l>
+                  <l>el angélico lirio de la cumbre,</l>
+                  <l>y al desembarazarse da un relumbre</l>
+                  <l>que de un puro relámpago me siembra.</l>
+               </lg>
+               <lg>
+                  <l>Es el tiempo del macho y de la hembra,</l>
+                  <l>y una necesidad, no una costumbre,</l>
+                  <l>besar, amar en medio de esta lumbre</l>
+                  <l>que el destino decide de la siembra.</l>
+               </lg>
+               <lg>
+                  <l>Toda la creación busca pareja:</l>
+                  <l>se persiguen los picos y los huesos,</l>
+                  <l>hacen la vida par todas las cosas.</l>
+               </lg>
+               <lg>
+                  <l>En una soledad impar que aqueja,</l>
+                  <l>yo entre esquilas sonantes como besos</l>
+                  <l>y corderas atentas como esposas.</l>
+               </lg>
+               <lg>
+                  <l>IV</l>
+                  <l>Pirotécnicos pórticos de azahares,</l>
+                  <l>que glorifican los ruy-señores</l>
+                  <l>pronto con sus noctámbulos amores,</l>
+                  <l>conciertan los amargos limonares.</l>
+               </lg>
+               <lg>
+                  <l>Entusiasman los aires de cantares</l>
+                  <l>fervorosos y alados contramores,</l>
+                  <l>y el giratorio mundo va a mayores</l>
+                  <l>por arboledas, campos y lugares.</l>
+               </lg>
+               <lg>
+                  <l>La sangre está llegando a su apogeo</l>
+                  <l>en torno a las criaturas, como palma</l>
+                  <l>de ansia y de garganta inacabable.</l>
+               </lg>
+               <lg>
+                  <l>¡Oh, primavera verde de deseo,</l>
+                  <l>qué martirio tu vista dulce y alma</l>
+                  <l>para quien anda a solas miserable!</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Estos cuatro sonetos, con el título común de Imagen de tu huella, los compuso Miguel
+            Hernández por las mismas fechas que El rayo que no cesa y El silbo vulnerado
+            (1934-1935), pero no llegaron nunca a publicarse como parte de estos libros. Las
+            musicalizaciones existentes parten del segundo soneto, «Mis ojos sin tus ojos». Hubo una
+            primera versión de este soneto a cargo de Pedro Ávila en su álbum El nuevo hombre
+            cantado (1971); sin embargo, por ser anterior a 1975, esta versión no está recogida en
+            esta base de datos. </note>
+      </body>
+   </text>
+</TEI>

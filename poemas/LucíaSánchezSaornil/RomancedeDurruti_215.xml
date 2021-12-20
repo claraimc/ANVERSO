@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romance de Durruti</title>
+            <author>Lucía Sánchez Saornil</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Romancero de mujeres libres</title>
+               <date cert="high"/>
+               <pubPlace>Valencia</pubPlace>
+               <publisher n="first_editor">Revista Umbral</publisher>
+               <publisher n="used_edition">1996 - Pre-textos</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Guerra Civil y Anarquismo</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Lucía Sánchez Saornil</persName>
+                  <idno type="viaf">http://viaf.org/viaf/56514756</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1895</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1970</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>¿Qué bala te cortó el paso</l>
+                  <l>-¡Maldición de aquella hora!-</l>
+                  <l>atardecer de noviembre</l>
+                  <l>camino de la victoria?</l>
+                  <l>Las sierras del Guadarrama</l>
+                  <l>cortaban de luz y sombra</l>
+                  <l>un horizonte mojado</l>
+                  <l>de agua turbia y sangre heroica.</l>
+                  <l>Y a tus espaldas Madrid,</l>
+                  <l>el ojo atento a tu bota,</l>
+                  <l>mordido por los incendios,</l>
+                  <l>con jadeos de leona,</l>
+                  <l>tus pasos iba midiendo</l>
+                  <l>prietos el puño y la boca.</l>
+                  <l>¡Atardecer de noviembre,</l>
+                  <l>borrón negro de la Historia!</l>
+                  <l>Buenaventura Durruti,</l>
+                  <l>¿quién conoció otra congoja</l>
+                  <l>más amarga que tu muerte</l>
+                  <l>sobre tierra española?</l>
+                  <l>Acaso estabas soñando</l>
+                  <l>las calles de Zaragoza</l>
+                  <l>y el agua espesa del Ebro</l>
+                  <l>caminos de laurel-rosa</l>
+                  <l>cuando el grito de Madrid</l>
+                  <l>cortó tu sueño en mal hora…</l>
+                  <l>Gigante de las montañas</l>
+                  <l>donde tallabas tu gloria,</l>
+                  <l>hasta Castilla desnuda</l>
+                  <l>bajaste como una tromba</l>
+                  <l>para raer de las tierras</l>
+                  <l>pardas la negra carroña,</l>
+                  <l>y detrás de ti, en alud,</l>
+                  <l>tu gente, como tu sombra.</l>
+                  <l>Hasta los cielos de Iberia</l>
+                  <l>te dispararon las bocas.</l>
+                  <l>El aire agito tu nombre</l>
+                  <l>entre banderas de gloria</l>
+                  <l>-canto sonoro de guerra</l>
+                  <l>y dura canción de forja-.</l>
+                  <l>Y una tarde de noviembre</l>
+                  <l>mojada de sangre heroica,</l>
+                  <l>en cenizas de crepúsculo</l>
+                  <l>caía tu vida rota.</l>
+                  <l>Sólo hablaste estas palabras</l>
+                  <l>al filo ya de tu hora:</l>
+                  <l>Unidad y firmeza, amigos;</l>
+                  <l>¡para vencer hay de sobra!</l>
+               </lg>
+               <lg>
+                  <l>Durruti, hermano Durruti,</l>
+                  <l>jamás se vió otra congoja</l>
+                  <l>más amarga que tu muerte</l>
+                  <l>sobre la tierra española.</l>
+                  <l>Rostros curtidos del cierzo</l>
+                  <l>quiebran su durez de roca;</l>
+                  <l>como tallos quebradizos</l>
+                  <l>hasta la tierra se doblan</l>
+                  <l>hércules del mismo acero</l>
+                  <l>¡Hombres de hierro, sollozan!</l>
+                  <l>Fúnebres tambores baten</l>
+                  <l>apisonando la fosa.</l>
+                  <l>¡Durruti es muerto, soldados,</l>
+                  <l>que nadie mengüe su obra!</l>
+                  <l>Sen buscan manos tendidas,</l>
+                  <l>los odios se desmoronan,</l>
+                  <l>y en las trincheras profundas</l>
+                  <l>cuajan realidades hondas</l>
+                  <l>porque a la faz de la muerte</l>
+                  <l>los imposibles se agotan.</l>
+                  <l>-Aquí está mi diestra, hermano,</l>
+                  <l>calma tu sed en mi boca,</l>
+                  <l>mezcla tu sangre a la mía</l>
+                  <l>y tu aliento a mi voz ronca.</l>
+                  <l>Parte conmigo tu pan</l>
+                  <l>y tus lágrimas si lloras.</l>
+                  <l>Durruti bajo la tierra</l>
+                  <l>en esto espera su honra.</l>
+                  <l>Rugen los pechos hermanos.</l>
+                  <l>Las armas al aire chocan.</l>
+                  <l>Sobre las rudas cabezas</l>
+                  <l>sólo una enseña tremola.</l>
+                  <l>Durruti es muerto. ¡Malhaya</l>
+                  <l>aquel que mengüe su obra!</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gacela de la huida</title>
+            <author>Federico García Lorca</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Diván del Tamarit</title>
+               <date cert="high"/>
+               <pubPlace>Nueva York</pubPlace>
+               <publisher n="first_editor">Revista Hispánica Moderna</publisher>
+               <publisher n="used_edition">Obra completa II. Poesía, 2 (Akal, 2008)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor y Muerte</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <idno type="viaf">http://viaf.org/viaf/34456883</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1898</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1936</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Me he perdido muchas veces por el mar</l>
+                  <l>con el oído lleno de flores recién cortadas.</l>
+                  <l>Con la lengua llena de amor y de agonía</l>
+                  <l>muchas veces me he perdido por el mar,</l>
+                  <l>como me pierdo en el corazón de algunos niños.</l>
+               </lg>
+               <lg>
+                  <l>No hay nadie que al dar un beso</l>
+                  <l>no sienta la sonrisa de la gente sin rostro,</l>
+                  <l>ni hay nadie que al tocar un recién nacido</l>
+                  <l>olvide las inmóviles calaveras de caballo.</l>
+               </lg>
+               <lg>
+                  <l>Porque las rosas buscan en la frente</l>
+                  <l>un duro paisaje de hueso</l>
+                  <l>y las manos del hombre no tienen más sentido</l>
+                  <l>que imitar a las raíces bajo tierra.</l>
+               </lg>
+               <lg>
+                  <l>Como me pierdo en el corazón de algunos niños,</l>
+                  <l>me he perdido muchas veces por el mar.</l>
+                  <l>Ignorante del agua, voy buscando</l>
+                  <l>una muerte de luz que me consuma.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>El poemario fue escrito presumiblemente entre 1931 y 1934, y la Universidad de Granada
+            llegó a preparar una edición que iba a publicarse en 1934 o 1935, pero no pasó de
+            pruebas de imprenta y no llegó a publicarse. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Por tierras de España</title>
+            <author>Antonio Machado</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Campos de Castilla</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Renacimiento</publisher>
+               <publisher n="used_edition">1999-Espasa [Austral]</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Adversidad y Paisaje</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Antonio Machado</persName>
+                  <idno type="viaf">http://viaf.org/viaf/7385547</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1875</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1939</date>
+                  </death>
+                  <floruit>Generación del 98</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>El hombre de estos campos que incendia los pinares</l>
+                  <l>y su despojo aguarda como botín de guerra,</l>
+                  <l>antaño hubo raído los negros encinares,</l>
+                  <l>talado los robustos robledos de la sierra.</l>
+               </lg>
+               <lg>
+                  <l>Hoy ve a sus pobres hijos huyendo de sus lares;</l>
+                  <l>la tempestad llevarse los limos de la tierra</l>
+                  <l>por los sagrados ríos hacia los anchos mares;</l>
+                  <l>y en páramos malditos trabaja, sufre y yerra.</l>
+               </lg>
+               <lg>
+                  <l>Es hijo de una estirpe de rudos caminantes,</l>
+                  <l>pastores que conducen sus hordas de merinos</l>
+                  <l>a Extremadura fértil, rebaños trashumantes</l>
+                  <l>que mancha el polvo y dora el sol de los caminos.</l>
+               </lg>
+               <lg>
+                  <l>Pequeño, ágil, sufrido, los ojos de hombre astuto,</l>
+                  <l>hundidos, recelosos, movibles; y trazadas</l>
+                  <l>cual arco de ballesta, en el semblante enjuto</l>
+                  <l>de pómulos salientes, las cejas muy pobladas.</l>
+               </lg>
+               <lg>
+                  <l>Abunda el hombre malo del campo y de la aldea,</l>
+                  <l>capaz de insanos vicios y crímenes bestiales,</l>
+                  <l>que bajo el pardo sayo esconde un alma fea,</l>
+                  <l>esclava de los siete pecados capitales.</l>
+               </lg>
+               <lg>
+                  <l>Los ojos siempre turbios de envidia o de tristeza,</l>
+                  <l>guarda su presa y llora la que el vecino alcanza;</l>
+                  <l>ni para su infortunio ni goza su riqueza;</l>
+                  <l>le hieren y acongojan fortuna y malandanza.</l>
+               </lg>
+               <lg>
+                  <l>El numen de estos campos es sanguinario y fiero:</l>
+                  <l>al declinar la tarde, sobre el remoto alcor,</l>
+                  <l>veréis agigantarse la forma de un arquero,</l>
+                  <l>la forma de un inmenso centauro flechador.</l>
+               </lg>
+               <lg>
+                  <l>Veréis llanuras bélicas y páramos de asceta</l>
+                  <l>—no fue por estos campos el bíblico jardín—:</l>
+                  <l>son tierras para el águila, un trozo de planeta</l>
+                  <l>por donde cruza errante la sombra de Caín.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

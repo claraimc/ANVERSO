@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Después de haber cavado este barbecho]</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>El rayo que no cesa</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Héroe</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Sonetos</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Descanso y Campo</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Después de haber cavado este barbecho</l>
+                  <l>me tomaré un descanso por la grama</l>
+                  <l>y beberé del agua que en la rama</l>
+                  <l>su esclava nieve aumenta en mi provecho.</l>
+               </lg>
+               <lg>
+                  <l>Todo el cuerpo me huele a recién hecho</l>
+                  <l>por el jugoso fuego que lo inflama</l>
+                  <l>y la creación que adoro se derrama</l>
+                  <l>a mi mucha fatiga como un lecho.</l>
+               </lg>
+               <lg>
+                  <l>Se tomará un descanso el hortelano</l>
+                  <l>y entretendrá sus penas combatido</l>
+                  <l>por el salubre sol y el tiempo manso.</l>
+               </lg>
+               <lg>
+                  <l>Y otra vez, inclinado cuerpo y mano,</l>
+                  <l>seguirá ante la tierra perseguido</l>
+                  <l>por la sombra del último descanso.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

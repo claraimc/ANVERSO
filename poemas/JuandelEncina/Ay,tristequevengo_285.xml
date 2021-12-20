@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ay, triste que vengo</title>
+            <author>Juan del Encina</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cancionero musical de Palacio</title>
+               <date cert="high"/>
+               <pubPlace>Salamanca</pubPlace>
+               <publisher n="first_editor">Cancionero de las obras de Juan del Encina</publisher>
+               <publisher n="used_edition">An Electronic Corpus of 15th Century Castilian Cancionero
+                Manuscripts</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Villancicos (Literatura)</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Juan del Encina</persName>
+                  <idno type="viaf">http://viaf.org/viaf/160940015</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1468</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1529</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>[villançico] j dell enzina</l>
+               </lg>
+               <lg>
+                  <l>Ay triſte que vengo</l>
+                  <l>vençido damor</l>
+                  <l>maguera paſtor</l>
+               </lg>
+               <lg>
+                  <l>Mas ſano me fuera</l>
+                  <l>no ir al mercado</l>
+                  <l>que no que viniera</l>
+                  <l>tan aquerençiado</l>
+                  <l>que vengo cuitado</l>
+                  <l>vençido damor</l>
+                  <l>maguera paſtor</l>
+               </lg>
+               <lg>
+                  <l>di jueves en villa</l>
+                  <l>viera vna doñata</l>
+                  <l>quiſe rrequerilla</l>
+                  <l>y aballo la pata</l>
+                  <l>aquella me mata</l>
+                  <l>vençido damor</l>
+                  <l>maguera paſtor</l>
+               </lg>
+               <lg>
+                  <l>con viſta halaguera</l>
+                  <l>mirela i mirome</l>
+                  <l>yo no ſe quien era</l>
+                  <l>mas ella agradome</l>
+                  <l>i fueſe i dexome</l>
+                  <l>vençido damor</l>
+                  <l>maguera paſtor</l>
+               </lg>
+               <lg>
+                  <l>de uer ſu preſençia</l>
+                  <l>quede cariñoſo</l>
+                  <l>quede ſin hemençia</l>
+                  <l>quede ſin rrepoſo</l>
+                  <l>quede mui cuidoſo</l>
+                  <l>vençido damor</l>
+                  <l>maguera paſtor</l>
+               </lg>
+               <lg>
+                  <l>ahotas que creo</l>
+                  <l>ſer poca mi vida</l>
+                  <l>ſegun que ya veo</l>
+                  <l>que boi de caida</l>
+                  <l>mi muerte es venida</l>
+                  <l>vençido damor</l>
+                  <l>maguera paſtor</l>
+               </lg>
+               <lg>
+                  <l>ſin dar yo traſ ella</l>
+                  <l>no cuido ſer bibo</l>
+                  <l>pues que por querella</l>
+                  <l>de mi ſois eſquivo</l>
+                  <l>y eſtoi mui cativo</l>
+                  <l>vençido damor</l>
+                  <l>maguera paſtor</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Aunque el poema se publicó en el Cancionero de 1496 (del que tomamos la
+            transcripción), nos interesa mucho más su presencia en el Cancionero musical de Palacio,
+            ya que evidencia la existencia de una musicación histórica. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La lechera</title>
+            <author>Félix María de Samaniego</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Fábulas en verso castellano para uso del Real Seminario
+            Bascongado</title>
+               <date cert="high"/>
+               <pubPlace>Valencia</pubPlace>
+               <publisher n="first_editor">Imprenta de Benito Monfort</publisher>
+               <publisher n="used_edition">2004 - Debolsillo</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Fábula en verso</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Codicia</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Félix María de Samaniego</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1745</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1801</date>
+                  </death>
+                  <floruit>Neoclasicismo</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>La Lechera</l>
+                  <l>Llevaba en la cabeza</l>
+                  <l>una Lechera el cántaro al mercado</l>
+                  <l>con aquella presteza,</l>
+                  <l>aquel aire sencillo, aquel agrado,</l>
+                  <l>que va diciendo a todo el que lo advierte</l>
+                  <l>«¡Yo sí que estoy contenta con mi suerte!»</l>
+                  <l>Porque no apetecía</l>
+                  <l>más compañía que su pensamiento,</l>
+                  <l>que alegre la ofrecía</l>
+                  <l>inocentes ideas de contento,</l>
+                  <l>marchaba sola la feliz Lechera,</l>
+                  <l>y decía entre sí de esta manera:</l>
+                  <l>«Esta leche vendida,</l>
+                  <l>en limpio me dará tanto dinero,</l>
+                  <l>y con esta partida</l>
+                  <l>un canasto de huevos comprar quiero,</l>
+                  <l>para sacar cien pollos, que al estío</l>
+                  <l>me rodeen cantando el pío, pío.</l>
+                  <l>Del importe logrado</l>
+                  <l>de tanto pollo mercaré un cochino;</l>
+                  <l>con bellota, salvado,</l>
+                  <l>berza, castaña engordará sin tino,</l>
+                  <l>tanto, que puede ser que yo consiga</l>
+                  <l>ver cómo se le arrastra la barriga.</l>
+                  <l>Llevarelo al mercado,</l>
+                  <l>sacaré de él sin duda buen dinero;</l>
+                  <l>compraré de contado</l>
+                  <l>una robusta vaca y un ternero,</l>
+                  <l>que salte y corra toda la campaña,</l>
+                  <l>hasta el monte cercano a la cabaña.»</l>
+                  <l>Con este pensamiento</l>
+                  <l>enajenada, brinca de manera</l>
+                  <l>que a su salto violento</l>
+                  <l>el cántaro cayó. ¡Pobre Lechera!</l>
+                  <l>¡Qué compasión! Adiós leche, dinero,</l>
+                  <l>huevos, pollos, lechón, vaca y ternero.</l>
+                  <l>¡Oh loca fantasía!</l>
+                  <l>¡Qué palacios fabricas en el viento!</l>
+                  <l>Modera tu alegría,</l>
+                  <l>no sea que saltando de contento,</l>
+                  <l>al contemplar dichosa tu mudanza,</l>
+                  <l>quiebre su cantarillo la esperanza.</l>
+                  <l>No seas ambiciosa</l>
+                  <l>de mejor o más próspera fortuna,</l>
+                  <l>que vivirás ansiosa</l>
+                  <l>sin que pueda saciarte cosa alguna.</l>
+                  <l>No anheles impaciente el bien futuro;</l>
+                  <l>mira que ni el presente está seguro.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>La edición utilizada es de Emilio Palacios Fernández </note>
+      </body>
+   </text>
+</TEI>

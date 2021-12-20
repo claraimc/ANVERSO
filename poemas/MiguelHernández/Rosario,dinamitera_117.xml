@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rosario, dinamitera</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Viento del pueblo</title>
+               <date cert="high"/>
+               <pubPlace>Valencia</pubPlace>
+               <publisher n="first_editor">Socorro Rojo</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Décimas y Poesías políticas</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Guerra Civil y Revolución</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Rosario, dinamitera,</l>
+                  <l>sobre tu mano bonita</l>
+                  <l>celaba la dinamita</l>
+                  <l>sus atributos de fiera.</l>
+                  <l>Nadie al mirarla creyera</l>
+                  <l>que había en su corazón</l>
+                  <l>una desesperación</l>
+                  <l>de cristales, de metralla</l>
+                  <l>ansiosa de una batalla,</l>
+                  <l>sedienta de una explosión.</l>
+               </lg>
+               <lg>
+                  <l>Era tu mano derecha,</l>
+                  <l>capaz de fundir leones,</l>
+                  <l>la flor de las municiones</l>
+                  <l>y el anhelo de la mecha.</l>
+                  <l>Rosario, buena cosecha,</l>
+                  <l>alta como un campanario,</l>
+                  <l>sembrabas al adversario</l>
+                  <l>de dinamita furiosa</l>
+                  <l>y era tu mano una rosa</l>
+                  <l>enfurecida, Rosario.</l>
+               </lg>
+               <lg>
+                  <l>Buitrago ha sido testigo</l>
+                  <l>de la condición de rayo</l>
+                  <l>de las hazañas que callo</l>
+                  <l>y de la mano que digo.</l>
+                  <l>¡Bien conoció el enemigo</l>
+                  <l>la mano de esta doncella,</l>
+                  <l>que hoy no es mano porque de ella,</l>
+                  <l>que ni un solo dedo agita,</l>
+                  <l>se prendó la dinamita</l>
+                  <l>y la convirtió en estrella!</l>
+               </lg>
+               <lg>
+                  <l>Rosario, dinamitera,</l>
+                  <l>puedes ser varón y eres</l>
+                  <l>la nata de las mujeres,</l>
+                  <l>la espuma de la trinchera.</l>
+                  <l>Digna como una bandera</l>
+                  <l>de triunfos y resplandores,</l>
+                  <l>dinamiteros pastores,</l>
+                  <l>vedla agitando su aliento</l>
+                  <l>y dad las bombas al viento</l>
+                  <l>del alma de los traidores.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

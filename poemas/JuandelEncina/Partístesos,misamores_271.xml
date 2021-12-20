@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Partístesos, mis amores</title>
+            <author>Juan del Encina</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cancionero musical de Palacio</title>
+               <date cert="high"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">An Electronic Corpus of 15th Century Castilian Cancionero
+                Manuscripts</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía cortés</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor, Pena y Separación</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Juan del Encina</persName>
+                  <idno type="viaf">http://viaf.org/viaf/160940015</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1468</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1529</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Partiſteſos mis amores</l>
+                  <l>i partio</l>
+                  <l>mi plazer todo i murio</l>
+               </lg>
+               <lg>
+                  <l>No partio mi penſamiento</l>
+                  <l>e vino mi perdimiento</l>
+                  <l>No murio el contentamiento</l>
+                  <l>que me dio</l>
+                  <l>la cauſa que me perdio</l>
+               </lg>
+               <lg>
+                  <l>partio la gloria de ueros</l>
+                  <l>no el plazer de obedeçeros</l>
+                  <l>mas el temor de perderos</l>
+                  <l>que creçio</l>
+                  <l>todo mi bien deſtruyo</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Esta canción no está incluida en el Cancionero de 1496. </note>
+      </body>
+   </text>
+</TEI>

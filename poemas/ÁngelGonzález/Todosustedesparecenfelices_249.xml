@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Todos ustedes parecen felices</title>
+            <author>Ángel González</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Palabra sobre palabra</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Poesía para todos</publisher>
+               <publisher n="used_edition"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>--</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Incomunicación, Soledad y Hipocresía</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Ángel González</persName>
+                  <idno type="viaf">http://viaf.org/viaf/39390242</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1925</date>
+                  </birth>
+                  <death>
+                     <date cert="low">2008</date>
+                  </death>
+                  <floruit>Generación del 50</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Todos ustedes parecen felices</l>
+               </lg>
+               <lg>
+                  <l>…Y sonríen, a veces, cuando hablan.</l>
+               </lg>
+               <lg>
+                  <l>Y se dicen, incluso,</l>
+                  <l>palabras</l>
+                  <l>de amor. Pero</l>
+                  <l>se aman</l>
+                  <l>de dos en dos</l>
+                  <l>para</l>
+                  <l>odiar de mil</l>
+                  <l>en mil. Y guardan</l>
+                  <l>toneladas de asco</l>
+                  <l>por cada</l>
+                  <l>milímetro de dicha.</l>
+                  <l>Y parecen –nada</l>
+                  <l>más que parecen– felices,</l>
+                  <l>y hablan</l>
+                  <l>con el fin de ocultar esa amargura</l>
+                  <l>inevitable, y cuántas</l>
+                  <l>veces no lo consiguen, como</l>
+                  <l>no puedo yo ocultarla</l>
+                  <l>por más tiempo; esta</l>
+                  <l>desesperante, estéril, larga</l>
+                  <l>ciega desolación por cualquier cosa</l>
+                  <l>que –hacia dónde, no sé–, lenta, me arrastra.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

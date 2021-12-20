@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rima LIII</title>
+            <author>Gustavo Adolfo Bécquer</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Rimas</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Libro de los gorriones</publisher>
+               <publisher n="used_edition">2003 - Espasa Calpe [Austral]</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor y Paso del tiempo</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Gustavo Adolfo Bécquer</persName>
+                  <idno type="viaf">http://viaf.org/viaf/39390815</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1836</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1870</date>
+                  </death>
+                  <floruit>Romanticismo</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Volverán las oscuras golondrinas</l>
+                  <l>en tu balcón sus nidos a colgar,</l>
+                  <l>y otra vez con el ala a sus cristales</l>
+                  <l>jugando llamarán.</l>
+               </lg>
+               <lg>
+                  <l>Pero aquellas que el vuelo refrenaban</l>
+                  <l>tu hermosura y mi dicha a contemplar,</l>
+                  <l>aquellas que aprendieron nuestros nombres…</l>
+                  <l>¡esas… no volverán!</l>
+               </lg>
+               <lg>
+                  <l>Volverán las tupidas madreselvas</l>
+                  <l>de tu jardín las tapias a escalar,</l>
+                  <l>y otra vez a la tarde aún más hermosas</l>
+                  <l>sus flores se abrirán.</l>
+               </lg>
+               <lg>
+                  <l>Pero aquellas, cuajadas de rocío</l>
+                  <l>cuyas gotas mirábamos temblar</l>
+                  <l>y caer como lágrimas del día…</l>
+                  <l>¡esas… no volverán!</l>
+               </lg>
+               <lg>
+                  <l>Volverán del amor en tus oídos</l>
+                  <l>las palabras ardientes a sonar,</l>
+                  <l>tu corazón de su profundo sueño</l>
+                  <l>tal vez despertará.</l>
+               </lg>
+               <lg>
+                  <l>Pero mudo y absorto y de rodillas</l>
+                  <l>como se adora a Dios ante su altar,</l>
+                  <l>como yo te he querido…; desengáñate,</l>
+                  <l>¡así… no te querrán!</l>
+               </lg>
+            </lg>
+         </div>
+         <note>La canción alude y, en cierto modo, invierte el sentido del verso de Bécquer:
+            «Volverán las oscuras golondrinas». </note>
+      </body>
+   </text>
+</TEI>

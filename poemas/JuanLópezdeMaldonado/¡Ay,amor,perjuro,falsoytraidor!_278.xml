@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>¡Ay, amor, perjuro, falso y traidor!</title>
+            <author>Juan López de Maldonado</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cancionero de López Maldonado</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Guillermo Droy</publisher>
+               <publisher n="used_edition">1586 - Guillermo Droy</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía cortés</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor y Imprecación</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Juan López de Maldonado</persName>
+                  <idno type="viaf">http://viaf.org/viaf/100070086</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1500</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1600</date>
+                  </death>
+                  <floruit>Renacimiento</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>¡Ay amor,</l>
+                  <l>perjuro, falso, traydor!</l>
+                  <l>Enemigo</l>
+                  <l>de todo lo que no es mal,</l>
+                  <l>desleal</l>
+                  <l>al que tiene ley contigo,</l>
+                  <l>falso amigo</l>
+                  <l>al que te das por mayor.</l>
+                  <l>¡Ay amor,</l>
+                  <l>perjuro, falso, traidor!</l>
+                  <l>Tus engaños</l>
+                  <l>es darnos claro a entender</l>
+                  <l>que vn plazer</l>
+                  <l>es pesar de cient mil años,</l>
+                  <l>y en mis daños</l>
+                  <l>esto se prueua mejor.</l>
+                  <l>¡Ay amor,</l>
+                  <l>perjuro, falso, traidor!</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

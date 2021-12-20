@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De cómo clérigos e legos, e flayres e monjas, e dueñas, e joglares salieron a reçebir
+            a don Amor</title>
+            <author>Juan Ruiz (Arcipreste de Hita)</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Libro de buen amor</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">2000 - Biblioteca Virtual Miguel de Cervantes</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Mester de clerecía</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor y Alegoría</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Juan Ruiz (Arcipreste de Hita)</persName>
+                  <idno type="viaf">http://viaf.org/viaf/163823217</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1283</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1350</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Día era muy santo de la Pascua mayor,</l>
+                  <l>el sol era salido muy claro e de noble color,</l>
+                  <l>los omes e las aves et toda noble flor</l>
+                  <l>todos van resçebir cantando al Amor.</l>
+               </lg>
+               <lg>
+                  <l>Resçíbenlo las aves, gayos et ruyseñores,</l>
+                  <l>calandrias, papagayos mayores e menores,</l>
+                  <l>dan cantos plasenteros e de dulçes sabores,</l>
+                  <l>más alegría fasen los que son más mejores.</l>
+               </lg>
+               <lg>
+                  <l>Resçíbenlos los árbores con ramos et con flores</l>
+                  <l>de diversas maneras, de diversos colores,</l>
+                  <l>reçibenlo los omes, et dueñas con amores,</l>
+                  <l>con muchos instrumentos salen los atambores.</l>
+               </lg>
+               <lg>
+                  <l>Allí sale gritando la guitarra morisca</l>
+                  <l>de las voses aguda e de los puntos arisca,</l>
+                  <l>el corpudo laúd que tiene punto a la trisca,</l>
+                  <l>la guitarra latina con ésos se aprisca.</l>
+               </lg>
+               <lg>
+                  <l>El rabé gritador con la su alta nota,</l>
+                  <l>cab’ él el orabín taniendo la su rota,</l>
+                  <l>el salterio con ellos más alto que la mota,</l>
+                  <l>la vihuela de péndola con aquéstos y sota.</l>
+               </lg>
+               <lg>
+                  <l>Medio caño et arpa con el rabé morisco,</l>
+                  <l>entr’ ellos alegrança el gálipe françisco,</l>
+                  <l>la rota dis’ con ellos más alta que un risco,</l>
+                  <l>con ella el tamborete, sin él non vale un prisco.</l>
+               </lg>
+               <lg>
+                  <l>La vihuela de arco fas’ dulçes de bayladas,</l>
+                  <l>adormiendo a veses, muy alto a las vegadas,</l>
+                  <l>voses dulses, sabrosas, claras et bien pintadas,</l>
+                  <l>a las gentes alegra, todas las tiene pagadas.</l>
+               </lg>
+               <lg>
+                  <l>Dulçe caño entero sal’ con el panderete,</l>
+                  <l>con sonajas de asófar fasen dulçe sonete,</l>
+                  <l>los órganos y disen chançones e motete,</l>
+                  <l>la adedura albardana entre ellos se entremete.</l>
+               </lg>
+               <lg>
+                  <l>Dulçema, e axabeba, el finchado albogón,</l>
+                  <l>çinfonia e baldosa en esta fiesta son,</l>
+                  <l>el françés odreçillo con éstos se compón’,</l>
+                  <l>la neçiancha80 mandurria allí fase su son.</l>
+               </lg>
+               <lg>
+                  <l>Trompas e añafiles salen con atambales,</l>
+                  <l>non fueron tiempo ha plasenterías tales,</l>
+                  <l>tan grandes alegrías nin atán comunales,</l>
+                  <l>de juglares van llenas cuestas e eriales.</l>
+               </lg>
+               <lg>
+                  <l>Las carreras van llenas de grandes proçesiones,</l>
+                  <l>muchos omes ordenados, que otorgan perdones,</l>
+                  <l>los legos segrales con muchos clerisones,</l>
+                  <l>en la proçesión iva el abad de Bordones.</l>
+               </lg>
+               <lg>
+                  <l>Órdenes de Çister con las de Sant Benito</l>
+                  <l>la orden de Crusniego con su abat bendito,</l>
+                  <l>quantas órdenes son non las puse en escrito,</l>
+                  <l>venite exaltemus, cantan en alto grito.</l>
+               </lg>
+               <lg>
+                  <l>Orden de Santiago con las del Hospital,</l>
+                  <l>Calatrava e Alcántara con la de Buenaval,</l>
+                  <l>abades beneditos en esta fiesta tal,</l>
+                  <l>te amorem laudamms, le cantan et ál.</l>
+               </lg>
+               <lg>
+                  <l>Allí van de Sant Paulo los sus predicadores,</l>
+                  <l>non va y Sant Francisco, mas van flayres menores,</l>
+                  <l>allí van agostines e disen sus cantores:</l>
+                  <l>exultemus et laetemur, ministros et priores.</l>
+               </lg>
+               <lg>
+                  <l>Los de la Trinidad con los frayles del Carmen,</l>
+                  <l>e los de Santa Eulalia porque non se ensañen,</l>
+                  <l>todos mandan que digan, que canten e que llamen:</l>
+                  <l>benedictus qui venit, responden todos: «Amén.»</l>
+               </lg>
+               <lg>
+                  <l>Frayles de Sant Antón van en esta quadrilla,</l>
+                  <l>muchos buenos caballos e mucha mala silla,</l>
+                  <l>ivan los escuderos en la saya cortilla,</l>
+                  <l>cantando andeluya anda toda la villa.</l>
+               </lg>
+               <lg>
+                  <l>Todas dueñas de orden las blancas, e las prietas</l>
+                  <l>de Çistel, predicaderas, e muchas menoretas,</l>
+                  <l>todas salen cantando, disiendo chançonetas:</l>
+                  <l>mane nobiscum domine, que tañen a completas.</l>
+               </lg>
+               <lg>
+                  <l>De la parte del sol vi venir una seña</l>
+                  <l>blanca, resplandesiente más alta que la peña,</l>
+                  <l>en medio figurada una imagen de dueña,</l>
+                  <l>labrada es de oro, non viste estameña.</l>
+               </lg>
+               <lg>
+                  <l>Traía en su cabeza una noble corona</l>
+                  <l>de piedras de grand’ preçio, con amor se adona,</l>
+                  <l>llenas trae las manos de mucha noble dona,</l>
+                  <l>non compraríe la seña París nin Barçelona.</l>
+               </lg>
+               <lg>
+                  <l>A cabo de grand’ pieça vi al que la traíe,</l>
+                  <l>estar resplandeçiente a todo el mundo ríye,</l>
+                  <l>non compraría Françia los paños que vistíe,</l>
+                  <l>el caballo de España, muy grand preçio valíe.</l>
+               </lg>
+               <lg>
+                  <l>Muchas compañas vienen con el grand’ emperante,</l>
+                  <l>arçiprestes et dueñas, éstos vienen delante,</l>
+                  <l>luego el mundo todo, et quanto vos dixe ante,</l>
+                  <l>de los grandes roídos es todo el val sonante.</l>
+               </lg>
+               <lg>
+                  <l>Desque fue y llegado don Amor el loçano,</l>
+                  <l>todos finojos fincados besáronle la mano,</l>
+                  <l>al que gela non besa teníanlo por villano;</l>
+                  <l>acaesçió grand’ contienda luego en ese llano.</l>
+               </lg>
+               <lg>
+                  <l>Con quáles posaríe ovieron grand porfía,</l>
+                  <l>querría levar tal huésped luego la clerisía,</l>
+                  <l>fuéronle muy contrarios quantos tienen fleylía,</l>
+                  <l>también ellas como ellos querrían la mejoría.</l>
+               </lg>
+               <lg>
+                  <l>Dixieron allí luego todos los religiosos e ordenados:</l>
+                  <l>«Señor, nos te daremos monesterios honrados,</l>
+                  <l>»refitorios muy grandes e manteles parados,</l>
+                  <l>»los grandes dormitorios de lechos bien poblados.</l>
+               </lg>
+               <lg>
+                  <l>»Non quieras a los clérigos por huéspedes de aquésta</l>
+                  <l>»ca non tienen moradas, do toviésedes la fiesta:</l>
+                  <l>»señor, chica morada a grand’ señor non presta,</l>
+                  <l>»de grado toma el clérigo e amidos empresta.</l>
+               </lg>
+               <lg>
+                  <l>»Esquilman quanto pueden a quien se les allega,</l>
+                  <l>»non an de que te fagan servisio que te plega,</l>
+                  <l>»a grand’ señor conviene grand’ palaçio e grand’ vega,</l>
+                  <l>»para grand’ señor non es posar en la bodega.»</l>
+               </lg>
+               <lg>
+                  <l>«Señor», disen los clérigos, «non quieras vestir lana,</l>
+                  <l>»estragaríe un frayle quanto el convento gana,</l>
+                  <l>»la su posadería non es para ti sana,</l>
+                  <l>»tienen muy grand’ galleta, e chica la campana.</l>
+               </lg>
+               <lg>
+                  <l>»Non te farán serviçio en lo que dicho an,</l>
+                  <l>»mandan lechos sin ropa e manteles sin pan,</l>
+                  <l>»tienen cosinas grandes, mas poca carne dan,</l>
+                  <l>»coloran su mucha agua con poco açafrán.»</l>
+               </lg>
+               <lg>
+                  <l>«Señor, sey nuestro huésped», disíen los caballeros:</l>
+                  <l>«Non lo fagas, señor», disen los escuderos,</l>
+                  <l>«darte an dados plomados, perderás tus dineros,</l>
+                  <l>»al tomar vienen prestos, a la lid tardineros.</l>
+               </lg>
+               <lg>
+                  <l>»Tienden grandes alfamares, ponen luego tableros</l>
+                  <l>»pintados de jalderas como los tablageros,</l>
+                  <l>»al contar las soldadas ellos vienen primeros,</l>
+                  <l>»para ir en frontera muchos ay costumeros.»</l>
+               </lg>
+               <lg>
+                  <l>«Dexa todos aquéstos, toma de nos serviçio.»</l>
+                  <l>Las monjas le dixieron: «Señor, non avrías viçio,</l>
+                  <l>»son pobres bahareros de mucho mal bolliçio,</l>
+                  <l>»señor, vete connusco, prueba nuestro çeliçio.»</l>
+               </lg>
+               <lg>
+                  <l>Allí responden todos, que non gelo consejavan,</l>
+                  <l>que amavan falsamente a quantos las amavan,</l>
+                  <l>son parientas del cuervo, de cras en cras andavan,</l>
+                  <l>tarde cumplen o nunca lo que afiusavan.</l>
+               </lg>
+               <lg>
+                  <l>Todo su mayor fecho es dar muchos sometes,</l>
+                  <l>palabrillas pintadas, fermosillos afeytes,</l>
+                  <l>con gestos amorosos e engañosos juguetes,</l>
+                  <l>traen a muchos locos con sus falsos risetes.</l>
+               </lg>
+               <lg>
+                  <l>Mío señor don Amor, si él a mí creyera,</l>
+                  <l>el convid de las monjas aquéste resçibiera,</l>
+                  <l>todo viçio del mundo et todo plaser oviera,</l>
+                  <l>si en la mongía entrara, nunca se arrepintiera.</l>
+               </lg>
+               <lg>
+                  <l>Mas como el grand’ señor non debe ser vandero,</l>
+                  <l>non quiso resçebir el convid refertero,</l>
+                  <l>dioles muchas graçias, estava plasentero,</l>
+                  <l>a todos prometió merçed, et a mí primero.</l>
+               </lg>
+               <lg>
+                  <l>Desque vi a mi señor, que non tenía posada,</l>
+                  <l>et vi que la contienda era ya sosegada,</l>
+                  <l>finqué los mis hinojos ant’ él e su mesnada,</l>
+                  <l>demandele merçed aquesta señalada:</l>
+               </lg>
+               <lg>
+                  <l>«Señor, tú me oviste de pequeño criado,</l>
+                  <l>»el bien, si algo sé, de ti me fue mostrado,</l>
+                  <l>»de ti fui aperçebido e de ti fui castigado,</l>
+                  <l>»en esta santa fiesta sey de mí ospedado.»</l>
+               </lg>
+               <lg>
+                  <l>Su mesura fue tanta, que oyó mi petiçión,</l>
+                  <l>fue a la mi posada con esta proçesión,</l>
+                  <l>todos le acompañan con grand’ consolaçión,</l>
+                  <l>tiempo ha que non anduve tan buena estaçión.</l>
+               </lg>
+               <lg>
+                  <l>Fuéronse a sus posadas las más de aquestas gentes,</l>
+                  <l>pero que en mi casa fincaron los instrumentes,</l>
+                  <l>mi señor don Amor en todo paró mientes,</l>
+                  <l>ca vido pequeñas casas para tantos servientes.</l>
+               </lg>
+               <lg>
+                  <l>Dis’: «Mando, que mi tienda finque en aquel plado;</l>
+                  <l>»si me viniere a ver algund enamorado,</l>
+                  <l>»de noche e de día allí, sea el estrado:</l>
+                  <l>»ca todo tiempo quiere a todos ser pagado».</l>
+               </lg>
+               <lg>
+                  <l>Desque ovo yantado, fue la tienda armada,</l>
+                  <l>nunca pudo ver omen cosa tan acabada,</l>
+                  <l>bien creo que de ángeles fue tal cosa obrada,</l>
+                  <l>que omen terrenal d’esto non faría nada.</l>
+               </lg>
+               <lg>
+                  <l>La obra de la tienda vos querría contar,</l>
+                  <l>avérsevos ha un poco a tardar la yantar:</l>
+                  <l>es una grand estoria, pero non es de dexar,</l>
+                  <l>muchos dexan la çena por fermoso cantar.</l>
+               </lg>
+               <lg>
+                  <l>El mástel, en que se arma, es blanco de color,</l>
+                  <l>un marfil ochavado, nunca l’ vistes mejor,</l>
+                  <l>de piedras muy preçiosas çerrado en derredor,</l>
+                  <l>alúmbrase la tienda de su grand’ resplandor.</l>
+               </lg>
+               <lg>
+                  <l>En la çima del mástel una piedra estava,</l>
+                  <l>creo, que era robí, al fuego semejava,</l>
+                  <l>non avía menester sol, tanto de sí alumbrava</l>
+                  <l>de seda son las cuerdas con que ella se tirava.</l>
+               </lg>
+               <lg>
+                  <l>En suma vos lo cuento por non vos detener,</l>
+                  <l>si todo esto escribiese, en Toledo non ay papel,</l>
+                  <l>en la obra de dentro ay tanto de faser,</l>
+                  <l>que si lo desir puedo, meresçía el beber.</l>
+               </lg>
+               <lg>
+                  <l>Luego a la entrada a la mano derecha</l>
+                  <l>estava una mesa muy noble e muy fecha,</l>
+                  <l>delante ella grand’ fuego, de sí grand’ calor echa,</l>
+                  <l>quantos comen a ella, uno a otro asecha.</l>
+               </lg>
+               <lg>
+                  <l>Tres caballeros comían todos a un tablero,</l>
+                  <l>asentados al fuego cada uno señero,</l>
+                  <l>non se alcançaríen con un luengo madero,</l>
+                  <l>e non cabríen entr’ ellos un canto de dinero82.</l>
+               </lg>
+               <lg>
+                  <l>El primero comía las primeras cherevías,</l>
+                  <l>comiença a dar çanahoria a bestias de estabrías,</l>
+                  <l>da primero farina a bueyes de erías,</l>
+                  <l>fase días pequeños e mañanas muy frías.</l>
+               </lg>
+               <lg>
+                  <l>Comía nueses primeras e asava las castañas,</l>
+                  <l>mandava sembrar trigo e cortar las montañas,</l>
+                  <l>matar los gordos puercos e desfaser las cabañas,</l>
+                  <l>las viejas tras el fuego ya disen las pastrañas.</l>
+               </lg>
+               <lg>
+                  <l>El segundo comía toda carne salpresa,</l>
+                  <l>estava enturbiada con la niebra su mesa,</l>
+                  <l>fase nuevo aseyte, con la blasa non l’ pesa,</l>
+                  <l>con el frío a las de veses en las sus uñas besa.</l>
+               </lg>
+               <lg>
+                  <l>Comíe el caballero el toçino con verças,</l>
+                  <l>enclaresçe los vinos con ambas sus almuesas,</l>
+                  <l>ambos visten çamarras, querríen calientes quesas:</l>
+                  <l>en pos de éste estaba uno con dos cabeças.</l>
+               </lg>
+               <lg>
+                  <l>A dos partes otea aqueste cabeçudo,</l>
+                  <l>gallinas con capirotada comía a menudo,</l>
+                  <l>fasíe serrar sus cubas, fenchirlas con embudo,</l>
+                  <l>echar de yuso yelos que guardan vino agudo.</l>
+               </lg>
+               <lg>
+                  <l>Fase a sus collasos faser los valladares,</l>
+                  <l>refaser los pesebres, limpiar los albañares,</l>
+                  <l>çerrar los silos del pan, e seguir los pajares,</l>
+                  <l>más querríen entonçe peña que non loriga nin ijares.</l>
+               </lg>
+               <lg>
+                  <l>Estavan tres fijosdalgo a otra noble tabla,</l>
+                  <l>mucho estavan llegados, uno a otro non fabla,</l>
+                  <l>non se podrían alcançar con las bigas de Gaola,</l>
+                  <l>non cabría entre uno e otro un cabello de Paula.</l>
+               </lg>
+               <lg>
+                  <l>El primero de aquestos era chico enano,</l>
+                  <l>oras triste sañudo, oras seye loçano,</l>
+                  <l>tenía las yerbas nuevas en el plado ansiano,</l>
+                  <l>pártese del invierno, e con él viene verano.</l>
+               </lg>
+               <lg>
+                  <l>Lo más que éste andava era viñas podar,</l>
+                  <l>et engerir de escoplo e gavillas amondar,</l>
+                  <l>mandava poner viñas para buen vino dar,</l>
+                  <l>con la chica alhiara non l’ pueden abondar.</l>
+               </lg>
+               <lg>
+                  <l>El segundo envía a viñas cavadores,</l>
+                  <l>echan muchos mugrones los amugronadores,</l>
+                  <l>vid blanca fasen prieta buenos enjeridores.</l>
+                  <l>A omes, aves e bestias mételos en amores.</l>
+               </lg>
+               <lg>
+                  <l>Éste tiene tres diablos presos en su cadena,</l>
+                  <l>el uno enviava a las dueñas dar pena,</l>
+                  <l>pésal’ en el lugar do la mujer es buena,</l>
+                  <l>desde entonçe comiença a pujar el avena.</l>
+               </lg>
+               <lg>
+                  <l>El segundo diablo entra en los abades,</l>
+                  <l>arçiprestes e dueñas fablan sus poridades</l>
+                  <l>con este compañero que les dan libertades,</l>
+                  <l>que pierden las obladas e fablen vanidades.</l>
+               </lg>
+               <lg>
+                  <l>Antes viene cuervo blanco que pierdan asnería,</l>
+                  <l>todos ellos e ellas andan en modorría,</l>
+                  <l>los diablos do se fallan, lléganse a compañías,</l>
+                  <l>fasen sus diabluras e su truhanería.</l>
+               </lg>
+               <lg>
+                  <l>Envía otro diablo en los asnos entrar:</l>
+                  <l>en las cabeças entra, non en otro lugar,</l>
+                  <l>fasta que pasa agosto non dexan de rebusnar,</l>
+                  <l>desde allí pierden seso, esto puedes probar.</l>
+               </lg>
+               <lg>
+                  <l>El terçero fidalgo está de flores lleno,</l>
+                  <l>con los vientos que fase, grana trigo et çenteno,</l>
+                  <l>fase poner estacas que dan aseyte bueno,</l>
+                  <l>a los mosos medrosos ya los espanta el trueno.</l>
+               </lg>
+               <lg>
+                  <l>Andan tres ricos hombres allí en una dança,</l>
+                  <l>entre uno e otro non cabe punta de lança,</l>
+                  <l>del primero al segundo ay una grand’ labrança,</l>
+                  <l>el segundo al terçero con cosa non le alcança.</l>
+               </lg>
+               <lg>
+                  <l>El primero los panes e las frutas granava,</l>
+                  <l>fígados de cabrones con ruybarbo armoçava,</l>
+                  <l>fuían d’él los gallos, a todos los matava,</l>
+                  <l>los barbos e las truchas a menudo çenava.</l>
+               </lg>
+               <lg>
+                  <l>Buscava casa fría, fuía de la siesta,</l>
+                  <l>la calor del estío doler fase la tiesta,</l>
+                  <l>anda muy más loçano que pavón en floresta,</l>
+                  <l>busca yerbas e ayres en la sierra enfiesta.</l>
+               </lg>
+               <lg>
+                  <l>El segundo tenía en su mano la fos,</l>
+                  <l>segando las çebadas de todo el alfós,</l>
+                  <l>comía las bebras nuevas, e cogía el arrós,</l>
+                  <l>agrás nuevo comiendo embargole la vos.</l>
+               </lg>
+               <lg>
+                  <l>Engería los árbores con agena cortesa,</l>
+                  <l>comía nuevos palales, sudava sin peresa,</l>
+                  <l>bebía las aguas frías de su naturalesa,</l>
+                  <l>traía las manos tintas de la mucha çeresa.</l>
+               </lg>
+               <lg>
+                  <l>El terçero andava los çentenos trayendo</l>
+                  <l>trigos e todas mieses en las eras tendiendo,</l>
+                  <l>estavan de los árbores las frutas sacodiendo,</l>
+                  <l>el tábano al asno ya le iva mordiendo.</l>
+               </lg>
+               <lg>
+                  <l>Comiença a comer las chiquitas perdiçes,</l>
+                  <l>sacan barriles fríos de los posos heliçes</l>
+                  <l>la mosca mordedor fas’ traer las narises</l>
+                  <l>a las bestias por tierra, e abaxar las çervises.</l>
+               </lg>
+               <lg>
+                  <l>Tres labradores viníen todos una carrera,</l>
+                  <l>al segundo atiende el que va en delantera,</l>
+                  <l>el tercero al segundo atiéndel’ en frontera,</l>
+                  <l>el que viene non alcança al otro que l’ espera.</l>
+               </lg>
+               <lg>
+                  <l>El primero comía uvas ya maduras,</l>
+                  <l>comía maduros figos de las figueras duras,</l>
+                  <l>trillando e ablentando aparta pajas puras,</l>
+                  <l>con él viene otoño con dolençias e curas.</l>
+               </lg>
+               <lg>
+                  <l>El segundo adoba e repara carrales,</l>
+                  <l>estercuela barbechos e sacude nogales,</l>
+                  <l>comienza a vendimiar uvas de los parrales,</l>
+                  <l>escombra los rastrojos e çerca los corrales.</l>
+               </lg>
+               <lg>
+                  <l>Pisa los buenos vinos el labrador terçero,</l>
+                  <l>finche todas sus cubas como buen bodeguero,</l>
+                  <l>envía derramar la simiente al ero,</l>
+                  <l>açércase el invierno, bien como de primero.</l>
+               </lg>
+               <lg>
+                  <l>Yo fui maravillado desque vi tal visión,</l>
+                  <l>coydé que soñava, pero que verdat son,</l>
+                  <l>rogué a mi señor que me diese raçón,</l>
+                  <l>por do yo entendiese qué era o qué non.</l>
+               </lg>
+               <lg>
+                  <l>El mi señor don Amor como omen letrado</l>
+                  <l>en una sola palabra puso todo el tratado,</l>
+                  <l>por do el que lo oyere será çertificado,</l>
+                  <l>ésta fue su respuesta, su dicho ableviado:</l>
+               </lg>
+               <lg>
+                  <l>«El tablero, la tabla, la dança, la carrera,</l>
+                  <l>»son quatro temporadas del año del espera;</l>
+                  <l>»los omes son los meses, cosa es verdadera,</l>
+                  <l>»andan e non se alcançan, atiéndense en carrera.»</l>
+               </lg>
+               <lg>
+                  <l>Otras cosas estrañas muy graves de creer</l>
+                  <l>vi muchas en la tienda; mas por non vos detener,</l>
+                  <l>e porque enojoso non vos querría ser,</l>
+                  <l>non quiero de la tienda más prólogo faser.</l>
+               </lg>
+               <lg>
+                  <l>Mío señor desque fue su tienda aparejada,</l>
+                  <l>vino dormir a ella, fue poca su estada:</l>
+                  <l>desque se levantó, non vido su mesnada,</l>
+                  <l>los más con don Carnal fasían su morada.</l>
+               </lg>
+               <lg>
+                  <l>Desque lo vi despaçio como era su criado,</l>
+                  <l>atrevime e preguntel’ que el tiempo pasado,</l>
+                  <l>cómo nunca me viera: a do avía morado</l>
+                  <l>respondiome con sospiro e como con coydado.</l>
+               </lg>
+               <lg>
+                  <l>Dixo: «En la invernada visité a Sevilla,</l>
+                  <l>»toda el Andalusía, que non fincó y villa,</l>
+                  <l>»allí toda persona de grado se me homilla,</l>
+                  <l>»andando mucho viçioso quanto fue maravilla.</l>
+               </lg>
+               <lg>
+                  <l>»Entrada la Quaresma víneme para Toledo,</l>
+                  <l>»coydé estar viçioso, plasentero e ledo,</l>
+                  <l>»fallé grand santidad, físome estar quedo,</l>
+                  <l>»pocos me resçebieron nin me fesieron del dedo83.</l>
+               </lg>
+               <lg>
+                  <l>»Estava en un palaçio pintado de almagra,</l>
+                  <l>»vino a mí mucha dueña de mucho ayuno magra,</l>
+                  <l>»con muchos «pater nostres» e con mucha oraçión agra,</l>
+                  <l>»echáronme de la çibdat por la puerta de Visagra.</l>
+               </lg>
+               <lg>
+                  <l>»Aun quise porfiar, fuime para un monasterio,</l>
+                  <l>»fallé por la caustra e por el çiminterio</l>
+                  <l>»muchas religiosas resando el salterio,</l>
+                  <l>»vi que non podía sofrir aquel laserio.</l>
+               </lg>
+               <lg>
+                  <l>»Coydé en otra orden fallar cobro alguno,</l>
+                  <l>»do perdiese laserio, non pud’ fallar ninguno,</l>
+                  <l>»con oraçión e limosna e con mucho ayuno,</l>
+                  <l>»redrávanme de sí, como si fuese lobuno.</l>
+               </lg>
+               <lg>
+                  <l>»En caridat fablavan, mas non me la fasíen,</l>
+                  <l>»yo veía las caras, mas non lo que desíen,</l>
+                  <l>»mercado falla omen, en que gana si se detíen’</l>
+                  <l>»refés es de cogerse el omen do se falla bien.</l>
+               </lg>
+               <lg>
+                  <l>»Andando por la çibdat radío et perdudo,</l>
+                  <l>»dueñas e otras fembras fallava a menudo,</l>
+                  <l>»con sus ‘Ave Marías’ fasíanme estar mudo,</l>
+                  <l>»desque vi que me mal iva, fuime dende sañudo.</l>
+               </lg>
+               <lg>
+                  <l>»Salí de esta laseria, de coyta e de lastro,</l>
+                  <l>»fui tener la Quaresma a la villa de Castro,</l>
+                  <l>»resebieron muy bien a mí e a mi rastro,</l>
+                  <l>»pocos allí fallé, que non me llamasen padrasto.</l>
+               </lg>
+               <lg>
+                  <l>»Pues Carnal es venido, quiero perder laseria,</l>
+                  <l>»la Quaresma católica dola a Santa Quiteria,</l>
+                  <l>»quiero ir Alcalá, moraré en la feria,</l>
+                  <l>»dende andaré la tierra, dando a muchos materia.»</l>
+               </lg>
+               <lg>
+                  <l>Otro día mañana antes que fues’ de día</l>
+                  <l>movió con su mesnada Amor, e fue su vía,</l>
+                  <l>dexome con coydado, pero con alegría,</l>
+                  <l>este mi señor siempre tal costumbre avía.</l>
+               </lg>
+               <lg>
+                  <l>Siempre doquier que sea, pone mucho coydado</l>
+                  <l>con el muy grand plaser al su enamorado,</l>
+                  <l>siempre quiere alegría, plaser e ser pagado,</l>
+                  <l>de triste e de sañudo non quiere ser hospedado.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Cuadernas 1225-1314 del Libro de buen amor. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La noche blanca</title>
+            <author>Luis Alberto de Cuenca</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>El otro sueño</title>
+               <date cert="high"/>
+               <pubPlace>Sevilla</pubPlace>
+               <publisher n="first_editor">Renacimiento</publisher>
+               <publisher n="used_edition">2011-Renacimiento [Antología personal: Por las calles del
+                tiempo]</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesías eróticas</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Luis Alberto de Cuenca</persName>
+                  <idno type="viaf">http://viaf.org/viaf/114982630</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1950</date>
+                  </birth>
+                  <death>
+                     <date cert="low">Hasta la actualidad</date>
+                  </death>
+                  <floruit>Generación del 70/Novísimos</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Cuando la sombra cae, se dilatan tus ojos,</l>
+                  <l>se hincha tu pecho joven y tiemblan las aletas</l>
+                  <l>de tu nariz, mordidas por el dulce veneno,</l>
+                  <l>y, terrible y alegre, tu alma se despereza.</l>
+               </lg>
+               <lg>
+                  <l>Qué blanca está la noche del placer. Cómo invita</l>
+                  <l>a cambiar estas manos por garras de pantera</l>
+                  <l>y dibujar con ellas en tu cuerpo desnudo</l>
+                  <l>corazones partidos por delicadas flechas.</l>
+               </lg>
+               <lg>
+                  <l>Nieva sobre el espejo de las celebraciones</l>
+                  <l>y la nieve eterniza el festín de tus labios.</l>
+                  <l>Todo es furia y sonido de amor en esta hora</l>
+                  <l>que beatifica besos y canoniza abrazos.</l>
+               </lg>
+               <lg>
+                  <l>Para ti, pecadora, escribo cuando el alba</l>
+                  <l>me baña en su luz pálida y tú ya te has marchado.</l>
+                  <l>Por ti, cuando el rocío bautiza las ciudades,</l>
+                  <l>tomo la pluma, lleno de tu recuerdo, y ardo.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

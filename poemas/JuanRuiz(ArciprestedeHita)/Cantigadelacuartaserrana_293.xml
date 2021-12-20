@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cantiga de la cuarta serrana</title>
+            <author>Juan Ruiz (Arcipreste de Hita)</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Libro de buen amor</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">2000 - Biblioteca Virtual Miguel de Cervantes</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Mester de clerecía</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Serrana</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Juan Ruiz (Arcipreste de Hita)</persName>
+                  <idno type="viaf">http://viaf.org/viaf/163823217</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1283</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1350</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Cerca la Tablada</l>
+                  <l>la sierra pasada</l>
+                  <l>falleme con Aldara</l>
+                  <l>a la madrugada.</l>
+               </lg>
+               <lg>
+                  <l>Ençima del puerto</l>
+                  <l>coydé ser muerto</l>
+                  <l>de nieve e de frío</l>
+                  <l>e d’ese rosío</l>
+                  <l>e de grand’ elada.</l>
+               </lg>
+               <lg>
+                  <l>A la deçida</l>
+                  <l>di una corrida,</l>
+                  <l>fallé una serrana</l>
+                  <l>fermosa, lozana,</l>
+                  <l>e bien colorada.</l>
+               </lg>
+               <lg>
+                  <l>Dixe yo a ella:</l>
+                  <l>«Homíllome bella»:</l>
+                  <l>dis: «Tú que bien corres,</l>
+                  <l>»aquí non te engorres,</l>
+                  <l>»anda tu jornada.»</l>
+               </lg>
+               <lg>
+                  <l>Yo l’ dixe: «Frío tengo,</l>
+                  <l>»e por eso vengo</l>
+                  <l>»a vos, fermosura,</l>
+                  <l>»quered por mesura</l>
+                  <l>»hoy darme posada.»</l>
+               </lg>
+               <lg>
+                  <l>Díxome la moza:</l>
+                  <l>«Pariente, mi choça</l>
+                  <l>»el que en ella posa,</l>
+                  <l>»conmigo desposa,</l>
+                  <l>»e dam’ grand soldada.»</l>
+               </lg>
+               <lg>
+                  <l>Yo l’ dixe: «De grado,</l>
+                  <l>»mas soy casado</l>
+                  <l>»aquí en Ferreros;</l>
+                  <l>»mas de mis dineros</l>
+                  <l>»darvos he, amada69.»</l>
+               </lg>
+               <lg>
+                  <l>Dis’: «Trota conmigo.»</l>
+                  <l>Levome consigo,</l>
+                  <l>e diom’ buena lumbre,</l>
+                  <l>como es de costumbre</l>
+                  <l>de sierra nevada.</l>
+               </lg>
+               <lg>
+                  <l>Diome pan de çenteno</l>
+                  <l>tisnado, moreno,</l>
+                  <l>e diom’ vino malo</l>
+                  <l>agrillo e ralo,</l>
+                  <l>e carne salada.</l>
+               </lg>
+               <lg>
+                  <l>Diom’ queso de cabras:</l>
+                  <l>«Fidalgo», dis’: «abras</l>
+                  <l>»ese blaço, et toma</l>
+                  <l>»un tanto de soma,</l>
+                  <l>»que tengo goardada.»</l>
+               </lg>
+               <lg>
+                  <l>Dis’: «Huésped, almuerça,</l>
+                  <l>»e bebe e esfuerça,</l>
+                  <l>»caliéntate e paga,</l>
+                  <l>»de mal non s’ te faga</l>
+                  <l>»fasta la tornada.</l>
+               </lg>
+               <lg>
+                  <l>»Quien dones me diere,</l>
+                  <l>»quales yo pediere,</l>
+                  <l>»avrá bien de çena,</l>
+                  <l>»et lechiga buena,</l>
+                  <l>»que no l’ coste nada.»</l>
+               </lg>
+               <lg>
+                  <l>«Vos, que eso desides,</l>
+                  <l>»¿por qué non pedides</l>
+                  <l>»la cosa çertera?»</l>
+                  <l>Ella dis’: «Maguera,</l>
+                  <l>»¿e si m’ será dada?</l>
+               </lg>
+               <lg>
+                  <l>»Pues dam’ una çinta</l>
+                  <l>»bermeja bien tinta,</l>
+                  <l>»et buena camisa</l>
+                  <l>»fecha a mi guisa</l>
+                  <l>»con su collarada.</l>
+               </lg>
+               <lg>
+                  <l>»Et dam’ buenas sartas</l>
+                  <l>»de estaño e fartas,</l>
+                  <l>»et dame halía</l>
+                  <l>»de buena valía,</l>
+                  <l>»pelleja delgada.</l>
+               </lg>
+               <lg>
+                  <l>»Et dam’ buena toca</l>
+                  <l>»listada de cota,</l>
+                  <l>»et dame çapatas</l>
+                  <l>»de cuello bien altas</l>
+                  <l>»de pieça labrada.</l>
+               </lg>
+               <lg>
+                  <l>»Con aquestas joyas</l>
+                  <l>»quiero que lo oyas,</l>
+                  <l>»serás bien venido;</l>
+                  <l>»serás mi marido</l>
+                  <l>»e yo tu velada.»</l>
+               </lg>
+               <lg>
+                  <l>«Serrana señora,</l>
+                  <l>»tanto algo agora</l>
+                  <l>»non tray’ por ventura,</l>
+                  <l>»mas faré fiadura</l>
+                  <l>»para la tornada.»</l>
+               </lg>
+               <lg>
+                  <l>Díxome la heda:</l>
+                  <l>»do non ay moneda,</l>
+                  <l>»non ay merchandía,</l>
+                  <l>»nin ay tan buen día,</l>
+                  <l>»nin cara pagada.</l>
+               </lg>
+               <lg>
+                  <l>»Non ay mercadero</l>
+                  <l>»bueno sin dinero,</l>
+                  <l>»e yo non me pago</l>
+                  <l>»del que non da algo,</l>
+                  <l>»nin le do posada.</l>
+               </lg>
+               <lg>
+                  <l>»Nunca de omenaje</l>
+                  <l>»pagan hostalaje,</l>
+                  <l>»por dineros fase</l>
+                  <l>»omen quanto plase,</l>
+                  <l>»cosa es probada.»</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Estrofas 1022-1042 del Libro de buen amor. </note>
+      </body>
+   </text>
+</TEI>

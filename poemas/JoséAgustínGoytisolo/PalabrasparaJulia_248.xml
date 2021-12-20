@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Palabras para Julia</title>
+            <author>José Agustín Goytisolo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Palabras para Julia y otras canciones</title>
+               <date cert="high"/>
+               <pubPlace>Barcelona</pubPlace>
+               <publisher n="first_editor">Editorial Laia</publisher>
+               <publisher n="used_edition">[Poesía, ed. Carme Riera] 2009-Cátedra</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Crecer y Relación padre-hija</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>José Agustín Goytisolo</persName>
+                  <idno type="viaf">http://viaf.org/viaf/117022600</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1928</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1999</date>
+                  </death>
+                  <floruit>Generación del 50</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Tú no puedes volver atrás</l>
+                  <l>porque la vida ya te empuja</l>
+                  <l>como un aullido interminable.</l>
+               </lg>
+               <lg>
+                  <l>Hija mía es mejor vivir</l>
+                  <l>con la alegría de los hombres</l>
+                  <l>que llorar ante el muro ciego.</l>
+               </lg>
+               <lg>
+                  <l>Te sentirás acorralada</l>
+                  <l>te sentirás perdida o sola</l>
+                  <l>tal vez querrás no haber nacido.</l>
+               </lg>
+               <lg>
+                  <l>Yo sé muy bien que te dirán</l>
+                  <l>que la vida no tiene objeto</l>
+                  <l>que es un asunto desgraciado.</l>
+               </lg>
+               <lg>
+                  <l>Entonces siempre acuérdate</l>
+                  <l>de lo que un día yo escribí</l>
+                  <l>pensando en ti como ahora pienso.</l>
+               </lg>
+               <lg>
+                  <l>Un hombre solo una mujer</l>
+                  <l>así tomados de uno en uno</l>
+                  <l>son como polvo no son nada.</l>
+               </lg>
+               <lg>
+                  <l>Pero yo cuando te hablo a ti</l>
+                  <l>cuando te escribo estas palabras</l>
+                  <l>pienso también en otros hombres.</l>
+               </lg>
+               <lg>
+                  <l>Tu destino está en los demás</l>
+                  <l>tu futuro es tu propia vida</l>
+                  <l>tu dignidad es la de todos.</l>
+               </lg>
+               <lg>
+                  <l>Otros esperan que resistas</l>
+                  <l>que les ayude tu alegría</l>
+                  <l>tu canción entre sus canciones.</l>
+               </lg>
+               <lg>
+                  <l>Entonces siempre acuérdate</l>
+                  <l>de lo que un día yo escribí</l>
+                  <l>pensando en ti como ahora pienso.</l>
+               </lg>
+               <lg>
+                  <l>Nunca te entregues ni te apartes</l>
+                  <l>junto al camino nunca digas</l>
+                  <l>no puedo más y aquí me quedo.</l>
+               </lg>
+               <lg>
+                  <l>La vida es bella tú verás</l>
+                  <l>como a pesar de los pesares</l>
+                  <l>tendrás amor tendrás amigos.</l>
+               </lg>
+               <lg>
+                  <l>Por lo demás no hay elección</l>
+                  <l>y este mundo tal como es</l>
+                  <l>será todo tu patrimonio.</l>
+               </lg>
+               <lg>
+                  <l>Perdóname no sé decirte</l>
+                  <l>nada más pero tú comprende</l>
+                  <l>que yo aún estoy en el camino.</l>
+               </lg>
+               <lg>
+                  <l>Y siempre siempre acuérdate</l>
+                  <l>de lo que un día yo escribí</l>
+                  <l>pensando en ti como ahora pienso.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Como él mismo explica en una entrevista en El Mundo (28 de noviembre de 1990, aquí),
+            José Agustín Goytisolo escribió el poema en 1965; ese mismo año, Paco Ibáñez se dio
+            cuenta de que era apto para ser cantado, y lo versionó, por primera vez, alcanzando
+            tanta fama, que el nombre de Julia empezó a hacerse muy frecuente entre las niñas. A
+            raíz de este éxito, el poema fue años más tarde incluido en el libro junto con otros
+            textos para ser cantados: Palabras para Julia y otras canciones (1980). La versión de
+            Paco Ibáñez (Paco Ibáñez 3, Polydor, 1969) no está recogida en esta base de datos porque
+            es anterior a 1975, pero es la base de prácticamente todas las versiones musicales
+            posteriores. </note>
+      </body>
+   </text>
+</TEI>

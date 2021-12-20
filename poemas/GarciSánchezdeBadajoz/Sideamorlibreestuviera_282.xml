@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Si de amor libre estuviera</title>
+            <author>Garci Sánchez de Badajoz</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cancionero General</title>
+               <date cert="high"/>
+               <pubPlace>Valencia</pubPlace>
+               <publisher n="first_editor">Hernando del Castillo</publisher>
+               <publisher n="used_edition">An Electronic Corpus of 15th Century Castilian Cancionero
+                Manuscripts</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Glosas (Literatura)</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor, Prisión y Sufrimiento</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Garci Sánchez de Badajoz</persName>
+                  <idno type="viaf">http://viaf.org/viaf/22570045</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1450</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1526</date>
+                  </death>
+                  <floruit>--</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Gloſa ſuya al romance que dize por mayo era por mayo.</l>
+               </lg>
+               <lg>
+                  <l>¶Si de amor libre eſtuuiera</l>
+                  <l>no ſintiera mi priſion</l>
+                  <l>y ſi fuera donde os viera</l>
+                  <l>fuera gloria mi paſſion</l>
+                  <l>lo que mas me deſeſpera</l>
+                  <l>mas de todo mi dolor</l>
+                  <l>quando ſiento mas deſmayo</l>
+                  <l>por el mes era de mayo</l>
+                  <l>quando haze la calor</l>
+               </lg>
+               <lg>
+                  <l>¶El que tiene laſtimado</l>
+                  <l>el coraçon de peſar</l>
+                  <l>en el tiempo aparejado</l>
+                  <l>para mas plazer tomar</l>
+                  <l>biue mas deſeſperado</l>
+                  <l>tal eſto en llamas damor</l>
+                  <l>biuo como ſalamandria</l>
+                  <l>quando canta la calandria</l>
+                  <l>y reſponde el ruy ſeñor</l>
+               </lg>
+               <lg>
+                  <l>¶Y de verme eſſi(!) catiuo</l>
+                  <l>en todo ſin libertad</l>
+                  <l>es la vida que yo biuo</l>
+                  <l>menos de mi voluntad</l>
+                  <l>que la pena que reſcibo</l>
+                  <l>quen peſares y dolor</l>
+                  <l>veo mis dias gaſtados</l>
+                  <l>quando los enamorados</l>
+                  <l>van a ſeruir al amor</l>
+               </lg>
+               <lg>
+                  <l>¶En el tiempo que las flores</l>
+                  <l>cubren los campos ſuaues</l>
+                  <l>deſtrañas lindas colores</l>
+                  <l>y comiençan ya las aues</l>
+                  <l>a cantar por los alcores</l>
+                  <l>todos biuen ſin paſſion</l>
+                  <l>todos andan ſin cuydado</l>
+                  <l>ſino yo triſte cuytado</l>
+                  <l>que biuo en eſta priſion</l>
+               </lg>
+               <lg>
+                  <l>¶En la qual la luz no veo</l>
+                  <l>no viendos a vos ſeñora</l>
+                  <l>y ſin veros no la creo</l>
+                  <l>ni la noche ſola vna ora</l>
+                  <l>no la duermo de deſſeo</l>
+                  <l>y de a queſta ocaſion</l>
+                  <l>tal eſto ſeñora mia</l>
+                  <l>que ni ſe quando es de dia</l>
+                  <l>ni quando las noches ſon</l>
+               </lg>
+               <lg>
+                  <l>¶No ſe de mi que hazer</l>
+                  <l>ſi el morir no me ſocorre</l>
+                  <l>quien podra al preſo tener</l>
+                  <l>el cuerpo en aqueſta torre</l>
+                  <l>y el alma en vueſtro poder</l>
+                  <l>deſtas penas la menor</l>
+                  <l>fuera impoſſible ſufrilla</l>
+                  <l>ſino por vna avezilla</l>
+                  <l>que me cantaua all aluor</l>
+               </lg>
+               <lg>
+                  <l>¶Fin.</l>
+               </lg>
+               <lg>
+                  <l>¶Eſta es la breue eſperança</l>
+                  <l>que en vos ſeñora he tenido</l>
+                  <l>que ya por mi mal andança</l>
+                  <l>la tirado vueſtro oluido</l>
+                  <l>y muerto en vueſtra menbrança</l>
+                  <l>ya no eſpero redencion</l>
+                  <l>quen ſu muerte deſeſpero</l>
+                  <l>matomela vn valleſtero</l>
+                  <l>dele dios mal galardon</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Reproducimos la versión del Cancionero General. Es una glosa al famoso Romance del
+            prisionero. </note>
+      </body>
+   </text>
+</TEI>

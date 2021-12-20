@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ya se sale por la puerta</title>
+            <author>Juan de Escobar</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Romancero e historia del muy noble y valeroso cavallero, el Cid Ruy Diez
+            de Bivar en romances en lenguaje antiguo</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">1706 - Martín de Zavala</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Arias Gonzalo, Cerco de Zamora y El Cid (Rodrigo Díaz de Vivar)</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Juan de Escobar</persName>
+                  <idno type="viaf">http://viaf.org/viaf/71438109</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1500</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1600</date>
+                  </death>
+                  <floruit>Renacimiento</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Ya se sale por la puerta,</l>
+                  <l>por la que salía al campo,</l>
+                  <l>consigo lleva sus hijos</l>
+                  <l>esse Conde Arias Gonçalo.</l>
+                  <l>Él quiere ser el primero</l>
+                  <l>porque en la muerte no ha estado,</l>
+                  <l>mas Doña Vrraca la Infanta</l>
+                  <l>la batalla le ha quitado.</l>
+                  <l>Llorando de los sus ojos</l>
+                  <l>y el cabello destrençado:</l>
+                  <l>—Ruégovos por Dios, el Conde,</l>
+                  <l>buen conde Arias Gonçalo,</l>
+                  <l>que dexéis esta batalla</l>
+                  <l>porque sois viejo y cansado.</l>
+                  <l>Dexaisme desamparada</l>
+                  <l>y todo mi aver cercado;</l>
+                  <l>ya sabéis lo que mi padre</l>
+                  <l>a vos dexó encomendado:</l>
+                  <l>que no me desamparéis,</l>
+                  <l>endemás, en tal estado—.</l>
+                  <l>En oyendo aquesto el Conde</l>
+                  <l>mostróse muy enojado:</l>
+                  <l>—Déxesme ir, señora,</l>
+                  <l>que yo estoy desafiado,</l>
+                  <l>y tengo de hazer batalla,</l>
+                  <l>porque fuy traidor llamado—.</l>
+                  <l>Con la Infanta Cavalleros</l>
+                  <l>al Conde le avían rogado</l>
+                  <l>que les dexe la batalla,</l>
+                  <l>que la tomaran de grado.</l>
+                  <l>Quando el Conde vido aquesto</l>
+                  <l>recibió pesar doblado;</l>
+                  <l>llamara sus quatro hijos,</l>
+                  <l>y al vno dellos ha dado</l>
+                  <l>las sus armas y su escudo,</l>
+                  <l>el su estoque y su cavallo;</l>
+                  <l>echole su bendición</l>
+                  <l>porque era dél muy amado.</l>
+                  <l>Pedro Arias avía por nombre,</l>
+                  <l>Pedro Arias el Castellano,</l>
+                  <l>por la puerta de Zamora</l>
+                  <l>se sale fuera y armado.</l>
+                  <l>Topa con D. Diego Ordóñez,</l>
+                  <l>su enemigo y su contrario:</l>
+                  <l>—Dios os salve, buen D. Diego,</l>
+                  <l>y él os haga prosperado,</l>
+                  <l>en las armas muy dichoso,</l>
+                  <l>de traydores libertado.</l>
+                  <l>Ya sabéis que soy venido</l>
+                  <l>para lo que está aplaçado;</l>
+                  <l>a libertar a Zamora</l>
+                  <l>de lo que le han levantado—.</l>
+                  <l>Don Diego le respondiera</l>
+                  <l>con sobervia ha fablado:</l>
+                  <l>—Todos juntos sois traidores,</l>
+                  <l>y oy entiendo de provarlo—.</l>
+                  <l>Buelven los dos las espaldas</l>
+                  <l>por tomar luego del campo;</l>
+                  <l>hiriéronse juntamente</l>
+                  <l>en los pechos denodados;</l>
+                  <l>saltan astas de las lanças</l>
+                  <l>con el golpe que se han dado;</l>
+                  <l>no se hacen mal alguno</l>
+                  <l>porque van muy bien armados.</l>
+                  <l>Don Diego dio en la cabeça</l>
+                  <l>a Pedro Arias desdichado:</l>
+                  <l>cortárale todo el yelmo</l>
+                  <l>con un pedazo del casco.</l>
+                  <l>Quando se vido herido</l>
+                  <l>Pedro Arias y lastimado,</l>
+                  <l>abraçárase a las crines,</l>
+                  <l>y al pescuezo del cavallo;</l>
+                  <l>sacó esfuerço de flaqueza</l>
+                  <l>aunque estaba mal llagado,</l>
+                  <l>quiso herir a don Diego,</l>
+                  <l>mas acertó en el cavallo,</l>
+                  <l>que la sangre que corría</l>
+                  <l>la vista le avía quitado.</l>
+                  <l>Cayó muerto prestamente</l>
+                  <l>Pedro Arias el castellano,</l>
+                  <l>Don Diego que vido aquesto</l>
+                  <l>tomó la vara en la mano</l>
+                  <l>diziendo azia Zamora:</l>
+                  <l>—¿Dónde estás, Arias Gonzalo?</l>
+                  <l>Embía al fijo segundo,</l>
+                  <l>que el primero ya ha acabado;</l>
+                  <l>ya se acabaron sus días</l>
+                  <l>su juventud fin ha dado—.</l>
+                  <l>Embió el hijo segundo,</l>
+                  <l>que Diego Arias es llamado;</l>
+                  <l>tornara a salir don Diego</l>
+                  <l>con sus armas y cavallo,</l>
+                  <l>y diérale fin a aqueste</l>
+                  <l>como al primero avía dado.</l>
+                  <l>El conde viendo sus hijos,</l>
+                  <l>que los dos le han ya faltado,</l>
+                  <l>quiso embiar el tercero</l>
+                  <l>aunque con temor doblado.</l>
+                  <l>Llorando de los sus ojos</l>
+                  <l>dixo: —Ve, mi hijo amado,</l>
+                  <l>haz como buen Cavallero</l>
+                  <l>a lo que eres obligado,</l>
+                  <l>pues sustentas la verdad,</l>
+                  <l>de Dios serás ayudado;</l>
+                  <l>venga las muertes sin culpa,</l>
+                  <l>que han passado tus hermanos—.</l>
+                  <l>Hernando Arias, el tercero,</l>
+                  <l>al palenque avía llegado;</l>
+                  <l>mucho mal y muy dañado.</l>
+                  <l>Alçó la mano con saña</l>
+                  <l>vn gran golpe le avía dado,</l>
+                  <l>mal ferido le ha en el ombro,</l>
+                  <l>en el ombro y en el braço,</l>
+                  <l>y Don Diego con su estoque</l>
+                  <l>lo firiera muy de grado;</l>
+                  <l>firiéralo en la cabeça,</l>
+                  <l>en el casco le ha tocado.</l>
+                  <l>Recudió el fijo tercero</l>
+                  <l>con vn gran golpe al cavallo,</l>
+                  <l>que hizo ir a Don Diego</l>
+                  <l>huyendo por todo el campo.</l>
+                  <l>Ansí quedó esta batalla</l>
+                  <l>sin quedar averiguado</l>
+                  <l>quáles son los vencedores,</l>
+                  <l>los de Zamora o del campo.</l>
+                  <l>Quisiera volver don Diego</l>
+                  <l>ala batalla de grado,</l>
+                  <l>mas no quisieron los Juezes,</l>
+                  <l>ni la licencia le han dado.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Versión de Juan de Escobar del motivo del combate de los hijos de Arias Gonzalo.
+        </note>
+      </body>
+   </text>
+</TEI>

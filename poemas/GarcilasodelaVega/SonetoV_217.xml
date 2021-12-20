@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Soneto V</title>
+            <author>Garcilaso de la Vega</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Las obras de Boscán y algunas de Garcilasso de la Vega</title>
+               <date cert="high"/>
+               <pubPlace>Barcelona</pubPlace>
+               <publisher n="first_editor">Carles Amorós</publisher>
+               <publisher n="used_edition">1995 - Crítica</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Sonetos</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Garcilaso de la Vega</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1499</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1536</date>
+                  </death>
+                  <floruit>Renacimiento</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>SONETO V</l>
+                  <l>Escrito ‘stá en mi alma vuestro gesto</l>
+                  <l>y cuanto yo escribir de vos deseo:</l>
+                  <l>vos sola lo escribistes; yo lo leo</l>
+                  <l>tan solo, que aun de vos me guardo en esto.</l>
+                  <l>En esto ‘stoy y estaré siempre puesto,</l>
+                  <l>que aunque no cabe en mí cuanto en vos veo,</l>
+                  <l>de tanto bien lo que no entiendo creo,</l>
+                  <l>tomando ya la fe por presupuesto.</l>
+                  <l>Yo no nascí sino para quereros;</l>
+                  <l>mi alma os ha cortado a su medida;</l>
+                  <l>por hábito del alma mismo os quiero;</l>
+                  <l>cuanto tengo confieso yo deberos;</l>
+                  <l>por vos nací, por vos tengo la vida,</l>
+                  <l>por vos he de morir y por vos muero.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

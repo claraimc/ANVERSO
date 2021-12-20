@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Es tan poco</title>
+            <author>Mario Benedetti</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Canciones del mas acá</title>
+               <date cert="high"/>
+               <pubPlace>México</pubPlace>
+               <publisher n="first_editor">Editorial Nueva Imagen</publisher>
+               <publisher n="used_edition">Editorial Planeta Colombiana/2001</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor, Miedo, Superficialidad y Parejas</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Mario Benedetti</persName>
+                  <idno type="viaf">http://viaf.org/viaf/56585930</idno>
+                  <nationality>Uruguay</nationality>
+                  <birth>
+                     <date cert="low">1920</date>
+                  </birth>
+                  <death>
+                     <date cert="low">2009</date>
+                  </death>
+                  <floruit>Otro</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Lo que conoces</l>
+                  <l>es tan poco</l>
+                  <l>lo que conoces</l>
+                  <l>de mi</l>
+                  <l>lo que conoces</l>
+                  <l>son mis nubes</l>
+                  <l>son mis silencios</l>
+                  <l>son mis gestos</l>
+                  <l>lo que conoces</l>
+                  <l>es la tristeza</l>
+                  <l>de mi casa vista de afuera</l>
+                  <l>son los postigos de mi tristeza</l>
+                  <l>el llamador de mi tristeza.</l>
+               </lg>
+               <lg>
+                  <l>Pero no sabes nada</l>
+                  <l>Nada</l>
+                  <l>a lo sumo</l>
+                  <l>piensas a veces</l>
+                  <l>que es tan poco</l>
+                  <l>lo que conozco</l>
+                  <l>de ti</l>
+                  <l>lo que conozco</l>
+                  <l>sea tus nubes</l>
+                  <l>tus silencios</l>
+                  <l>tus gestos</l>
+                  <l>lo que conozco</l>
+                  <l>es la tristeza</l>
+                  <l>de tu casa vista de afuera</l>
+                  <l>son los postigos de tu tristeza</l>
+                  <l>el llamador de tu tristeza.</l>
+                  <l>Pero no llamas.</l>
+                  <l>Pero no llamo.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Mario Benedetti escribe este texto como canción para Soledad Bravo. Por lo que
+            apareció primero grabada en 1975. Dicha canción ha sido después publicada en el
+            cancionero recogido en esta ficha, Canciones del más acá. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Me llamo barro aunque Miguel me llame]</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>El rayo que no cesa</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Héroe</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Me llamo barro aunque Miguel me llame.</l>
+                  <l>Barro es mi profesión y mi destino</l>
+                  <l>que mancha con su lengua cuanto lame.</l>
+                  <l>Soy un triste instrumento del camino.</l>
+                  <l>Soy una lengua dulcemente infame</l>
+                  <l>a los pies que idolatro desplegada.</l>
+               </lg>
+               <lg>
+                  <l>Como un nocturno buey de agua y barbecho</l>
+                  <l>que quiere ser criatura idolatrada,</l>
+                  <l>embisto a tus zapatos y a sus alrededores,</l>
+                  <l>y hecho de alfombras y de besos hecho</l>
+                  <l>tu talón que me injuria beso y siembro de flores.</l>
+               </lg>
+               <lg>
+                  <l>Coloco relicarios de mi especie</l>
+                  <l>a tu talón mordiente, a tu pisada,</l>
+                  <l>y siempre a tu pisada me adelanto</l>
+                  <l>para que tu impasible pie desprecie</l>
+                  <l>todo el amor que hacia tu pie levanto.</l>
+               </lg>
+               <lg>
+                  <l>Más mojado que el rostro de mi llanto,</l>
+                  <l>cuando el vidrio lanar del hielo bala,</l>
+                  <l>cuando el invierno tu ventana cierra</l>
+                  <l>bajo a tus pies un gavilán de ala,</l>
+                  <l>de ala manchada y corazón de tierra.</l>
+                  <l>Bajo a tus pies un ramo derretido</l>
+                  <l>de humilde miel pataleada y sola,</l>
+                  <l>un despreciado corazón caído</l>
+                  <l>en forma de alga y en figura de ola.</l>
+               </lg>
+               <lg>
+                  <l>Barro en vano me invisto de amapola,</l>
+                  <l>barro en vano vertiendo voy mis brazos,</l>
+                  <l>barro en vano te muerdo los talones,</l>
+                  <l>dándote a malheridos aletazos</l>
+                  <l>sapos como convulsos corazones.</l>
+               </lg>
+               <lg>
+                  <l>Apenas si me pisas, si me pones</l>
+                  <l>la imagen de tu huella sobre encima,</l>
+                  <l>se despedaza y rompe la armadura</l>
+                  <l>de arrope bipartido que me ciñe la boca</l>
+                  <l>en carne viva y pura,</l>
+                  <l>pidiéndote a pedazos que la oprima</l>
+                  <l>siempre tu pie de liebre libre y loca.</l>
+               </lg>
+               <lg>
+                  <l>Su taciturna nata se arracima,</l>
+                  <l>los sollozos agitan su arboleda</l>
+                  <l>de lana cerebral bajo tu paso.</l>
+                  <l>Y pasas, y se queda</l>
+                  <l>incendiando su cera de invierno ante el ocaso,</l>
+                  <l>mártir, alhaja y pasto de la rueda.</l>
+               </lg>
+               <lg>
+                  <l>Harto de someterse a los puñales</l>
+                  <l>circulantes del carro y la pezuña,</l>
+                  <l>teme del barro un parto de animales</l>
+                  <l>de corrosiva piel y vengativa uña.</l>
+               </lg>
+               <lg>
+                  <l>Teme que el barro crezca en un momento,</l>
+                  <l>teme que crezca y suba y cubra tierna,</l>
+                  <l>tierna y celosamente</l>
+                  <l>tu tobillo de junco, mi tormento,</l>
+                  <l>teme que inunde el nardo de tu pierna</l>
+                  <l>y crezca más y ascienda hasta tu frente.</l>
+               </lg>
+               <lg>
+                  <l>Teme que se levante huracanado</l>
+                  <l>del blando territorio del invierno</l>
+                  <l>y estalle y truene y caiga diluviado</l>
+                  <l>sobre tu sangre duramente tierno.</l>
+               </lg>
+               <lg>
+                  <l>Teme un asalto de ofendida espuma</l>
+                  <l>y teme un amoroso cataclismo.</l>
+                  <l>Antes que la sequía lo consuma</l>
+                  <l>el barro ha de volverte de lo mismo.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romance de la misa de amor</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Romancero viejo</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">Flor nueva de romances viejos (Austral, 1989)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Mañanita de San Juan, mañanita de primor,</l>
+                  <l>cuando damas y galanes van a oír misa mayor.</l>
+                  <l>Allá va la mi señora, entre todas la mejor.</l>
+                  <l>Viste saya sobre saya, y mantellín de tornasol,</l>
+                  <l>camisa con oro y perlas, bordada en el cabezón.</l>
+                  <l>En la su boca muy linda lleva un poco de dulzor;</l>
+                  <l>en la su cara tan blanca, un poquito de arrebol,</l>
+                  <l>y en los sus ojuelos garzos lleva un poco de alcohol;</l>
+                  <l>así entraba por la iglesia relumbrando como sol.</l>
+                  <l>Las damas mueren de envidia, y los galanes de amor.</l>
+                  <l>El que cantaba en el coro, en el credo se perdió;</l>
+                  <l>el abad que dice misa, ha trocado la lición;</l>
+                  <l>monacillos que le ayudan, no aciertan responder, non,</l>
+                  <l>por decir amén, amén, decían amor, amor.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

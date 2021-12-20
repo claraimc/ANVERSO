@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hijo de la luz y de la sombra</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>[Poemas no recogidos en libro - 1937-1939]</title>
+               <date cert="high"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor, Paternidad, Maternidad, Familia y Matrimonio</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>I</l>
+               </lg>
+               <lg>
+                  <l>(Hijo de la sombra)</l>
+               </lg>
+               <lg>
+                  <l>Eres la noche, esposa: la noche en el instante</l>
+                  <l>mayor de su potencia lunar y femenina.</l>
+                  <l>Eres la medianoche: la sombra culminante</l>
+                  <l>donde culmina el sueño, donde el amor culmina.</l>
+               </lg>
+               <lg>
+                  <l>Forjado por el día, mi corazón que quema</l>
+                  <l>lleva su gran pisada de sol a donde quieres,</l>
+                  <l>con un solar impulso, con una luz suprema,</l>
+                  <l>cumbre de las mañanas y los atardeceres.</l>
+               </lg>
+               <lg>
+                  <l>Daré sobre tu cuerpo cuando la noche arroje</l>
+                  <l>su avaricioso anhelo de imán y poderío.</l>
+                  <l>Un astral sentimiento febril me sobrecoge,</l>
+                  <l>incendia mi osamenta con un escalofrío.</l>
+               </lg>
+               <lg>
+                  <l>El aire de la noche desordena tus pechos,</l>
+                  <l>y desordena y vuelca los cuerpos con su choque.</l>
+                  <l>Como una tempestad de enloquecidos lechos,</l>
+                  <l>eclipsa las parejas, las hace un solo bloque.</l>
+               </lg>
+               <lg>
+                  <l>La noche se ha encendido como una sorda hoguera</l>
+                  <l>de llamas minerales y oscuras embestidas.</l>
+                  <l>Y alrededor la sombra late como si fuera</l>
+                  <l>las almas de los pozos y el vino difundidas.</l>
+               </lg>
+               <lg>
+                  <l>Ya la sombra es el nido cerrado, incandescente,</l>
+                  <l>la visible ceguera puesta sobre quien ama;</l>
+                  <l>ya provoca el abrazo cerrado, ciegamente,</l>
+                  <l>ya recoge en sus cuevas cuanto la luz derrama.</l>
+               </lg>
+               <lg>
+                  <l>La sombra pide, exige seres que se entrelacen,</l>
+                  <l>besos que la constelen de relámpagos largos,</l>
+                  <l>bocas embravecidas, batidas, que atenacen,</l>
+                  <l>arrullos que hagan música de sus mudos letargos.</l>
+               </lg>
+               <lg>
+                  <l>Pide que nos echemos tú y yo sobre la manta,</l>
+                  <l>tú y yo sobre la luna, tú y yo sobre la vida.</l>
+                  <l>Pide que tú y yo ardamos fundiendo en la garganta,</l>
+                  <l>con todo el firmamento, la tierra estremecida.</l>
+               </lg>
+               <lg>
+                  <l>El hijo está en la sombra que acumula luceros,</l>
+                  <l>amor, tuétano, luna, claras oscuridades.</l>
+                  <l>Brota de sus perezas y de sus agujeros,</l>
+                  <l>y de sus solitarias y apagadas ciudades.</l>
+               </lg>
+               <lg>
+                  <l>El hijo está en la sombra: de la sombra ha surtido,</l>
+                  <l>y a su origen infunden los astros una siembra,</l>
+                  <l>un zumo lácteo, un flujo de cálido latido,</l>
+                  <l>que ha de obligar sus huesos al sueño y a la hembra.</l>
+               </lg>
+               <lg>
+                  <l>Moviendo está la sombra sus fuerzas siderales,</l>
+                  <l>tendiendo está la sombra su constelada umbría,</l>
+                  <l>volcando las parejas y haciéndolas nupciales.</l>
+                  <l>Tú eres la noche, esposa. Yo soy el mediodía.</l>
+               </lg>
+               <lg>
+                  <l>II</l>
+               </lg>
+               <lg>
+                  <l>(Hijo de la luz)</l>
+               </lg>
+               <lg>
+                  <l>Tú eres el alba, esposa: la principal penumbra,</l>
+                  <l>recibes entornadas las horas de tu frente.</l>
+                  <l>Decidido al fulgor, pero entornado, alumbra</l>
+                  <l>tu cuerpo. Tus entrañas forjan el sol naciente.</l>
+               </lg>
+               <lg>
+                  <l>Centro de claridades, la gran hora te espera</l>
+                  <l>en el umbral de un fuego que el fuego mismo abrasa:</l>
+                  <l>te espero yo, inclinado como el trigo a la era,</l>
+                  <l>colocando en el centro de la luz nuestra casa.</l>
+               </lg>
+               <lg>
+                  <l>La noche desprendida de los pozos oscuros,</l>
+                  <l>se sumerge en los pozos donde ha echado raíces.</l>
+                  <l>Y tú te abres al parto luminoso, entre muros</l>
+                  <l>que se rasgan contigo como pétreas matrices.</l>
+               </lg>
+               <lg>
+                  <l>La gran hora del parto, la más rotunda hora:</l>
+                  <l>estallan los relojes sintiendo tu alarido,</l>
+                  <l>se abren todas las puertas del mundo, de la aurora,</l>
+                  <l>y el sol nace en tu vientre donde encontró su nido.</l>
+               </lg>
+               <lg>
+                  <l>El hijo fue primero sombra y ropa cosida</l>
+                  <l>por tu corazón hondo desde tus hondas manos.</l>
+                  <l>Con sombras y con ropas anticipó su vida,</l>
+                  <l>con sombras y con ropas de gérmenes humanos.</l>
+               </lg>
+               <lg>
+                  <l>Las sombras y las ropas sin población, desiertas,</l>
+                  <l>se han poblado de un niño sonoro, un movimiento,</l>
+                  <l>que en nuestra casa pone de par en par las puertas,</l>
+                  <l>y ocupa en ella a gritos el luminoso asiento.</l>
+               </lg>
+               <lg>
+                  <l>¡Ay, la vida: qué hermoso penar tan moribundo!</l>
+                  <l>Sombras y ropas trajo la del hijo que nombras.</l>
+                  <l>Sombras y ropas llevan los hombres por el mundo.</l>
+                  <l>Y todos dejan siempre sombras: ropas y sombras.</l>
+               </lg>
+               <lg>
+                  <l>Hijo del alba eres, hijo del mediodía.</l>
+                  <l>Y ha de quedar de ti luces en todo impuestas,</l>
+                  <l>mientras tu madre y yo vamos a la agonía,</l>
+                  <l>dormidos y despiertos con el amor a cuestas.</l>
+               </lg>
+               <lg>
+                  <l>Hablo y el corazón me sale en el aliento.</l>
+                  <l>Si no hablara lo mucho que quiero me ahogaría.</l>
+                  <l>Con espliego y resinas perfumo tu aposento.</l>
+                  <l>Tú eres el alba, esposa.  Yo soy el mediodía.</l>
+               </lg>
+               <lg>
+                  <l>III</l>
+               </lg>
+               <lg>
+                  <l>(Hijo de la luz y de la sombra)</l>
+               </lg>
+               <lg>
+                  <l>Tejidos en el alba, grabados, dos panales</l>
+                  <l>no pueden detener la miel en los pezones.</l>
+                  <l>Tus pechos en el alba: maternos manantiales,</l>
+                  <l>luchan y se atropellan con blancas efusiones.</l>
+               </lg>
+               <lg>
+                  <l>Se han desbordado, esposa, lunarmente tus venas,</l>
+                  <l>hasta inundar la casa que tu sabor rezuma.</l>
+                  <l>Y es como si brotaras de un pueblo de colmenas,</l>
+                  <l>tú toda una colmena de leche con espuma.</l>
+               </lg>
+               <lg>
+                  <l>Es como si tu sangre fuera dulzura toda,</l>
+                  <l>laboriosas abejas filtradas por tus poros.</l>
+                  <l>Oigo un clamor de leche, de inundación, de boda</l>
+                  <l>junto a ti, recorrida por caudales sonoros.</l>
+               </lg>
+               <lg>
+                  <l>Caudalosa mujer: en tu vientre me entierro.</l>
+                  <l>Tu caudaloso vientre será mi sepultura.</l>
+                  <l>Si quemaran mis huesos con la llama del hierro,</l>
+                  <l>verían qué grabada llevo allí tu figura.</l>
+               </lg>
+               <lg>
+                  <l>Para siempre fundidos en el hijo quedamos:</l>
+                  <l>fundidos como anhelan nuestras ansias voraces:</l>
+                  <l>en un ramo de tiempo, de sangre, los dos ramos,</l>
+                  <l>en un haz de caricias, de pelo, los dos haces.</l>
+               </lg>
+               <lg>
+                  <l>Los muertos, con un fuego congelado que abrasa,</l>
+                  <l>laten junto a los vivos de una manera terca.</l>
+                  <l>Viene a ocupar el hijo los campos y la casa</l>
+                  <l>que tú y yo abandonamos quedándonos muy cerca.</l>
+               </lg>
+               <lg>
+                  <l>Haremos de este hijo generador sustento,</l>
+                  <l>y hará de nuestra carne materia decisiva:</l>
+                  <l>donde sienten su alma las manos y el aliento,</l>
+                  <l>las hélices circulen, la agricultura viva.</l>
+               </lg>
+               <lg>
+                  <l>Él hará que esta vida no caiga derribada,</l>
+                  <l>pedazo desprendido de nuestros dos pedazos,</l>
+                  <l>que de nuestras dos bocas hará una sola espada</l>
+                  <l>y dos brazos eternos de nuestros cuatro brazos.</l>
+               </lg>
+               <lg>
+                  <l>No te quiero a ti sola: te quiero en tu ascendencia</l>
+                  <l>y en cuanto de tu vientre descenderá mañana.</l>
+                  <l>Porque la especie humana me han dado por herencia</l>
+                  <l>la familia del hijo será la especie humana.</l>
+               </lg>
+               <lg>
+                  <l>Con el amor a cuestas, dormidos y despiertos,</l>
+                  <l>seguiremos besándonos en el hijo profundo.</l>
+                  <l>Besándonos tú y yo se besan nuestros muertos,</l>
+                  <l>se besan los primeros pobladores del mundo.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>En la Obra poética completa consultada aquí, se pone 1938 entre paréntesis como fecha
+            de composición. </note>
+      </body>
+   </text>
+</TEI>

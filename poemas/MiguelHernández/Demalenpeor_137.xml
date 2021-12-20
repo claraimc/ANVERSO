@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De mal en peor</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>[Poemas no recogidos en libro - Poemas varios 1933-1934]</title>
+               <date cert="high"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Sonetos</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Sentido de la vida</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>“Dame, aunque se horroricen los gitanos</l>
+                  <l>(dije una vez hablando a la serpiente,</l>
+                  <l>con un deseo de pecar ferviente),</l>
+                  <l>veneno activo el más, de los manzanos.”</l>
+               </lg>
+               <lg>
+                  <l>Inauditos esfuerzos, soberanos,</l>
+                  <l>ahora mi voluntad frecuentemente</l>
+                  <l>hace por no caer en la pendiente</l>
+                  <l>de mi gusto, mis ojos y mis manos.</l>
+               </lg>
+               <lg>
+                  <l>Antes no me esforzaba y me caía;</l>
+                  <l>y ahora que, con un tacto, un susto, un cuido,</l>
+                  <l>voy sobre los cristales de este mundo,</l>
+               </lg>
+               <lg>
+                  <l>no me levanto ni me acuesto día</l>
+                  <l>que malvado cien veces no haya sido,</l>
+                  <l>ni que caiga más vil y más profundo.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cuatro poemas recuperados</title>
+            <author>Gloria Fuertes</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Historia de Gloria (Amor, humor y desamor)</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Ediciones Cátedra</publisher>
+               <publisher n="used_edition">1981</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Gloria Fuertes</persName>
+                  <idno type="viaf">http://viaf.org/viaf/73969667</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1917</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1998</date>
+                  </death>
+                  <floruit>Generación del 50</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>                           I</l>
+                  <l>Al lado estaba el mar y me besabas,</l>
+                  <l>hablaba el mar y no podía oírte,</l>
+                  <l>por eso decidí lo indecidible,</l>
+                  <l>perderme por tu oscura cabellera.</l>
+                  <l>Subirnos, y subimos pilotando</l>
+                  <l>el invisible coche de la noche,</l>
+                  <l>aterrizamos con luces de contacto</l>
+                  <l>entrada muy entrada la mañana.</l>
+               </lg>
+               <lg>
+                  <l>                            II</l>
+                  <l>El amor me ha vendado antes de herirme,</l>
+                  <l>me ha cegado los ojos y no veo;</l>
+                  <l>desgarré la ilusión de un manotazo,</l>
+                  <l>tras la ilusión-pasión, aún te quiero.</l>
+                  <l>Venciste tú como eres</l>
+                  <l>y no como quisiera yo que fueras.</l>
+                  <l>¡Qué fuerte debe ser, de todas formas</l>
+                  <l>no sé si durará, de esta manera!</l>
+               </lg>
+               <lg>
+                  <l>                           III</l>
+                  <l>Es imposible amor quererte poco</l>
+                  <l>desde esta gran locura controlada</l>
+                  <l>decido…(es un decir) y tu mirada,</l>
+                  <l>echa abajo mi decisión de loco.</l>
+                  <l>Resulta que no es nada lo que toco</l>
+                  <l>si no toco tus manos o tu boca,</l>
+                  <l>es cuerda mi locura si estoy loca,</l>
+                  <l>es cierto ya mi amor si me sofoco.</l>
+                  <l>                    Si tú ocupas mi mente</l>
+                  <l>                    si me peino y me ducho</l>
+                  <l>                    si ya quiero vivir,</l>
+                  <l>mi amor es poco aunque sea mucho.</l>
+               </lg>
+               <lg>
+                  <l>                          IV</l>
+                  <l>… Cuando dejé de amar</l>
+                  <l>me puse a morir,</l>
+                  <l>fue solo breve hora,</l>
+                  <l>pero,</l>
+                  <l>¡Qué malita se puso servidora!</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

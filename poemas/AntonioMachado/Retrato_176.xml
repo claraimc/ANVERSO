@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Retrato</title>
+            <author>Antonio Machado</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Campos de Castilla</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Renacimiento</publisher>
+               <publisher n="used_edition">1999-Espasa [Austral]</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesías autobiográficas</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Autobiografía y Poesía</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Antonio Machado</persName>
+                  <idno type="viaf">http://viaf.org/viaf/7385547</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1875</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1939</date>
+                  </death>
+                  <floruit>Generación del 98</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Mi infancia son recuerdos de un patio de Sevilla,</l>
+                  <l>y un huerto claro donde madura el limonero;</l>
+                  <l>mi juventud, veinte años en tierras de Castilla;</l>
+                  <l>mi historia, algunos casos que recordar no quiero.</l>
+               </lg>
+               <lg>
+                  <l>Ni un seductor Mañara, ni un Bradomín he sido</l>
+                  <l>—ya conocéis mi torpe aliño indumentario—,</l>
+                  <l>mas recibí la flecha que me asignó Cupido,</l>
+                  <l>y amé cuanto ellas puedan tener de hospitalario.</l>
+               </lg>
+               <lg>
+                  <l>Hay en mis venas gotas de sangre jacobina,</l>
+                  <l>pero mi verso brota de manantial sereno;</l>
+                  <l>y, más que un hombre al uso que sabe su doctrina,</l>
+                  <l>soy, en el buen sentido de la palabra, bueno.</l>
+               </lg>
+               <lg>
+                  <l>Adoro la hermosura, y en la moderna estética</l>
+                  <l>corté las viejas rosas del huerto de Ronsard;</l>
+                  <l>mas no amo los afeites de la actual cosmética,</l>
+                  <l>ni soy un ave de esas del nuevo gay-trinar.</l>
+               </lg>
+               <lg>
+                  <l>Desdeño las romanzas de los tenores huecos</l>
+                  <l>y el coro de los grillos que cantan a la luna.</l>
+                  <l>A distinguir me paro las voces de los ecos,</l>
+                  <l>y escucho solamente, entre las voces, una.</l>
+               </lg>
+               <lg>
+                  <l>¿Soy clásico o romántico? No sé. Dejar quisiera</l>
+                  <l>mi verso, como deja el capitán su espada:</l>
+                  <l>famosa por la mano viril que la blandiera,</l>
+                  <l>no por el docto oficio del forjador preciada.</l>
+               </lg>
+               <lg>
+                  <l>Converso con el hombre que siempre va conmigo</l>
+                  <l>—quien habla solo espera hablar a Dios un día—;</l>
+                  <l>mi soliloquio es plática con ese buen amigo</l>
+                  <l>que me enseñó el secreto de la filantropía.</l>
+               </lg>
+               <lg>
+                  <l>Y al cabo, nada os debo; debéisme cuanto he escrito.</l>
+                  <l>A mi trabajo acudo, con mi dinero pago</l>
+                  <l>el traje que me cubre y la mansión que habito,</l>
+                  <l>el pan que me alimenta y el lecho en donde yago.</l>
+               </lg>
+               <lg>
+                  <l>Y cuando llegue el día del último vïaje,</l>
+                  <l>y esté al partir la nave que nunca ha de tornar,</l>
+                  <l>me encontraréis a bordo ligero de equipaje,</l>
+                  <l>casi desnudo, como los hijos de la mar.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>El poema había aparecido anteriormente suelto en el periódico El Liberal, el 1 de
+            febrero de 1908, y Heliodoro Carpintero estimó que el texto fue escrito en 1906
+            (véase Ínsula, n.º 344-345 [1975]). </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Si mi voz muriera en tierra]</title>
+            <author>Rafael Alberti</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Marinero en tierra</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Biblioteca Nueva</publisher>
+               <publisher n="used_edition">Obras completas. Poesía I (Seix Barral - 2003)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Letrillas</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Muerte, Mar y Felicidad</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <idno type="viaf">http://viaf.org/viaf/51683733</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1902</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1999</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>A Rodolfo Halffter</l>
+               </lg>
+               <lg>
+                  <l>Si mi voz muriera en tierra,</l>
+                  <l>llevadla al nivel del mar</l>
+                  <l>y dejadla en la ribera.</l>
+               </lg>
+               <lg>
+                  <l>Llevadla al nivel del mar</l>
+                  <l>y nombradla capitana</l>
+                  <l>de un blanco bajel de guerra.</l>
+               </lg>
+               <lg>
+                  <l>¡Oh mi voz condecorada</l>
+                  <l>con la insignia marinera:</l>
+                  <l>sobre el corazón un ancla,</l>
+                  <l>y sobre el ancla una estrella,</l>
+                  <l>y sobre la estrella el viento,</l>
+                  <l>y sobre el viento una vela!</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Hubo dos musicalizaciones anteriores a 1975, por eso no recogidas en esta base de
+            datos: Guillermina Motta i Cardona (single, 1969) y Los lobos (Vientos del pueblo,
+            1972). </note>
+      </body>
+   </text>
+</TEI>

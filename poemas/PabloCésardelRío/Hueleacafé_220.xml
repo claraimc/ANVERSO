@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Huele a café</title>
+            <author>Pablo César del Río</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Al otro lado del río</title>
+               <date cert="high"/>
+               <pubPlace>Burgos</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">2000 - Estudio Euroláser</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor y Crítica social</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Pablo César del Río</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">Hasta la actualidad</date>
+                  </death>
+                  <floruit>Otro</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Huele a café en la buhardilla</l>
+                  <l>y un paso de silencio</l>
+                  <l>da firma a las esquinas.</l>
+                  <l>Huele a madera embarazada de humedad</l>
+                  <l>a sudor de sábanas inquietas.</l>
+                  <l>La lucera lame a pequeños sorbos</l>
+                  <l>gotas de noche.</l>
+                  <l>La puerta se entreabre</l>
+                  <l>mirando de reojo por la escalera.</l>
+                  <l>Fumo el cigarro</l>
+                  <l>que trasladarán mis muslos.</l>
+                  <l>Fumo la luz pálida</l>
+                  <l>acurrucada en los rincones.</l>
+               </lg>
+               <lg>
+                  <l>Huele a estrellas</l>
+                  <l>que peinan sus brillos en el tejado,</l>
+                  <l>a notas de lluvia</l>
+                  <l>hilando salivas.</l>
+               </lg>
+               <lg>
+                  <l>Desnudado</l>
+                  <l>desde el rescoldo de los codos</l>
+                  <l>hundo mis roces</l>
+                  <l>en su almohada</l>
+                  <l>por ver tu risa,</l>
+                  <l>y aunque aún huele a café</l>
+                  <l>bebo a Venus.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Alfonso perdona al Cid</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cantar de mio Cid</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">1913 - Ediciones de La Lectura</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Cantares de gesta</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>El Cid (Rodrigo Díaz de Vivar)</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Al rey ondrado delant le echaron las cartas ;</l>
+                  <l>quando las vio, de coraçón se paga:</l>
+                  <l>«Saludadme a mió Çid, el que en buena çinxo espada</l>
+                  <l>«sean las vistas destas tres sedmanas ;</l>
+                  <l>«s’ yo bivo so, allí iré sin falla.»</l>
+                  <l>Non lo detardan, a mió Çid se tornavan.</l>
+                  <l>Della part e della pora las vistas se adobavan ;</l>
+                  <l>¿quién vido por Castiella tanta mula preçiada.</l>
+                  <l>e tanto palafré que bien anda,</l>
+                  <l>cavallos gruessos e corredores sin falla,</l>
+                  <l>tanto buen pendón meter en buenas astas,</l>
+                  <l>escudos blocados con oro e con plata,</l>
+                  <l>mantos e pielles e buenos çendales d’ Alexándria ?</l>
+                  <l>Conduchos largos el rey enbiar mandava</l>
+                  <l>a las aguas de Tajo, o las vistas son aparejadas.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Vv. 1959-1973  del Cantar de mio Cid. </note>
+      </body>
+   </text>
+</TEI>

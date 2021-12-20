@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[El mundo es como aparece]</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cancionero y romancero de ausencias</title>
+               <date cert="high"/>
+               <pubPlace>Buenos Aires</pubPlace>
+               <publisher n="first_editor">Lautaro</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor, Aparience de la realidad y Percepción de la realidad</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>El mundo es como aparece</l>
+                  <l>ante mis cinco sentidos,</l>
+                  <l>y ante los tuyos que son</l>
+                  <l>las orillas de los míos.</l>
+                  <l>El mundo de los demás</l>
+                  <l>no es el nuestro: no es el mismo.</l>
+                  <l>Lecho del agua que soy,</l>
+                  <l>tú, los dos, somos el río</l>
+                  <l>donde cuanto más profundo</l>
+                  <l>se ve más despacio y límpido.</l>
+                  <l>Imágenes de la vida:</l>
+                  <l>a la vez las recibimos,</l>
+                  <l>nos reciben, entregados</l>
+                  <l>más unidamente a un ritmo.</l>
+                  <l>Pero las cosas se forman</l>
+                  <l>con nuestros propios delirios.</l>
+                  <l>El aire tiene el tamaño</l>
+                  <l>del corazón que respiro</l>
+                  <l>y el sol es como la luz</l>
+                  <l>con que yo le desafío.</l>
+                  <l>Ciegos para los demás,</l>
+                  <l>oscuros, siempre remisos,</l>
+                  <l>miramos siempre hacia adentro,</l>
+                  <l>vemos desde lo más íntimo.</l>
+                  <l>Trabajo y amor me cuesta</l>
+                  <l>conmigo así, ver contigo:</l>
+                  <l>aparecer, como el agua</l>
+                  <l>con la arena, siempre unidos.</l>
+                  <l>Nadie me verá del todo.</l>
+                  <l>Ni es nadie como lo miro.</l>
+               </lg>
+               <lg>
+                  <l>Somos algo más que vemos,</l>
+                  <l>algo menos que inquirimos.</l>
+                  <l>Algún suceso de todos</l>
+                  <l>pasa desapercibido.</l>
+                  <l>Nadie nos ha visto. A nadie</l>
+                  <l>ciegos de ver, hemos visto.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Aunque publicado póstumamente por primera vez en 1958, el poema fue escrito en la
+            cárcel entre 1938 y 1941. </note>
+      </body>
+   </text>
+</TEI>

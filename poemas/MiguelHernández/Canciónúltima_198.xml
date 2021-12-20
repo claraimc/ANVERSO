@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Canción última</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>El hombre acecha</title>
+               <date cert="high"/>
+               <pubPlace>Valencia</pubPlace>
+               <publisher n="first_editor">Delegación de la Secretaría de Propaganda / Imprenta
+                Moderna</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Esperanza</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Pintada, no vacía:</l>
+                  <l>pintada está mi casa</l>
+                  <l>del color de las grandes</l>
+                  <l>pasiones y desgracias.</l>
+               </lg>
+               <lg>
+                  <l>Regresará del llanto</l>
+                  <l>adonde fue llevada</l>
+                  <l>con su desierta mesa,</l>
+                  <l>con su ruinosa cama.</l>
+               </lg>
+               <lg>
+                  <l>Florecerán los besos</l>
+                  <l>sobre las almohadas.</l>
+               </lg>
+               <lg>
+                  <l>Y en torno de los cuerpos</l>
+                  <l>elevará la sábana</l>
+                  <l>su intensa enredadera</l>
+                  <l>nocturna, perfumada.</l>
+               </lg>
+               <lg>
+                  <l>El odio se amortigua</l>
+                  <l>detrás de la ventana.</l>
+               </lg>
+               <lg>
+                  <l>Será la garra suave.</l>
+               </lg>
+               <lg>
+                  <l>Dejadme la esperanza.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>El hombre acecha fue editado por la Delegación de la Secretaría de Propaganda en la
+            Imprenta Moderna de Valencia; sin embargo, con la derrota de la II República en la
+            Guerra Civil, no se completaron los trabajos y la edición desapareció. </note>
+      </body>
+   </text>
+</TEI>

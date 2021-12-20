@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Life vest under your seat</title>
+            <author>Luis García Montero</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Habitaciones separadas</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Visor Libros</publisher>
+               <publisher n="used_edition">2013-Visor Libros</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor y Sentido de la vida</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Luis García Montero</persName>
+                  <idno type="viaf">http://viaf.org/viaf/49247928</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1958</date>
+                  </birth>
+                  <death>
+                     <date cert="low">Hasta la actualidad</date>
+                  </death>
+                  <floruit>Poesía de la experiencia</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>A Dionisio y José Olivio</l>
+                  <l>Señores pasajeros buenas tardes</l>
+                  <l>y Nueva York al fondo todavía,</l>
+                  <l>delicadas las torres de Manhattan</l>
+                  <l>con la luz sumergida de una muchacha triste,</l>
+                  <l>buenas tardes señores pasajeros,</l>
+                  <l>mantendremos en vuelo doce mil pies de altura,</l>
+                  <l>altos como su cuerpo en el pasillo</l>
+                  <l>de la Universidad, una pregunta,</l>
+                  <l>podría repetirme el título del libro,</l>
+                  <l>cumpliendo normas internacionales,</l>
+                  <l>las cuatro ventanillas de emergencia,</l>
+                  <l>pero habrá que cenar, tal vez alguna copa,</l>
+                  <l>casi vivir sin vínculo y sin límites,</l>
+                  <l>modos de ver la noche y estar en los cristales</l>
+                  <l>del alba, regresando,</l>
+                  <l>y muchas otras noches regresando</l>
+                  <l>bajo edificios de temblor acuático,</l>
+                  <l>a una velocidad de novecientos</l>
+                  <l>kilómetros, te dije</l>
+                  <l>que nunca resistí las despedidas,</l>
+                  <l>al aeropuerto no,</l>
+                  <l>prefiero tu recuerdo por mi casa,</l>
+                  <l>apoyado en el piano del Bar Andalucía,</l>
+                  <l>bajo el cielo violeta</l>
+                  <l>de los amaneceres en Manhattam,</l>
+                  <l>igual que dos desnudos en penumbra</l>
+                  <l>con Nueva York al fondo, todavía</l>
+                  <l>al aeropuerto no,</l>
+                  <l>rogamos hagan uso</l>
+                  <l>del cinturón, no fumen</l>
+                  <l>hasta que despeguemos,</l>
+                  <l>cuiden que estén derechos los respaldos,</l>
+                  <l>me tienes que llamar, de sus asientos.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Llamo a la juventud</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Viento del pueblo</title>
+               <date cert="high"/>
+               <pubPlace>Valencia</pubPlace>
+               <publisher n="first_editor">Socorro Rojo</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Guerra</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Los quince y los dieciocho,</l>
+                  <l>los dieciocho y los veinte…</l>
+                  <l>Me voy a cumplir los años</l>
+                  <l>al fuego que me requiere,</l>
+                  <l>y si resuena mi hora</l>
+                  <l>antes de los doce meses,</l>
+                  <l>los cumpliré bajo tierra.</l>
+                  <l>Yo trato que de mí queden</l>
+                  <l>una memoria de sol</l>
+                  <l>y un sonido de valiente.</l>
+               </lg>
+               <lg>
+                  <l>Si cada boca de España,</l>
+                  <l>de su juventud, pusiese</l>
+                  <l>estas palabras, mordiéndolas,</l>
+                  <l>en lo mejor de sus dientes:</l>
+                  <l>si la juventud de España,</l>
+                  <l>de un impulso solo y verde,</l>
+                  <l>alzara su gallardía,</l>
+                  <l>sus músculos extendiese</l>
+                  <l>contra los desenfrenados</l>
+                  <l>que apropiarse España quieren,</l>
+                  <l>sería el mar arrojando</l>
+                  <l>a la arena muda siempre</l>
+                  <l>varios caballos de estiércol</l>
+                  <l>de sus pueblos transparentes,</l>
+                  <l>con un brazo inacabable</l>
+                  <l>de perpetua espuma fuerte.</l>
+               </lg>
+               <lg>
+                  <l>Si el Cid volviera a clavar</l>
+                  <l>aquellos huesos que aún hieren</l>
+                  <l>el polvo y el pensamiento,</l>
+                  <l>aquel cerro de su frente,</l>
+                  <l>aquel trueno de su alma</l>
+                  <l>y aquella espada indeleble,</l>
+                  <l>sin rival, sobre su sombra</l>
+                  <l>de entrelazados laureles:</l>
+                  <l>al mirar lo que de España</l>
+                  <l>los alemanes pretenden,</l>
+                  <l>los italianos procuran,</l>
+                  <l>los moros, los portugueses,</l>
+                  <l>que han grabado en nuestro cielo</l>
+                  <l>constelaciones crueles</l>
+                  <l>de crímenes empapados</l>
+                  <l>en una sangre inocente,</l>
+                  <l>subiera en su airado potro</l>
+                  <l>y en su cólera celeste</l>
+                  <l>a derribar trimotores</l>
+                  <l>como quien derriba mieses.</l>
+               </lg>
+               <lg>
+                  <l>Bajo una zarpa de lluvia,</l>
+                  <l>y un racimo de relente,</l>
+                  <l>y un ejército de sol,</l>
+                  <l>campan los cuerpos rebeldes</l>
+                  <l>de los españoles dignos</l>
+                  <l>que al yugo no se someten,</l>
+                  <l>y la claridad los sigue</l>
+                  <l>y los robles los refieren.</l>
+                  <l>Entre graves camilleros</l>
+                  <l>hay heridos que se mueren</l>
+                  <l>con el rostro rodeado</l>
+                  <l>de tan diáfanos ponientes,</l>
+                  <l>que son auroras sembradas</l>
+                  <l>alrededor de sus sienes.</l>
+                  <l>Parecen plata dormida</l>
+                  <l>y oro en reposo parecen.</l>
+                  <l>Llegaron a las trincheras</l>
+                  <l>y dijeron firmemente:</l>
+                  <l>“¡Aquí echaremos raíces</l>
+                  <l>antes que nadie nos eche!”.</l>
+                  <l>Y la muerte se sintió</l>
+                  <l>orgullosa de tenerles.</l>
+               </lg>
+               <lg>
+                  <l>Pero en los negros rincones,</l>
+                  <l>en los más negros, se tienden</l>
+                  <l>a llorar por los caídos</l>
+                  <l>madres que les dieron leche,</l>
+                  <l>hermanas que los lavaron,</l>
+                  <l>novias que han sido de nieve</l>
+                  <l>y que se han vuelto de luto</l>
+                  <l>y que se han vuelto de fiebre;</l>
+                  <l>desconcertadas viudas,</l>
+                  <l>desparramadas mujeres,</l>
+                  <l>cartas y fotografías</l>
+                  <l>que los expresan fielmente,</l>
+                  <l>donde los ojos se rompen</l>
+                  <l>de tanto ver y no verles,</l>
+                  <l>de tanta lágrima muda,</l>
+                  <l>de tanta hermosura ausente.</l>
+               </lg>
+               <lg>
+                  <l>Juventud solar de España:</l>
+                  <l>que pase el tiempo y se quede</l>
+                  <l>con un murmullo de huesos</l>
+                  <l>heroicos en su corriente.</l>
+                  <l>Echa tus huesos al campo,</l>
+                  <l>echa las fuerzas que tienes</l>
+                  <l>a las cordilleras foscas</l>
+                  <l>y al olivo del aceite.</l>
+                  <l>Reluce por los collados,</l>
+                  <l>y apaga la mala gente,</l>
+                  <l>y atrévete con el plomo,</l>
+                  <l>y el hombro y la pierna extiende.</l>
+               </lg>
+               <lg>
+                  <l>Sangre que no se desborda,</l>
+                  <l>juventud que no se atreve,</l>
+                  <l>ni es sangre, ni es juventud,</l>
+                  <l>ni relucen, ni florecen.</l>
+                  <l>Cuerpos que nacen vencidos,</l>
+                  <l>vencidos y grises mueren:</l>
+                  <l>vienen con la edad de un siglo,</l>
+                  <l>y son viejos cuando vienen.</l>
+               </lg>
+               <lg>
+                  <l>La juventud siempre empuja,</l>
+                  <l>la juventud siempre vence,</l>
+                  <l>y la salvación de España</l>
+                  <l>de su juventud depende.</l>
+               </lg>
+               <lg>
+                  <l>La muerte junto al fusil,</l>
+                  <l>antes que se nos destierre,</l>
+                  <l>antes que se nos escupa,</l>
+                  <l>antes que se nos afrente</l>
+                  <l>y antes que entre las cenizas</l>
+                  <l>que de nuestro pueblo queden,</l>
+                  <l>arrastrados sin remedio</l>
+                  <l>gritemos amargamente:</l>
+                  <l>“¡Ay España de mi vida,</l>
+                  <l>ay España de mi muerte!”.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

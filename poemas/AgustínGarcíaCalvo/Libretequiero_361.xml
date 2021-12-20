@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Libre te quiero</title>
+            <author>Agustín García Calvo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Canciones y soliloquios</title>
+               <date cert="high"/>
+               <pubPlace>Barcelona</pubPlace>
+               <publisher n="first_editor">La Gaya Ciencia</publisher>
+               <publisher n="used_edition"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>--</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Agustín García Calvo</persName>
+                  <idno type="viaf">http://viaf.org/viaf/107584642</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1926</date>
+                  </birth>
+                  <death>
+                     <date cert="low">2012</date>
+                  </death>
+                  <floruit>Siglo XX</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Libre te quiero,</l>
+                  <l>como arroyo que brinca</l>
+                  <l>de peña en peña,</l>
+                  <l>pero no mía.</l>
+               </lg>
+               <lg>
+                  <l>Grande te quiero,</l>
+                  <l>como monte preñado</l>
+                  <l>de primavera,</l>
+                  <l>pero no mía.</l>
+               </lg>
+               <lg>
+                  <l>Buena te quiero,</l>
+                  <l>como pan que no sabe</l>
+                  <l>su masa buena,</l>
+                  <l>pero no mía.</l>
+               </lg>
+               <lg>
+                  <l>Alta te quiero,</l>
+                  <l>como chopo que en el cielo</l>
+                  <l>se despereza,</l>
+                  <l>pero no mía.</l>
+               </lg>
+               <lg>
+                  <l>Blanca te quiero,</l>
+                  <l>como flor de azahares</l>
+                  <l>sobre la tierra,</l>
+                  <l>pero no mía.</l>
+               </lg>
+               <lg>
+                  <l>Pero no mía,</l>
+                  <l>ni de Dios, ni de nadie,</l>
+                  <l>ni tuya siquiera.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Prácticamente sin variaciones respecto del poema, excepto que repite algunos versos,
+            cambia “que en el cielo” por “que al cielo” y añade al final una sucesión de noes.
+        </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Por aquí pasa un río]</title>
+            <author>Ángel González</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Áspero mundo</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Rialp [Col. Adonais]</publisher>
+               <publisher n="used_edition">2017-Planeta [Austral]</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Beatus ille y Carpe diem</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Ángel González</persName>
+                  <idno type="viaf">http://viaf.org/viaf/84475449</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1925</date>
+                  </birth>
+                  <death>
+                     <date cert="low">2008</date>
+                  </death>
+                  <floruit>Generación del 50</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Por aquí pasa un río.</l>
+                  <l>Por aquí tus pisadas</l>
+                  <l>fueron embelleciendo las arenas,</l>
+                  <l>aclarando las aguas,</l>
+                  <l>puliendo los guijarros, perdonando</l>
+                  <l>a las embelesadas</l>
+                  <l>azucenas…</l>
+               </lg>
+               <lg>
+                  <l>No vas tú por el río:</l>
+                  <l>es el río el que anda</l>
+                  <l>detrás de ti, buscando en ti</l>
+                  <l>el reflejo, mirándose en tu espalda.</l>
+               </lg>
+               <lg>
+                  <l>Si vas de prisa, el río se apresura.</l>
+                  <l>Si vas despacio, el agua se remansa.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>La canción musicaliza el poema original sin alteraciones textuales, excepto que se
+            repiten algunos versos. </note>
+      </body>
+   </text>
+</TEI>

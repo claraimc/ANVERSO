@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Canción del pirata</title>
+            <author>José de Espronceda</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Poesías</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Imprenta de Yenes</publisher>
+               <publisher n="used_edition">2000 - Biblioteca Virtual Miguel de Cervantes</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>--</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Piratería, Libertad y Aventura</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>José de Espronceda</persName>
+                  <idno type="viaf">http://viaf.org/viaf/20632</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1808</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1842</date>
+                  </death>
+                  <floruit>Romanticismo</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Con diez cañones por banda,</l>
+                  <l>Viento en popa, a toda vela,</l>
+                  <l>No corta el mar, sino vuela</l>
+                  <l>Un velero bergantín:</l>
+                  <l>Bajel pirata que llaman</l>
+                  <l>Por su bravura el Temido,</l>
+                  <l>En todo el mar conocido</l>
+                  <l>Del uno al otro confín.</l>
+               </lg>
+               <lg>
+                  <l>La luna en el mar rïela,</l>
+                  <l>En la lona gime el viento,</l>
+                  <l>Y alza en blando movimiento</l>
+                  <l>Olas de plata y azul;</l>
+                  <l>Y ve el capitán pirata,</l>
+                  <l>Cantando alegre en la popa,</l>
+                  <l>Asia a un lado, a otro Europa,</l>
+                  <l>Y allá a su frente Estambul.</l>
+               </lg>
+               <lg>
+                  <l>«Navega, velero mío,</l>
+                  <l>Sin temor,</l>
+                  <l>Que ni enemigo navío,</l>
+                  <l>Ni tormenta, ni bonanza</l>
+                  <l>Tu rumbo a torcer alcanza,</l>
+                  <l>Ni a sujetar tu valor.</l>
+               </lg>
+               <lg>
+                  <l>»Veinte presas</l>
+                  <l>Hemos hecho</l>
+                  <l>A despecho</l>
+                  <l>Del inglés,</l>
+                  <l>Y han rendido</l>
+                  <l>Sus pendones</l>
+                  <l>Cien naciones</l>
+                  <l>A mis pies.</l>
+               </lg>
+               <lg>
+                  <l>»Que es mi barco mi tesoro, </l>
+                  <l>Que es mi Dios la libertad, </l>
+                  <l>Mi ley, la fuerza y el viento, </l>
+                  <l>Mi única patria la mar.</l>
+               </lg>
+               <lg>
+                  <l>»Allá muevan feroz guerra</l>
+                  <l>Ciegos Reyes</l>
+                  <l>Por un palmo más de tierra,</l>
+                  <l>Que yo aquí tengo por mío</l>
+                  <l>Cuanto abarca el mar bravío,</l>
+                  <l>A quien nadie impuso leyes.</l>
+               </lg>
+               <lg>
+                  <l>»Y no hay playa,</l>
+                  <l>Sea cualquiera,</l>
+                  <l>Ni bandera</l>
+                  <l>De esplendor,</l>
+                  <l>Que no sienta</l>
+                  <l>Mi derecho</l>
+                  <l>Y dé pecho</l>
+                  <l>A mi valor.</l>
+               </lg>
+               <lg>
+                  <l>»Que es mi barco mi tesoro, </l>
+                  <l>Que es mi Dios la libertad, </l>
+                  <l>Mi ley, la fuerza y el viento, </l>
+                  <l>Mi única patria la mar.</l>
+               </lg>
+               <lg>
+                  <l>»A la voz de ‘¡barco viene!’</l>
+                  <l>Es de ver</l>
+                  <l>Cómo vira y se previene</l>
+                  <l>A todo trapo a escapar:</l>
+                  <l>Que yo soy el rey del mar,</l>
+                  <l>Y mi furia es de temer.</l>
+               </lg>
+               <lg>
+                  <l>»En las presas</l>
+                  <l>Yo divido</l>
+                  <l>Lo cogido</l>
+                  <l>Por igual.</l>
+                  <l>Sólo quiero</l>
+                  <l>Por riqueza</l>
+                  <l>La belleza</l>
+                  <l>Sin rival.</l>
+               </lg>
+               <lg>
+                  <l>»Que es mi barco mi tesoro, </l>
+                  <l>Que es mi Dios la libertad, </l>
+                  <l>Mi ley, la fuerza y el viento, </l>
+                  <l>Mi única patria la mar.</l>
+               </lg>
+               <lg>
+                  <l>»¡Sentenciado estoy a muerte!</l>
+                  <l>Yo me río;</l>
+                  <l>No me abandone la suerte,</l>
+                  <l>Y al mismo que me condena</l>
+                  <l>Colgaré de alguna entena</l>
+                  <l>Quizá en su propio navío.</l>
+               </lg>
+               <lg>
+                  <l>»Y si caigo,</l>
+                  <l>¿Qué es la vida?</l>
+                  <l>Por perdida ya la di,</l>
+                  <l>Cuando el yugo</l>
+                  <l>Del esclavo,</l>
+                  <l>Como un bravo,</l>
+                  <l>Sacudí.</l>
+               </lg>
+               <lg>
+                  <l>»Que es mi barco mi tesoro, </l>
+                  <l>Que es mi Dios la libertad,</l>
+                  <l>Mi ley, la fuerza y el viento, </l>
+                  <l>Mi única patria la mar.</l>
+               </lg>
+               <lg>
+                  <l>»Son mi música mejor</l>
+                  <l>Aquilones,</l>
+                  <l>El estrépito y temblor</l>
+                  <l>De los cables sacudidos,</l>
+                  <l>Del ronco mar los bramidos</l>
+                  <l>Y el rugir de mis cañones.</l>
+               </lg>
+               <lg>
+                  <l>»Y del trueno</l>
+                  <l>Al son violento,</l>
+                  <l>Y del viento</l>
+                  <l>Al rebramar,</l>
+                  <l>Yo me duermo</l>
+                  <l>Sosegado,</l>
+                  <l>Arrullado</l>
+                  <l>Por el mar.»</l>
+               </lg>
+               <lg>
+                  <l>»Que es mi barco mi tesoro, </l>
+                  <l>Que es mi Dios la libertad, </l>
+                  <l>Mi ley, la fuerza y el viento, </l>
+                  <l>Mi única patria la mar.»</l>
+               </lg>
+            </lg>
+         </div>
+         <note>El poema fue originalmente publicado en 1830, en la revista El Artista, pero usamos la
+            versión de la primera edición en libro. La mayoría de canciones aquí incluidas se basan
+            en musicalizaciones más o menos idénticas del poema o parte del poema, si bien alguna
+            versión se basa solo en alusiones indirectas o inclusión de citas, como «La del pirata
+            cojo», de Joaquín Sabina. </note>
+      </body>
+   </text>
+</TEI>

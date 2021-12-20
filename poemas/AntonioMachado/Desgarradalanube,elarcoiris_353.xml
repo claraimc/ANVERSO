@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Desgarrada la nube, el arco iris</title>
+            <author>Antonio Machado</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Soledades. Galerías. Otros poemas</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Librería de Pueyo</publisher>
+               <publisher n="used_edition">1999-Espasa [Austral]</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Naturaleza y Amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Antonio Machado</persName>
+                  <idno type="viaf">http://viaf.org/viaf/8564047</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1875</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1939</date>
+                  </death>
+                  <floruit>Generación del 98</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Desgarrada la nube; el arco iris</l>
+                  <l>brillando ya en el cielo,</l>
+                  <l>y en un fanal de lluvia</l>
+                  <l>y de sol el campo envuelto.</l>
+               </lg>
+               <lg>
+                  <l>Desperté. ¿Quién enturbia</l>
+                  <l>los mágicos cristales de mi sueño?</l>
+                  <l>Mi corazón latía</l>
+                  <l>atónito y disperso.</l>
+               </lg>
+               <lg>
+                  <l>… ¡El limonar florido,</l>
+                  <l>el cipresal del huerto,</l>
+                  <l>el prado verde, el sol, el agua, el iris!…</l>
+                  <l>¡el agua en sus cabellos!…</l>
+                  <l>Y todo en la memoria se perdía</l>
+                  <l>como una pompa de jabón al viento.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>La letra de la canción es prácticamente igual al poema, excepto que algunos versos se
+            repiten, para ajustarse a la melodía, y los versos 5 y 6 del original sufren ligeras
+            variaciones. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>¡Oh, desastrada ventura!</title>
+            <author>Nicolás de Guevara</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cancionero General</title>
+               <date cert="high"/>
+               <pubPlace>Valencia</pubPlace>
+               <publisher n="first_editor">Hernando del Castillo</publisher>
+               <publisher n="used_edition">An Electronic Corpus of 15th Century Castilian Cancionero
+                Manuscripts</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía cortés</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor, Recuerdo y Enamoramiento</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Nicolás de Guevara</persName>
+                  <idno type="viaf">http://viaf.org/viaf/195144642</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1400</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1504</date>
+                  </death>
+                  <floruit>--</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Otra obra ſuya de vn llanto que hizo en guadalupeacordandoſſe como fue enamorado
+                    alli.</l>
+               </lg>
+               <lg>
+                  <l>¶O deſaſtrada ventura</l>
+                  <l>O ſierras de guadalupe</l>
+                  <l>en vos eſta donde ſupe</l>
+                  <l>qual es vida con triſtura</l>
+                  <l>O membrança ſaña pura</l>
+                  <l>de las mis gozoſas plagas</l>
+                  <l>o memoria ſin holgura</l>
+                  <l>de lo crimen de mis llagas</l>
+               </lg>
+               <lg>
+                  <l>¶O dulce gloria paſſada</l>
+                  <l>o bien andança perdida</l>
+                  <l>o victoria conuertida</l>
+                  <l>en gloria deſeſperada</l>
+                  <l>O mi ſuerte laſtimada</l>
+                  <l>que ſe hizo quanto vi</l>
+                  <l>o memoria cuya eſpada</l>
+                  <l>me mato en venir aqui</l>
+               </lg>
+               <lg>
+                  <l>¶Aqui vi ſer infinida</l>
+                  <l>la mayor gloria daltura</l>
+                  <l>aqui vi la hermoſura</l>
+                  <l>que jamas no ſe moluida</l>
+                  <l>Aqui vi mi dulce vida</l>
+                  <l>con catiua preſumpcion</l>
+                  <l>que de verla ſer perdida</l>
+                  <l>ſe me quiebra el coraçon</l>
+               </lg>
+               <lg>
+                  <l>¶Aqui vi lo que no veo</l>
+                  <l>aqui veo lo que no vi</l>
+                  <l>aqui vi donde naſci</l>
+                  <l>aqui muero con deſſeo</l>
+                  <l>Aqui eſtoy donde guerreo</l>
+                  <l>mi ſalud con mi memoria</l>
+                  <l>aqui biuo do recreo</l>
+                  <l>mas con pena que con gloria</l>
+               </lg>
+               <lg>
+                  <l>¶Aqui vi do bien ame</l>
+                  <l>aqui vi donde penaua</l>
+                  <l>aqui vi do deſcanſſua</l>
+                  <l>aqui vi donde llore</l>
+                  <l>Aqui vi donde dexe</l>
+                  <l>lo que no puedo cobrar</l>
+                  <l>aqui vi donde troque</l>
+                  <l>mi plazer por mi peſar</l>
+               </lg>
+               <lg>
+                  <l>¶Aqui vi ſecas las ramas</l>
+                  <l>y el tronco della liſo</l>
+                  <l>do con vida que me quiſo</l>
+                  <l>fuy quemado en biuas llamas</l>
+                  <l>O mi vida que bien amas</l>
+                  <l>cuenta mas en tus querellas</l>
+                  <l>que mire do vi las damas</l>
+                  <l>y no vi ninguna dellas</l>
+               </lg>
+               <lg>
+                  <l>¶Mas en todas ſus moradaſ</l>
+                  <l>y por todas las verduras</l>
+                  <l>do mire ſus hermoſuras</l>
+                  <l>ya vi muertas las piſadas</l>
+                  <l>Y las letras rematadas</l>
+                  <l>de ſus motes y deuiſas</l>
+                  <l>todas coſas aſſoladas</l>
+                  <l>vi tornadas dotras guiſas</l>
+               </lg>
+               <lg>
+                  <l>¶Vi las ſierras temeroſas</l>
+                  <l>de mortal ſombra cubiertas</l>
+                  <l>ſolas triſtes tenebroſas</l>
+                  <l>y las caſas ſer deſiertas</l>
+                  <l>Las aguas en ſequedad</l>
+                  <l>las aues roncas quexoſas</l>
+                  <l>pronunciando ſoledad</l>
+                  <l>con ſus bozes congoxoſas</l>
+               </lg>
+               <lg>
+                  <l>¶Las gentes dotra manera</l>
+                  <l>los campos dotra color</l>
+                  <l>los manjares ſin ſabor</l>
+                  <l>dotros ayres la ribera</l>
+                  <l>La religion extrangera</l>
+                  <l>dotra forma ſu figura</l>
+                  <l>la memoria laſtimera</l>
+                  <l>la preſumpcion con triſtura</l>
+               </lg>
+               <lg>
+                  <l>¶Vilo todo tranſformado</l>
+                  <l>mas no de mi la memoria</l>
+                  <l>donde vi dulçor y gloria</l>
+                  <l>vi dolor por mi pecado</l>
+                  <l>Do vi gozo ſin cuydado</l>
+                  <l>vi peſar y penſamiento</l>
+                  <l>donde vi plazer de grado</l>
+                  <l>vi de fuerça mi tormento</l>
+               </lg>
+               <lg>
+                  <l>¶Y de verlos ſoſpiraua</l>
+                  <l>ſoſpirando mis dolores</l>
+                  <l>y eran tales mis ardores</l>
+                  <l>que ſin fuego me quemaua</l>
+                  <l>Sin querer llorar lloraua</l>
+                  <l>y con anſia que tenia</l>
+                  <l>lo que mi ſentir callaua</l>
+                  <l>mi dolor lo deſcobria</l>
+               </lg>
+               <lg>
+                  <l>¶Andaua deſconortado</l>
+                  <l>tan rauioſo ſin ſentido</l>
+                  <l>que de verme ſer naſcido</l>
+                  <l>me peſaua de buen grado</l>
+                  <l>Daua bozes traſcordado</l>
+                  <l>penſando en mi que ſeria</l>
+                  <l>o dolor de mi cuydado</l>
+                  <l>quien me truxo en romeria</l>
+               </lg>
+               <lg>
+                  <l>¶Donde vueſtro geſto vi</l>
+                  <l>halle ſobra de triſteza</l>
+                  <l>de ſeruir vueſtra belleza</l>
+                  <l>vi dolor con que mori</l>
+                  <l>Vueſtra letra conoſci</l>
+                  <l>donde en verla vi tal guerra</l>
+                  <l>que no pudo ſer en mi</l>
+                  <l>de no dar comigo en tierra</l>
+               </lg>
+               <lg>
+                  <l>¶Soledad de vueſtra viſta</l>
+                  <l>haze ſolo quanto he viſto</l>
+                  <l>vueſtro geſto que conquiſto</l>
+                  <l>no ſe bien que me reſiſta</l>
+                  <l>Siendo vna coſa no miſta</l>
+                  <l>la paſſion que aqui me vino</l>
+                  <l>mi ventura fue mal quiſta</l>
+                  <l>quando quiſe eſte camino</l>
+               </lg>
+               <lg>
+                  <l>¶Confirmando mas los ſellos</l>
+                  <l>contemplaua mis dolores</l>
+                  <l>alli me vi ſin amores</l>
+                  <l>do me vi ledo con ellos</l>
+                  <l>Y de ver ſiglos tan bellos</l>
+                  <l>ya tornados al reues</l>
+                  <l>derramaba mis cabellos</l>
+                  <l>ſo las plantas de los pies</l>
+               </lg>
+               <lg>
+                  <l>¶Siempre he ſido deſaſtrado</l>
+                  <l>ſiempre he ſido deſſeoſo</l>
+                  <l>juntamente querelloſo</l>
+                  <l>ſin errar de vos trocado</l>
+                  <l>Oras preſo oras llagado</l>
+                  <l>que ſin falta voluntaria</l>
+                  <l>de con vos ſer deſdichado</l>
+                  <l>toda dicha mes contraria</l>
+               </lg>
+               <lg>
+                  <l>¶Pues acabe el ſingular</l>
+                  <l>que de vos tengo profundo</l>
+                  <l>que con dios y con el mundo</l>
+                  <l>me enemiſta vueſtro mal</l>
+                  <l>Quered querer al leal</l>
+                  <l>mi dolor es vueſtra pena</l>
+                  <l>pues de vueſtro natural</l>
+                  <l>no ſe pueble coſa agena</l>
+               </lg>
+               <lg>
+                  <l>¶O mayor bien deſta vida</l>
+                  <l>o bondad perpetuada</l>
+                  <l>o beldad gracia acabada</l>
+                  <l>ſin ygual ſola naſcida</l>
+                  <l>Como puede ſer partida</l>
+                  <l>entre vos y mi la rueda</l>
+                  <l>que ſi fuerça lo combida</l>
+                  <l>mi razon lo deſereda</l>
+               </lg>
+               <lg>
+                  <l>¶Que yerros pueden baſtar</l>
+                  <l>a poder tener querella</l>
+                  <l>de vos mi ſeñora bella</l>
+                  <l>qual ame por mi peſar</l>
+                  <l>Que querer puede oluidar</l>
+                  <l>lo que tal vida membro</l>
+                  <l>Que poder puede apartar</l>
+                  <l>lo que amor tanto junto</l>
+               </lg>
+               <lg>
+                  <l>¶Muerto me hizo triſtura</l>
+                  <l>en nos ver donde ſolia</l>
+                  <l>muerto me ha fantaſia</l>
+                  <l>de penſar vueſtra figura</l>
+                  <l>Ya no duermo noche eſcura</l>
+                  <l>ni lo claro me ſoſſiega</l>
+                  <l>mi llorar con amargura</l>
+                  <l>ſoſpirando ſe me niega</l>
+               </lg>
+               <lg>
+                  <l>¶Vueſtra membrança querida</l>
+                  <l>es la fe deſta paſſion</l>
+                  <l>donde hize profeſſion</l>
+                  <l>de durar toda mi vida</l>
+                  <l>Mi ſeruicio no ſoluida</l>
+                  <l>pues amor de vos maparta</l>
+                  <l>que la fe deſta partida</l>
+                  <l>ſe confirme con mi carta</l>
+               </lg>
+               <lg>
+                  <l>¶Y do vueſtra ſaña mora</l>
+                  <l>hagame la mi ventura</l>
+                  <l>que lloreys vos la triſtura</l>
+                  <l>que por vos comigo llora</l>
+                  <l>Y quered querer ſeñora</l>
+                  <l>no querer lo que me hiere</l>
+                  <l>porquel bien que os adora</l>
+                  <l>de razon no deſeſpere</l>
+               </lg>
+               <lg>
+                  <l>¶Y venid triſte por dios</l>
+                  <l>no lo quiera mas engaño</l>
+                  <l>ni ſe quexe mas mi daño</l>
+                  <l>deſta guerra dentre nos</l>
+                  <l>Mis querellas ya ſon dos</l>
+                  <l>quen el punto que vos vi</l>
+                  <l>ſiempre vi venir de vos</l>
+                  <l>lo que nunca os mereſci</l>
+               </lg>
+               <lg>
+                  <l>¶Que de mi paſſada gloria</l>
+                  <l>no vi mas de las ſeñales</l>
+                  <l>do de mis eſquiuos males</l>
+                  <l>no vi muerta la memoria</l>
+                  <l>Si peſar gana victoria</l>
+                  <l>galardon es mi querella</l>
+                  <l>ſi damor ſeſcriue yſtoria</l>
+                  <l>yo ſere comienço della</l>
+                  <l>¶Que vos ſoys la ſoledad</l>
+                  <l>deſte ſiglo do ſto ſolo</l>
+                  <l>y del bien que digo ſolo</l>
+                  <l>vueſtro geſto es la bondad</l>
+                  <l>Mi dolor de voluntad</l>
+                  <l>de penſar en vos recreſce</l>
+                  <l>por do toda facultad</l>
+                  <l>a mi triſte me falleſce</l>
+               </lg>
+               <lg>
+                  <l>¶Porque noluideys a mi</l>
+                  <l>ni dubdeys en mi tractado</l>
+                  <l>acordaos de vueſtro amado</l>
+                  <l>deſtos valles do vos vi</l>
+                  <l>Y nombrados deſde aqui</l>
+                  <l>do mirandos pena ſupe</l>
+                  <l>juzgares lo que ſenti</l>
+                  <l>de paſſar en guadalupe</l>
+               </lg>
+               <lg>
+                  <l>¶Mi coraçon dolorido</l>
+                  <l>quebrantado eſta de ver</l>
+                  <l>pereſcido tal plazer</l>
+                  <l>derramado y conſumido</l>
+                  <l>O triunfos quien os vido</l>
+                  <l>o beldad gala ſin cuenta</l>
+                  <l>ante vos llegue el ſonido</l>
+                  <l>deſte mal que matormenta</l>
+               </lg>
+               <lg>
+                  <l>¶Cabo.</l>
+               </lg>
+               <lg>
+                  <l>¶Y no viendo mis amores</l>
+                  <l>vi la ſobra de mis plagas</l>
+                  <l>vi correr ſangre mis llagas</l>
+                  <l>refreſcando ſus dolores</l>
+                  <l>Vi paſſados mis fauores</l>
+                  <l>vi preſentes mis tormentos</l>
+                  <l>vi tornados mis dulçores</l>
+                  <l>en amargos penſamientos</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Reproducimos la versión del Cancionero General aunque se conserva también en el
+            Cancionero de la Bristish Library. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>En muy sangrienta batalla</title>
+            <author>Lorenzo de Sepúlveda</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Romances nuevamente sacados de historias antiguas de la crónica de
+            España</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">1551 - En casa de Juan Steelsio</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Fernán González</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Lorenzo de Sepúlveda</persName>
+                  <idno type="viaf">http://viaf.org/viaf/52749058</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1505</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1580</date>
+                  </death>
+                  <floruit>Renacimiento</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>En muy sangrienta batalla</l>
+                  <l>anda el conde Castellano,</l>
+                  <l>nombrado Fernan Gonçales</l>
+                  <l>con Almançor, rey pagano,</l>
+                  <l>tres dias ha que pelean</l>
+                  <l>con sus gentes enel campo:</l>
+                  <l>muchos matan delos Moros</l>
+                  <l>aquessos pocos Christianos:</l>
+                  <l>los Moros como son muchos</l>
+                  <l>al conde tienen cercado:</l>
+                  <l>el conde con gran dolor,</l>
+                  <l>a Dios estaua llamando:</l>
+                  <l>los ojos altos al cielo,</l>
+                  <l>estas palabras hablando:</l>
+                  <l>O señor de cielo y tierra,</l>
+                  <l>a vos esto yo clamando:</l>
+                  <l>ruegouos no consintays</l>
+                  <l>que se pierda este condado,</l>
+                  <l>que vos me distis en guarda,</l>
+                  <l>libraldo con vuestra mano:</l>
+                  <l>que si Castilla se pierde,</l>
+                  <l>morir quiero: y no ser saluo.</l>
+                  <l>entrare por la batalla</l>
+                  <l>morire como esforçado:</l>
+                  <l>que non quiero yo biuir</l>
+                  <l>por ser tan crecido el daño:</l>
+                  <l>si los Moros no me matan,</l>
+                  <l>matarme he yo con mi mano:</l>
+                  <l>dad me vos señor ventura</l>
+                  <l>de vencer la lid entrando</l>
+                  <l>pues que vos me prometistes</l>
+                  <l>que de vos seria ayudado:</l>
+                  <l>cumplidme vuestra promessa,</l>
+                  <l>cual yo cumpli el vuestro mando:</l>
+                  <l>os eñor non fallezcays</l>
+                  <l>aqueste vuestro vasallo:</l>
+                  <l>que si pecados yo hize,</l>
+                  <l>y de mi soys despagado,</l>
+                  <l>librad esta tierra vos,</l>
+                  <l>de mi os hazed vengado:</l>
+                  <l>que yo quiero ser el muerto,</l>
+                  <l>no muera tanto Christiano.</l>
+                  <l>Y diziendo estas razones</l>
+                  <l>hiriendo yua y matando,</l>
+                  <l>el campo dexa cubierto</l>
+                  <l>delos Moros que ha matado:</l>
+                  <l>vna boz oyo del cielo,</l>
+                  <l>por su nombre lo ha llamado:</l>
+                  <l>dixole: Fernan Gonçales</l>
+                  <l>gran ayuda es de tu vando,</l>
+                  <l>acorro te viene grande,</l>
+                  <l>Dios del cielo lo ha embiado.</l>
+                  <l>Alçara el conde los ojos</l>
+                  <l>por ver quien lo auia llamado,</l>
+                  <l>vido a Sant Iago apostol,</l>
+                  <l>que junto a el a llegado:</l>
+                  <l>gran gente de caualleros</l>
+                  <l>lo vienen acompañando:</l>
+                  <l>ricas armas traen vestidas</l>
+                  <l>cruzes grandes en su lado:</l>
+                  <l>las hazes tienen paradas</l>
+                  <l>contra Almançor y su vando,</l>
+                  <l>Almançor con los sus Moros</l>
+                  <l>de lo ver se han espantado:</l>
+                  <l>dixeron: Do vino al conde</l>
+                  <l>esta gente que ha llegado?</l>
+                  <l>quando ya estauan vencidos,</l>
+                  <l>el y todos los Christianos.</l>
+                  <l>El conde y sus caualleros</l>
+                  <l>gran esfuerço auían tomado:</l>
+                  <l>fieren de rezio en los Moros,</l>
+                  <l>del campo los han lançado:</l>
+                  <l>tantos quedan dellos muertos,</l>
+                  <l>que queda cubierto el campo:</l>
+                  <l>siguieronlos hasta Almansa</l>
+                  <l>donde se acabo el estrago.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>La edición antuerpiense de 1551 es la más antigua conservada, pero no la editio
+            princeps, que debió de publicarse en algún lugar en España. </note>
+      </body>
+   </text>
+</TEI>

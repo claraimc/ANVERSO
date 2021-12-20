@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[No me conformo, no: me desespero]</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>El rayo que no cesa</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Héroe</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Sonetos</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>No me conformo, no: me desespero</l>
+                  <l>como si fuera un huracán de lava</l>
+                  <l>en el presidio de una almendra esclava</l>
+                  <l>o en el penal colgante de un jilguero.</l>
+               </lg>
+               <lg>
+                  <l>Besarte fue besar un avispero</l>
+                  <l>que me clama al tormento y me desclava</l>
+                  <l>y cava un hoyo fúnebre y lo cava</l>
+                  <l>dentro del corazón donde me muero.</l>
+               </lg>
+               <lg>
+                  <l>No me conformo, no: ya es tanto y tanto</l>
+                  <l>idolatrar la imagen de tu beso</l>
+                  <l>y perseguir el curso de tu aroma.</l>
+               </lg>
+               <lg>
+                  <l>Un enterrado vivo por el llanto,</l>
+                  <l>una revolución dentro de un hueso,</l>
+                  <l>un rayo soy sujeto a una redoma.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

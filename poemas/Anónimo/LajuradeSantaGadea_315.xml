@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La jura de Santa Gadea</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Romancero viejo</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">Flor nueva de romances viejos (Austral, 1989)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>El Cid (Rodrigo Díaz de Vivar)</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>En Santa Gadea de Burgos</l>
+                  <l>do juran los hijosdalgo,</l>
+                  <l>allí toma juramento</l>
+                  <l>el Cid al rey castellano,</l>
+                  <l>sobre un cerrojo de hierro</l>
+                  <l>y una ballesta de palo.</l>
+                  <l>Las juras eran tan recias</l>
+                  <l>que al buen rey ponen espanto.</l>
+                  <l>—Villanos te maten, rey,</l>
+                  <l>villanos, que no hidalgos;</l>
+                  <l>abarcas traigan calzadas,</l>
+                  <l>que no zapatos con lazo;</l>
+                  <l>traigan capas aguaderas,</l>
+                  <l>no capuces ni tabardos;</l>
+                  <l>con camisones de estopa,</l>
+                  <l>no de holanda ni labrados;</l>
+                  <l>cabalguen en sendas burras,</l>
+                  <l>que no en mulas ni en caballos,</l>
+                  <l>las riendas traigan de cuerda,</l>
+                  <l>no de cueros fogueados;</l>
+                  <l>mátente por las aradas,</l>
+                  <l>no en camino ni en poblado;</l>
+                  <l>con cuchillos cachicuernos,</l>
+                  <l>no con puñales dorados;</l>
+                  <l>sáquente el corazón vivo,</l>
+                  <l>por el derecho costado,</l>
+                  <l>si no dices la verdad</l>
+                  <l>de lo que te es preguntado:</l>
+                  <l>si tú fuiste o consentiste</l>
+                  <l>en la muerte de tu hermano.</l>
+                  <l>Las juras eran tan fuertes</l>
+                  <l>que el rey no las ha otorgado.</l>
+                  <l>Allí habló un caballero</l>
+                  <l>de los suyos más privado:</l>
+                  <l>—Haced la jura, buen rey,</l>
+                  <l>no tengáis de eso cuidado,</l>
+                  <l>que nunca fue rey traidor,</l>
+                  <l>ni Papa descomulgado.</l>
+                  <l>Jura entonces el buen rey</l>
+                  <l>que en tal nunca se ha hallado.</l>
+                  <l>Después habla contra el Cid</l>
+                  <l>malamente y enojado:</l>
+                  <l>—Mucho me aprietas, Rodrigo,</l>
+                  <l>Cid, muy mal me has conjurado,</l>
+                  <l>mas si hoy me tomas la jura,</l>
+                  <l>después besarás mi mano.</l>
+                  <l>—Aqueso será, buen rey,</l>
+                  <l>como fuer galardonado,</l>
+                  <l>porque allá en cualquier tierra</l>
+                  <l>dan sueldo a los hijosdalgo.</l>
+                  <l>—¡Vete de mis tierras, Cid,</l>
+                  <l>mal caballero probado,</l>
+                  <l>y no me entres más en ellas,</l>
+                  <l>desde este día en un año!</l>
+                  <l>—Que me place —dijo el Cid—.</l>
+                  <l>que me place de buen grado,</l>
+                  <l>por ser la primera cosa</l>
+                  <l>que mandas en tu reinado.</l>
+                  <l>Tú me destierras por uno</l>
+                  <l>yo me destierro por cuatro.</l>
+                  <l>Ya se partía el buen Cid</l>
+                  <l>sin al rey besar la mano;</l>
+                  <l>ya se parte de sus tierras,</l>
+                  <l>de Vivar y sus palacios:</l>
+                  <l>las puertas deja cerradas,</l>
+                  <l>los alamudes echados,</l>
+                  <l>las cadenas deja llenas</l>
+                  <l>de podencos y de galgos;</l>
+                  <l>sólo lleva sus halcones,</l>
+                  <l>los pollos y los mudados.</l>
+                  <l>Con el iban los trescientos</l>
+                  <l>caballeros hijosdalgo;</l>
+                  <l>los unos iban a mula</l>
+                  <l>y los otros a caballo;</l>
+                  <l>todos llevan lanza en puño,</l>
+                  <l>con el hierro acicalado,</l>
+                  <l>y llevan sendas adargas</l>
+                  <l>con borlas de colorado.</l>
+                  <l>Por una ribera arriba</l>
+                  <l>al Cid van acompañando;</l>
+                  <l>acompañándolo iban</l>
+                  <l>mientras él iba cazando.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Versión específica de la edición de Ramón Menéndez Pidal para Flor nueva de romances
+            viejos (1928). </note>
+      </body>
+   </text>
+</TEI>

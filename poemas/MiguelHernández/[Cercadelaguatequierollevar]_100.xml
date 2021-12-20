@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Cerca del agua te quiero llevar]</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cancionero y romancero de ausencias</title>
+               <date cert="high"/>
+               <pubPlace>Buenos Aires</pubPlace>
+               <publisher n="first_editor">Lautaro</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor y Libertad</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Cerca del agua te quiero llevar,</l>
+                  <l>porque tu arrullo trascienda del mar.</l>
+               </lg>
+               <lg>
+                  <l>Cerca del agua te quiero tener,</l>
+                  <l>porque te aliente su vívido ser.</l>
+               </lg>
+               <lg>
+                  <l>Cerca del agua te quiero sentir,</l>
+                  <l>porque la espuma te enseñe a reír.</l>
+               </lg>
+               <lg>
+                  <l>Cerca del agua te quiero, mujer,</l>
+                  <l>ver, abarcar, fecundar, conocer.</l>
+               </lg>
+               <lg>
+                  <l>Cerca del agua perdida del mar</l>
+                  <l>que no se puede perder ni encontrar.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Aunque publicado póstumamente por primera vez en 1958, el poema fue escrito en la
+            cárcel entre 1938 y 1941. En la Obra poética completa consultada aquí, se informa de las
+            siguientes variantes: “porque tu arrullo trascienda del mar” cambia por “porque te
+            aliente la savia del mar”; “porque te aliente un vívido ser” cambia por “porque se grabe
+            su edad en tu ser”; “ver, abarcar, fecundar, conocer” cambia por “ver, abrazar,
+            descubrir, conocer”, y “Cerca del agua perdida del mar” cambia por “Cerca del agua
+            naciente del mar”. </note>
+      </body>
+   </text>
+</TEI>

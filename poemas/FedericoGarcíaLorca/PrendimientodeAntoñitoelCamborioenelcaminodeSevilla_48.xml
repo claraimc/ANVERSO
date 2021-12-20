@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prendimiento de Antoñito el Camborio en el camino de Sevilla</title>
+            <author>Federico García Lorca</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Romancero Gitano</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Revista de Occidente</publisher>
+               <publisher n="used_edition">Obra completa II. Poesía, 2 (Akal, 2008)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Prisión, Gitanos y Rebeldía</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <idno type="viaf">http://viaf.org/viaf/34456883</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1898</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1936</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>A Margarita Xirgu</l>
+               </lg>
+               <lg>
+                  <l>Antonio Torres Heredia,</l>
+                  <l>hijo y nieto de Camborios,</l>
+                  <l>con una vara de mimbre</l>
+                  <l>va a Sevilla a ver los toros.</l>
+                  <l>Moreno de verde luna</l>
+                  <l>anda despacio y garboso.</l>
+                  <l>Sus empavonados bucles</l>
+                  <l>le brillan entre los ojos.</l>
+                  <l>A la mitad del camino</l>
+                  <l>cortó limones redondos,</l>
+                  <l>y los fue tirando al agua</l>
+                  <l>hasta que la puso de oro.</l>
+                  <l>Y a la mitad del camino,</l>
+                  <l>bajo las ramas de un olmo,</l>
+                  <l>guardia civil caminera</l>
+                  <l>lo llevó codo con codo.</l>
+               </lg>
+               <lg>
+                  <l>*   *   *</l>
+               </lg>
+               <lg>
+                  <l>El día se va despacio,</l>
+                  <l>la tarde colgada a un hombro,</l>
+                  <l>dando una larga torera</l>
+                  <l>sobre el mar y los arroyos.</l>
+                  <l>Las aceitunas aguardan</l>
+                  <l>la noche de Capricornio,</l>
+                  <l>y una corta brisa, ecuestre,</l>
+                  <l>salta los montes de plomo.</l>
+                  <l>Antonio Torres Heredia,</l>
+                  <l>hijo y nieto de Camborios,</l>
+                  <l>viene sin vara de mimbre</l>
+                  <l>entre los cinco tricornios.</l>
+               </lg>
+               <lg>
+                  <l>Antonio, ¿quién eres tú?</l>
+                  <l>Si te llamaras Camborio,</l>
+                  <l>hubieras hecho una fuente</l>
+                  <l>de sangre con cinco chorros.</l>
+                  <l>Ni tú eres hijo de nadie,</l>
+                  <l>ni legítimo Camborio.</l>
+                  <l>¡Se acabaron los gitanos</l>
+                  <l>que iban por el monte solos!</l>
+                  <l>Están los viejos cuchillos</l>
+                  <l>tiritando bajo el polvo.</l>
+               </lg>
+               <lg>
+                  <l>A las nueve de la noche</l>
+                  <l>lo llevan al calabozo,</l>
+                  <l>mientras los guardias civiles</l>
+                  <l>beben limonada todos.</l>
+                  <l>Y a las nueve de la noche</l>
+                  <l>le cierran el calabozo,</l>
+                  <l>mientras el cielo reluce</l>
+                  <l>como la grupa de un potro.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Hubo dos musicalizaciones de este poema anteriores a 1975, por eso no están recogidas
+            en esta base de datos: Gabriela Ortega (Federico García Lorca, 1958) y Manuel Mairena
+            (EP, 1970). </note>
+      </body>
+   </text>
+</TEI>

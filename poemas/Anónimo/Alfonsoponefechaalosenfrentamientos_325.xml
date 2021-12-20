@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Alfonso pone fecha a los enfrentamientos</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cantar de mio Cid</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">1913 - Ediciones de La Lectura</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Cantares de gesta</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>El Cid (Rodrigo Díaz de Vivar)</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Dixo el rey: «Fine esta razón;</l>
+                  <l>«non diga ninguno della más una entençión.</l>
+                  <l>«Cras sea la lid, quando saliere el sol,</l>
+                  <l>«destos tres por tres que rebtaron en la cort.»</l>
+                  <l>Luego fablaron ifantes de Carrión:</l>
+                  <l>«Dandos, rey, plazo, ca cras seer non puode.</l>
+                  <l>«Armas e cavallos diémoslos al Canpeador,</l>
+                  <l>«nos antes abremos a ir a tierras de Carrión.»</l>
+                  <l>Fabló el rey contral Campeador :</l>
+                  <l>«sea esta lid o mandáredes vos.»</l>
+                  <l>En essora dixo mió Çid: «no lo faré, señor;</l>
+                  <l>«más quiero a Valençia que tierras de Carrión.»</l>
+                  <l>En essora dixo el rey : «Aosadas, Campeador.</l>
+                  <l>«Dadme vuestros cavalleros con todas guarnizones.</l>
+                  <l>«vayan comigo, yo seré el curiador;</l>
+                  <l>«yo vos lo sobrelievo, commo a buen vassallo faze señor,</l>
+                  <l>»que non prendan fuerça de comde nin de ifançón.</l>
+                  <l>«Aquí les pongo plazo de dentro en mi cort.</l>
+                  <l>«a cabo de tres sedmanas, en begas de Carrión.</l>
+                  <l>«que fagan esta lid delant estando yo ;</l>
+                  <l>«quien non viniere al plazo pierda la razón,</l>
+                  <l>«desí sea vençido y escape por traydor.»</l>
+                  <l>Prisieron el judizio ifantes de Carrión.</l>
+                  <l>Mió Çid al rey las manos le besó :</l>
+                  <l>«Estos mios tres cavalleros en vuestra mano son,</l>
+                  <l>«d’ aquí vos los acomiendo commo a rey e a señor.</l>
+                  <l>«Ellos son adobados pora cumplir todo lo so ;</l>
+                  <l>«ondrados me los enbiad a Valençia, por amor del Criador !»</l>
+                  <l>Essora respuso el rey: «assi lo mande Dios!»</l>
+                  <l>Allí se tollió el capiello el Çid Campeador,</l>
+                  <l>la cofia de rançal que blanca era commo el sol,</l>
+                  <l>e soltava la barba e sacóla del cordón.</l>
+                  <l>Nos fartan de catarle quantos ha en la cort.</l>
+                  <l>Adeliñó a comde don Anrric e comde don Remond;</l>
+                  <l>abraçólos tan bien e ruégalos de coraçón</l>
+                  <l>que prendan de sos averes quanto ovieren sabor.</l>
+                  <l>A essos e a los otros que de buena parte son,</l>
+                  <l>a todos los rogava assí commo han sabor ;</l>
+                  <l>tales i a que prenden, tales i a que non.</l>
+                  <l>Los dozientos marcos al rey los soltó ;</l>
+                  <l>de lo al tanto priso quant ovo sabor.</l>
+                  <l>«Merçed vos pido, rey, por amor del Criador !</l>
+                  <l>«Quando todas estas nuevas assí puestas son.</l>
+                  <l>«beso vuestras manos con vuestra graçia, señor,</l>
+                  <l>«e irme quiero pora Valençia, con afán la gané yo.»</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Vv. 3463-3507 del Cantar de mio Cid. </note>
+      </body>
+   </text>
+</TEI>

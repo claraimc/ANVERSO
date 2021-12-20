@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La palmera levantina</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>[Poemas no recogidos en libro - primeros poemas]</title>
+               <date cert="high"/>
+               <pubPlace>Alicante</pubPlace>
+               <publisher n="first_editor">El Día [24 de febrero]</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Naturaleza, Levante y Alicante</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>La palmera levantina,</l>
+                  <l>la columna que camina.</l>
+                  <l>La palmera…</l>
+                  <l>La palmera levantina,</l>
+                  <l>la que otea la marina,</l>
+                  <l>la mediterránea era.</l>
+                  <l>La palmera levantina,</l>
+                  <l>la que atrapa la primera</l>
+                  <l>ráfaga de primavera,</l>
+                  <l>la primera golondrina.</l>
+                  <l>La señora de paisajes.</l>
+                  <l>La que araña los luceros</l>
+                  <l>y se ciñe los encajes</l>
+                  <l>de las nubes, cual turbantes, a los zancos datileros.</l>
+                  <l>El magnífico incensario</l>
+                  <l>que se mece solitario</l>
+                  <l>al final de una colina,</l>
+                  <l>contra azul extraordinario…</l>
+                  <l>¡La palmera levantina!</l>
+                  <l>La que arranca</l>
+                  <l>la primera hebra de luces</l>
+                  <l>a la aurora blanca.</l>
+                  <l>La que brinda sol en grano al verderol.</l>
+                  <l>La que se arroja de bruces</l>
+                  <l>contra el Sol.</l>
+                  <l>La palmera la que encuna</l>
+                  <l>al arcángel de la luna.</l>
+                  <l>La que escalan los palmeros,</l>
+                  <l>que le arrancan sus macizos lagrimones</l>
+                  <l>entre risas y canciones</l>
+                  <l>y jilgueros;</l>
+                  <l>aunque a veces hacen llantos</l>
+                  <l>risas y cantos,</l>
+                  <l>cuando de un violento viento</l>
+                  <l>sacudidos estos árboles tornátiles</l>
+                  <l>echan todo el firmamento:</l>
+                  <l>aves, palmas, hombres, dátiles.</l>
+                  <l>La palmera levantina,</l>
+                  <l>lo primero que ve el ojo marinero</l>
+                  <l>de los mares de Levante.</l>
+                  <l>¡La palmera de Alicante!</l>
+                  <l>Vedla, fina,</l>
+                  <l>palpitar en el confín.</l>
+                  <l>Vedla, presa, en la retina</l>
+                  <l>de Azorín.</l>
+                  <l>Contempladla entre los ojos</l>
+                  <l>rojos de belleza, rojos</l>
+                  <l>de crepúsculos y pena de Miró:</l>
+                  <l>del amante de las horas soleadas de la siesta,</l>
+                  <l>de los corpus campesinos, de las fiestas</l>
+                  <l>aldeanas</l>
+                  <l>olorosas a cosechas y a campanas,</l>
+                  <l>del que adoro tanto yo.</l>
+                  <l>Vedla hecha largas varas</l>
+                  <l>ante aras</l>
+                  <l>en los templos, recordando que el Rabí a Jerusalén</l>
+                  <l>fue triunfante en un pollino.</l>
+                  <l>Contempladlas suspirando por el pino</l>
+                  <l>del amargo Enrique Heine.</l>
+                  <l>Como manos compañeras,</l>
+                  <l>al dejar mis anchos valles virgilianos</l>
+                  <l>y marchar de una mentira bella en pos,</l>
+                  <l>como manos,</l>
+                  <l>desde fondos de horizontes y colinas</l>
+                  <l>me dijeron las palmeras</l>
+                  <l>levantinas:</l>
+                  <l>“¡Adiós!”.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Se trata de uno de los primeros poemas de Miguel Hernández, publicado el 24 de febrero
+            de 1932 en el diario El Día, de Alicante. Además de la exaltación a la tierra levantina
+            y de Alicante a través de la palmera, el poema refleja la admiración de Miguel Hernández
+            por ciertos autores, como Virgilio, Azorín, Gabriel Miró y Heine. </note>
+      </body>
+   </text>
+</TEI>

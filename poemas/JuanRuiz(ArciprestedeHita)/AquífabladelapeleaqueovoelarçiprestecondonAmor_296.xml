@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aquí fabla de la pelea que ovo el arçipreste con don Amor</title>
+            <author>Juan Ruiz (Arcipreste de Hita)</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Libro de buen amor</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">2000 - Biblioteca Virtual Miguel de Cervantes</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Mester de clerecía</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor y Efectos del amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Juan Ruiz (Arcipreste de Hita)</persName>
+                  <idno type="viaf">http://viaf.org/viaf/163823217</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1283</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1350</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Con açidia traes estos males atantos</l>
+                  <l>muchos otros pecados, antojos e espantos;</l>
+                  <l>non te pagas de omes castos nin dignos santos,</l>
+                  <l>a los tuyos das oblas de males e quebrantos.</l>
+               </lg>
+               <lg>
+                  <l>El que tu obla trae, es mintroso perjuro,</l>
+                  <l>por complir tus deseos fásesle herege duro</l>
+                  <l>más cree tus lisonjas el nesçio fadeduro,</l>
+                  <l>que non la fe de Dios, vete, yo te conjuro.</l>
+               </lg>
+               <lg>
+                  <l>Non te quiero, Amor, nin cobdiçio tu fijo,</l>
+                  <l>fásesme andar de valde, dísesme ‘digo, digo’,</l>
+                  <l>tanto más me aquejas quanto yo más aguijo,</l>
+                  <l>non me val’ tu vanagloria un vil grano de mijo.</l>
+               </lg>
+               <lg>
+                  <l>Non as miedo, nin vergüença de rey nin reyna,</l>
+                  <l>múdaste do te pagan cada día ayna,</l>
+                  <l>huésped eres de muchos, non duras so cortina,</l>
+                  <l>como el fuego andas de vesina en vesina.</l>
+               </lg>
+               <lg>
+                  <l>Con tus muchas promesas a muchos embeliñas,</l>
+                  <l>en cabo son muy pocos a quien bien adeliñas</l>
+                  <l>non te menguan lisonjas más que fojas en viñas:</l>
+                  <l>más traes neçios locos que hay piñones en piñas.</l>
+               </lg>
+               <lg>
+                  <l>Fases como folguín en tu mesma manera,</l>
+                  <l>atalayas de lexos, e caças la primera,</l>
+                  <l>al que quieres matar, sácasle de carrera,</l>
+                  <l>de logar encobierto sacas çelada fiera.</l>
+               </lg>
+               <lg>
+                  <l>Tiene omen su fija de coraçón amada,</l>
+                  <l>loçana e fermosa, de muchos deseada,</l>
+                  <l>encerrada e guardada, e con viçios criada,</l>
+                  <l>do coyda tener algo, en ella tiene nada.</l>
+               </lg>
+               <lg>
+                  <l>Cóydanse la casar como las otras gentes,</l>
+                  <l>porque se onren d’ella su padre e sus parientes,</l>
+                  <l>como mula camursia agusa rostros e dientes,</l>
+                  <l>remeçe la cabeza, a mal seso tiene mientes.</l>
+               </lg>
+               <lg>
+                  <l>Tú la ruyes a la oreja, e dasle mal consejo,</l>
+                  <l>que faga tu mandado, et sigua tu trebejo,</l>
+                  <l>los cabellos en rueda, el peyne et el espejo,</l>
+                  <l>que aquel amigo oveja non es d’ella parejo.</l>
+               </lg>
+               <lg>
+                  <l>El coraçón le tornas de mil guisas a la hora,</l>
+                  <l>si oy casar la quieren, cras de otro se enamora,</l>
+                  <l>a las veses en saya, a las veses en alcandora,</l>
+                  <l>remítase la loca a do tu locura mora.</l>
+               </lg>
+               <lg>
+                  <l>El que más a ti cree, anda más por mal cabo</l>
+                  <l>a ellos e a ellas a todos das mal ramo,</l>
+                  <l>de pecado dañoso de ál non te alabo,</l>
+                  <l>tristesa e flaquesa, ál de ti non recabdo.</l>
+               </lg>
+               <lg>
+                  <l>Das muerte perdurable a las almas que fieres,</l>
+                  <l>das muchos enemigos al cuerpo que requieres,</l>
+                  <l>fases perder la fama al que más amor dieres,</l>
+                  <l>a Dios pierde e al mundo, Amor, el que más quieres.</l>
+               </lg>
+               <lg>
+                  <l>Estruyes las personas, los averes estragas,</l>
+                  <l>almas, cuerpos et algos como huerco las tragas,</l>
+                  <l>de todos tus vasallos fases neçios fadragas,</l>
+                  <l>prometes grandes cosas, poco et tarde pagas.</l>
+               </lg>
+               <lg>
+                  <l>Eres muy grand gigante al tiempo del mandar,</l>
+                  <l>eres enano chico quando lo as de dar,</l>
+                  <l>luego de grado mandas, bien te sabes mudar,</l>
+                  <l>tarde das e amidos, bien quieres demandar.</l>
+               </lg>
+               <lg>
+                  <l>De la loçana fases muy loca et muy boba,</l>
+                  <l>fases con tu grand fuego, como fase la loba,</l>
+                  <l>el más astroso lobo al eñodio ajoba,</l>
+                  <l>aquél da de la mano, e de aquél se encoba.</l>
+               </lg>
+               <lg>
+                  <l>Ansí muchas fermosas contigo se enartan,</l>
+                  <l>con quien se les antoja con aquel se apartan,</l>
+                  <l>quier’ feo, quier’ natio aguisado non catan,</l>
+                  <l>quanto más a ti creen, tanto peor baratan.</l>
+               </lg>
+               <lg>
+                  <l>Fases por muger fea perder omen apuesto,</l>
+                  <l>piérdese por omen torpe dueña de grand repuesto,</l>
+                  <l>plásete con cualquier do el ojo as puesto,</l>
+                  <l>bien te pueden desir antojo por denuesto.</l>
+               </lg>
+               <lg>
+                  <l>Natura as de diablo, a do quier que tú mores</l>
+                  <l>fases temblar los omes, e mudar sus colores,</l>
+                  <l>perder seso e fabla, sentir muchos dolores,</l>
+                  <l>traes los omes çiegos, que creen en tus loores.</l>
+               </lg>
+               <lg>
+                  <l>Al bletador semejas, quando teñe su brete,</l>
+                  <l>que canta dulçe con engaño, al ave pone aveite</l>
+                  <l>fasta que le echa el laso, quando el pie dentro mete,</l>
+                  <l>asegurando matas, quítate de mí, vete.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Cuadernas 388-406 del Libro de buen amor. </note>
+      </body>
+   </text>
+</TEI>

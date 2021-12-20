@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Endecha española</title>
+            <author>María Elena Walsh</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>El buen modo</title>
+               <date cert="high"/>
+               <pubPlace>Buenos Aires y Argentina</pubPlace>
+               <publisher n="first_editor">Microfon / 1975</publisher>
+               <publisher n="used_edition">1994-Seix Barral</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesías didácticas</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor, Naturaleza, Felicidad y Muerte</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>María Elena Walsh</persName>
+                  <idno type="viaf">http://viaf.org/viaf/79093736</idno>
+                  <nationality>Argentina</nationality>
+                  <birth>
+                     <date cert="low">1930</date>
+                  </birth>
+                  <death>
+                     <date cert="low">2011</date>
+                  </death>
+                  <floruit>Otro</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Calles de Puñonrrostro, de la Luna,</l>
+                  <l>de Bordadores y de Mira el Sol,</l>
+                  <l>de Molinos de Viento y las Hileras,</l>
+                  <l>de la Flor Alta, de ¡Válgame Dios!</l>
+                  <l>Mi Glorieta del Ángel Caído, en el Retiro.</l>
+                  <l>Patio con tiestos en Sotomayor.</l>
+               </lg>
+               <lg>
+                  <l>Aldeas de Tembleque, Almendralejo,</l>
+                  <l>Madrigal de las Altas Torres, Santocraz.</l>
+                  <l>Fuentesaúco, Pedrosillo de los Aires,</l>
+                  <l>Martinamor, Santillana del Mar.</l>
+                  <l>Navarredonda de la Rinconada,</l>
+                  <l>Cadalso de los Vidrios, Almazán.</l>
+                  <l>Alto de los Leones de Castilla.</l>
+                  <l>Ojos Albos, Motilla del Palancar.</l>
+               </lg>
+               <lg>
+                  <l>Madraza del idioma, España mía</l>
+                  <l>te venere yo ahora y en la hora</l>
+                  <l>de morirme de amor por las palabras</l>
+                  <l>“Luciérnaga curiosa que verá”.</l>
+               </lg>
+               <lg>
+                  <l>Ay paloma</l>
+                  <l>que bajas a la Rambla</l>
+                  <l>de Barcelona</l>
+                  <l>con la muerte en las alas,</l>
+                  <l>sola.</l>
+               </lg>
+               <lg>
+                  <l>Ay cigüeña</l>
+                  <l>que sobre un campanario</l>
+                  <l>por Valdepeñas,</l>
+                  <l>asoleando tu nido,</l>
+                  <l>sueñas.</l>
+               </lg>
+               <lg>
+                  <l>Fui peregrina feliz</l>
+                  <l>de luz española, </l>
+                  <l>después, con muerte en el alma, </l>
+                  <l>ave que se desploma. </l>
+                  <l>Tanto amor quién me lo quita. </l>
+                  <l>Tanta dicha quién me roba. </l>
+               </lg>
+               <lg>
+                  <l>Golondrinas</l>
+                  <l>que volverán oscuras</l>
+                  <l>siempre a Sevilla</l>
+                  <l>dibujando en el cielo:</l>
+                  <l>“Rimas”.</l>
+               </lg>
+               <lg>
+                  <l>Ay gaviota,</l>
+                  <l>San Fernando de Cádiz,</l>
+                  <l>deslumbradora,</l>
+                  <l>te esperó como blanca</l>
+                  <l>proa.</l>
+               </lg>
+               <lg>
+                  <l>Fui peregrina feliz </l>
+                  <l>de luz española, </l>
+                  <l>después, con muerte en el alma, </l>
+                  <l>ave que se desploma. </l>
+                  <l>Tanto amor quién me lo quita. </l>
+                  <l>Tanta dicha quién me roba. </l>
+               </lg>
+            </lg>
+         </div>
+         <note>Antes de que se publicara en un libro, María Elena Walsh graba este texto en un disco
+            titulado «El buen modo» de 1975 publicado con Microfon (Argentina). Esta canción no está
+            recogida en esta base de datos dado que se sale de los criterios marcados para el
+            archivo. En 1994 se publica esta letra en un libro titulado Las canciones, que ha sido
+            utilizado para realizar esta ficha. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romance del amor más poderoso que la muerte</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Flor nueva de romances viejos</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Revista de archivos</publisher>
+               <publisher n="used_edition">1963 - Espasa Calpe</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor y Muerte</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1300</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1500</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Conde Niño por amores</l>
+                  <l>es niño y pasó la mar;</l>
+                  <l>va a dar agua a su caballo</l>
+                  <l>la mañana de San Juan.</l>
+                  <l>Mientras el caballo bebe,</l>
+                  <l>él canta dulce cantar;</l>
+                  <l>todas las aves del cielo</l>
+                  <l>se paraban a escuchar,</l>
+                  <l>caminante que camina</l>
+                  <l>olvida su caminar,</l>
+                  <l>navegante que navega</l>
+                  <l>la nave vuelve hacia allá,</l>
+                  <l>La reina estaba labrando,</l>
+                  <l>la hija durmiendo está:</l>
+                  <l>—Levantaos, Albaniña,</l>
+                  <l>de vuestro dulce folgar,</l>
+                  <l>sentiréis cantar hermoso</l>
+                  <l>la sirenita del mar.</l>
+                  <l>—No es la sirenita, madre,</l>
+                  <l>la de tan bello cantar,</l>
+                  <l>sino es el conde Niño</l>
+                  <l>que por mí quiere finar.</l>
+                  <l>¡Quién le pudiese valer</l>
+                  <l>en su tan triste penar!</l>
+                  <l>—Si por tus amores pena,</l>
+                  <l>¡oh, malhaya su cantar!,</l>
+                  <l>y porque nunca los goce,</l>
+                  <l>yo le mandaré matar.</l>
+                  <l>—Si le manda matar, madre,</l>
+                  <l>juntos nos han de enterrar.</l>
+                  <l>Él murió a la medianoche,</l>
+                  <l>ella a los gallos cantar;</l>
+                  <l>a ella como hija de reyes</l>
+                  <l>la entierran en el altar;</l>
+                  <l>a él como hijo de conde</l>
+                  <l>unos pasos más atrás.</l>
+                  <l>De ella nació un rosal blanco,</l>
+                  <l>dél nació un espino albar;</l>
+                  <l>crece el uno, crece el otro,</l>
+                  <l>los dos se van a juntar;</l>
+                  <l>las ramitas que se alcanzan</l>
+                  <l>fuertes abrazos se dan,</l>
+                  <l>y las que no se alcanzaban</l>
+                  <l>no dejan de suspirar.</l>
+                  <l>La reina llena de envidia</l>
+                  <l>ambos los mandó cortar;</l>
+                  <l>el galán que los cortaba</l>
+                  <l>no cesaba de llorar.</l>
+                  <l>De ella naciera una garza.</l>
+                  <l>de él un fuerte gavilán,</l>
+                  <l>juntos vuelan por el cielo,</l>
+                  <l>juntos vuelan par a par.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

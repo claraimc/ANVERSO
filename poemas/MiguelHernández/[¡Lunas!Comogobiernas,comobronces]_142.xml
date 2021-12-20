@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[¡Lunas! Como gobiernas, como bronces]</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Perito en lunas</title>
+               <date cert="high"/>
+               <pubPlace>Murcia</pubPlace>
+               <publisher n="first_editor">Sudeste</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Gitanas, Romancero gitano y Federico García Lorca</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>¡Lunas! Como gobiernas, como bronces,</l>
+                  <l>siempre en mudanza, siempre dando vueltas.</l>
+                  <l>Cuando me voy a la vereda, entonces</l>
+                  <l>las veo desfilar, libres, esbeltas.</l>
+                  <l>Domesticando van mimbres, con ronces,</l>
+                  <l>mas con las bridas de los ojos sueltas,</l>
+                  <l>estas lunas que esgrimen, siempre a oscuras,</l>
+                  <l>las armas blancas de las dentaduras.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Para una mejor comprensión del poema, puede leerse Ramón Fernández Palmeral,
+            «Simbología secreta de Perito en lunas de Miguel Hernández», aquí. </note>
+      </body>
+   </text>
+</TEI>

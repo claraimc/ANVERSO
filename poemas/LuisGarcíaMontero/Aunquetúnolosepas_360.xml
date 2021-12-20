@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aunque tú no lo sepas</title>
+            <author>Luis García Montero</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Habitaciones separadas</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Visor Libros</publisher>
+               <publisher n="used_edition">2013-Visor Libros</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Luis García Montero</persName>
+                  <idno type="viaf">http://viaf.org/viaf/49247928</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1958</date>
+                  </birth>
+                  <death>
+                     <date cert="low">Hasta la actualidad</date>
+                  </death>
+                  <floruit>Poesía de la experiencia</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Como la luz de un sueño,</l>
+                  <l>que no raya en el mundo pero existe,</l>
+                  <l>así he vivido yo,</l>
+                  <l>iluminando</l>
+                  <l>esa parte de ti que no conoces,</l>
+                  <l>la vida que has llevado junto a mis pensamientos.</l>
+               </lg>
+               <lg>
+                  <l>Y aunque tú no lo sepas, yo te he visto</l>
+                  <l>cruzar la puerta sin decir que no,</l>
+                  <l>pedirme un cenicero, curiosear los libros,</l>
+                  <l>responder al deseo de mis labios</l>
+                  <l>con tus labios de whisky,</l>
+                  <l>seguir mis pasos hasta el dormitorio.</l>
+                  <l>También hemos hablado</l>
+                  <l>en la cama, sin prisa, muchas tardes,</l>
+                  <l>esta cama de amor que no conoces,</l>
+                  <l>la misma que se queda</l>
+                  <l>fría cuanto te marchas.</l>
+               </lg>
+               <lg>
+                  <l>Aunque tú no lo sepas te inventaba conmigo,</l>
+                  <l>hicimos mil proyectos, paseamos</l>
+                  <l>por todas las ciudades que te gustan,</l>
+                  <l>recordamos canciones, elegimos renuncias,</l>
+                  <l>aprendiendo los dos a convivir</l>
+                  <l>entre la realidad y el pensamiento.</l>
+                  <l>Espiada a la sombra de tu horario</l>
+                  <l>o en la noche de un bar por mi sorpresa.</l>
+               </lg>
+               <lg>
+                  <l>Así he vivido yo,</l>
+                  <l>como la luz del sueño,</l>
+                  <l>que no recuerdas cuando te despiertas.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>La canción incluye el verso “Aunque tú no lo sepas”, que es a la vez el título de la
+            canción y del poema. </note>
+      </body>
+   </text>
+</TEI>

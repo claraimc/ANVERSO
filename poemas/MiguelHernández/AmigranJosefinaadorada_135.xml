@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A mi gran Josefina adorada</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>[Poemas no recogidos en libro - Poemas varios 1933-1934]</title>
+               <date cert="high"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Tus cartas son un vino</l>
+                  <l>que me trastorna y son</l>
+                  <l>el único alimento</l>
+                  <l>para mi corazón.</l>
+               </lg>
+               <lg>
+                  <l>Desde que estoy ausente</l>
+                  <l>no sé sino soñar,</l>
+                  <l>igual que el mar tu cuerpo,</l>
+                  <l>amargo igual que el mar.</l>
+               </lg>
+               <lg>
+                  <l>Tus cartas apaciento</l>
+                  <l>metido en un rincón</l>
+                  <l>y por redil y hierba</l>
+                  <l>les doy mi corazón.</l>
+               </lg>
+               <lg>
+                  <l>Aunque bajo la tierra</l>
+                  <l>mi amante cuerpo esté,</l>
+                  <l>escríbeme, paloma,</l>
+                  <l>que yo te escribiré.</l>
+               </lg>
+               <lg>
+                  <l>Cuando me falte sangre</l>
+                  <l>con zumo de clavel,</l>
+                  <l>y encima de mis huesos</l>
+                  <l>de amor cuando papel.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Hubo una primera versión musical de este poema, a cargo de Numa Moraes (La patria
+            compañero, Uruguay, 1971), pero no está recogida en esta base de datos por ser anterior
+            a 1975. </note>
+      </body>
+   </text>
+</TEI>

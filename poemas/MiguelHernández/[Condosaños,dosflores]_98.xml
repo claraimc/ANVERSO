@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Con dos años, dos flores]</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cancionero y romancero de ausencias</title>
+               <date cert="high"/>
+               <pubPlace>Buenos Aires</pubPlace>
+               <publisher n="first_editor">Lautaro</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Letrillas</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Cumpleaños y Paternidad</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Con dos años, dos flores</l>
+                  <l>cumples ahora.</l>
+                  <l>Dos alondras llenando</l>
+                  <l>toda tu aurora.</l>
+                  <l>Niño radiante:</l>
+                  <l>va mi sangre contigo</l>
+                  <l>siempre adelante.</l>
+               </lg>
+               <lg>
+                  <l>Sangre mía, adelante,</l>
+                  <l>no retrocedas.</l>
+                  <l>La luz rueda en el mundo,</l>
+                  <l>mientras tú ruedas.</l>
+                  <l>Todo te mueve,</l>
+                  <l>universo de un cuerpo</l>
+                  <l>dorado y leve.</l>
+               </lg>
+               <lg>
+                  <l>Herramienta es tu risa,</l>
+                  <l>luz que proclama</l>
+                  <l>la victoria del trigo</l>
+                  <l>sobre la grama.</l>
+                  <l>Ríe. Contigo</l>
+                  <l>venceré siempre al tiempo</l>
+                  <l>que es mi enemigo.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Aunque publicado póstumamente por primera vez en 1958, el poema fue escrito en la
+            cárcel entre 1938 y 1941, seguramente en enero de 1941, coincidiendo con el segundo
+            cumpleaños de su segundo hijo. Hubo una primera musicalización de Luis Pastor (Primer
+            single, 1972), pero al ser anterior a 1975 no está incluida en esta base de datos.
+        </note>
+      </body>
+   </text>
+</TEI>

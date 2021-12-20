@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Enxiemplo de lo que contesçió a don Pitas Pajas, pintor de Bretaña</title>
+            <author>Juan Ruiz (Arcipreste de Hita)</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Libro de buen amor</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">2000 - Biblioteca Virtual Miguel de Cervantes</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Mester de clerecía</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Infidelidad, Humor y Exemplum</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Juan Ruiz (Arcipreste de Hita)</persName>
+                  <idno type="viaf">http://viaf.org/viaf/163823217</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1283</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1350</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Del que olvidó la muger te diré la fazaña</l>
+                  <l>si vieres que es burla, dime otra tal mañana;</l>
+                  <l>era don Pitas Pajas un pintor de Bretaña</l>
+                  <l>casose con muger moça, pagábase de compaña.</l>
+               </lg>
+               <lg>
+                  <l>Ante del mes complido dixo él: ‘Nostra dona</l>
+                  <l>‘yo volo ir a Flandes, portaré muita dona.’</l>
+                  <l>Ella diz’: ‘Monseñor, andar en ora bona</l>
+                  <l>‘non olvidedes vuestra casa, nin la mi persona.’</l>
+               </lg>
+               <lg>
+                  <l>Dixo don Pitas Pajas: ‘Dona de fermosura</l>
+                  <l>‘yo volo façer en vos una bona figura</l>
+                  <l>‘porque seades guardada de toda altra locura.’</l>
+                  <l>Ella diz’: ‘Monseñor, façed vuestra mesura.’</l>
+               </lg>
+               <lg>
+                  <l>Pintol’ so el ombligo un pequeño cordero:</l>
+                  <l>fuese don Pitas Pajas a ser novo mercadero,</l>
+                  <l>tardó allá dos años, mucho fue tardinero,</l>
+                  <l>façíasele a la dona un mes año entero.</l>
+               </lg>
+               <lg>
+                  <l>Como era la moça nuevamente casada</l>
+                  <l>avíe con su marido fecha poca morada,</l>
+                  <l>tomó un entendedor et pobló la posada,</l>
+                  <l>desfízose el cordero, que d’él non finca nada.</l>
+               </lg>
+               <lg>
+                  <l>Cuando ella oyó que venía el pintor</l>
+                  <l>mucho de priesa embió por el entendedor,</l>
+                  <l>díxole que le pintase como podiese mexor</l>
+                  <l>en aquel lugar mesmo un cordero menor.</l>
+               </lg>
+               <lg>
+                  <l>Pintole con la gran priesa un eguado carnero</l>
+                  <l>complido de cabeça con todo su apero,</l>
+                  <l>luego en ese día vino el mensajero.</l>
+                  <l>Que ya don Pitas Pajas de esto venía çertero.</l>
+               </lg>
+               <lg>
+                  <l>Cuando fue el pintor de Frandes venido</l>
+                  <l>fue de la su muger con desdén resçebido</l>
+                  <l>desque en el palaçio con ella estido</l>
+                  <l>la señal que l’ feçiera non la echó en olvido.</l>
+               </lg>
+               <lg>
+                  <l>Dixo don Pitas Pajas: ‘Madona, si vos plaz’</l>
+                  <l>‘mostradme la figura e afán buen solaz!’</l>
+                  <l>Diz’ la muger: ‘Monseñor, vos mesmo la catad,</l>
+                  <l>‘fey y ardidamente todo lo que vollaz.’</l>
+               </lg>
+               <lg>
+                  <l>Cató don Pitas Pajas el sobre dicho lugar</l>
+                  <l>et vido un grand carnero con armas de prestar.</l>
+                  <l>‘¿Cómo es esto, madona, o cómo pode estar</l>
+                  <l>‘que yo pinté corder, et trobo este manjar?’</l>
+               </lg>
+               <lg>
+                  <l>Como en este fecho es siempre la muger</l>
+                  <l>sotil e mal sabida, diz’: ‘¿Cómo, monseñor,</l>
+                  <l>‘en dos años petid corder non se façed carner?</l>
+                  <l>‘Vos veniésedes templano et trobaríades corder.’</l>
+               </lg>
+               <lg>
+                  <l>Por ende te castiga non dexes lo que pides,</l>
+                  <l>non seas Pitas Pajas, para otro non errides,</l>
+                  <l>con deçilres fermosos a la muger convides,</l>
+                  <l>desque telo prometa, guarda non lo olvides.</l>
+               </lg>
+               <lg>
+                  <l>Pedro levanta la liebre, et la mueve del covil</l>
+                  <l>non la sigue nin la toma, façe como caçador vil,</l>
+                  <l>otro Pedro que la sigue et la corre más sotil</l>
+                  <l>tómala, esto aconteçe a cazadores mil.</l>
+               </lg>
+               <lg>
+                  <l>Diz’ la muger entre dientes: ‘Otro Pedro es aqueste</l>
+                  <l>‘más garçón e más ardit que l’ primero que ameste,</l>
+                  <l>‘el primero apost de éste non vale más que un feste,</l>
+                  <l>‘con aquéste, e por éste faré yo si Dios me preste.’</l>
+               </lg>
+               <lg>
+                  <l>Otrosí quando vieres a quien usa con ella</l>
+                  <l>quier sea suyo o non, fáblale por amor de ella</l>
+                  <l>si podieres, da l’ayo non le ayas querella</l>
+                  <l>ca estas cosas pueden a la muger traella.</l>
+               </lg>
+               <lg>
+                  <l>Por poquilla cosa del tu aver que l’ dieres</l>
+                  <l>servirte a lealmente, fará lo que quisieres</l>
+                  <l>fará por los dineros todo quanto pidieres</l>
+                  <l>que mucho o poco, da l’ cada que podieres.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Cuadernas 474-489 del Libro de buen amor. </note>
+      </body>
+   </text>
+</TEI>

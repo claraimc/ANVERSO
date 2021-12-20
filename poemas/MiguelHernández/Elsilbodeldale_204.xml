@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El silbo del dale</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>[Poemas no recogidos en libro - Silbos]</title>
+               <date cert="high"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesías religiosas</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Religión</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Dale al aspa, molino,</l>
+                  <l>hasta nevar el trigo.</l>
+               </lg>
+               <lg>
+                  <l>Dale a la piedra, agua,</l>
+                  <l>hasta ponerla mansa.</l>
+               </lg>
+               <lg>
+                  <l>Dale al molino, aire,</l>
+                  <l>hasta lo inacabable.</l>
+               </lg>
+               <lg>
+                  <l>Dale al aire, cabrero,</l>
+                  <l>hasta que silbe tierno.</l>
+               </lg>
+               <lg>
+                  <l>Dale al cabrero, monte,</l>
+                  <l>hasta dejarle inmóvil.</l>
+               </lg>
+               <lg>
+                  <l>Dale al monte, lucero,</l>
+                  <l>hasta que se haga cielo.</l>
+               </lg>
+               <lg>
+                  <l>Dale, Dios, a mi alma</l>
+                  <l>hasta perfeccionarla.</l>
+               </lg>
+               <lg>
+                  <l>Dale que dale, dale</l>
+                  <l>molino, piedra, aire,</l>
+               </lg>
+               <lg>
+                  <l>cabrero, monte, astro,</l>
+                  <l>dale que dale largo.</l>
+               </lg>
+               <lg>
+                  <l>Dale que dale, Dios,</l>
+               </lg>
+               <lg>
+                  <l>¡ay!</l>
+               </lg>
+               <lg>
+                  <l>Hasta la perfección.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

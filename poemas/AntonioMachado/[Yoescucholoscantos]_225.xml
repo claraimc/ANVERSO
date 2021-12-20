@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Yo escucho los cantos]</title>
+            <author>Antonio Machado</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Soledades: poesías</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Imp. de A. Álvarez</publisher>
+               <publisher n="used_edition">1999-Espasa [Austral]</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Infancia</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Antonio Machado</persName>
+                  <idno type="viaf">http://viaf.org/viaf/8564047</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1875</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1939</date>
+                  </death>
+                  <floruit>Generación del 98</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Yo escucho los cantos</l>
+                  <l>de viejas cadencias,</l>
+                  <l>que los niños cantan</l>
+                  <l>cuando en coro juegan,</l>
+                  <l>y vierten en coro</l>
+                  <l>sus almas que sueñan,</l>
+                  <l>cual vierten sus aguas</l>
+                  <l>las fuentes de piedra:</l>
+                  <l>con monotonías</l>
+                  <l>de risas eternas,</l>
+                  <l>que no son alegres,</l>
+                  <l>con lágrimas viejas,</l>
+                  <l>que no son amargas</l>
+                  <l>y dicen tristezas,</l>
+                  <l>tristezas de amores</l>
+                  <l>de antiguas leyendas.</l>
+                  <l>En los labios niños,</l>
+                  <l>las canciones llevan</l>
+                  <l>confusa la historia</l>
+                  <l>y clara la pena;</l>
+                  <l>como clara el agua</l>
+                  <l>lleva su conseja</l>
+                  <l>de viejos amores,</l>
+                  <l>que nunca se cuentan.</l>
+                  <l>Jugando, a la sombra</l>
+                  <l>de una plaza vieja,</l>
+                  <l>los niños cantaban…</l>
+                  <l>La fuente de piedra</l>
+                  <l>vertía su eterno</l>
+                  <l>cristal de leyenda.</l>
+                  <l>Cantaban los niños</l>
+                  <l>canciones ingenuas,</l>
+                  <l>de un algo que pasa</l>
+                  <l>y que nunca llega:</l>
+                  <l>la historia confusa</l>
+                  <l>y clara la pena.</l>
+                  <l>Seguía su cuento</l>
+                  <l>la fuente serena;</l>
+                  <l>borrada la historia,</l>
+                  <l>contaba la pena.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>La canción musicaliza el poema, con ligeras variaciones léxicas y supresión de algunos
+            versos. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Political incorrectness</title>
+            <author>Luis Alberto de Cuenca</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>La vida en llamas</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Visor Libros</publisher>
+               <publisher n="used_edition">2006-Renacimiento [Antología: Su nombre era el de todas las
+                mujeres y otros poemas de amor y desamor]</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor y Política</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Luis Alberto de Cuenca</persName>
+                  <idno type="viaf">http://viaf.org/viaf/114982630</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1950</date>
+                  </birth>
+                  <death>
+                     <date cert="low">Hasta la actualidad</date>
+                  </death>
+                  <floruit>Generación del 70/Novísimos</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Sé buena, dime cosas incorrectas</l>
+                  <l>desde el punto de vista político. Un ejemplo:</l>
+                  <l>que eres rubia. Otro ejemplo: que Occidente</l>
+                  <l>no te parece un monstruo de barbarie</l>
+                  <l>dedicado a la sórdida tarea</l>
+                  <l>de cargarse el planeta. Otro: que el multi-</l>
+                  <l>culturalismo es un nuevo fascismo,</l>
+                  <l>sólo que más hortera, o que disfrutas</l>
+                  <l>pegando a un pedagogo o a un psicólogo,</l>
+                  <l>o que el Mediterráneo te horroriza.</l>
+                  <l>Dime cosas que lleven a la hoguera</l>
+                  <l>directamente, dime atrocidades</l>
+                  <l>que cuestionen verdades absolutas</l>
+                  <l>como: “No creo en la igualdad”. O dime</l>
+                  <l>cosas terribles como que me quieres</l>
+                  <l>a pesar de que no soy de tu sexo,</l>
+                  <l>que me quieres del todo, con locura,</l>
+                  <l>para siempre, como querían antes</l>
+                  <l>las hembras de la Tierra.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

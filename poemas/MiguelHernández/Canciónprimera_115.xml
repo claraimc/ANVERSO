@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Canción primera</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>El hombre acecha</title>
+               <date cert="high"/>
+               <pubPlace>Valencia</pubPlace>
+               <publisher n="first_editor">Delegación de la Secretaría de Propaganda / Imprenta
+                Moderna</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesías sociales</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Justicia social y Naturaleza del ser humano</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Se ha retirado el campo</l>
+                  <l>al ver abalanzarse</l>
+                  <l>crispadamente al hombre.</l>
+               </lg>
+               <lg>
+                  <l>¡Qué abismo entre el olivo</l>
+                  <l>y el hombre se descubre!</l>
+               </lg>
+               <lg>
+                  <l>El animal que canta:</l>
+                  <l>el animal que puede</l>
+                  <l>llorar y echar raíces,</l>
+                  <l>rememoró sus garras.</l>
+               </lg>
+               <lg>
+                  <l>Garras que revestía</l>
+                  <l>de suavidad y flores,</l>
+                  <l>pero que, al fin, desnuda</l>
+                  <l>en toda su crueldad.</l>
+               </lg>
+               <lg>
+                  <l>Crepitan en mis manos.</l>
+                  <l>Aparta de ellas, hijo.</l>
+                  <l>Estoy dispuesto a hundirlas,</l>
+                  <l>dispuesto a proyectarlas</l>
+                  <l>sobre tu carne leve.</l>
+               </lg>
+               <lg>
+                  <l>He regresado al tigre.</l>
+                  <l>Aparta, o te destrozo.</l>
+               </lg>
+               <lg>
+                  <l>Hoy el amor es muerte,</l>
+                  <l>y el hombre acecha al hombre.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>El hombre acecha fue editado por la Delegación de la Secretaría de Propaganda en la
+            Imprenta Moderna de Valencia; sin embargo, con la derrota de la II República en la
+            Guerra Civil, no se completaron los trabajos y la edición desapareció. Hubo una primera
+            musicalización de Francisco Curto (La guerra civil española, 1973), pero al ser anterior
+            a 1975 no está recogida en esta base de datos. </note>
+      </body>
+   </text>
+</TEI>

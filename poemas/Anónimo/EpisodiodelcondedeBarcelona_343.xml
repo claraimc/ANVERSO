@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Episodio del conde de Barcelona</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cantar de mio Cid</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">1913 - Ediciones de La Lectura</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Cantares de gesta</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>El Cid (Rodrigo Díaz de Vivar)</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Los mandados son idos a las partes todas;</l>
+                  <l>llegaron las nuevas al conde de Barçilona,</l>
+                  <l>que mió Çid Roy Díaz quel corrié la tierra toda;</l>
+                  <l>ovo grand pesar e tóvoslo a grand fonta.</l>
+                  <l>El conde es muy follón e dixo una vanidat:</l>
+                  <l>«Grandes tuertos me tiene mió Çid el de Bivar.</l>
+                  <l>«Dentro en mi cort tuerto me tovo grand :</l>
+                  <l>«firióm el sobrino e non lo enmendó más;</l>
+                  <l>«agora córrem las tierras que en mi enpara están;</l>
+                  <l>«non lo desafié nil torné el amistad,</l>
+                  <l>«mas quando él me lo busca, ir gelo he yo deemandar.»</l>
+                  <l>Grandes son los poderes e a priessa llegandos van,</l>
+                  <l>entre moros e cristianos gentes se le allegan grandes</l>
+                  <l>adeliñan tras mió Çid el bueno de Bivar,</l>
+                  <l>tres días e dos noches penssaron de andar,</l>
+                  <l>alcançaron a mió Çid en Tévar e el pinar;</l>
+                  <l>así vienen esforçados que a manos se le cuydan tomar.</l>
+                  <l>Mio Çid don Rodrigo trae ganançia grand,</l>
+                  <l>diçe de una sierra e llegava a un val.</l>
+                  <l>Del conde don Remont venido les mensaje ;</l>
+                  <l>mió Çid quando lo oyó, enbió pora allá :</l>
+                  <l>«digades al conde non lo tenga a mal,</l>
+                  <l>«de lo so non lievo nada, déxem ir en paz.»</l>
+                  <l>Respuso el comde : «esto non será verdad !</l>
+                  <l>«Lo de antes e de agora tódom lo pechará;</l>
+                  <l>«sabrá el salido a quien vino desondrar.»</l>
+                  <l>Tornós el mandadero quanto pudo más.</l>
+                  <l>Essora lo connosçe mió Çid el de Bivar</l>
+                  <l>que a menos de batalla nos pueden den quitar.</l>
+                  <l>»Ya cavalleros, apart fazed la ganançia ;</l>
+                  <l>«apriessa vos guarnid e metedos en las armas ;</l>
+                  <l>«el comde don Remont dar nos ha grant batalla,</l>
+                  <l>«de moros e de cristianos gentes trae sobejanas,</l>
+                  <l>«a menos de batalla non nos dexarié por nada.</l>
+                  <l>«Pues adelant irán tras nos, aquí sea la batalla;</l>
+                  <l>«apretad los cavallos, e bistades las armas.</l>
+                  <l>«Ellos vienen cuesta yuso, e todos trahen calças ;</l>
+                  <l>«elas siellas coceras e las cinchas amojadas ;</l>
+                  <l>«nos cavalgaremos siellas gallegas, e huesas sobre calças ;</l>
+                  <l>çiento cavalleros devemos vençer aquellas mesnadas.</l>
+                  <l>«Antes que ellos lleguen a llano, presentémosles las lanças ;</l>
+                  <l>«por uno que firgades, tres siellas irán vázias.</l>
+                  <l>«Verá Remont Verenguel tras quien vino en alcança</l>
+                  <l>«oy en este pinar de Tévar por tollerme la ganançia.»</l>
+                  <l>Todos son adobados quando mió Çid esto ovo fablado ;</l>
+                  <l>las armas avién presas e sedién sobre los cavallos.</l>
+                  <l>Vidieron la cuesta yuso la fuerça de los francos;</l>
+                  <l>al fondón de la cuesta, çerca es de’llaño,</l>
+                  <l>mandólos ferir mió Çid, el que en buen ora nasco ;</l>
+                  <l>esto fazen los sos de voluntad e de grado;</l>
+                  <l>los pendones e las lanças tan bien las van enpleando,</l>
+                  <l>a los unos firiendo e a los otros derrocando.</l>
+                  <l>Vençido a esta batalla el que en buena nasco ;</l>
+                  <l>al comde don Remont a preson le a tomado ;</l>
+                  <l>hi gañó a Colada que más vale de mill marcos.</l>
+                  <l>I venció esta batalla por o ondró su barba,</l>
+                  <l>prísolo al comde, pora su tienda lo levava;</l>
+                  <l>a sos creenderos guardar lo mandava.</l>
+                  <l>De fuera de la tienda un salto dava,</l>
+                  <l>de todas partes los sos se ajuntavan;</l>
+                  <l>plogo a mió Çid, ca grandes son las ganançias.</l>
+                  <l>A mió Çid don Rodrigo grant cozínal adobavan;</l>
+                  <l>el conde don Remont non gelo preçia nada;</l>
+                  <l>adúzenle los comeres, delant gelos paravan,</l>
+                  <l>él non lo quiere comer, a todos los sosañava:</l>
+                  <l>«Non combré un bocado por quanto ha en toda España</l>
+                  <l>«antes perderé el cuerpo e dexaré el alma,</l>
+                  <l>«pues que tales malcaçados me vencieron de batalla.»</l>
+                  <l>Mío Çid Roy Diaz odredes lo que dixo :</l>
+                  <l>«comed, comde, deste pan e beved deste vino.</l>
+                  <l>«Si lo que digo fiziéredes, saldredes de cativo;</l>
+                  <l>«si non, en todos vuestros días non veredes cristia-</l>
+                  <l>nismo.»</l>
+                  <l>— «Comede, don Rodrigo, e penssedes de folgar,</l>
+                  <l>«que yo dexar me morir, que non quiero comer al.»</l>
+                  <l>Fasta terçer día nol pueden acordar;</l>
+                  <l>ellos partiendo estas ganancias grandes,</l>
+                  <l>nol pueden fazer comer un muesso de pan.</l>
+                  <l>Dixo mió Çid : «comed, comde, algo,</l>
+                  <l>«ca si non comedes, non veredes cristianos ;</l>
+                  <l>«e si vos comiéredes don yo sea pagado,</l>
+                  <l>«a vos, el comde, e dos fijos dalgo</l>
+                  <l>«quitarvos e los cuerpos e darvos e de mano.»</l>
+                  <l>Quando esto oyó el comde, yas iva alegrando:</l>
+                  <l>«Si lo fiziéredes, Çid, lo que avedes fablado,</l>
+                  <l>»tanto quanto yo biva, seré dent maravillado.»</l>
+                  <l>— «Pues comed, comde, e quando fóredes yantado,</l>
+                  <l>«a vos e a otros dos dar vos he de mano.</l>
+                  <l>«Mas quanto avedes perdido e yo gané en canpo,</l>
+                  <l>«sabet, non daré a vos de ello un dinero malo;</l>
+                  <l>«ca huebos me lo he pora estos que comigo andan lazrados.</l>
+                  <l>»Prendiendo de vos e de otros ir nos hemos pagando ;</l>
+                  <l>«abremos esta vida mientra ploguiere al Padre santo,</l>
+                  <l>«commo que ira a de rey e de tierra es echado.»</l>
+                  <l>Alegre es el conde e pidió agua a las manos,</l>
+                  <l>e tiénengelo delant e diérongelo privado.</l>
+                  <l>Con los cavalleros que el Çid le avie dados</l>
+                  <l>comiendo va el comde ¡ Dios, qué de buen grado !</l>
+                  <l>Sobrél sedie el que en buen ora nasco :</l>
+                  <l>«Si bien non comedes, comde, don yo sea pagado,</l>
+                  <l>«aquí feremos la morada, no nos partiremos amos.»</l>
+                  <l>Aquí dixo el comde: «de voluntad e de grado.»</l>
+                  <l>Con estos dos cavalleros apriessa va yantando :</l>
+                  <l>pagado es mió Çid, que lo está aguardando,</l>
+                  <l>por que el comde don Remont tan bien bolvie las manos.</l>
+                  <l>«Si vos pluguiere, mió Çid, de ir somos guisados;</l>
+                  <l>«mandadnos dar las bestias e cavalgaremos privado ;</l>
+                  <l>«del día que fue comde non yanté tan de buen grado,</l>
+                  <l>«el sabor que dend e non será olbidado.»</l>
+                  <l>Danles tres palafrés muy bien ensellados</l>
+                  <l>e buenas vestiduras de pelliçones e de mantos.</l>
+                  <l>El comde don Remont entre los dos es entrado,</l>
+                  <l>Fata cabo del albergada escurriólos el Castellano:</l>
+                  <l>«Ya vos ides, comde, a guisa de muy franco,</l>
+                  <l>«en grado vos lo tengo lo que me avedes dexado.</l>
+                  <l>«Si vos viniere emiente que quisiéredes vengallo,</l>
+                  <l>«si me viniéredes buscar, fazedme antes mandado ;</l>
+                  <l>«o me dexaredes de lo vuestro, o de lo mió levaredes algo.»</l>
+                  <l>«Folguedes, ya mió Çid, sodes en vuestro salvo.</l>
+                  <l>«Pagado vos he por todo aqueste año;</l>
+                  <l>«de venirvos buscar sol non será penssado.»</l>
+                  <l>Aguijaba el comde e penssava de andar,</l>
+                  <l>tornando va la cabeça e catándos atrás;</l>
+                  <l>miedo iva aviendo que mió Çid se repintrá,</l>
+                  <l>lo que non ferié el caboso por quanto en el mundo ha,</l>
+                  <l>una deslealtança ca non la fizo alguandre.</l>
+                  <l>Ido es el comde, tornós el de Bivar,</l>
+                  <l>juntós con sus mesnadas, conpeçós de alegrar</l>
+                  <l>de la ganançia que han fecha maravillosa e grand;</l>
+                  <l>tan ricos son los sos que non saben qué se an.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Vv. 956-1086 del Cantar de mio Cid. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romance de las tres cautivas</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Romancero sefardí</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">Cancionero infantil español (Talleres Gráficos Juan Torroba,
+                1955)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Anagnórisis y Relaciones cristiano-musulmanas</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Renacimiento</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Campito del moro</l>
+                  <l>y en la verde orilla</l>
+                  <l>donde cautivaron</l>
+                  <l>tres hermosas chiquillas.</l>
+                  <l>El pícaro moro</l>
+                  <l>que las cautivó</l>
+                  <l>a la reina mora</l>
+                  <l>se las entregó.</l>
+                  <l>«Toma, reina mora,</l>
+                  <l>estas tres cautivas</l>
+                  <l>para que te laven</l>
+                  <l>para que te sirvan.»</l>
+                  <l>«¿Y cómo se llaman</l>
+                  <l>estas tres cautivas</l>
+                  <l>que son tan hermosas</l>
+                  <l>y tan altivas?»</l>
+                  <l>«La mayor Constanza;</l>
+                  <l>la menor, Lucía,</l>
+                  <l>y la más pequeña</l>
+                  <l>es la Rosalía.»</l>
+                  <l>Constanza lavaba,</l>
+                  <l>Lucía tendía</l>
+                  <l>y la más pequeña</l>
+                  <l>el agua traía.</l>
+                  <l>Un día en la fuente,</l>
+                  <l>en la fuente un día,</l>
+                  <l>se ha encontrado a un viejo</l>
+                  <l>con melancolía.</l>
+                  <l>«¿Dónde vas, buen viejo,</l>
+                  <l>camina y camina?»</l>
+                  <l>«Buscando tres hijas</l>
+                  <l>que tengo perdidas.»</l>
+                  <l>«¿Y cómo se llaman</l>
+                  <l>esas tres tus hijas</l>
+                  <l>de las que quieres</l>
+                  <l>tener noticias?»</l>
+                  <l>«La mayor, Constanza;</l>
+                  <l>la menor, Lucía,</l>
+                  <l>y la más pequeña</l>
+                  <l>es la Rosalía.»</l>
+                  <l>«¡Tú eres, pues, mi padre,</l>
+                  <l>y yo soy tu hija!</l>
+                  <l>Me voy a contarlo</l>
+                  <l>a mis hermanitas.»</l>
+                  <l>«¿No sabes, Constanza?</l>
+                  <l>¿No sabes, Lucía?</l>
+                  <l>Me he encontrado a padre</l>
+                  <l>en la fuente fría.»</l>
+                  <l>Constanza lloraba,</l>
+                  <l>lloraba Lucía</l>
+                  <l>y la más pequeña</l>
+                  <l>lloraba y reía.</l>
+                  <l>«No llores Constanza;</l>
+                  <l>no llores, Lucía,</l>
+                  <l>que la reina mora</l>
+                  <l>nos vuelve a la vida.»</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Romance de la tradición sefardí. </note>
+      </body>
+   </text>
+</TEI>

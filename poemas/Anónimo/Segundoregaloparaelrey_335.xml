@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Segundo regalo para el rey</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cantar de mio Cid</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">1913 - Ediciones de La Lectura</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Cantares de gesta</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>El Cid (Rodrigo Díaz de Vivar)</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Mandólos venir a la corth e a todos los juntar,</l>
+                  <l>quando los falló, por cuenta fizólos nonbrar:</l>
+                  <l>tres mill e seys çientos avie mió Çid el de Bivar;</l>
+                  <l>alégrasle el coraçón e tornós a sonrrisar :</l>
+                  <l>«Grado a Dios, Minaya, e a santa María madre !</l>
+                  <l>«Con más pocos ixiemos de la casa de Bivar.</l>
+                  <l>«Agora avernos riquiza, más avremos adelant.</l>
+                  <l>«Si a vos pluguiere, Minaya, e non vos caya en pesar,</l>
+                  <l>«enbiar vos quiero a Castiella, do avernos heredades,</l>
+                  <l>«al rey Alfonsso mió señor natural;</l>
+                  <l>«destas mis ganançias, que avernos fechas acá,</l>
+                  <l>«dar le quiero çient cavallos, e vos ídgelos levar;</l>
+                  <l>«desí por mí besalde la mano e firme gelo rogad</l>
+                  <l>«por mi mugier doña Ximena e mis fijas naturales,</l>
+                  <l>«si fore su merçed quenlas dexe sacar.</l>
+                  <l>«Enbiaré por ellas, e vos sabed el mensage :</l>
+                  <l>«la mugier de mió Çid e sus fijas las iffantes</l>
+                  <l>«de guisa irán por ellas que a grand ondra vernán</l>
+                  <l>«a estas tierras estrañas que nos pudiemos ganar.»</l>
+                  <l>Essora dixo Minaya: «de buena voluntad.»</l>
+                  <l>Pues esto an fablado, piénssanse de adobar.</l>
+                  <l>Ciento omnes le dio mió Çid a Albar Fáñez</l>
+                  <l>por servirle en la carrera a toda su voluntad,</l>
+                  <l>e mandó mill marcos de plata a San Pero levar</l>
+                  <l>e que los quinientos diesse a don Sancho el abbat.</l>
+               </lg>
+               <lg>
+                  <l>[…]</l>
+               </lg>
+               <lg>
+                  <l>De missa era exido essora el rey Alfonsso,</l>
+                  <l>afe Minaya Álbar Fáñez do llega tan apuosto:</l>
+                  <l>fincó sos inojos ante tod el puoblo,</l>
+                  <l>a los piedes del rey Alfons cayó con grand duolo,</l>
+                  <l>besávale las manos e fabló tan apuosto:</l>
+                  <l>«Merced, señor Alfonsso, por amor del Criador !</l>
+                  <l>«Besávavos las manos mío Çid lidiador,</l>
+                  <l>«los piedes e las manos, commo a tan buen señor,</l>
+                  <l>«quel ayades merçed, sí vos vala el Criador !</l>
+                  <l>«Echástesle de tierra, non ha la vuestra amor:</l>
+                  <l>«maguer en tierra agena, él bien faze lo so :</l>
+                  <l>«ganada a Xérica e a Onda por nombre,</l>
+                  <l>«priso a Almenar e a Murviedro que es miyor,</l>
+                  <l>«assí fizo Çebolla e adelant Castejón,</l>
+                  <l>«e Peña Cadiella, que es una peña fuort;</l>
+                  <l>«con aquestas todas de Valençia es señor,</l>
+                  <l>«obispo fizo de su mano el buen Campeador,</l>
+                  <l>«e fizo çinco lides campales e todas las arrancó.</l>
+                  <l>«Grandes son las ganançias quel dio el Criador,</l>
+                  <l>«fevos aquí las señas, verdad vos digo yo:</l>
+                  <l>«çient cavallos gruessos e corredores,</l>
+                  <l>«de siellas e de frenos todos guarnidos son,</l>
+                  <l>«bésavos las manos que los prendades vos;</l>
+                  <l>«razonas por vuestro vassallo e a vos tiene por señor.»</l>
+                  <l>Alçó la mano diestra, el rey se santigó :</l>
+                  <l>«De tan fieras ganançias commo a fechas el Campeador</l>
+                  <l>«¡ sí me vala sant Esidre ! plázme de coraçón,</l>
+                  <l>«e plázem de las nuevas que faze el Campeador ;</l>
+                  <l>«reçibo estos cavallos quem enbía de don.»</l>
+                  <l>Maguer plogo al rey, mucho pesó a Garci Ordóñez :</l>
+                  <l>«Semeja que en tierra de moros non a bivo omne,</l>
+                  <l>«quando assí faze a su guisa el Çid Campeador!»</l>
+                  <l>Dixo el rey al comde : «dexad essa razón,</l>
+                  <l>«que en todas guisas mijor me sirve que vos.»</l>
+                  <l>Fablava Minaya i a guisa de varón:</l>
+                  <l>«merçed vos pide el Çid, si vos cadiesse en sabor,</l>
+                  <l>«por su mugier doña Ximena e sus fijas amas a dos</l>
+                  <l>«saldríen del monesterio do elle las dexó,</l>
+                  <l>«e irién pora Valencia, al buen Campeador.»</l>
+                  <l>Essora dixo el rey: «Plazme de coraçóne ;</l>
+                  <l>«yo les mandaré dar conducho mientra que por mi tierra foren,</l>
+                  <l>«de fonta e de mal curiallas e de desonore;</l>
+                  <l>«quando en cabo de mi tierra aquestas dueñas foren,</l>
+                  <l>«catad cómmo las sirvades vos e el Campeadore.</l>
+                  <l>«Oídme, escuelas, e toda la mi cort !</l>
+                  <l>«non quiero que nada pierda el Campeador ;</l>
+                  <l>«a todas las escuelas que a él dizen señor</l>
+                  <l>«por que los deseredé, todo gelo suelto yo;</l>
+                  <l>«sírvanle’ sus heredades do fore el Campeador,</l>
+                  <l>«atrégoles los cuerpos de mal e de ocasión,</l>
+                  <l>«por tal fago aquesto que sirvan a so señor.»</l>
+                  <l>Minaya Álbar Fáñez las manos le besó.</l>
+                  <l>Sonrrisós el rey, tan vellido fabló :</l>
+                  <l>«Los que quisieren ir servir al Campeador</l>
+                  <l>«de mí sean quitos e vayan a la graçia del Criador.</l>
+                  <l>«Más ganaremos en esto que en otra desamor.»</l>
+                  <l>Aquí entraron en fabla iffantes de Carrión:</l>
+                  <l>«Mucho creçen las nuevas de mió Çid el Campeador,</l>
+                  <l>«bien casariemos con sus fijas pora huebos de pro.</l>
+                  <l>«Non la osariemos acometer nos esta razón.</l>
+                  <l>«mió Çid es de Bivar e nos de comdes de Carrión.»</l>
+                  <l>«Non lo dizen a nadi, e fincó esta razón.</l>
+                  <l>Minaya Álbar Fáñez al buen rey se espidió.</l>
+                  <l>«¿ Hya vos ides, Minaya ? id a la gracia del Criador !</l>
+                  <l>Levedes un portero, tengo que vos avrá pro:</l>
+                  <l>«si leváredes las dueñas, sírvanlas a su sabor,</l>
+                  <l>«fata dentro en Medina denles quanto huebos les for,</l>
+                  <l>«desí adelant piensse dellas el Campeador.»</l>
+                  <l>Espidiós Minaya e vasse de la cort.</l>
+                  <l>Iffantes de Carrión so consejo preso ane.</l>
+                  <l>dando ivan conpaña a Minaya Alvar Fáñez:</l>
+                  <l>«En todo sodes pro, en esto assí lo fagades:</l>
+                  <l>«saludadnos a mió Çid el de Bivare,</l>
+                  <l>«somos en so pro quanto lo podemos fare;</l>
+                  <l>«el Çid que bien nos quiera nada non perderave.»</l>
+                  <l>Respuso Minaya : «esto non me a por qué pesare.»</l>
+                  <l>Ido es Minaya, tórnansse los iffantes.</l>
+                  <l>Adeliñó pora San Pero, o las dueñas están,</l>
+                  <l>tan grand fue el gozo quandol vieron assomar.</l>
+                  <l>Deçido es Minaya, a ssan Pero va rogar,</l>
+                  <l>quando acabó la oraçión, a las dueñas se fo tornar:</l>
+                  <l>«Omíllom, doña Ximena, Dios vos curie de mal,</l>
+                  <l>«assí ffaga a vuestras fijas, amas a dos las iffantes.</l>
+                  <l>«Salúdavos mió Çid allá onde elle está;</l>
+                  <l>«sano lo dexé e con tan grand rictad.</l>
+                  <l>»El rey por su merçed sueltas me vos ha,</l>
+                  <l>»por levaros a Valençia que avemos por heredad.</l>
+                  <l>«Si vos viesse el Çid sanas e sin mal,</l>
+                  <l>»todo serié alegre, que non avrié ningún pesar.»</l>
+                  <l>Dixo doña Ximena: «el Criador lo mande !»</l>
+                  <l>Di0 tres cavalleros Minaya Albar Fáñez,</l>
+                  <l>enviólos a mió Çid, a Valençia do está :</l>
+                  <l>«Dezid al Canpeador, que Dios le curie de mal,</l>
+                  <l>«que su mugier e sus fijas el rey sueltas me las ha,</l>
+                  <l>«mientra que fóremos por sus tierras conducho nos mandó dar.</l>
+                  <l>«De aquestos quinze días, si Dios nos curiare de mal,</l>
+                  <l>«seremos i yo e su mugier e sus fijas que él a</l>
+                  <l>«y todas las dueñas con ellas quantas buenas ellas han.»</l>
+                  <l>Idos son los cavalleros e dello penssarán,</l>
+                  <l>remaneçió en San Pero Minaya Álbar Fáñez.</l>
+                  <l>Veriedes cavalleros venir de todas partes,</l>
+                  <l>irse quieren a Valençia a mió Çid el de Bivar.</l>
+                  <l>Que les toviesse pro rogavan a Alvar Fáñez ;</l>
+                  <l>diziendo Mianaya: «esto feré de veluntad.»</l>
+                  <l>Sessaenta e çinco cavalleros acreçídol han,</l>
+                  <l>él se tenié çiento que aduxiera d’allá ;</l>
+                  <l>por ir con estas dueñas buena conpaña se faze.</l>
+                  <l>Los quinientos marcos dio Minaya al abbat ;</l>
+                  <l>e los otros quinientos dezir vos he que faze:</l>
+                  <l>Minaya a doña Ximena e a sus fijas que ha,</l>
+                  <l>e a las otras dueñas que las sirven delant,</l>
+                  <l>el bueno de Minaya pensólas de adobar</l>
+                  <l>de los mejores guarnimientos que en Burgos pudo fallar,</l>
+                  <l>palafrés e mulas, que non parescan mal.</l>
+                  <l>Quando estas dueñas adobadas las ha,</l>
+                  <l>el bueno de Minaya pienssa de cavalgar;</l>
+                  <l>afevos Raquel e Vidas a los piedes le caen;</l>
+                  <l>«Merçed, Minaya, cavallero de prestar !</l>
+                  <l>«Desfechos nos ha el Çid, sabet, si no nos val ;</l>
+                  <l>«soltariemos la ganançia, que nos diesse el cabdal.»</l>
+                  <l>«Yo lo veré con el Çid, si Dios me lieva allá.</l>
+                  <l>«Por lo que avedes fecho buen cosiment y avrá.»</l>
+                  <l>Dixo Raquel e Vidas: «el Criador lo mande !</l>
+                  <l>«Si non, dexaremos Burgos, ir lo hemos buscar.»</l>
+                  <l>Ido es pora San Pero Minaya Álbar Fáñez,</l>
+                  <l>muchas yentes se le acogen, penssó de cavalgar,</l>
+                  <l>grand duelo es al partir del abbat :</l>
+                  <l>«¡ Sí vos vala el Criador, Minaya Álbar Fáñez !</l>
+                  <l>«por mí al Campeador las manos le besad</l>
+                  <l>«aqueste monesterio no lo quiera olbidar ;</l>
+                  <l>«todos los días del sieglo en levarlo adelant</l>
+                  <l>«el Çid Campeador siempre valdrá más.»</l>
+                  <l>Respuso Minaya: «fer lo he de veluntad.»</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Vv. 1263-1287 y 1316-1447 del Cantar de mio Cid. </note>
+      </body>
+   </text>
+</TEI>

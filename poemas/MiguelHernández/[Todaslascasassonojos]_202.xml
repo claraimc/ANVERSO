@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Todas las casas son ojos]</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cancionero y romancero de ausencias</title>
+               <date cert="high"/>
+               <pubPlace>Buenos Aires</pubPlace>
+               <publisher n="first_editor">Lautaro</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor, Conflicto, Deseo y Odio</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Todas las casas son ojos</l>
+                  <l>que resplandecen y acechan.</l>
+               </lg>
+               <lg>
+                  <l>Todas las casas son bocas</l>
+                  <l>que escupen, muerden y besan.</l>
+               </lg>
+               <lg>
+                  <l>Todas las casas son brazos</l>
+                  <l>que se empujan y se estrechan.</l>
+               </lg>
+               <lg>
+                  <l>De todas las casas salen</l>
+                  <l>soplos de sombra y de selva.</l>
+               </lg>
+               <lg>
+                  <l>En todas hay un clamor</l>
+                  <l>de sangres insatisfechas.</l>
+               </lg>
+               <lg>
+                  <l>Y a un grito todas las casas</l>
+                  <l>se asaltan y se despueblan.</l>
+                  <l>Y a un grito todas se aplacan,</l>
+                  <l>y se fecundan, y esperan.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Aunque publicado póstumamente por primera vez en 1958, el poema fue escrito en la
+            cárcel entre 1938 y 1941. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>En Castilla no había rey</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Romancero viejo</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Fernán González</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>Desconocida</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>En Castilla no había rey,</l>
+                  <l>ni menos emperador,</l>
+                  <l>sino un infante niño,</l>
+                  <l>(niño) y de poco valor;</l>
+                  <l>andábanlo por hurtar</l>
+                  <l>caballeros de Aragón.</l>
+                  <l>Hurtado le ha un carbonero</l>
+                  <l>de los que hacen carbón.</l>
+                  <l>No le muestra a cortar leña,</l>
+                  <l>ni menos hacer carbón,</l>
+                  <l>muéstrale a jugar las cañas</l>
+                  <l>y muéstrale justador,</l>
+                  <l>también a jugar los dados</l>
+                  <l>y las tablas muy mejor.</l>
+                  <l>—Vámonos —dice—, mi ayo,</l>
+                  <l>a mis tierras de Aragón;</l>
+                  <l>a mí me alzarán por rey</l>
+                  <l>y a vos por gobernador.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Para el romance, el artista sigue la edición de Paloma Díaz Mas (Madrid, Crítica,
+            1994), que es similar también a la que actualmente figura en WikiSource y que
+            reproducimos aquí. En la misma demo el artista se interesa también por el personaje de
+            Fernán González en la canción «El caballo y el azor», fragmento de las Mocedades de
+            Rodrigo (vv. 87-105) sobre el personaje. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El paso de la siguiriya</title>
+            <author>Federico García Lorca</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Poema del cante jondo</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Ulises</publisher>
+               <publisher n="used_edition">Obra completa I. Poesía 1 (Akal, 2008)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>--</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Muerte</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <idno type="viaf">http://viaf.org/viaf/34456883</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1898</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1936</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Entre mariposas negras,</l>
+                  <l>va una muchacha morena</l>
+                  <l>junto a una blanca serpiente</l>
+                  <l>de niebla.</l>
+                  <l>Tierra de luz,</l>
+                  <l>cielo de tierra.</l>
+                  <l>Va encadenada al temblor</l>
+                  <l>de un ritmo que nunca llega,</l>
+                  <l>tiene el corazón de plata</l>
+                  <l>y un puñal en la diestra.</l>
+                  <l>¿A dónde vas, siguiriya,</l>
+                  <l>con un ritmo sin cabeza?</l>
+                  <l>¿Qué luna recogerá</l>
+                  <l>tu dolor de cal y adelfa?</l>
+                  <l>Tierra de luz,</l>
+                  <l>cielo de tierra.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>El libro estaba en lo esencial escrito en 1921, pero se publicó en 1931. </note>
+      </body>
+   </text>
+</TEI>

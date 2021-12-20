@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elegía [a Ramón Sijé]</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>El rayo que no cesa</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Héroe</publisher>
+               <publisher n="used_edition">Antología Poética de Miguel Hernández - 2010 - Instituto
+                Damià Campeny</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Epitafios</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Muerte y Amistad</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>(En Orihuela, su pueblo y el mío, se me ha muerto como el rayo Ramón Sijé, con
+                    quien tanto quería.)</l>
+                  <l/>
+               </lg>
+               <lg>
+                  <l>Yo quiero ser llorando el hortelano</l>
+                  <l>de la tierra que ocupas y estercolas,</l>
+                  <l>compañero del alma, tan temprano.</l>
+               </lg>
+               <lg>
+                  <l>Alimentando lluvias, caracolas</l>
+                  <l>y órganos mi dolor sin instrumento,</l>
+                  <l>a las desalentadas amapolas</l>
+               </lg>
+               <lg>
+                  <l>daré tu corazón por alimento.</l>
+                  <l>Tanto dolor se agrupa en mi costado,</l>
+                  <l>que por doler me duele hasta el aliento.</l>
+               </lg>
+               <lg>
+                  <l>Un manotazo duro, un golpe helado,</l>
+                  <l>un hachazo invisible y homicida,</l>
+                  <l>un empujón brutal te ha derribado.</l>
+               </lg>
+               <lg>
+                  <l>No hay extensión más grande que mi herida,</l>
+                  <l>lloro mi desventura y sus conjuntos</l>
+                  <l>y siento más tu muerte que mi vida.</l>
+               </lg>
+               <lg>
+                  <l>Ando sobre rastrojos de difuntos,</l>
+                  <l>y sin calor de nadie y sin consuelo</l>
+                  <l>voy de mi corazón a mis asuntos.</l>
+               </lg>
+               <lg>
+                  <l>Temprano levantó la muerte el vuelo,</l>
+                  <l>temprano madrugó la madrugada,</l>
+                  <l>temprano estás rodando por el suelo.</l>
+               </lg>
+               <lg>
+                  <l>No perdono a la muerte enamorada,</l>
+                  <l>no perdono a la vida desatenta,</l>
+                  <l>no perdono a la tierra ni a la nada.</l>
+               </lg>
+               <lg>
+                  <l>En mis manos levanto una tormenta</l>
+                  <l>de piedras, rayos y hachas estridentes</l>
+                  <l>sedienta de catástrofes y hambrienta.</l>
+               </lg>
+               <lg>
+                  <l>Quiero escarbar la tierra con los dientes,</l>
+                  <l>quiero apartar la tierra parte a parte</l>
+                  <l>a dentelladas secas y calientes.</l>
+               </lg>
+               <lg>
+                  <l>Quiero minar la tierra hasta encontrarte</l>
+                  <l>y besarte la noble calavera</l>
+                  <l>y desamordazarte y regresarte.</l>
+               </lg>
+               <lg>
+                  <l>Volverás a mi huerto y a mi higuera:</l>
+                  <l>por los altos andamios de las flores</l>
+                  <l>pajareará tu alma colmenera</l>
+               </lg>
+               <lg>
+                  <l>de angelicales ceras y labores.</l>
+                  <l>Volverás al arrullo de las rejas</l>
+                  <l>de los enamorados labradores.</l>
+               </lg>
+               <lg>
+                  <l>Alegrarás la sombra de mis cejas,</l>
+                  <l>y tu sangre se irán a cada lado</l>
+                  <l>disputando tu novia y las abejas.</l>
+               </lg>
+               <lg>
+                  <l>Tu corazón, ya terciopelo ajado,</l>
+                  <l>llama a un campo de almendras espumosas</l>
+                  <l>mi avariciosa voz de enamorado.</l>
+               </lg>
+               <lg>
+                  <l>A las aladas almas de las rosas</l>
+                  <l>del almendro de nata te requiero,</l>
+                  <l>que tenemos que hablar de muchas cosas,</l>
+                  <l>compañero del alma, compañero.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Miguel Ángel Rodríguez musicalizó por primera vez este poema de Miguel Hernández
+            (Manifiesto Canción del Sur, 1971), y luego lo hizo Joan Manuel Serrat (Miguel
+            Hernández, 1972). Ninguna de estados dos versiones está incluida en esta base de datos
+            por ser anteriores a 1975. </note>
+      </body>
+   </text>
+</TEI>

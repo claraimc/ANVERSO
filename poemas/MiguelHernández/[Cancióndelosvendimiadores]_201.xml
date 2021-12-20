@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Canción de los vendimiadores]</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Los hijos de la piedra [obra de teatro]</title>
+               <date cert="high"/>
+               <pubPlace>Buenos Aires</pubPlace>
+               <publisher n="first_editor">Quetzal</publisher>
+               <publisher n="used_edition">2002-Ediciones de la Torre [Antología comentada. Tomo II:
+                Teatro, prosa y epistolario]</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Teatro en verso</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Esperanza y Labor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>VENDIMIADORES (cantando)</l>
+               </lg>
+               <lg>
+                  <l>Si vas a la vendimia,</l>
+                  <l>mi niña, sola,</l>
+                  <l>con la saya</l>
+                  <l>de cualquier forma.</l>
+                  <l>Y a pocos meses</l>
+                  <l>te rondarán el talle</l>
+                  <l>sandías verdes.</l>
+               </lg>
+               <lg>
+                  <l>VENDIMIADORAS</l>
+               </lg>
+               <lg>
+                  <l>De la vendimia vengo</l>
+                  <l>sola, mi niño,</l>
+                  <l>con la saya ordenada</l>
+                  <l>y talle fino.</l>
+                  <l>De la vendimia</l>
+                  <l>vuelve revuelto el talle</l>
+                  <l>que se malicia.</l>
+               </lg>
+               <lg>
+                  <l>VENDIMIADORES</l>
+               </lg>
+               <lg>
+                  <l>A la vendimia, niñas</l>
+                  <l>vendimiadoras.</l>
+                  <l>A la vendimia, niña,</l>
+                  <l>que ya es la hora.</l>
+                  <l>¡Si vendimiara</l>
+                  <l>el ramo de tu pecho</l>
+                  <l>y el de tu cara!</l>
+               </lg>
+               <lg>
+                  <l>VENDIMIADORAS</l>
+               </lg>
+               <lg>
+                  <l>A la vendimia, niños</l>
+                  <l>vendimiadores.</l>
+                  <l>A la vendimia, niño,</l>
+                  <l>van mis amores.</l>
+                  <l>Mas con el cuido</l>
+                  <l>de no perder las hojas</l>
+                  <l>ni los racimos.</l>
+               </lg>
+               <lg>
+                  <l>VENDIMIADORES</l>
+               </lg>
+               <lg>
+                  <l>Enriquezco tu mano</l>
+                  <l>cortando uvas</l>
+                  <l>cubiertas por los soles</l>
+                  <l>y por las lunas.</l>
+                  <l>¡Ay si quisieras</l>
+                  <l>que cortara tus besos</l>
+                  <l>con mis tijeras!</l>
+               </lg>
+               <lg>
+                  <l>VENDIMIADORAS</l>
+               </lg>
+               <lg>
+                  <l>Cuando pisa racimos</l>
+                  <l>tu abarca verde,</l>
+                  <l>tu pie se vuelve sangre,</l>
+                  <l>mi sangre nieve.</l>
+                  <l>Pisa las uvas,</l>
+                  <l>que como mis amores</l>
+                  <l>ya están maduras.</l>
+               </lg>
+               <lg>
+                  <l>[Sigue la escena, diálogo en prosa entre vendimiadores y vendimiadoras]</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Aunque se publicó por primera vez póstumamente en 1959, Los hijos de la piedra es una
+            obra de teatro reivindicativo, que Miguel Hernández compuso durante la Guerra Civil y se
+            representó en 1935. El título de «Canción de los vendimiadores» se le ha dado con
+            posterioridad; en la obra de teatro, aparece simplemente como escena primera del segundo
+            acto, con esta acotación: «Vendimiadoras y vendimiadores, cuatro y cuatro, en la faena
+            de recolección: ellos cortando racimos y ellas ordenándolos en canastas». </note>
+      </body>
+   </text>
+</TEI>

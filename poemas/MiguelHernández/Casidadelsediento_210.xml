@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Casida del sediento</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cancionero y romancero de ausencias</title>
+               <date cert="high"/>
+               <pubPlace>Buenos Aires</pubPlace>
+               <publisher n="first_editor">Lautaro</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Casidas</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Deseo</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Arena del desierto</l>
+                  <l>soy, desierto de sed.</l>
+               </lg>
+               <lg>
+                  <l>Oasis es tu boca</l>
+                  <l>donde no he de beber.</l>
+               </lg>
+               <lg>
+                  <l>Boca: Oasis abierto</l>
+                  <l>a todas las arenas del desierto.</l>
+               </lg>
+               <lg>
+                  <l>Húmedo punto en medio</l>
+                  <l>de un mundo abrasador,</l>
+                  <l>el de tu cuerpo, el tuyo,</l>
+                  <l>que nunca es de los dos.</l>
+               </lg>
+               <lg>
+                  <l>Cuerpo: pozo cerrado</l>
+                  <l>a quien la sed y el sol han calcinado.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Aunque publicado póstumamente por primera vez en 1958, el poema fue escrito en la
+            cárcel entre 1938 y 1941. Hubo una primera musicalización de este poema por Francisco
+            Curto (Miguel Hernández, 1974), pero, al ser anterior a 1975, no está recogida en esta
+            base de datos. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La paloma (versión libre)</title>
+            <author>Ángel González</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Tratado de urbanismo</title>
+               <date cert="high"/>
+               <pubPlace>Barcelona</pubPlace>
+               <publisher n="first_editor">Seix Barral [Col. El Bardo]</publisher>
+               <publisher n="used_edition">2017-Planeta [Austral]</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Esperanza</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Ángel González</persName>
+                  <idno type="viaf">http://viaf.org/viaf/84475449</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1925</date>
+                  </birth>
+                  <death>
+                     <date cert="low">2008</date>
+                  </death>
+                  <floruit>Generación del 50</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Se habla de la esperanza</l>
+                  <l>últimamente.</l>
+               </lg>
+               <lg>
+                  <l>… en donde vivo yo</l>
+               </lg>
+               <lg>
+                  <l>Alguien la vio pasar por los suburbios</l>
+                  <l>de París, allá hacia el año</l>
+                  <l>mil novecientos cuarenta</l>
+                  <l>y tantos. Poco después</l>
+                  <l>aparecieron huellas de su vuelo</l>
+                  <l>en Roma. También es cierto</l>
+                  <l>que desde las Antillas voló un día</l>
+                  <l>tan alta, que su sombra</l>
+                  <l>cubrió pueblos enteros,</l>
+                  <l>acarició los montes y los ríos,</l>
+                  <l>cruzó sobre las olas,</l>
+                  <l>saltó a otros continentes,</l>
+                  <l>parecía…</l>
+               </lg>
+               <lg>
+                  <l>… ay, que vente conmigo</l>
+                  <l>adonde vivo yo.</l>
+               </lg>
+               <lg>
+                  <l>Años más tarde,</l>
+                  <l>un profesor ilustre</l>
+                  <l>dedujo de unas plumas mancilladas,</l>
+                  <l>halladas entre sangre</l>
+                  <l>cerca de un arrozal, en el Sudeste</l>
+                  <l>asiático, que ahí</l>
+                  <l>estaba</l>
+                  <l>ella:</l>
+                  <l>en el sitio y la hora de la ira.</l>
+               </lg>
+               <lg>
+                  <l>… en donde vivo yo</l>
+               </lg>
+               <lg>
+                  <l>No en el lugar del pacto, no</l>
+                  <l>en el de la renuncia,</l>
+                  <l>jamás en el dominio</l>
+                  <l>de la conformidad,</l>
+                  <l>donde la vida se doblega, nunca.</l>
+               </lg>
+               <lg>
+                  <l>… en donde muero yo.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>La canción musicaliza el poema original sin alteraciones textuales de ningún tipo. En
+            la práctica, lo que ocurre es que el propio Ángel González recita el poema (sin
+            cantarlo), con acompañamiento musical de Pedro Guerra, quien, además, entona a modo de
+            estribillo los versos en cursiva. </note>
+      </body>
+   </text>
+</TEI>

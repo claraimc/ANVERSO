@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romance del enamorado y la muerte</title>
+            <author>Juan del Encina</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cancionero musical de Palacio</title>
+               <date cert="high"/>
+               <pubPlace>Salamanca</pubPlace>
+               <publisher n="first_editor">Cancionero de las obras de Juan del Encina</publisher>
+               <publisher n="used_edition">An Electronic Corpus of 15th Century Castilian Cancionero
+                Manuscripts</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor y Muerte</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Juan del Encina</persName>
+                  <idno type="viaf">http://viaf.org/viaf/160940015</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1468</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1529</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Yo me eſtava repoſando</l>
+                  <l>durmiendo como ſolia</l>
+                  <l>recorde triſte llorando</l>
+                  <l>con gran pena que ſentia</l>
+                  <l>Levante me muy ſin tiento</l>
+                  <l>de la cama en que dormia</l>
+                  <l>cercado de penſamiento</l>
+                  <l>que valer no me podia</l>
+                  <l>Mi paſſion era tan fuerte</l>
+                  <l>que de mi yo no ſabia</l>
+                  <l>comigo eſtava la muerte</l>
+                  <l>por tener me compañia</l>
+                  <l>Lo que mas me fatigava</l>
+                  <l>no era porque muria</l>
+                  <l>mas era porque dexava</l>
+                  <l>de ſervir a quien ſervia</l>
+                  <l>Servia yo vna ſeñora</l>
+                  <l>que mas que a mi la queria</l>
+                  <l>y ella fue la cauſadora</l>
+                  <l>de mi mal ſin mejoria</l>
+                  <l>La media noche paſſada</l>
+                  <l>ya que era cerca del dia</l>
+                  <l>ſali me de mi poſada</l>
+                  <l>por ver ſi deſcanſaria</l>
+                  <l>Fuy para donde morava</l>
+                  <l>aquella que mas queria</l>
+                  <l>por quien yo triſte penava</l>
+                  <l>mas ella no parecia</l>
+                  <l>Andando todo turbado</l>
+                  <l>con las anſias que tenia</l>
+                  <l>vi venir a mi cuydado</l>
+                  <l>dando bozes y dezia</l>
+                  <l>Si dormis linda ſeñora</l>
+                  <l>recordad por corteſia</l>
+                  <l>pues que fueſtes cauſadora</l>
+                  <l>de la deſventura mia</l>
+                  <l>Remediad mi gran triſtura</l>
+                  <l>ſatiſfazed mi porfia</l>
+                  <l>porque ſi falta ventura</l>
+                  <l>del todo me perderia</l>
+                  <l>Y con mis ojos lloroſos</l>
+                  <l>vn triſte llanto hazia</l>
+                  <l>con ſoſpiros congoxoſos</l>
+                  <l>y nadie no parecia</l>
+                  <l>En eſtas cuytas eſtando</l>
+                  <l>como vi que eſclarecia</l>
+                  <l>a mi caſa ſoſpirando</l>
+                  <l>me bolui ſin alegria.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Aunque aparece en el Cancionero de 1496, nos interesa más pro su presencia en el
+            Cancionero musical de Palacio. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El último rincón</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cancionero y romancero de ausencias</title>
+               <date cert="high"/>
+               <pubPlace>Buenos Aires</pubPlace>
+               <publisher n="first_editor">Lautaro</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor, Prisión, Libertad y Muerte</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>El último y el primero:</l>
+                  <l>rincón para el sol más grande,</l>
+                  <l>sepultura de esta vida</l>
+                  <l>donde tus ojos no caben.</l>
+                  <l>Allí quisiera tenderme</l>
+                  <l>para desenamorarme.</l>
+                  <l>Por el olivo lo quiero,</l>
+                  <l>lo persigo por la calle,</l>
+                  <l>se sume por los rincones,</l>
+                  <l>donde se sumen los árboles.</l>
+                  <l>Se ahonda y hace más honda</l>
+                  <l>la intensidad de mi sangre.</l>
+                  <l>Carne de mi movimiento,</l>
+                  <l>huesos de ritmos mortales,</l>
+                  <l>me muero por respirar</l>
+                  <l>sobre vuestros ademanes.</l>
+                  <l>Corazón que entre dos piedras</l>
+                  <l>ansiosas de machacarte,</l>
+                  <l>de tanto querer te ahogas</l>
+                  <l>como un mar entre dos mares.</l>
+                  <l>De tanto querer me ahogo,</l>
+                  <l>y no me es posible ahogarme.</l>
+                  <l>¿Qué hice para que pusieran</l>
+                  <l>a mi vida tanta cárcel?</l>
+                  <l>Tu pelo donde lo negro</l>
+                  <l>ha sufrido las edades</l>
+                  <l>de la negrura más firme,</l>
+                  <l>y la más emocionante:</l>
+                  <l>tu secular pelo negro</l>
+                  <l>recorro hasta remontarme</l>
+                  <l>a la negrura primera</l>
+                  <l>de tus ojos y tus padres:</l>
+                  <l>al rincón de pelo denso</l>
+                  <l>donde relampagueaste.</l>
+                  <l>Ay, el rincón de tu vientre;</l>
+                  <l>el callejón de tu carne:</l>
+                  <l>el callejón sin salida</l>
+                  <l>donde agonicé una tarde.</l>
+                  <l>La pólvora y el amor</l>
+                  <l>marchan sobre las ciudades</l>
+                  <l>deslumbrando, removiendo</l>
+                  <l>la población de la sangre.</l>
+                  <l>El naranjo sabe a vida</l>
+                  <l>y el olivo a tiempo sabe</l>
+                  <l>y entre el clamor de los dos</l>
+                  <l>mis pasiones se debaten.</l>
+                  <l>El último y el primero:</l>
+                  <l>náufrago rincón, estanque</l>
+                  <l>de saliva detenida</l>
+                  <l>sobre su amoroso cauce.</l>
+                  <l>Siesta que ha entenebrecido</l>
+                  <l>el sol de las humedades.</l>
+                  <l>Allí quisiera tenderme</l>
+                  <l>para desenamorarme.</l>
+                  <l>Después del amor, la tierra.</l>
+                  <l>Después de la tierra, nadie.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Aunque publicado póstumamente por primera vez en 1958, el poema fue escrito en la
+            cárcel entre 1938 y 1941. </note>
+      </body>
+   </text>
+</TEI>

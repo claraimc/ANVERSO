@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El nazareno</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>[Poemas no recogidos en libro - primeros poemas]</title>
+               <date cert="high"/>
+               <pubPlace>Orihuela</pubPlace>
+               <publisher n="first_editor">Voluntad [15 de abril]</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Sonetos</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Semana Santa</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Se horrorizan los ancianos, se conmueven las doncellas</l>
+                  <l>enseñando las pupilas tras los mantos y los velos</l>
+                  <l>anegadas por el llanto. Y las masas por los suelos</l>
+                  <l>caen mostrando, de temores y dolor en la faz, huellas.</l>
+               </lg>
+               <lg>
+                  <l>Enmudecen los clarines; no se escuchan las querellas</l>
+                  <l>de tristísimas saetas, ni la voz de los abuelos</l>
+                  <l>que pidiendo van por Cristo. Y en el rostro de los cielos</l>
+                  <l>como lágrimas enormes se estremecen las estrellas.</l>
+               </lg>
+               <lg>
+                  <l>Reina un hórrido silencio que es tan sólo interrumpido</l>
+                  <l>por redobles de tambores y algún lúgubre gemido</l>
+                  <l>que se sube hasta los labios de un pecho de fe lleno…</l>
+               </lg>
+               <lg>
+                  <l>Y entre mil encapuchados con mil llamas de mil cirios,</l>
+                  <l>con las carnes desgarradas aún más pálidas que lirios</l>
+                  <l>y la cruz sobre los hombros, cruza, humilde, el Nazareno.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Se trata de uno de los primeros poemas de Miguel Hernández, publicado el 15 de abril
+            de 1930 en el diario Voluntad, de Orihuela. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Acababa el rey Fernando</title>
+            <author>Juan de Escobar</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Romancero e historia del muy noble y valeroso cavallero, el Cid Ruy Diez
+            de Bivar en romances en lenguaje antiguo</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">1706 - Martín de Zavala</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Doña Urraca</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Juan de Escobar</persName>
+                  <idno type="viaf">http://viaf.org/viaf/71438109</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1500</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1600</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Acababa el rey Fernando</l>
+                  <l>de destribuir sus tierras</l>
+                  <l>cercano para la muerte</l>
+                  <l>que le amenaza de cerca.</l>
+                  <l>Quando por la triste sala,</l>
+                  <l>de negro luto cubierta,</l>
+                  <l>la olvidada infanta Vrraca</l>
+                  <l>vertiendo lágrimas entra;</l>
+                  <l>y viendo a su padre el Rey</l>
+                  <l>con devida reverencia,</l>
+                  <l>de hinojos ante la cama</l>
+                  <l>la mano le pide y besa;</l>
+                  <l>y después de haber mostrado</l>
+                  <l>con tierno llanto sus quexas,</l>
+                  <l>mostrando la voz humilde</l>
+                  <l>así la Infanta se queja:</l>
+                  <l>—Entre divinas y humanas</l>
+                  <l>¿qué ley, padre, vos enseña</l>
+                  <l>para mejorar los homes</l>
+                  <l>desheredar a las fembras?</l>
+                  <l>Alfonso, Sancho y García,</l>
+                  <l>que están en vuessa presencia,</l>
+                  <l>dexáis todos los averes</l>
+                  <l>y de mí non se vos lembra;</l>
+                  <l>non devo ser vuestra fija,</l>
+                  <l>que os forçara si lo fuera</l>
+                  <l>a tener de mí lembranza</l>
+                  <l>la vuessa naturaleza.</l>
+                  <l>Si legítima non soy</l>
+                  <l>muger que bastarda fuera,</l>
+                  <l>de alimentar los mestizos</l>
+                  <l>avedes naturaleza.</l>
+                  <l>Y si assí non es, dezid:</l>
+                  <l>¿qué culpa me deshereda?</l>
+                  <l>¿qué desacato vos fize</l>
+                  <l>que tal castigo merezca?</l>
+                  <l>Si tal tuerto me fazéis,</l>
+                  <l>las naciones estrangeras</l>
+                  <l>y los vuessos homes buenos</l>
+                  <l>¿qué dirán cuando lo sepan?</l>
+                  <l>Que non es derecho, non,</l>
+                  <l>ni tal es razón que sea</l>
+                  <l>pudiendo ganallo en lides</l>
+                  <l>dar a los homes fazienda.</l>
+                  <l>Si tierras no me dexáis</l>
+                  <l>iréme por las agenas,</l>
+                  <l>y por cubrir vuesso tuerto</l>
+                  <l>negaré ser fija vuestra.</l>
+                  <l>En traje de peregrina</l>
+                  <l>pobre iré, mas fazed cuenta</l>
+                  <l>que las romeras a veces</l>
+                  <l>suelen fincar en rameras.</l>
+                  <l>Sangre noble me acompaña,</l>
+                  <l>mas cuydo que mi nobleza</l>
+                  <l>como estraña olvidaré</l>
+                  <l>pues que por tal me desechan—.</l>
+                  <l>Tales palabras habló</l>
+                  <l>y esperando la respuesta</l>
+                  <l>dió principio al tierno llanto</l>
+                  <l>poniendo fin á sus quexas.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Versión de Juan de Escobar del motivo conocido como «Quejas de doña Urraca». </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Yo no quiero más luz que tu cuerpo ante el mío</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>[Poemas no recogidos en libro - 1937-1939]</title>
+               <date cert="high"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Yo no quiero más luz que tu cuerpo ante el mío:</l>
+                  <l>claridad absoluta, transparencia redonda.</l>
+                  <l>Limpidez cuya extraña, como el fondo del río,</l>
+                  <l>con el tiempo se afirma, con la sangre se ahonda.</l>
+               </lg>
+               <lg>
+                  <l>¿Qué lucientes materias duraderas te han hecho,</l>
+                  <l>corazón de alborada, carnación matutina?</l>
+                  <l>Yo no quiero más día que el que exhala tu pecho.</l>
+                  <l>Tu sangre es la mañana que jamás se termina.</l>
+               </lg>
+               <lg>
+                  <l>No hay más luz que tu cuerpo, no hay más sol: todo ocaso.</l>
+                  <l>Yo no veo las cosas a otra luz que tu frente.</l>
+                  <l>La otra luz es fantasma, nada más, de tu paso.</l>
+                  <l>Tu insondable mirada nunca gira al poniente.</l>
+               </lg>
+               <lg>
+                  <l>Claridad sin posible declinar. Suma esencia</l>
+                  <l>del fulgor que ni cede ni abandona la cumbre.</l>
+                  <l>Juventud. Limpidez. Claridad. Transparencia</l>
+                  <l>acercando los astros más lejanos de lumbre.</l>
+               </lg>
+               <lg>
+                  <l>Claro cuerpo moreno de calor fecundante.</l>
+                  <l>Hierba negra el origen; hierba negra las sienes.</l>
+                  <l>Trago negro los ojos, la mirada distante.</l>
+                  <l>Día azul. Noche clara. Sombra clara que vienes.</l>
+               </lg>
+               <lg>
+                  <l>Yo no quiero más luz que tu sombra dorada</l>
+                  <l>donde brotan anillos de una hierba sombría.</l>
+                  <l>En mi sangre, fielmente por tu cuerpo abrasada,</l>
+                  <l>para siempre es de noche: para siempre es de día.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

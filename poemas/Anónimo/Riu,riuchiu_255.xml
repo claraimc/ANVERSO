@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Riu, riu chiu</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cancionero de Upsala</title>
+               <date cert="high"/>
+               <pubPlace>Venecia</pubPlace>
+               <publisher n="first_editor">Girolamo Scotto</publisher>
+               <publisher n="used_edition">1556 - Girolamo Scotto</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Villancicos (Literatura)</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Natividad, Trinidad, Inmaculada Concepción, Humanidad de Cristo, Divinidad de Cristo
+            y Salvación</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Riu, riu, chiu, la guarda ribera,</l>
+                  <l>Dios guardó el lobo de nuestra cordera.</l>
+               </lg>
+               <lg>
+                  <l>El lobo rabioso</l>
+                  <l>la quiso morder,</l>
+                  <l>mas Dios poderoso</l>
+                  <l>la supo defender.</l>
+                  <l>Quísole hazer</l>
+                  <l>que no pudiesse pecar,</l>
+                  <l>Ni aún original</l>
+                  <l>esta virgen no tuviera.</l>
+               </lg>
+               <lg>
+                  <l>Riu, riu, chiu, la guarda ribera,</l>
+                  <l>Dios guardó el lobo de nuestra cordera.</l>
+               </lg>
+               <lg>
+                  <l>Este ques nacido</l>
+                  <l>es el gran monarcha,</l>
+                  <l>Christo patriarcha</l>
+                  <l>de carne vestido.</l>
+                  <l>A nos redimido</l>
+                  <l>con se hazer chiquito,</l>
+                  <l>aunque era infinito,</l>
+                  <l>finito se hiziera.</l>
+               </lg>
+               <lg>
+                  <l>Riu, riu, chiu, la guarda ribera,</l>
+                  <l>Dios guardó el lobo de nuestra cordera.</l>
+               </lg>
+               <lg>
+                  <l>Muchas profecías</l>
+                  <l>lo an profetizado,</l>
+                  <l>Y aún en nuestros días</l>
+                  <l>lo hemos alcançado.</l>
+                  <l>A Dios humanado</l>
+                  <l>vemos en el suelo,</l>
+                  <l>y al hombre nel cielo</l>
+                  <l>porquel le quisiera.</l>
+               </lg>
+               <lg>
+                  <l>Riu, riu, chiu, la guarda ribera,</l>
+                  <l>Dios guardó el lobo de nuestra cordera.</l>
+               </lg>
+               <lg>
+                  <l>Yo vi mil garçones</l>
+                  <l>que andavan cantando,</l>
+                  <l>por aquí bolando</l>
+                  <l>haziendo mil sones,</l>
+                  <l>diziendo a gascones</l>
+                  <l>«Gloria sea en el cielo</l>
+                  <l>y paz en el suelo,</l>
+                  <l>pues Jesús nasçiera».</l>
+               </lg>
+               <lg>
+                  <l>Riu, riu, chiu, la guarda ribera,</l>
+                  <l>Dios guardó el lobo de nuestra cordera.</l>
+               </lg>
+               <lg>
+                  <l>Este viene a dar</l>
+                  <l>a los muertos vida,</l>
+                  <l>y viene a reparar</l>
+                  <l>de todos la caýda.</l>
+                  <l>Es la luz del día</l>
+                  <l>aqueste moçuelo,</l>
+                  <l>este es el cordero</l>
+                  <l>que San Juan dixera.</l>
+               </lg>
+               <lg>
+                  <l>Riu, riu, chiu, la guarda ribera,</l>
+                  <l>Dios guardó el lobo de nuestra cordera.</l>
+               </lg>
+               <lg>
+                  <l>Mira bien que os quadre</l>
+                  <l>que ansina lo oyera,</l>
+                  <l>que Dios no pudiera</l>
+                  <l>hazerla más que madre.</l>
+                  <l>El qu’era su padre,</l>
+                  <l>oy d’ella nasçió,</l>
+                  <l>y el que la crió,</l>
+                  <l>su hyo se dixera.</l>
+               </lg>
+               <lg>
+                  <l>Riu, riu, chiu, la guarda ribera,</l>
+                  <l>Dios guardó el lobo de nuestra cordera.</l>
+               </lg>
+               <lg>
+                  <l>Pues que ya tenemos</l>
+                  <l>lo que desseamos,</l>
+                  <l>todos juntos vamos</l>
+                  <l>presentes llevemos;</l>
+                  <l>todos le daremos</l>
+                  <l>nuestra voluntad,</l>
+                  <l>pues a se igualar</l>
+                  <l>con el hombre viniera.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Puede verse este villancico atribuido a Mateo Flecha, el Viejo. </note>
+      </body>
+   </text>
+</TEI>

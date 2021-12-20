@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>XXV. Manuel Rodríguez. Cueca</title>
+            <author>Pablo Neruda</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Canto General</title>
+               <date cert="high"/>
+               <pubPlace>México</pubPlace>
+               <publisher n="first_editor">Talleres Gráficos de La Nación</publisher>
+               <publisher n="used_edition">1981-Biblioteca Ayacucho</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesías históricas y Poesías narrativas</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Independencia, Historia de Chile y Héroes</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Pablo Neruda</persName>
+                  <idno type="viaf">http://viaf.org/viaf/95126958</idno>
+                  <nationality>Chile</nationality>
+                  <birth>
+                     <date cert="low">1904</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1973</date>
+                  </death>
+                  <floruit>Otro</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>XXV</l>
+                  <l>MANUEL RODRIGUEZ</l>
+                  <l>CUECA</l>
+                  <l>Señora, dicen que donde,</l>
+                  <l>mi madre dicen, dijeron,</l>
+                  <l>el agua y el viento dicen</l>
+                  <l>que vieron al guerrillero.</l>
+               </lg>
+               <lg>
+                  <l>VIDA</l>
+                  <l>Puede ser un obispo,</l>
+                  <l>puede y no puede,</l>
+                  <l>puede ser sólo el viento</l>
+                  <l>sobre la nieve:</l>
+                  <l>sobre la nieve, sí,</l>
+                  <l>madre, no mires,</l>
+                  <l>que viene galopando</l>
+                  <l>Manuel Rodríguez.</l>
+                  <l>Ya viene el guerrillero</l>
+                  <l>por el estero.</l>
+               </lg>
+               <lg>
+                  <l>CUECA</l>
+                  <l>PASION</l>
+                  <l>Saliendo de Melipilla,</l>
+                  <l>corriendo por Talagante,</l>
+                  <l>cruzando por San Fernando,</l>
+                  <l>amaneciendo en Pomaire.</l>
+               </lg>
+               <lg>
+                  <l>Pasando por Rancagua,</l>
+                  <l>por San Rosendo,</l>
+                  <l>por Cauquenes, por Chena,</l>
+                  <l>por Nacimiento:</l>
+                  <l>por Nacimiento, sí,</l>
+                  <l>desde Chiñigüe,</l>
+                  <l>por todas partes viene</l>
+                  <l>Manuel Rodríguez.</l>
+                  <l>Pásale este clavel.</l>
+                  <l>Vamos con él.</l>
+               </lg>
+               <lg>
+                  <l>CUECA</l>
+                  <l>Que se apague la guitarra,</l>
+                  <l>que la patria está de duelo.</l>
+                  <l>Nuestra tierra se oscurece.</l>
+                  <l>Mataron al guerrillero.</l>
+               </lg>
+               <lg>
+                  <l>Y MUERTE</l>
+                  <l>En Til-Til lo mataron</l>
+                  <l>los asesinos,</l>
+                  <l>su espalda está sangrando</l>
+                  <l>sobre el camino:</l>
+                  <l>sobre el camino, sí.</l>
+               </lg>
+               <lg>
+                  <l>Quien lo diría,</l>
+                  <l>el que era nuestra sangre,</l>
+                  <l>nuestra alegría.</l>
+               </lg>
+               <lg>
+                  <l>La tierra está llorando.</l>
+                  <l>Vamos callando.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

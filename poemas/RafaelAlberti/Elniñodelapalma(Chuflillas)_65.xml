@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El niño de la palma (Chuflillas)</title>
+            <author>Rafael Alberti</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>El alba de alhelí</title>
+               <date cert="high"/>
+               <pubPlace>Santander</pubPlace>
+               <publisher n="first_editor">Talleres Tipográficos de La Atalaya (Editorial
+                Montañesa)</publisher>
+               <publisher n="used_edition">Obras completas. Poesía I (Seix Barral - 2003)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Letrillas</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Toros y Muerte</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <idno type="viaf">http://viaf.org/viaf/51683733</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1902</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1999</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>¡Qué revuelo!</l>
+               </lg>
+               <lg>
+                  <l>¡Aire, que al toro torillo</l>
+                  <l>lo pica el pájaro pillo</l>
+                  <l>que no pone el pie en el suelo!</l>
+               </lg>
+               <lg>
+                  <l>¡Qué revuelo!</l>
+               </lg>
+               <lg>
+                  <l>Ángeles con cascabeles</l>
+                  <l>arman la marimorena,</l>
+                  <l>plumas nevando en la arena</l>
+                  <l>rubí de los redondeles.</l>
+                  <l>La Virgen de los caireles</l>
+                  <l>baja una palma del cielo.</l>
+               </lg>
+               <lg>
+                  <l>¡Qué revuelo!</l>
+               </lg>
+               <lg>
+                  <l>—Vengas o no en busca mía,</l>
+                  <l>torillo mala persona,</l>
+                  <l>dos cirios y una corona</l>
+                  <l>tendrás en la enfermería.</l>
+               </lg>
+               <lg>
+                  <l>¡Qué alegría!</l>
+                  <l>¡Cógeme, torillo fiero!</l>
+                  <l>¡Qué salero!</l>
+               </lg>
+               <lg>
+                  <l>De la gloria, a tus pitones,</l>
+                  <l>bajé, gorrión de oro,</l>
+                  <l>a jugar contigo al toro,</l>
+                  <l>no a pedirte explicaciones.</l>
+                  <l>¡A ver si te las compones</l>
+                  <l>y vuelves vivo al chiquero!</l>
+               </lg>
+               <lg>
+                  <l>¡Qué salero!</l>
+                  <l>¡Cógeme, torillo fiero!</l>
+               </lg>
+               <lg>
+                  <l>Alas en las zapatillas,</l>
+                  <l>céfiros en las hombreras,</l>
+                  <l>canario de las barreras,</l>
+                  <l>vuelas con las banderillas.</l>
+                  <l>Campanillas</l>
+                  <l>te nacen en las chorreras.</l>
+               </lg>
+               <lg>
+                  <l>¡Qué salero!</l>
+                  <l>¡Cógeme, torillo fiero!</l>
+               </lg>
+               <lg>
+                  <l>Te digo y te lo repito,</l>
+                  <l>para no comprometerte,</l>
+                  <l>que tenga cuernos la muerte</l>
+                  <l>a mí se me importa un pito.</l>
+                  <l>Da, toro torillo, un grito</l>
+                  <l>y ¡a la gloria en angarillas!</l>
+               </lg>
+               <lg>
+                  <l>¡Qué salero!</l>
+                  <l>¡Que te arrastran las mulillas!</l>
+                  <l>¡Cógeme, torillo fiero!</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Hubo una musicalización anterior a 1975, por eso no recogida en esta base de datos:
+            Mikaela (Mikaela canta poesías de Rafael Alberti, 1970). </note>
+      </body>
+   </text>
+</TEI>

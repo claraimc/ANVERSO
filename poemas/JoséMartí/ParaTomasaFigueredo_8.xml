@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Para Tomasa Figueredo</title>
+            <author>José Martí</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Obras completas (Tomo 17)</title>
+               <date cert="high"/>
+               <pubPlace>Estados Unidos</pubPlace>
+               <publisher n="first_editor">Ver comentario</publisher>
+               <publisher n="used_edition">Editiorial Nacional de Cuba-1964</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica y Poesías sociales</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor, Revolución, Esperanza y Patria</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>José Martí</persName>
+                  <idno type="viaf">http://viaf.org/viaf/73865537</idno>
+                  <nationality>Cuba</nationality>
+                  <birth>
+                     <date cert="low">1853</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1895</date>
+                  </death>
+                  <floruit>Modernismo</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>No sé qué tienen las flores,</l>
+                  <l>lindísima bayamesa,</l>
+                  <l>que unas se secan muy pronto;</l>
+                  <l>que hay otras que no se secan.</l>
+               </lg>
+               <lg>
+                  <l>De blancas flores un ramo</l>
+                  <l>ayer me diste en tu casa,</l>
+                  <l>y hoy las fui a ver, niña mía,</l>
+                  <l>y las encontré más blancas.</l>
+               </lg>
+               <lg>
+                  <l>Así como el alma en pena,</l>
+                  <l>como un clavel amarillo,</l>
+                  <l>besa tu mano y el alma</l>
+                  <l>se pone color de lirio.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>El poema original fue escrito por José Martí en la parte posterior de un retrato de sí
+            mismo que él regaló a Tomasa Figueredo (Obras completas (Tomo 17), página 210). Se fecha
+            del 7 de diciembre de 1892 en Cayo Hueso, Florida, EE.UU. </note>
+      </body>
+   </text>
+</TEI>

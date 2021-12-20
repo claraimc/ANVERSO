@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Lloraba recio, golpeando, oscuro]</title>
+            <author>Rafael Alberti</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Entre el clavel y la espada</title>
+               <date cert="high"/>
+               <pubPlace>Buenos Aires</pubPlace>
+               <publisher n="first_editor">Losada</publisher>
+               <publisher n="used_edition">Obras completas. Poesía II (Seix Barral - 2003)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Sonetos</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Toros y Exilio</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <idno type="viaf">http://viaf.org/viaf/51683733</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1902</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1999</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Lloraba recio, golpeando, oscuro,</l>
+                  <l>las humanas paredes sin salida.</l>
+                  <l>Para marcarlo de una sacudida,</l>
+                  <l>lo esperaba la luz fuera del muro.</l>
+               </lg>
+               <lg>
+                  <l>Grito en la entraña que lo hincó, futuro,</l>
+                  <l>desventuradamente y resistida</l>
+                  <l>por la misma cerrada, abierta herida</l>
+                  <l>que ha de exponerlo al primer golpe duro.</l>
+               </lg>
+               <lg>
+                  <l>¡Qué desconsolación y qué ventura!</l>
+                  <l>Monstruo batido en sangre, descuajado</l>
+                  <l>de la cueva carnal del sufrimiento.</l>
+               </lg>
+               <lg>
+                  <l>Mama la luz y agótala, criatura,</l>
+                  <l>tabícala en tu ser iluminado,</l>
+                  <l>que mamas con la leche el pensamiento.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Yo]</title>
+            <author>Clara Janés</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Libro de alienaciones</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Ayuso/1980</publisher>
+               <publisher n="used_edition">Ayuso/1980</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Muerte, Soledad y Tristeza</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Clara Janés</persName>
+                  <idno type="viaf">http://viaf.org/viaf/7404678</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1940</date>
+                  </birth>
+                  <death>
+                     <date cert="low">Hasta la actualidad</date>
+                  </death>
+                  <floruit>Posmodernidad</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Yo</l>
+                  <l>aún</l>
+                  <l>aquí</l>
+               </lg>
+               <lg>
+                  <l>la mente</l>
+                  <l>perforada</l>
+               </lg>
+               <lg>
+                  <l>mientras</l>
+                  <l>tibia</l>
+                  <l>devuelve</l>
+                  <l>la arena</l>
+               </lg>
+               <lg>
+                  <l>sirenas</l>
+                  <l>al oído</l>
+               </lg>
+               <lg>
+                  <l>y pulso</l>
+                  <l>a las muñecas</l>
+               </lg>
+               <lg>
+                  <l>y nudo</l>
+                  <l>a la garganta</l>
+               </lg>
+            </lg>
+         </div>
+         <note>El poema aparece en la página 39 de este libro. </note>
+      </body>
+   </text>
+</TEI>

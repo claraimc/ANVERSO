@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nanas de la cebolla</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cancionero y romancero de ausencias</title>
+               <date cert="high"/>
+               <pubPlace>Buenos Aires</pubPlace>
+               <publisher n="first_editor">Lautaro</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Familia</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>La cebolla es escarcha</l>
+                  <l>cerrada y pobre.</l>
+                  <l>Escarcha de tus días</l>
+                  <l>y de mis noches.</l>
+                  <l>Hambre y cebolla,</l>
+                  <l>hielo negro y escarcha</l>
+                  <l>grande y redonda.</l>
+               </lg>
+               <lg>
+                  <l>En la cuna del hambre</l>
+                  <l>mi niño estaba.</l>
+                  <l>Con sangre de cebolla</l>
+                  <l>se amamantaba.</l>
+                  <l>Pero tu sangre,</l>
+                  <l>escarchada de azúcar,</l>
+                  <l>cebolla y hambre.</l>
+               </lg>
+               <lg>
+                  <l>Una mujer morena</l>
+                  <l>resuelta en luna</l>
+                  <l>se derrama hilo a hilo</l>
+                  <l>sobre la cuna.</l>
+                  <l>Ríete, niño,</l>
+                  <l>que te tragas la luna</l>
+                  <l>cuando es preciso.</l>
+               </lg>
+               <lg>
+                  <l>Alondra de mi casa,</l>
+                  <l>ríete mucho.</l>
+                  <l>Es tu risa en tus ojos</l>
+                  <l>la luz del mundo.</l>
+                  <l>Ríete tanto</l>
+                  <l>que en el alma al oírte</l>
+                  <l>bata el espacio.</l>
+               </lg>
+               <lg>
+                  <l>Tu risa me hace libre,</l>
+                  <l>me pone alas.</l>
+                  <l>Soledades me quita,</l>
+                  <l>cárcel me arranca.</l>
+                  <l>Boca que vuela,</l>
+                  <l>corazón que en tus labios</l>
+                  <l>relampaguea.</l>
+               </lg>
+               <lg>
+                  <l>Es tu risa la espada</l>
+                  <l>más victoriosa,</l>
+                  <l>vencedor de las flores</l>
+                  <l>y las alondras.</l>
+                  <l>Rival del sol.</l>
+                  <l>Porvenir de mis huesos</l>
+                  <l>y de mi amor.</l>
+               </lg>
+               <lg>
+                  <l>La carne aleteante,</l>
+                  <l>súbito el párpado,</l>
+                  <l>el niño como nunca</l>
+                  <l>coloreado.</l>
+                  <l>¡Cuánto jilguero</l>
+                  <l>se remonta, aletea,</l>
+                  <l>desde tu cuerpo!</l>
+               </lg>
+               <lg>
+                  <l>Desperté de ser niño:</l>
+                  <l>nunca despiertes.</l>
+                  <l>Triste llevo la boca:</l>
+                  <l>ríete siempre.</l>
+                  <l>Siempre en la cuna,</l>
+                  <l>defendiendo la risa</l>
+                  <l>pluma por pluma.</l>
+               </lg>
+               <lg>
+                  <l>Ser de vuelo tan alto,</l>
+                  <l>tan extendido,</l>
+                  <l>que tu carne es el cielo</l>
+                  <l>recién nacido.</l>
+                  <l>¡Si yo pudiera</l>
+                  <l>remontarme al origen</l>
+                  <l>de tu carrera!</l>
+               </lg>
+               <lg>
+                  <l>Al octavo mes ríes</l>
+                  <l>con cinco azahares.</l>
+                  <l>Con cinco diminutas</l>
+                  <l>ferocidades.</l>
+                  <l>Con cinco dientes</l>
+                  <l>como cinco jazmines</l>
+                  <l>adolescentes.</l>
+               </lg>
+               <lg>
+                  <l>Frontera de los besos</l>
+                  <l>serán mañana,</l>
+                  <l>cuando en la dentadura</l>
+                  <l>sientas un arma.</l>
+                  <l>Sientas un fuego</l>
+                  <l>correr dientes abajo</l>
+                  <l>buscando el centro.</l>
+               </lg>
+               <lg>
+                  <l>Vuela niño en la doble</l>
+                  <l>luna del pecho:</l>
+                  <l>él, triste de cebolla,</l>
+                  <l>tú, satisfecho.</l>
+                  <l>No te derrumbes.</l>
+                  <l>No sepas lo que pasa</l>
+                  <l>ni lo que ocurre.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Aunque publicado póstumamente por primera vez en 1958, el poema fue escrito en la
+            cárcel entre 1938 y 1941. </note>
+      </body>
+   </text>
+</TEI>

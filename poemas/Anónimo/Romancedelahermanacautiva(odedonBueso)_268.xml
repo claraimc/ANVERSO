@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romance de la hermana cautiva (o de don Bueso)</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Romancero sefardí y Romancero viejo</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">Romancero (Biblioteca Nueva, 2004)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Anagnórisis, Hermana perdida, Relaciones cristiano-musulmanas y Cautiverio</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Una noche de torneos pasé por la morería,</l>
+                  <l>vi una mora lavando al pie de la fuente fría.</l>
+                  <l>Yo le dije: —Mora bella. —Yo le dije:— Mora linda,</l>
+                  <l>deja beber mi caballo agua fresca y cristalina.—</l>
+                  <l>—No soy mora, caballero, que en España fui nacida;</l>
+                  <l>me cautivaron moros en día de Pascua florida.—</l>
+                  <l>—Si quieres venir a España, en mi caballo subida.—</l>
+                  <l>—Y mi ropa, caballero, ¿dónde la dejaría?—</l>
+                  <l>—La buena. rica de Holanda, en la mi caballería;</l>
+                  <l>la que no vaiera nada por el río abajo iría.—</l>
+                  <l>—Y mi honra, caballero, ¿dónde la colocaría?</l>
+                  <l>—Yo te juro no tocarte hasta los montes de Oliva.—</l>
+                  <l>Al llegar por aquellos montes la mora llora y suspira:</l>
+                  <l>—¿Por qué lloras, mora bella?, ¿por qué lloras, mora linda?—</l>
+                  <l>—Lloro porque en estos montes mi padre a cazar venía</l>
+                  <l>con mi hermano Leonardi y toda su compañia.—</l>
+                  <l>—Abrid puertas y balcones, ventanas y celosías,</l>
+                  <l>que ha aparecido la prenda que lloramos noche y día.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Esto romance tiene un número inabarcable de versiones y es de lo más difundidos en la
+            tradición moderna, a pesar de que parece tener un origen muy antiguo. </note>
+      </body>
+   </text>
+</TEI>

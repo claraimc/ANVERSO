@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A los que tragó la tierra antes de tiempo. (Murieron de frío más que de bala)</title>
+            <author>Gloria Fuertes</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Mujer de verso en pecho</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Ediciones Cátedra</publisher>
+               <publisher n="used_edition">2018 - Cátedra</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica y Poesías sociales</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Guerra Civil</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Gloria Fuertes</persName>
+                  <idno type="viaf">http://viaf.org/viaf/73969667</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1917</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1998</date>
+                  </death>
+                  <floruit>Generación del 50</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Los abetos del bosque piden palomas,</l>
+                  <l>de puntillas se empinan sobre las lomas,</l>
+                  <l>     a ver si vienen…</l>
+                  <l>Los chopos del pradillo chopos dorados,</l>
+                  <l>se empinan por si vuelven…</l>
+                  <l>    No vuelven los soldados.</l>
+                  <l>Por tierras de Teruel</l>
+                  <l>se quedaron helados.</l>
+                  <l>El Ebro sabe mucho</l>
+                  <l>de muchachos ahogados.</l>
+                  <l>Y la tierra,</l>
+                  <l>no sabía qué hacer</l>
+                  <l>con tanto precoz muerto.</l>
+               </lg>
+               <lg>
+                  <l>Y no os vale de nada que os recuerde</l>
+                  <l>que queríais vivir.</l>
+               </lg>
+               <lg>
+                  <l>¡Bien lo recuerdo!</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

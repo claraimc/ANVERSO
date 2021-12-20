@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Letras flamencas]</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>[Poemas no recogidos en libro - primeros poemas]</title>
+               <date cert="high"/>
+               <pubPlace>Concepción</pubPlace>
+               <publisher n="first_editor">Universidad de Concepción</publisher>
+               <publisher n="used_edition">Obras completas - RBA/Instituto Cervantes - 2005</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Letrillas</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Flamenco</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Que yo no sé qué me pasa:</l>
+                  <l>si te quiero o no te quiero,</l>
+                  <l>si tu casa no es tu casa,</l>
+                  <l>si hiela un querer o abrasa,</l>
+                  <l>si me matas o me muero.</l>
+               </lg>
+               <lg>
+                  <l>***</l>
+               </lg>
+               <lg>
+                  <l>Las olas del mar salino,</l>
+                  <l>las penas de mis pesares,</l>
+                  <l>una se fue y otra vino.</l>
+               </lg>
+               <lg>
+                  <l>***</l>
+               </lg>
+               <lg>
+                  <l>Que en la taberna murió</l>
+                  <l>nadie diga a su vecino</l>
+                  <l>que en la taberna murió,</l>
+                  <l>un querer que enterré yo</l>
+                  <l>dentro de un vaso de vino.</l>
+               </lg>
+               <lg>
+                  <l>***</l>
+               </lg>
+               <lg>
+                  <l>Pena que pena serena,</l>
+                  <l>pena, penilla la mía</l>
+                  <l>de retama y hierbabuena,</l>
+                  <l>que en cuanto te veo, morena,</l>
+                  <l>que en cuanto te veo, morena,</l>
+                  <l>mi pena se hace alegría.</l>
+               </lg>
+               <lg>
+                  <l>***</l>
+               </lg>
+               <lg>
+                  <l>Como luceros y arena,</l>
+                  <l>te doy un beso si dices</l>
+                  <l>el número de mis penas.</l>
+               </lg>
+               <lg>
+                  <l>***</l>
+               </lg>
+               <lg>
+                  <l>Soledad, ¡qué sólo estoy!</l>
+                  <l>conmigo y en tu compaña</l>
+                  <l>ayer, mañana y hoy,</l>
+                  <l>de ti vengo y a ti voy</l>
+                  <l>en una jaca castaña.</l>
+               </lg>
+               <lg>
+                  <l>***</l>
+               </lg>
+               <lg>
+                  <l>Las fatigas de la muerte</l>
+                  <l>me dan a mí, que no a otro,</l>
+                  <l>cuando salgo al campo a verte</l>
+                  <l>con mi negra, negra suerte</l>
+                  <l>en mi negro, negro potro.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Como explica José Gelardo Navarro en «Miguel Hernández y el flamenco» (Revista de
+            Investigación sobre Flamenco «La Madrugá», núm. 1, 2009, disponible aquí), en su
+            juventud, en torno a 1926-1927, Miguel Hernández, entre sus textos más primerizos,
+            compuso algunas letrillas flamencas, que no llegaron a publicarse hasta 1959 en un libro
+            a cargo de Luis Muñoz G., La poesía de Miguel Hernández, editado en Chile por la
+            Universidad de Concepción. </note>
+      </body>
+   </text>
+</TEI>

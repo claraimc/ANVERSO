@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El herido</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>El hombre acecha</title>
+               <date cert="high"/>
+               <pubPlace>Valencia</pubPlace>
+               <publisher n="first_editor">Delegación de la Secretaría de Propaganda / Imprenta
+                Moderna</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica, Poesías de guerra y Poesías políticas</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Guerra, Política y Muerte</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Para el muro de un hospital de sangre.</l>
+               </lg>
+               <lg>
+                  <l>I</l>
+                  <l>Por los campos luchados se extienden los heridos.</l>
+                  <l>Y de aquella extensión de cuerpos luchadores</l>
+                  <l>salta un trigal de chorros calientes, extendidos</l>
+                  <l>en roncos surtidores.</l>
+               </lg>
+               <lg>
+                  <l>La sangre llueve siempre boca arriba, hacia el cielo.</l>
+                  <l>Y las heridas suenan, igual que caracolas,</l>
+                  <l>cuando hay en las heridas celeridad de vuelo,</l>
+                  <l>esencia de las olas.</l>
+               </lg>
+               <lg>
+                  <l>La sangre huele a mar, sabe a mar y a bodega.</l>
+                  <l>La bodega del mar, del vino bravo, estalla</l>
+                  <l>allí donde el herido palpitante se anega,</l>
+                  <l>y florece y se halla.</l>
+               </lg>
+               <lg>
+                  <l>Herido estoy, miradme: necesito más vidas.</l>
+                  <l>La que contengo es poca para el gran cometido</l>
+                  <l>de sangre que quisiera perder por las heridas.</l>
+                  <l>Decid quién no fue herido.</l>
+               </lg>
+               <lg>
+                  <l>Mi vida es una herida de juventud dichosa.</l>
+                  <l>¡Ay de quien no esté herido, de quién jamás se siente</l>
+                  <l>herido por la vida, ni en la vida reposa</l>
+                  <l>herido alegremente!</l>
+               </lg>
+               <lg>
+                  <l>Si hasta a los hospitales se va con alegría,</l>
+                  <l>se convierten en huertos de heridas entreabiertas,</l>
+                  <l>de adelfos florecidos ante la cirugía</l>
+                  <l>de ensangrentadas puertas.</l>
+               </lg>
+               <lg>
+                  <l>II</l>
+                  <l>Para la libertad sangro, lucho, pervivo,</l>
+                  <l>para la libertad, mis ojos y mis manos,</l>
+                  <l>como un árbol carnal, generoso y cautivo,</l>
+                  <l>doy a los cirujanos.</l>
+               </lg>
+               <lg>
+                  <l>Para la libertad siento más corazones</l>
+                  <l>que arenas en mi pecho: dan espumas mis venas,</l>
+                  <l>y entro en los hospitales, y entro en los algodones</l>
+                  <l>como en las azucenas.</l>
+               </lg>
+               <lg>
+                  <l>Para la libertad me desprendo a balazos</l>
+                  <l>de los que han revolcado su estatua por el lodo.</l>
+                  <l>Y me desprendo a golpes de mis pies, de mis brazos,</l>
+                  <l>de mi casa, de todo.</l>
+               </lg>
+               <lg>
+                  <l>Porque donde unas cuencas vacías amanezcan,</l>
+                  <l>ella pondrá dos piedras de futura mirada</l>
+                  <l>y hará que nuevos brazos y nuevas piernas crezcan</l>
+                  <l>en la carne talada.</l>
+               </lg>
+               <lg>
+                  <l>Retoñarán aladas de savia sin otoño</l>
+                  <l>reliquias de mi cuerpo que pierdo en cada herida.</l>
+                  <l>Porque soy como el árbol talado, que retoño:</l>
+                  <l>porque aún tengo la vida.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>El hombre acecha fue editado por la Delegación de la Secretaría de Propaganda en la
+            Imprenta Moderna de Valencia; sin embargo, con la derrota de la II República en la
+            Guerra Civil, no se completaron los trabajos y la edición desapareció. </note>
+      </body>
+   </text>
+</TEI>

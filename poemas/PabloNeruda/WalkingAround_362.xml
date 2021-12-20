@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Walking Around</title>
+            <author>Pablo Neruda</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Residencia en la tierra 2</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Ediciones del Árbol (col. Cruz y Raya)</publisher>
+               <publisher n="used_edition"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>--</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>existencia humana</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Pablo Neruda</persName>
+                  <idno type="viaf">http://viaf.org/viaf/95126958</idno>
+                  <nationality>Chile</nationality>
+                  <birth>
+                     <date cert="low">1904</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1973</date>
+                  </death>
+                  <floruit>Vanguardismo</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Sucede que me canso de ser hombre.</l>
+                  <l>Sucede que entro en las sastrerías y en los cines</l>
+                  <l>marchito, impenetrable, como un cisne de fieltro</l>
+                  <l>navegando en un agua de origen y ceniza.</l>
+               </lg>
+               <lg>
+                  <l>El olor de las peluquerías me hace llorar a gritos.</l>
+                  <l>Sólo quiero un descanso de piedras o de lana,</l>
+                  <l>sólo quiero no ver establecimientos ni jardines,</l>
+                  <l>ni mercaderías, ni anteojos, ni ascensores.</l>
+               </lg>
+               <lg>
+                  <l>Sucede que me canso de mis pies y mis uñas</l>
+                  <l>y mi pelo y mi sombra.</l>
+                  <l>Sucede que me canso de ser hombre.</l>
+               </lg>
+               <lg>
+                  <l>Sin embargo sería delicioso</l>
+                  <l>asustar a un notario con un lirio cortado</l>
+                  <l>o dar muerte a una monja con un golpe de oreja.</l>
+                  <l>Sería bello</l>
+                  <l>ir por las calles con un cuchillo verde</l>
+                  <l>y dando gritos hasta morir de frío.</l>
+               </lg>
+               <lg>
+                  <l>No quiero seguir siendo raíz en las tinieblas,</l>
+                  <l>vacilante, extendido, tiritando de sueño,</l>
+                  <l>hacia abajo, en las tripas mojadas de la tierra,</l>
+                  <l>absorbiendo y pensando, comiendo cada día.</l>
+               </lg>
+               <lg>
+                  <l>No quiero para mí tantas desgracias.</l>
+                  <l>No quiero continuar de raíz y de tumba,</l>
+                  <l>de subterráneo solo, de bodega con muertos</l>
+                  <l>aterido, muriéndome de pena.</l>
+               </lg>
+               <lg>
+                  <l>Por eso el día lunes arde como el petróleo</l>
+                  <l>cuando me ve llegar con mi cara de cárcel,</l>
+                  <l>y aúlla en su transcurso como una rueda herida,</l>
+                  <l>y da pasos de sangre caliente hacia la noche.</l>
+               </lg>
+               <lg>
+                  <l>Y me empuja a ciertos rincones, a ciertas casas húmedas,</l>
+                  <l>a hospitales donde los huesos salen por la ventana,</l>
+                  <l>a ciertas zapaterías con olor a vinagre,</l>
+                  <l>a calles espantosas como grietas.</l>
+               </lg>
+               <lg>
+                  <l>Hay pájaros de color de azufre y horribles intestinos</l>
+                  <l>colgando de las puertas de las casas que odio,</l>
+                  <l>hay dentaduras olvidadas en una cafetera,</l>
+                  <l>hay espejos</l>
+                  <l>que debieran haber llorado de vergüenza y espanto,</l>
+                  <l>hay paraguas en todas partes, y venenos, y ombligos.</l>
+               </lg>
+               <lg>
+                  <l>Yo paseo con calma, con ojos, con zapatos,</l>
+                  <l>con furia, con olvido,</l>
+                  <l>paso, cruzo oficinas y tiendas de ortopedia,</l>
+                  <l>y patios donde hay ropas colgadas de un alambre:</l>
+                  <l>calzoncillos, toallas y camisas que lloran</l>
+                  <l>lentas lágrimas sucias.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>La canción incluye el verso “Sucede que me canso de ser hombre”. </note>
+      </body>
+   </text>
+</TEI>

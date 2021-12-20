@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De Zamora sale el Dolfos</title>
+            <author>Juan de Escobar</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Romancero e historia del muy noble y valeroso cavallero, el Cid Ruy Diez
+            de Bivar en romances en lenguaje antiguo</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">1706 - Martín de Zavala</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Cerco de Zamora y Vellido Dolfos</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Juan de Escobar</persName>
+                  <idno type="viaf">http://viaf.org/viaf/71438109</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1500</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1600</date>
+                  </death>
+                  <floruit>Renacimiento</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>De Zamora sale el Dolfos</l>
+                  <l>corriendo y apresurado,</l>
+                  <l>huyendo va de los hijos</l>
+                  <l>del buen viejo Arias Gonzalo</l>
+                  <l>y en la tienda del buen rey,</l>
+                  <l>en ella se había amparado.</l>
+                  <l>—Manténgate Dios, señor.</l>
+                  <l>—Vellido, seas bien llegado.</l>
+                  <l>—Señor, tu vasallo soy,</l>
+                  <l>tu vasallo y de tu bando,</l>
+                  <l>y por yo aconsejarle</l>
+                  <l>a aquel viejo Arias Gonzalo,</l>
+                  <l>que te entregase a Zamora,</l>
+                  <l>pues que te había quedado,</l>
+                  <l>hame querido matar,</l>
+                  <l>y de él me soy escapado.</l>
+                  <l>A vos me vengo, señor,</l>
+                  <l>por ser en vuestro mandado,</l>
+                  <l>con deseo de serviros,</l>
+                  <l>como cualquier fijo dalgo,</l>
+                  <l>y os entregaré a Zamora,</l>
+                  <l>aunque pese a Arias Gonzalo,</l>
+                  <l>que por un falso postigo</l>
+                  <l>en ella seréis entrado—.</l>
+                  <l>El buen Arias de leal</l>
+                  <l>al rey había avisado,</l>
+                  <l>desde encima del adarve</l>
+                  <l>estas palabras ha hablado:</l>
+                  <l>—A ti lo digo, el buen rey,</l>
+                  <l>y a todos tus castellanos,</l>
+                  <l>que allá ha salido Vellido,</l>
+                  <l>Vellido un traidor malvado,</l>
+                  <l>que si traición te ficiere</l>
+                  <l>a nos non sea imputado—.</l>
+                  <l>Oídolo había Vellido</l>
+                  <l>que al rey tien por la mano:</l>
+                  <l>—Non lo creades, señor,</l>
+                  <l>lo que contra mí ha fablado,</l>
+                  <l>que don Arias lo publica</l>
+                  <l>porque el lugar no sea entrado,</l>
+                  <l>porque él sabe bien que sé</l>
+                  <l>por donde será tomado—.</l>
+                  <l>Allí fablara el buen rey</l>
+                  <l>de Vellido confiado:</l>
+                  <l>—Yo lo creo bien, Vellido</l>
+                  <l>el Dolfos, mi buen criado;</l>
+                  <l>por tanto, vámonos luego</l>
+                  <l>a ver el postigo falso.</l>
+                  <l>—Vámonos luego, señor,</l>
+                  <l>id solo, no acompañado—.</l>
+                  <l>Apartados del real,</l>
+                  <l>el buen rey se había apartado</l>
+                  <l>con voluntad de facer</l>
+                  <l>lo que a nadie es excusado:</l>
+                  <l>el venablo que llevaba</l>
+                  <l>a Vellido se lo ha dado,</l>
+                  <l>el cual desque así lo vido</l>
+                  <l>de espaldas y descuidado</l>
+                  <l>levantóse en los estribos,</l>
+                  <l>con fuerza se lo ha tirado;</l>
+                  <l>diérale por las espaldas,</l>
+                  <l>y a los pechos ha pasado.</l>
+                  <l>Allí cayó luego el rey</l>
+                  <l>muy mortalmente llagado.</l>
+                  <l>¡Viole caer don Rodrigo,</l>
+                  <l>que de Vivar es llamado,</l>
+                  <l>y como le vio ferido,</l>
+                  <l>cabalgara en su caballo;</l>
+                  <l>con la priesa que tenía</l>
+                  <l>espuelas no se ha calzado.</l>
+                  <l>Huyendo iba el traidor,</l>
+                  <l>tras él iba el castellano,</l>
+                  <l>si apriesa había salido,</l>
+                  <l>a mayor se había entrado;</l>
+                  <l>Rodrigo ya lo alcanzaba,</l>
+                  <l>mas viendo a Dolfos en salvo</l>
+                  <l>mil maldiciones se echaba</l>
+                  <l>el nieto de Laín Calvo:</l>
+                  <l>—Maldito sea el caballero</l>
+                  <l>que como yo ha cabalgado,</l>
+                  <l>que si yo espuelas trujera,</l>
+                  <l>no se me fuera el malvado—.</l>
+                  <l>Todos van a ver al rey,</l>
+                  <l>que mortal estaba echado.</l>
+                  <l>Todos le dicen lisonjas,</l>
+                  <l>nadie verdad ha fablado,</l>
+                  <l>sino fue el conde de Cabra,</l>
+                  <l>un buen caballero anciano:</l>
+                  <l>—Sois mi rey y mi señor</l>
+                  <l>y yo soy vueso vasallo;</l>
+                  <l>comple que miréis por vos,</l>
+                  <l>que es verdad lo que vos fablo,</l>
+                  <l>que del ánima curedes,</l>
+                  <l>del cuerpo non fagáis caso;</l>
+                  <l>a Dios vos encomendad,</l>
+                  <l>pues fue este día aciago.</l>
+                  <l>—Buena ventura hayáis, conde,</l>
+                  <l>que así me heis aconsejado—.</l>
+                  <l>En diciendo estas palabras,</l>
+                  <l>el alma a Dios había dado.</l>
+                  <l>De esta suerte murió el rey</l>
+                  <l>por haberse confiado.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Versión de Juan de Escobar de los acontecimientos que se relatan en la versión
+            extendida del romance que comienza «Rey don Sancho, rey don Sancho». </note>
+      </body>
+   </text>
+</TEI>

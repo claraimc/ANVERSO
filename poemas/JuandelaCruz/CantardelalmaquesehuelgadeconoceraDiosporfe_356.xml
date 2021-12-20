@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cantar del alma que se huelga de conocer a Dios por fe</title>
+            <author>Juan de la Cruz</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cántico espiritual</title>
+               <date cert="high"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">Manuscrito de Jaén (Cántico B).</publisher>
+               <publisher n="used_edition">Biblioteca Cervantes Virtual</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesías religiosas</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Misticismo y Religión</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Juan de la Cruz</persName>
+                  <idno type="viaf">http://viaf.org/viaf/4041150869802122190008</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1542</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1591</date>
+                  </death>
+                  <floruit>Renacimiento</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Qué bien sé yo la fonte que mana y corre,</l>
+                  <l>aunque es de noche.</l>
+               </lg>
+               <lg>
+                  <l>1.</l>
+               </lg>
+               <lg>
+                  <l>Aquella eterna fonte está escondida,</l>
+                  <l>que bien sé yo do tiene su manida,</l>
+                  <l>aunque es de noche.</l>
+               </lg>
+               <lg>
+                  <l>2.</l>
+               </lg>
+               <lg>
+                  <l>Su origen no lo sé, pues no le tiene,</l>
+                  <l>mas sé que todo origen della viene,</l>
+                  <l>aunque es de noche.</l>
+               </lg>
+               <lg>
+                  <l>3.</l>
+               </lg>
+               <lg>
+                  <l>Sé que no puede ser cosa tan bella,</l>
+                  <l>y que cielos y tierra beben della,</l>
+                  <l>aunque es de noche.</l>
+               </lg>
+               <lg>
+                  <l>4.</l>
+               </lg>
+               <lg>
+                  <l>Bien sé que suelo en ella no se halla,</l>
+                  <l>y que ninguno puede vadealla,</l>
+                  <l>aunque es de noche.</l>
+               </lg>
+               <lg>
+                  <l>5.</l>
+               </lg>
+               <lg>
+                  <l>Su claridad nunca es oscurecida,</l>
+                  <l>y sé que toda luz de ella es venida,</l>
+                  <l>aunque es de noche.</l>
+               </lg>
+               <lg>
+                  <l>6.</l>
+               </lg>
+               <lg>
+                  <l>Sé ser tan caudalosos sus corrientes,</l>
+                  <l>que infiernos, cielos riegan y las gentes,</l>
+                  <l>aunque es de noche.</l>
+               </lg>
+               <lg>
+                  <l>7.</l>
+               </lg>
+               <lg>
+                  <l>El corriente que nace de esta fuente</l>
+                  <l>bien sé que es tan capaz y omnipotente,</l>
+                  <l>aunque es de noche.</l>
+               </lg>
+               <lg>
+                  <l>8.</l>
+               </lg>
+               <lg>
+                  <l>El corriente que de estas dos procede</l>
+                  <l>sé que ninguna de ellas le precede</l>
+                  <l>aunque es de noche.</l>
+               </lg>
+               <lg>
+                  <l>9.</l>
+                  <l>Aquesta eterna fonte está escondida</l>
+                  <l>en este vivo pan por darnos vida,</l>
+                  <l>aunque es de noche.</l>
+               </lg>
+               <lg>
+                  <l>10.</l>
+               </lg>
+               <lg>
+                  <l>Aquí se está llamando a las criaturas,</l>
+                  <l>y de esta agua se hartan, aunque a escuras,</l>
+                  <l>porque es de noche.</l>
+               </lg>
+               <lg>
+                  <l>11.</l>
+               </lg>
+               <lg>
+                  <l>Aquesta viva fuente que deseo,</l>
+                  <l>en este pan de vida yo la veo,</l>
+                  <l>aunque es de noche.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jornaleros</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Viento del pueblo</title>
+               <date cert="high"/>
+               <pubPlace>Valencia</pubPlace>
+               <publisher n="first_editor">Socorro Rojo</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesías políticas</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Guerra Civil y Justicia social</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Jornaleros que habéis cobrado en plomo</l>
+                  <l>sufrimientos, trabajos y dineros.</l>
+                  <l>Cuerpos de sometido y alto lomo:</l>
+                  <l>jornaleros.</l>
+               </lg>
+               <lg>
+                  <l>Españoles que España habéis ganado</l>
+                  <l>labrándola entre lluvias y entre soles.</l>
+                  <l>Rabadanes del hambre y el arado:</l>
+                  <l>españoles.</l>
+               </lg>
+               <lg>
+                  <l>Esta España que, nunca satisfecha</l>
+                  <l>de malograr la flor de la cizaña,</l>
+                  <l>de una cosecha pasa a otra cosecha:</l>
+                  <l>esta España.</l>
+               </lg>
+               <lg>
+                  <l>Poderoso homenaje a las encinas,</l>
+                  <l>homenaje del toro y el coloso,</l>
+                  <l>homenaje de páramos y minas</l>
+                  <l>poderoso.</l>
+               </lg>
+               <lg>
+                  <l>Esta España que habéis amamantado</l>
+                  <l>con sudores y empujes de montañas,</l>
+                  <l>codician los que nunca han cultivado</l>
+                  <l>esta España.</l>
+               </lg>
+               <lg>
+                  <l>¿Dejaremos llevar cobardemente</l>
+                  <l>riquezas que han forjado nuestros remos?</l>
+                  <l>¿Campos que ha humedecido nuestra frente</l>
+                  <l>dejaremos?</l>
+               </lg>
+               <lg>
+                  <l>Adelanta, español, una tormenta</l>
+                  <l>de martillos y hoces, ruge y canta.</l>
+                  <l>Tu porvenir, tu orgullo, tu herramienta</l>
+                  <l>adelanta.</l>
+               </lg>
+               <lg>
+                  <l>Los verdugos, ejemplo de tiranos,</l>
+                  <l>Hitler y Mussolini, labran yugos.</l>
+                  <l>Sumid en un retrete de gusanos</l>
+                  <l>los verdugos.</l>
+               </lg>
+               <lg>
+                  <l>Ellos, ellos nos traen una cadena</l>
+                  <l>de cárceles, miserias y atropellos.</l>
+                  <l>¿Quién España destruye y desordena?</l>
+                  <l>¡Ellos! ¡Ellos!</l>
+               </lg>
+               <lg>
+                  <l>Fuera, fuera, ladrones de naciones,</l>
+                  <l>guardianes de la cúpula banquera,</l>
+                  <l>cluecas del capital y sus doblones:</l>
+                  <l>¡fuera, fuera!</l>
+               </lg>
+               <lg>
+                  <l>Arrojados seréis como basura</l>
+                  <l>de todas partes y de todos lados.</l>
+                  <l>No habrá para vosotros sepultura,</l>
+                  <l>arrojados.</l>
+               </lg>
+               <lg>
+                  <l>La saliva será vuestra mortaja,</l>
+                  <l>vuestro final la bota vengativa,</l>
+                  <l>y sólo os dará sombra, paz y caja</l>
+                  <l>la saliva.</l>
+               </lg>
+               <lg>
+                  <l>Jornaleros: España, loma a loma,</l>
+                  <l>es de gañanes, pobres y braceros.</l>
+                  <l>¡No permitáis que el rico se la coma,</l>
+                  <l>jornaleros!</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De cómo Amor se partió del arçipreste, et de cómo doña Venus lo castigó</title>
+            <author>Juan Ruiz (Arcipreste de Hita)</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Libro de buen amor</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">2000 - Biblioteca Virtual Miguel de Cervantes</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Mester de clerecía</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Conquista amorosa</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Juan Ruiz (Arcipreste de Hita)</persName>
+                  <idno type="viaf">http://viaf.org/viaf/163823217</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1283</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1350</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Partiose Amor de mí, e dexome dormir:</l>
+                  <l>desque vino el alba començé de comedir</l>
+                  <l>en lo que me castigó; et por verdat desir,</l>
+                  <l>fallé que en sus castigos siempre usé vevir.</l>
+               </lg>
+               <lg>
+                  <l>Maravilleme mucho desque en ello pensé,</l>
+                  <l>de cómo en servir dueñas todo tiempo non cansé,</l>
+                  <l>mucho las guardé siempre, nunca me alabé,</l>
+                  <l>¿quál fue la raçón negra porque non recabdé?</l>
+               </lg>
+               <lg>
+                  <l>Contra mi coraçón yo mismo me torné,</l>
+                  <l>porfiando le dixe: «Agora yo te porné</l>
+                  <l>»con dueña falaguera: e d’esta ves terné,</l>
+                  <l>»que si bien non avengo, nunca más averné.»</l>
+               </lg>
+               <lg>
+                  <l>Mi coraçón me dixo: «Faslo e recabdarás,</l>
+                  <l>»si hó non recabdares, torna y luego cras,</l>
+                  <l>»lo que muchos días acabado non as,</l>
+                  <l>»quando non coydares, a otra ora lo avrás.»</l>
+               </lg>
+               <lg>
+                  <l>Fasaña es usada, proverbio non mintroso,</l>
+                  <l>más val’ rato acuçioso que día perezoso:</l>
+                  <l>partime de tristeza de cuydado dañoso,</l>
+                  <l>busqué et fallé dueña de qual só deseoso.</l>
+               </lg>
+               <lg>
+                  <l>De talle muy apuesta, de gestos amorosa</l>
+                  <l>doñeguil, muy loçana, plasentera et fermosa,</l>
+                  <l>cortés et mesurada, falaguera, donosa,</l>
+                  <l>graçiosa et risueña, amor de toda cosa.</l>
+               </lg>
+               <lg>
+                  <l>La más noble figura de quantas yo aver pud’,</l>
+                  <l>viuda rica es mucho, et moça de juventud</l>
+                  <l>et bien acostumbrada, es de Calataúd,</l>
+                  <l>de mí era vesina, mi muerte e mi salud.</l>
+               </lg>
+               <lg>
+                  <l>Fija de algo en todo et de alto linage,</l>
+                  <l>poco salía de casa, segunt lo an de usage:</l>
+                  <l>fuime a doña Venus que le levase mensage,</l>
+                  <l>ca ella es comienzo et fin d’este viaje.</l>
+               </lg>
+               <lg>
+                  <l>Ella es nuestra vida et ella es nuestra muerte,</l>
+                  <l>enflaqueçe et mata al resio et al fuerte,</l>
+                  <l>por todo el mundo tiene grant poder et fuerte,</l>
+                  <l>todo por su consejo se fará a do apuerte.</l>
+               </lg>
+               <lg>
+                  <l>«Señora doña Venus, muger de don Amor,</l>
+                  <l>»noble dueña, omíllome yo, vuestro servidor</l>
+                  <l>»de todas cosas sodes vos el amor señor:</l>
+                  <l>»todos vos obedesçen como a su fasedor.</l>
+               </lg>
+               <lg>
+                  <l>»Reyes, duques e condes e toda criatura</l>
+                  <l>»vos temen e vos sirven como a vuestra fechura,</l>
+                  <l>»complit los míos deseos et datme dicha e ventura,</l>
+                  <l>»non me seades escasa, nin esquiva, nin dura.</l>
+               </lg>
+               <lg>
+                  <l>»Non vos pidré grant cosa para vos me la dar,</l>
+                  <l>»pero a mí cuitado es me grave de far:</l>
+                  <l>»sin vos yo non la puedo començar nin acabar:</l>
+                  <l>»yo seré bien andante por lo vos otorgar.</l>
+               </lg>
+               <lg>
+                  <l>»Só ferido e llagado, de un dardo só perdido,</l>
+                  <l>»en el coraçón lo traye ençerrado et ascondido,</l>
+                  <l>»non oso mostrar la laga, matarme a si la olvido,</l>
+                  <l>»et aun desir non oso el nombre de quien me ha ferido.</l>
+               </lg>
+               <lg>
+                  <l>»La llaga non se me dexa a mí catar nin ver,</l>
+                  <l>»onde mayores peligros espera que an de ser:</l>
+                  <l>»reçelo que mayores dapnos me podrán recreçer</l>
+                  <l>»físico nin melesina non me puede pro tener.</l>
+               </lg>
+               <lg>
+                  <l>»¿Quál carrera tomaré que me non vaya matar?</l>
+                  <l>»¡Cuytado yo me faré que non la puedo catar!</l>
+                  <l>»Derecha es mi querella, raçón me fase acuytar,</l>
+                  <l>»pues que non fallo nin qué me pueda prestar.</l>
+               </lg>
+               <lg>
+                  <l>»Et porque munchas cosas me embargan e empeçen,</l>
+                  <l>»he de buscar munchos cobros segunt que me pertenesçen:</l>
+                  <l>»las artes muchas vegadas ayudan, otras fallesçen,</l>
+                  <l>»por las artes viven munchos, por las artes peresçen.</l>
+               </lg>
+               <lg>
+                  <l>»Si se descubre mi llaga quál es, dónde fue venir,</l>
+                  <l>»si digo quién me ferió, puedo tanto descobrir</l>
+                  <l>»que perderé melesina so esperança de guarir:</l>
+                  <l>»la esperança con conorte sabe a las veses fallir.</l>
+               </lg>
+               <lg>
+                  <l>»E si encubre del todo su ferida e su dolor,</l>
+                  <l>»si ayuda non demanda por aver salut mijor,</l>
+                  <l>»por ventura me vernía otro peligro peor;</l>
+                  <l>»morría de todo en todo, nunca vi cuyta mayor.</l>
+               </lg>
+               <lg>
+                  <l>»Mejor es mostrar el ome su dolençia e su quejura</l>
+                  <l>»al menge et al buen amigo que l’ darán por aventura</l>
+                  <l>»melesina e consejo por do pueda aver folgura,</l>
+                  <l>»que non el morir sin dubda, et vevir en grant secura.</l>
+               </lg>
+               <lg>
+                  <l>»El fuego más fuerte quexa ascondido, encobierto,</l>
+                  <l>»que non quando se derrama esparçido e descobierto;</l>
+                  <l>»pues éste es camino más seguro e más çierto,</l>
+                  <l>»en vuestras manos pongo el mi coraçón abierto.</l>
+               </lg>
+               <lg>
+                  <l>»Doña Endrina que mora aquí en mi vesindat</l>
+                  <l>»de fermosura e donayre, et de talla e de beldat</l>
+                  <l>»sobra e vençe a todas quantas ay en la çibdat.</l>
+                  <l>»Si el amor no me engaña, yo vos digo la verdat.</l>
+               </lg>
+               <lg>
+                  <l>»Esta dueña me ferió de saeta enerbolada</l>
+                  <l>»atraviésame el coraçón, en él la tengo fincada</l>
+                  <l>»toda mi fuerça pierdo, et del todo me es tirada,</l>
+                  <l>»la llaga va cresçiendo, del dolor non mengua nada.</l>
+               </lg>
+               <lg>
+                  <l>»A persona de este mundo yo non la oso fablar,</l>
+                  <l>»porque es de grand linage, et dueña de grand solar,</l>
+                  <l>»es de mejores parientes que yo e es de mejor lugar,</l>
+                  <l>»en le desir mi deseo non me oso aventurar.</l>
+               </lg>
+               <lg>
+                  <l>»Con arras e con donas ruéganla casamientos,</l>
+                  <l>»menos los preçia todos que dos viles sarmientos,</l>
+                  <l>»a do es el grand linage aí son los alçamientos,</l>
+                  <l>»a do es mucho algo son los desdeñamientos.</l>
+               </lg>
+               <lg>
+                  <l>»Rica muger e fija de un porqueriso vil</l>
+                  <l>»escogerá marido qual quisiere entre dos mil:</l>
+                  <l>»pues así aver non puedo a la dueña gentil,</l>
+                  <l>»averla he por trabajo et por arte sotil.</l>
+               </lg>
+               <lg>
+                  <l>»Todas aquestas noblesas me fasen querer,</l>
+                  <l>»por aquesto a ella non me oso atrever,</l>
+                  <l>»otro cobro non fallo que me pueda acorrer</l>
+                  <l>»si non vos, doña Venus, que lo podedes faser.</l>
+               </lg>
+               <lg>
+                  <l>»Atrevime con locura et con amor afincado,</l>
+                  <l>»muchas veses gelo dixe, que finqué mal denostado,</l>
+                  <l>»non preçia nada, muerto me trae, coytado:</l>
+                  <l>»si non fuese tal mi vesina, non sería tan penado.</l>
+               </lg>
+               <lg>
+                  <l>»Quanto más se está omen al grand fuego llegado,</l>
+                  <l>»tanto mucho más se quema que quando está alongado,</l>
+                  <l>»esto me trae muerto perdido et penado:</l>
+                  <l>»así, señora doña Venus, sea de vos ayudado.</l>
+               </lg>
+               <lg>
+                  <l>»Ya sabedes nuestros males et nuestras penas parejas,</l>
+                  <l>»sabedes nuestros peligros, sabedes nuestras consejas,</l>
+                  <l>»non me dades respuesta, nin me oyen vuestras orejas,</l>
+                  <l>»oítme vos mansamente las mis coytas sobejas.</l>
+               </lg>
+               <lg>
+                  <l>»Non ven los vuestros ojos la mi triste catadura,</l>
+                  <l>»tira de mi coraçón tal saeta e tal ardura,</l>
+                  <l>»conortadme esta llaga con juegos e folgura,</l>
+                  <l>»que non vaya sin conorte mi llaga e mi quejura.</l>
+               </lg>
+               <lg>
+                  <l>»¿Quál es la dueña tan brava et tan dura,</l>
+                  <l>»que al su servidor non le faga mesura?</l>
+                  <l>»Afinco vos pidiendo con dolor et tristura,</l>
+                  <l>»el grand amor me fase perder salud e cura.</l>
+               </lg>
+               <lg>
+                  <l>»El color he perdido, mis sesos desfallesçen,</l>
+                  <l>»la fuerza non la tengo, mis ojos non paresçen,</l>
+                  <l>»si vos non me valedes, mis membrios desfalleçen.»</l>
+                  <l>Respondió doña Venus: «Servidores vençen.</l>
+               </lg>
+               <lg>
+                  <l>»Ya fueste consejado del Amor, mi marido,</l>
+                  <l>»d’él en muchas maneras fuste aperçebido,</l>
+                  <l>»porque le fuste sañudo, contigo poco estido,</l>
+                  <l>»de lo qu’él non te dixo, de mí te será repetido.</l>
+               </lg>
+               <lg>
+                  <l>»Si algo por ventura de mí te fuere mandado</l>
+                  <l>»de lo que mi marido te ovo aconsejado,</l>
+                  <l>»serás d’ello más çierto, irás más segurado,</l>
+                  <l>»mejor es el consejo de muchos acordado.</l>
+               </lg>
+               <lg>
+                  <l>»Toda muger que mucho otea, o es risueña,</l>
+                  <l>»dil’ sin miedo tus coytas, non te embargue vergüeña,</l>
+                  <l>»a penas de mil una te despreçie, más desdeña,</l>
+                  <l>»amarte ha la dueña, que en ello piensa e sueña.</l>
+               </lg>
+               <lg>
+                  <l>»Sírvela, non te enojes, sirviendo el amor creçe,</l>
+                  <l>»serviçio en el bueno nunca muere, nin peresçe,</l>
+                  <l>»si se tarda, non se pierde, el amor non fallesçe,</l>
+                  <l>»el grand trabajo todas las cosas vençe.</l>
+               </lg>
+               <lg>
+                  <l>»El amor leó a Ovidio en la escuela,</l>
+                  <l>»que non ha muger en el mundo, nin grande nin moçuela,</l>
+                  <l>»que trabajo e serviçio non la traya al espuela</l>
+                  <l>»que tarde o que ayna creye que de ti se duela.</l>
+               </lg>
+               <lg>
+                  <l>»Non te espantes d’ella por su mala respuesta,</l>
+                  <l>»con arte o con serviçio ella la dará apuesta</l>
+                  <l>»que siguiendo e serviendo en este cuidado es puesta</l>
+                  <l>»el omen mucho cavando la grand peña acuesta.</l>
+               </lg>
+               <lg>
+                  <l>»Si la primera onda del mar airada</l>
+                  <l>»espantase al marinero, quando viene turbada,</l>
+                  <l>»nunca en la mar entraríe con su nave ferrada:</l>
+                  <l>»non te espante la dueña la primera vegada.</l>
+               </lg>
+               <lg>
+                  <l>»Jura muy muchas veses el caro vendedor,</l>
+                  <l>»que non dará la mercadoría si non por grand valor,</l>
+                  <l>»afincándolo mucho el artero complador</l>
+                  <l>»lieva la mercadoría por el buen corredor.</l>
+               </lg>
+               <lg>
+                  <l>»Sírvela con arte et mucho te achaca,</l>
+                  <l>»el can que mucho lame, sin dubda sangre saca,</l>
+                  <l>»maestría e arte de fuerte fase flaca,</l>
+                  <l>»el conejo por maña doñea a la vaca.</l>
+               </lg>
+               <lg>
+                  <l>»A la muela pesada de la peña mayor</l>
+                  <l>»maestría e arte la arrancan mejor;</l>
+                  <l>»anda por maestría ligera en derredor,</l>
+                  <l>»moverse ha la dueña por artero servidor.</l>
+               </lg>
+               <lg>
+                  <l>»Con arte se quebrantan los coraçones duros,</l>
+                  <l>»tómanse las çibdades, derríbanse los muros,</l>
+                  <l>»caen las torres altas, álzanse pesos duros,</l>
+                  <l>»por arte juran muchos, por arte son perjuros.</l>
+               </lg>
+               <lg>
+                  <l>»Por arte los pescados se toman só las ondas,</l>
+                  <l>»et los pies enjutos corren por mares fondas,</l>
+                  <l>»con arte e con serviçio muchas cosas abondas,</l>
+                  <l>»por arte non ha cosa a que tú non respondas.</l>
+               </lg>
+               <lg>
+                  <l>»Ome poble con arte pasa con chico ofiçio,</l>
+                  <l>»et la arte al culpado sálvalo del malefiçio,</l>
+                  <l>»el que lloraba poble canta rico en viçio,</l>
+                  <l>»fase andar de caballo al peón el serviçio.</l>
+               </lg>
+               <lg>
+                  <l>»Los señores irados de manera estraña</l>
+                  <l>»por el mucho serviçio pierden la mucha saña,</l>
+                  <l>»con buen servicio vençen caballeros de España,</l>
+                  <l>»pues vençerse la dueña non es cosa tamaña.</l>
+               </lg>
+               <lg>
+                  <l>»Non pueden dar los parientes al pariente por herençia</l>
+                  <l>»el mester e el ofiçio, el arte e la sabiençia,</l>
+                  <l>»nin pueden dar a la dueña el amor a la querençia,</l>
+                  <l>»todo esto da el trabajo, el uso, e la femençia.</l>
+               </lg>
+               <lg>
+                  <l>»Magüer te diga de non, et aunque se ensañe,</l>
+                  <l>»non canses de seguirla, tu obra non se dañe,</l>
+                  <l>»fasiéndola serviçio, tu coraçón se bañe:</l>
+                  <l>»non puede ser que non se mueva campana que se tañe.</l>
+               </lg>
+               <lg>
+                  <l>»Con aquesto podrás a tu amiga cobrar,</l>
+                  <l>»la que te era enemiga, mucho te querrá amar;</l>
+                  <l>»los logares a do suele cada día usar,</l>
+                  <l>»aquellos debes mucho a menudo andar.</l>
+               </lg>
+               <lg>
+                  <l>»Si vieres que ay lugar, dile juguetes fermosos,</l>
+                  <l>»palabras afeytadas con gestos amorosos,</l>
+                  <l>»con palabras muy dulçes, con desires sabrosos,</l>
+                  <l>»creçen mucho amores, e son deseosos.</l>
+               </lg>
+               <lg>
+                  <l>»Quiere la mançebía mucho plaser consigo,</l>
+                  <l>»quiere la muger al ome alegre por amigo,</l>
+                  <l>»al sañudo e al torpe non lo preçia un figo,</l>
+                  <l>»tristesa e rensilla paren mal enemigo.</l>
+               </lg>
+               <lg>
+                  <l>»El alegría al omen faslo apuesto e fermoso,</l>
+                  <l>»más sotil e más ardit, más franco e más donoso:</l>
+                  <l>»non olvides los sospiros, en esto sey engañoso,</l>
+                  <l>»non seas mucho parlero, non te tenga por mintroso.</l>
+               </lg>
+               <lg>
+                  <l>»Por una pequeña cosa pierde amor la muger,</l>
+                  <l>»et por pequeña tacha, que en ti podría aver,</l>
+                  <l>»tomará tan grand enojo, que te querrá aborresçer;</l>
+                  <l>»a ti mesmo contesçió, et a otros podría acaesçer.</l>
+               </lg>
+               <lg>
+                  <l>»A do fablares con ella, si vieres que ay lugar,</l>
+                  <l>»un poquillo como a miedo no dexes de cantar:</l>
+                  <l>»muchas veses cobdiçia lo que te va a negar,</l>
+                  <l>»darte a lo que non coydas, si non te das vagar.</l>
+               </lg>
+               <lg>
+                  <l>»Toda muger los ama omes aperçebidos,</l>
+                  <l>»más desea tal omen que todos bienes complidos,</l>
+                  <l>»an muy flacas las manos, los calcañares podridos</l>
+                  <l>»lo poco e lo mucho fásenlo como amidos,</l>
+               </lg>
+               <lg>
+                  <l>»Por mejor tiene la dueña de ser un poco forçada,</l>
+                  <l>»que desir: ‘fas tu talente’, como desvergonçada,</l>
+                  <l>»con poquilla de fuerça finca más desculpada:</l>
+                  <l>»n todas las animalias esta es cosa probada.</l>
+               </lg>
+               <lg>
+                  <l>»Todas las fembras an en sí estas maneras:</l>
+                  <l>»al comienço del fecho siempre son referteras,</l>
+                  <l>»muestran que tienen saña, e son regateras,</l>
+                  <l>»amenasan, mas no fieren, en çelo son arteras.</l>
+               </lg>
+               <lg>
+                  <l>»Magüer que fase bramuras la dueña que se doñea,</l>
+                  <l>»nunca el buen doñeador por esto enfaronea;</l>
+                  <l>»la muger bien sañuda, qu’el omen bien guerrea,</l>
+                  <l>»los doñeos la vençen, por muy brava que sea.</l>
+               </lg>
+               <lg>
+                  <l>»El miedo e la vergüença fase a las mugeres</l>
+                  <l>»non faser lo que quieren bien como tú lo quieres,</l>
+                  <l>»non finca por non querer, cada que podieres,</l>
+                  <l>»toma de la dueña lo que d’ella quisieres.</l>
+               </lg>
+               <lg>
+                  <l>»De tuyo o de ageno vele bien apostado,</l>
+                  <l>»guarda, non lo entienda que lo llevas prestado</l>
+                  <l>»que non sabe tu vesino lo que tienes condesado,</l>
+                  <l>»encubre tu poblesa con mentir colorado.</l>
+               </lg>
+               <lg>
+                  <l>»El pobre con buen seso et con cara pagada</l>
+                  <l>»encubre su pobresa e su vida lasrada,</l>
+                  <l>»coge sus muchas lágrimas en su boca çerrada,</l>
+                  <l>»más val’ que faserse pobre a quien non l’ dará nada.</l>
+               </lg>
+               <lg>
+                  <l>»La mentira a las de veses a muchos aprovecha,</l>
+                  <l>»la verdad a las veses muchos en daño echa,</l>
+                  <l>»muchos caminos ataja desviada estrecha,</l>
+                  <l>»ante salen a la peña que por carrera derecha.</l>
+               </lg>
+               <lg>
+                  <l>»Quando vieres algunos de los de su compaña,</l>
+                  <l>»fasles muchos plaseres, fáblalos bien con maña,</l>
+                  <l>»quando esto la dueña, su coraçón se baña,</l>
+                  <l>»servidor lisonjero a su señor engaña.</l>
+               </lg>
+               <lg>
+                  <l>»A do son muchos tisones e muchos tisonadores,</l>
+                  <l>»mayor será el fuego e mayores los ardores:</l>
+                  <l>»a do muchos le dixieren tus bienes e tus loores,</l>
+                  <l>»mayor será tu quexa, et tus deseos mayores.</l>
+               </lg>
+               <lg>
+                  <l>»En quando están ellos de tus bienes fablando,</l>
+                  <l>»luego está la dueña en su coraçón pensando,</l>
+                  <l>»si lo fará o non, en esto está dubdando,</l>
+                  <l>»desque vieres que dubda, vela tú afincando.</l>
+               </lg>
+               <lg>
+                  <l>»Si no l’ dan de las espuelas al caballo farón,</l>
+                  <l>»nunca pierde faronía, nin vale un pepión;</l>
+                  <l>»asno cojo, quando dubda, corre con el aguijón,</l>
+                  <l>»a muger que está dubdando, afínquela el varón.</l>
+               </lg>
+               <lg>
+                  <l>»Desque están dubdando los omes que han de faser,</l>
+                  <l>»poco trabajo puede sus coraçones vençer;</l>
+                  <l>»torre alta desque tiembla non ay si non caer,</l>
+                  <l>»la muger que está dubdando, ligera es de aver.</l>
+               </lg>
+               <lg>
+                  <l>»Si tiene madre vieja tu amiga de beldad,</l>
+                  <l>»non la consintirá fablar contigo en poridad,</l>
+                  <l>»es de la mançebía zelosa la vejedad,</l>
+                  <l>»sábelo et entiéndelo por la antigüedad.</l>
+               </lg>
+               <lg>
+                  <l>»Mucho son mal sabidas estas viejas risoñas,</l>
+                  <l>»mucho son de las mozas guardaderas çelosas,</l>
+                  <l>»sospechan et barruntan todas aquestas cosas,</l>
+                  <l>»bien saben las paranças, quien pasó por las losas.</l>
+               </lg>
+               <lg>
+                  <l>»Por ende busca una buena medianera,</l>
+                  <l>»que sepa sabiamente andar esta carrera,</l>
+                  <l>»que entienda de vos ambos bien la vuestra manera,</l>
+                  <l>»qual don Amor te dixo, tal sea la trotera.</l>
+               </lg>
+               <lg>
+                  <l>»Guárdate, non la tengas la primera vegada,</l>
+                  <l>»non acometas cosa porque finque espantada,</l>
+                  <l>»sin su plaser non sea tañida nin trexnada,</l>
+                  <l>»una ves échale çebo que venga segurada.</l>
+               </lg>
+               <lg>
+                  <l>»Asás te e ya dicho, non puedo más aquí estar,</l>
+                  <l>»luego que tú la vieres, comienza l’ de fablar,</l>
+                  <l>»mil tiempos e maneras podrás después fallar,</l>
+                  <l>»el tiempo todas cosas trae a su lugar.</l>
+               </lg>
+               <lg>
+                  <l>»Amigo mío, con este fecho, ¿qué quieres más que te diga?</l>
+                  <l>»Sey sotil e acuçioso, e avrás tu amiga,</l>
+                  <l>»non quiero aquí estar, quiérome ir mi vía.»</l>
+                  <l>Fuese doña Venus, a mí dexó en fadigna.</l>
+               </lg>
+               <lg>
+                  <l>Si le conortan no lo sanan al doliente los joglares,</l>
+                  <l>el dolor cresçe, e non mengua, oyendo dulçes cantares,</l>
+                  <l>consejo me da doña Venus, mas non me tira pesares,</l>
+                  <l>ayuda otra non me queda, si non lengua e parlares.</l>
+               </lg>
+               <lg>
+                  <l>Amigos, vo a grand pena, et só puesto en la fonda,</l>
+                  <l>vo a fablar con la dueña, quiera Dios que bien me responda,</l>
+                  <l>púsome el marinero ayna en la mar fonda,</l>
+                  <l>dexome solo e señero sin remos con la blava onda.</l>
+               </lg>
+               <lg>
+                  <l>¡Coytado! ¿si escaparé? grand miedo e de ser muerto,</l>
+                  <l>oteo a todas partes, e non puedo fallar puerto,</l>
+                  <l>toda la mi esperanza e todo el mi confuerto</l>
+                  <l>está en aquella sola, que me trae penado e muerto.</l>
+               </lg>
+               <lg>
+                  <l>Ya vo rasonar con ella, quiero l’ desir mi quejura,</l>
+                  <l>porque por la mi fabla venga a faser mesura,</l>
+                  <l>disiéndole de mis coytas entenderá mi rencura,</l>
+                  <l>a veses de chica fabla viene mucha folgura.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Cuadernas 576-652 del Libro de buen amor. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Alicia, disfrazada de Leia Organa</title>
+            <author>Luis Alberto de Cuenca</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Sin miedo ni esperanza</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Visor Libros</publisher>
+               <publisher n="used_edition">2011-Renacimiento [Antología personal: Por las calles del
+                tiempo]</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Sonetos</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Luis Alberto de Cuenca</persName>
+                  <idno type="viaf">http://viaf.org/viaf/114982630</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1950</date>
+                  </birth>
+                  <death>
+                     <date cert="low">Hasta la actualidad</date>
+                  </death>
+                  <floruit>Generación del 70/Novísimos</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Si sólo fuera porque a todas horas</l>
+                  <l>tu cerebro se funde con el mío;</l>
+                  <l>si sólo fuera porque mi vacío</l>
+                  <l>lo llenas con tus naves invasoras.</l>
+               </lg>
+               <lg>
+                  <l>Si sólo fuera porque me enamoras</l>
+                  <l>a golpe de sonámbulo extravío;</l>
+                  <l>si sólo fuera porque en ti confío,</l>
+                  <l>princesa de galácticas auroras.</l>
+               </lg>
+               <lg>
+                  <l>Si sólo fuera porque tú me quieres</l>
+                  <l>y yo te quiero a ti, y en nada creo</l>
+                  <l>que no sea el amor con que me hieres…</l>
+               </lg>
+               <lg>
+                  <l>Pero es que hay, además, esa mirada</l>
+                  <l>con que premian tus ojos mi deseo,</l>
+                  <l>y tu cuerpo de reina esclavizada.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Además de la obvia conexión con la Princesa Leia de Star Wars, el verso de «en nada
+            creo» remite sutilmente a la famosa declaración de Calisto en La Celestina: «Melibeo soy
+            y a Melibea adoro, y en Melibea creo y a Melibea amo», que entronca con el tópico
+            literario del amor cortés; en esta misma tradición, se insertan posteriormente las
+            menciones a «el amor con que me hieres» (herida de amor) y a «tu cuerpo de reina
+            esclavizada» (vasallaje de amor). Por tanto, el poema pone en relación un icono de la
+            cultura de masas, como es la Princesa Leia, con la poesía culta española. </note>
+      </body>
+   </text>
+</TEI>

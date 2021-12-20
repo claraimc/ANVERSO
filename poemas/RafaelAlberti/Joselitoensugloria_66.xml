@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Joselito en su gloria</title>
+            <author>Rafael Alberti</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>El alba de alhelí</title>
+               <date cert="high"/>
+               <pubPlace>Santander</pubPlace>
+               <publisher n="first_editor">Talleres Tipográficos de La Atalaya (Editorial
+                Montañesa)</publisher>
+               <publisher n="used_edition">Obras completas. Poesía I (Seix Barral - 2003)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Muerte y Toros</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <idno type="viaf">http://viaf.org/viaf/51683733</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1902</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1999</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>A Ignacio Sánchez Mejías</l>
+               </lg>
+               <lg>
+                  <l>Llora, Giraldilla mora,</l>
+                  <l>lágrimas en tu pañuelo.</l>
+                  <l>Mira cómo sube al cielo</l>
+                  <l>la gracia toreadora.</l>
+               </lg>
+               <lg>
+                  <l>Niño de amaranto y oro,</l>
+                  <l>cómo llora tu cuadrilla</l>
+                  <l>y cómo llora Sevilla,</l>
+                  <l>despidiéndote del toro.</l>
+               </lg>
+               <lg>
+                  <l>Tu río, de tanta pena,</l>
+                  <l>deshoja sus olivares</l>
+                  <l>y riega los azahares</l>
+                  <l>de su frente, por la arena.</l>
+               </lg>
+               <lg>
+                  <l>—Dile adiós, torero mío,</l>
+                  <l>dile adiós a mis veleros</l>
+                  <l>y adiós a mis marineros,</l>
+                  <l>que ya no quiero ser río.</l>
+               </lg>
+               <lg>
+                  <l>Cuatro arcángeles bajaban</l>
+                  <l>y, abriendo surcos de flores,</l>
+                  <l>al rey de los matadores</l>
+                  <l>en hombros se lo llevaban.</l>
+               </lg>
+               <lg>
+                  <l>—Virgen de la Macarena,</l>
+                  <l>mírame tú cómo vengo,</l>
+                  <l>tan si sangre, que ya tengo</l>
+                  <l>blanca mi color morena.</l>
+               </lg>
+               <lg>
+                  <l>Mírame así, chorreado</l>
+                  <l>de un borbotón de rubíes</l>
+                  <l>que ciñe de carmesíes</l>
+                  <l>rosas mi talle quebrado.</l>
+               </lg>
+               <lg>
+                  <l>Ciérrame con tus collares</l>
+                  <l>lo cóncavo de esta herida,</l>
+                  <l>¡que se me escapa la vida</l>
+                  <l>por entre los alamares!</l>
+               </lg>
+               <lg>
+                  <l>¡Virgen del Amor, clavada,</l>
+                  <l>lo mismo que un toro el seno!</l>
+                  <l>Pon a tu espadita bueno</l>
+                  <l>y dale otra vez su espada.</l>
+               </lg>
+               <lg>
+                  <l>Que pueda, Virgen, que pueda</l>
+                  <l>volver con sangre a Sevilla</l>
+                  <l>y al frente de mi cuadrilla</l>
+                  <l>lucirme por la Alameda.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Hubo tres musicalizaciones anteriores a 1975, por eso no recogidas en esta base de
+            datos: Francisco Valladares (Los toros en la poesía española, 1968), Mikaela (Mikaela
+            canta poesías de Rafael Alberti, 1970) y Diego Gómez (A mis poetas. Colección flamenco,
+            vol. 12, 1971). </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Del ay al ay - por el ay</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>[Poemas no recogidos en libro - Poemas varios 1933-1934]</title>
+               <date cert="high"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Dolor, Felicidad y Inflicidad</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Hijo soy del ay, mi hijo,</l>
+                  <l>hijo de su padre amargo.</l>
+                  <l>En un ay fui concebido</l>
+                  <l>y en un ay fui engendrado.</l>
+                  <l>Dolor de macho y de hembra</l>
+                  <l>frente al uno el otro: ambos.</l>
+                  <l>En un ay puse a mi madre</l>
+                  <l>el vientre disparatado:</l>
+                  <l>iba la pobre —¡ay, qué peso!—</l>
+                  <l>con mi bulto suspirando.</l>
+                  <l>—¡Ay, que voy a malparir!</l>
+                  <l>¡Ay, que voy a malograrlo!</l>
+                  <l>¡Ay, que me apetece esto!</l>
+                  <l>¡Ay, que aquello será malo!</l>
+                  <l>¡Ay, que me duele la madre!</l>
+                  <l>¡Ay, que no puedo llevarlo!</l>
+                  <l>¡Ay, que se me rompe él dentro,</l>
+                  <l>ay, que él afuera! ¡Ay, que paro!</l>
+                  <l>En un ay nací: en un ay</l>
+                  <l>y en un ay, ¡ay!, fui criado.</l>
+                  <l>—¡Ay, que me arranca los pechos</l>
+                  <l>a pellizcos y a bocados!</l>
+                  <l>¡Ay, que me deja sin sangre!</l>
+                  <l>¡Ay, que me quiebra los brazos!</l>
+                  <l>¡Ay, que mi amor y mi vida</l>
+                  <l>se quedan sin leche, exhaustos!</l>
+                  <l>¡Ay, que enferma! ¡Ay, que suspira!</l>
+                  <l>¡Ay, que me sale contrario!</l>
+                  <l>Del ay al ay, por ay,</l>
+                  <l>a un ay eterno he llegado.</l>
+                  <l>Vivo en un ay, y en un ay</l>
+                  <l>moriré cuando haga caso</l>
+                  <l>de la tierra que me lleva</l>
+                  <l>del ay al ay trasladado.</l>
+                  <l>¡Ay!, dirá, solo, mi huerto;</l>
+                  <l>¡ay!, llorarán mis hermanos;</l>
+                  <l>¡ay!, gritarán mis amigos,</l>
+                  <l>y ¡ay!, también, cortado, el árbol</l>
+                  <l>que ha de remitir mi caja,</l>
+                  <l>ya tal vez sobre lo alto,</l>
+                  <l>ya tal vez bajo los filos</l>
+                  <l>del hacha fiera en la mano.</l>
+                  <l>El mundo me duele: ¡ay!</l>
+                  <l>Me duele el vicio, y me paso</l>
+                  <l>las horas de la virtud</l>
+                  <l>con un ay entre los labios.</l>
+                  <l>¡Ay, qué angustia! ¡Ay, qué dolor</l>
+                  <l>de cielos, mares y campos;</l>
+                  <l>de flores, montes y nieves;</l>
+                  <l>de ríos, voces y pájaros!</l>
+                  <l>Por palicos y cañicas,</l>
+                  <l>¡ay!, me veo sustentado.</l>
+                  <l>El lino no me hace señas,</l>
+                  <l>¡ay!, con pañuelito cano.</l>
+                  <l>Las pitas no me defienden,</l>
+                  <l>con sus espadones áridos,</l>
+                  <l>del demonio. Las palmeras</l>
+                  <l>no me quieren hacer alto</l>
+                  <l>por más que viva a la sombra</l>
+                  <l>de estrella de sus palacios.</l>
+                  <l>No me pone la naranja</l>
+                  <l>el ojo redondo y claro,</l>
+                  <l>ni con sus luces porosas</l>
+                  <l>el limón el gusto amargo.</l>
+                  <l>Y ¡adiós!, el aire me dice</l>
+                  <l>cuando pasa por mi lado.</l>
+                  <l>La inmovilidad del monte</l>
+                  <l>no lleva mi sangre al paro,</l>
+                  <l>ni hacia los cielos me tiran</l>
+                  <l>honda ruda y puro raso,</l>
+                  <l>y tengo la carne siempre</l>
+                  <l>pechiabierta a los pecados.</l>
+                  <l>Sucias rachas tumban todas</l>
+                  <l>las cometas que levanto,</l>
+                  <l>y todos los ruy-señores</l>
+                  <l>esquivos y solitarios</l>
+                  <l>se burlan de ver mis sitios</l>
+                  <l>malamente acompañados.</l>
+                  <l>¡Ay!, todo me duele: todo:</l>
+                  <l>¡ay!, lo divino y lo humano.</l>
+                  <l>Silbo para consolar</l>
+                  <l>mi dolor a lo canario,</l>
+                  <l>y a lo ruy-señor, y el silbo,</l>
+                  <l>¡ay! me sale vulnerado.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

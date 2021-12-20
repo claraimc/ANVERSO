@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rima LXI</title>
+            <author>Lope de Vega</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Rimas</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Imprenta de Pedro Madrigal</publisher>
+               <publisher n="used_edition">2003-Biblioteca Virtual Miguel de Cervantes</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Sonetos</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Lope de Vega</persName>
+                  <idno type="viaf">http://viaf.org/viaf/89773778</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1562</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1635</date>
+                  </death>
+                  <floruit>Barroco</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Ir y quedarse y con quedar partirse,</l>
+                  <l>partir sin alma e ir con alma ajena,</l>
+                  <l>oír la dulce voz de una sirena</l>
+                  <l>y no poder del árbol desasirse,</l>
+               </lg>
+               <lg>
+                  <l>arder como la vela y consumirse,</l>
+                  <l>haciendo torres sobre tierna arena;</l>
+                  <l>caer de un cielo y ser demonio en pena,</l>
+                  <l>y de serlo jamás arrepentirse;</l>
+               </lg>
+               <lg>
+                  <l>hablar entre las mudas soledades,</l>
+                  <l>pedir prestada sobre fe paciencia,</l>
+                  <l>y lo que es temporal llamar eterno;</l>
+               </lg>
+               <lg>
+                  <l>creer sospechas y negar verdades,</l>
+                  <l>es lo que llaman en el mundo ausencia,</l>
+                  <l>fuego en el alma y en la vida infierno.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>La canción musicaliza el poema, pero con ligeros cambios léxicos y reordenando y
+            suprimiendo algunos versos, de modo que la estructura original del soneto se transforma
+            en una composición a base de estrofas de cuatro versos. </note>
+      </body>
+   </text>
+</TEI>

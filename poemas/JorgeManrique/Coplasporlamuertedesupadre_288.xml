@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Coplas por la muerte de su padre</title>
+            <author>Jorge Manrique</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>--</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">Obra completa de Jorge Manrique (Biblioteca Virtual Miguel
+                de Cervantes, 2002)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Lamentaciones (Literatura)</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Muerte, Santiago Rodrigo Manrique, Fama y Fortuna</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Jorge Manrique</persName>
+                  <idno type="viaf">http://viaf.org/viaf/51692805</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1440</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1479</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Recuerde el alma dormida,</l>
+                  <l>avive el seso y despierte</l>
+                  <l>contemplando</l>
+                  <l>cómo se pasa la vida,</l>
+                  <l>cómo se viene la muerte</l>
+                  <l>tan callando,</l>
+                  <l>cuán presto se va el placer,</l>
+                  <l>cómo, después de acordado,</l>
+                  <l>da dolor;</l>
+                  <l>cómo, a nuestro parecer,</l>
+                  <l>cualquiera tiempo pasado</l>
+                  <l>fue mejor.</l>
+               </lg>
+               <lg>
+                  <l>Pues si vemos lo presente</l>
+                  <l>cómo en un punto se es ido</l>
+                  <l>y acabado,</l>
+                  <l>si juzgamos sabiamente,</l>
+                  <l>daremos lo no venido</l>
+                  <l>por pasado.</l>
+                  <l>No se engañe nadie, no,</l>
+                  <l>pensando que ha de durar</l>
+                  <l>lo que espera</l>
+                  <l>mas que duró lo que vio,</l>
+                  <l>pues que todo ha de pasar</l>
+                  <l>por tal manera.</l>
+               </lg>
+               <lg>
+                  <l>Nuestras vidas son los ríos</l>
+                  <l>que van a dar en la mar,</l>
+                  <l>que es el morir,</l>
+                  <l>allí van los señoríos</l>
+                  <l>derechos a se acabar</l>
+                  <l>y consumir;</l>
+                  <l>allí los ríos caudales,</l>
+                  <l>allí los otros medianos</l>
+                  <l>y más chicos,</l>
+                  <l>y llegados, son iguales</l>
+                  <l>los que viven por sus manos</l>
+                  <l>y los ricos.</l>
+               </lg>
+               <lg>
+                  <l>Dejo las invocaciones</l>
+                  <l>de los famosos poetas</l>
+                  <l>y oradores;</l>
+                  <l>no curo de sus ficciones,</l>
+                  <l>que traen yerbas secretas</l>
+                  <l>sus sabores;</l>
+                  <l>aquel sólo invoco yo</l>
+                  <l>de verdad,</l>
+                  <l>que en este mundo viviendo</l>
+                  <l>el mundo no conoció</l>
+                  <l>su deidad.</l>
+               </lg>
+               <lg>
+                  <l>Este mundo es el camino</l>
+                  <l>para el otro, que es morada</l>
+                  <l>sin pesar;</l>
+                  <l>mas cumple tener buen tino</l>
+                  <l>para andar esta jornada</l>
+                  <l>sin errar.</l>
+                  <l>Partimos cuando nacemos</l>
+                  <l>andamos mientras vivimos,</l>
+                  <l>y llegamos</l>
+                  <l>al tiempo que fenecemos;</l>
+                  <l>así que cuando morimos</l>
+                  <l>descansamos.</l>
+               </lg>
+               <lg>
+                  <l>Este mundo bueno fue</l>
+                  <l>si bien usásemos dél</l>
+                  <l>como debemos,</l>
+                  <l>porque, según nuestra fe,</l>
+                  <l>es para ganar aquel</l>
+                  <l>que atendemos.</l>
+                  <l>Aun aquel Hijo de Dios,</l>
+                  <l>para subirnos al cielo,</l>
+                  <l>descendió</l>
+                  <l>a nacer acá entre nos,</l>
+                  <l>y a morir en este suelo</l>
+                  <l>do murió.</l>
+               </lg>
+               <lg>
+                  <l>Ved de cuán poco valor</l>
+                  <l>son las cosas tras que andamos</l>
+                  <l>y corremos,</l>
+                  <l>que, en este mundo traidor</l>
+                  <l>aun primero que miramos</l>
+                  <l>las perdemos:</l>
+                  <l>de ellas deshace la edad,</l>
+                  <l>de ellas casos desastrados</l>
+                  <l>que acaecen,</l>
+                  <l>de ellas, por su calidad,</l>
+                  <l>en los más altos estados</l>
+                  <l>desfallecen.</l>
+               </lg>
+               <lg>
+                  <l>Decidme: La hermosura,</l>
+                  <l>la gentil frescura y tez</l>
+                  <l>de la cara,</l>
+                  <l>la color y la blancura,</l>
+                  <l>cuando viene la vejez,</l>
+                  <l>¿cuál se para?</l>
+                  <l>Las mañas y ligereza</l>
+                  <l>y la fuerza corporal</l>
+                  <l>de juventud,</l>
+                  <l>todo se torna graveza</l>
+                  <l>cuando llega al arrabal</l>
+                  <l>de senectud.</l>
+               </lg>
+               <lg>
+                  <l>Pues la sangre de los godos,</l>
+                  <l>y el linaje y la nobleza</l>
+                  <l>tan crecida,</l>
+                  <l>¡por cuántas vías y inodos</l>
+                  <l>se pierde su gran alteza</l>
+                  <l>en esta vida!</l>
+                  <l>Unos, por poco valer,</l>
+                  <l>¡por cuán bajos y abatidos</l>
+                  <l>que los tienen!;</l>
+                  <l>otros que, por no tener,</l>
+                  <l>con oficios no debidos</l>
+                  <l>se mantienen.</l>
+               </lg>
+               <lg>
+                  <l>Los estados y riqueza,</l>
+                  <l>que nos dejen a deshora</l>
+                  <l>¿quién lo duda?</l>
+                  <l>no les pidamos firmeza,</l>
+                  <l>pues son de una señora</l>
+                  <l>que se muda.</l>
+                  <l>Que bienes son de Fortuna</l>
+                  <l>que revuelven con su rueda</l>
+                  <l>presurosa,</l>
+                  <l>la cual no puede ser una</l>
+                  <l>ni estar estable ni queda</l>
+                  <l>en una cosa.</l>
+               </lg>
+               <lg>
+                  <l>Pero digo que acompañen</l>
+                  <l>y lleguen hasta la huesa</l>
+                  <l>con su dueño:</l>
+                  <l>por eso no nos engañen,</l>
+                  <l>pues se va la vida apriesa</l>
+                  <l>como sueño;</l>
+                  <l>y los deleites de acá</l>
+                  <l>son, en que nos deleitamos,</l>
+                  <l>temporales,</l>
+                  <l>y los tormentos de allá,</l>
+                  <l>que por ellos esperamos,</l>
+                  <l>eternales.</l>
+               </lg>
+               <lg>
+                  <l>Los placeres y dulzores</l>
+                  <l>de esta vida trabajada</l>
+                  <l>que tenemos,</l>
+                  <l>no son sino corredores,</l>
+                  <l>y la muerte, la celada</l>
+                  <l>en que caemos.</l>
+                  <l>No mirando a nuestro daño,</l>
+                  <l>corremos a rienda suelta</l>
+                  <l>sin parar;</l>
+                  <l>desque vemos el engaño</l>
+                  <l>y queremos dar la vuelta,</l>
+                  <l>no hay lugar.</l>
+               </lg>
+               <lg>
+                  <l>Si fuese en nuestro poder</l>
+                  <l>hacer la cara hermosa</l>
+                  <l>corporal,</l>
+                  <l>como podemos hacer</l>
+                  <l>el alma tan gloriosa,</l>
+                  <l>angelical,</l>
+                  <l>¡qué diligencia tan viva</l>
+                  <l>tuviéramos toda hora,</l>
+                  <l>y tan presta,</l>
+                  <l>en componer la cautiva,</l>
+                  <l>dejándonos la señora</l>
+                  <l>descompuesta!</l>
+               </lg>
+               <lg>
+                  <l>Esos reyes poderosos</l>
+                  <l>que vemos por escrituras</l>
+                  <l>ya pasadas,</l>
+                  <l>con casos tristes, llorosos,</l>
+                  <l>fueron sus buenas venturas</l>
+                  <l>trastornadas;</l>
+                  <l>así que no hay cosa fuerte,</l>
+                  <l>que a papas y emperadores</l>
+                  <l>y prelados,</l>
+                  <l>así los trata la Muerte</l>
+                  <l>como a los pobres pastores</l>
+                  <l>de ganados.</l>
+               </lg>
+               <lg>
+                  <l>Dejemos a los troyanos,</l>
+                  <l>que sus males no los vimos,</l>
+                  <l>ni sus glorias;</l>
+                  <l>dejemos a los romanos,</l>
+                  <l>aunque oímos y leímos</l>
+                  <l>sus historias;</l>
+                  <l>no curemos de saber</l>
+                  <l>lo de aquel siglo pasado</l>
+                  <l>qué fue de ello;</l>
+                  <l>vengamos a lo de ayer,</l>
+                  <l>que también es olvidado</l>
+                  <l>como aquello.</l>
+               </lg>
+               <lg>
+                  <l>¿Qué se hizo el Rey Don Juan?</l>
+                  <l>Los Infantes de Aragón</l>
+                  <l>¿qué se hicieron?</l>
+                  <l>¿Qué fue de tanto galán,</l>
+                  <l>qué de tanta invención</l>
+                  <l>que trajeron?</l>
+                  <l>¿Fueron sino devaneos,</l>
+                  <l>qué fueron sino verduras</l>
+                  <l>de las eras,</l>
+                  <l>las justas y los torneos,</l>
+                  <l>paramentos, bordaduras</l>
+                  <l>y cimeras?</l>
+               </lg>
+               <lg>
+                  <l>¿Qué se hicieron las damas,</l>
+                  <l>sus tocados y vestidos,</l>
+                  <l>sus olores?</l>
+                  <l>¿Qué se hicieron las llamas</l>
+                  <l>de los fuegos encendidos</l>
+                  <l>de amadores?</l>
+                  <l>¿Qué se hizo aquel trovar,</l>
+                  <l>las músicas acordadas</l>
+                  <l>que tañían?</l>
+                  <l>¿Qué se hizo aquel danzar,</l>
+                  <l>aquellas ropas chapadas</l>
+                  <l>que traían?</l>
+               </lg>
+               <lg>
+                  <l>Pues el otro, su heredero,</l>
+                  <l>Don Enrique, ¡qué poderes</l>
+                  <l>alcanzaba!</l>
+                  <l>¡Cuán blando, cuán halaguero</l>
+                  <l>el mundo con sus placeres</l>
+                  <l>se le daba!</l>
+                  <l>Mas verás cuán enemigo,</l>
+                  <l>cuán contrario, cuán cruel</l>
+                  <l>se le mostró;</l>
+                  <l>habiéndole sido amigo,</l>
+                  <l>¡cuán poco duro con él</l>
+                  <l>lo que le dio!</l>
+               </lg>
+               <lg>
+                  <l>Las dádivas desmedidas,</l>
+                  <l>los edificios reales</l>
+                  <l>llenos de oro,</l>
+                  <l>las vajillas tan fabridas,</l>
+                  <l>los enriques y reales</l>
+                  <l>del tesoro;</l>
+                  <l>los jaeces, los caballos</l>
+                  <l>de sus gentes y atavíos</l>
+                  <l>tan sobrados,</l>
+                  <l>¿dónde iremos a buscallos?</l>
+                  <l>¿qué fueron sino rocíos</l>
+                  <l>de los prados?</l>
+               </lg>
+               <lg>
+                  <l>Pues su hermano el inocente,</l>
+                  <l>que en su vida sucesor</l>
+                  <l>le hicieron,</l>
+                  <l>¡qué corte tan excelente</l>
+                  <l>tuvo y cuánto gran señor</l>
+                  <l>le siguieron!</l>
+                  <l>Mas, como fuese mortal,</l>
+                  <l>metiole la Muerte luego</l>
+                  <l>en su fragua.</l>
+                  <l>¡Oh, juicio divinal,</l>
+                  <l>cuando más ardía el fuego,</l>
+                  <l>echaste agua!</l>
+               </lg>
+               <lg>
+                  <l>Pues aquel gran Condestable,</l>
+                  <l>maestre que conocimos</l>
+                  <l>tan privado,</l>
+                  <l>no cumple que de él se habla,</l>
+                  <l>mas sólo cómo lo vimos</l>
+                  <l>degollado.</l>
+                  <l>Sus infinitos tesoros,</l>
+                  <l>sus villas y sus lugares,</l>
+                  <l>su mandar,</l>
+                  <l>¿qué le fueron sino lloros?</l>
+                  <l>¿Qué fueron sino pesares</l>
+                  <l>al dejar?</l>
+               </lg>
+               <lg>
+                  <l>Y los otros dos hermanos,</l>
+                  <l>maestres tan prosperados</l>
+                  <l>como reyes,</l>
+                  <l>que a los grandes y medianos</l>
+                  <l>trajeron tan sojuzgados</l>
+                  <l>a sus leyes;</l>
+                  <l>aquella prosperidad</l>
+                  <l>que en tan alto fue subida</l>
+                  <l>y ensalzada,</l>
+                  <l>¿qué fue sino claridad</l>
+                  <l>que cuando más encendida</l>
+                  <l>fue matada?</l>
+               </lg>
+               <lg>
+                  <l>Tantos duques excelentes,</l>
+                  <l>tantos marqueses y condes</l>
+                  <l>y varones</l>
+                  <l>como vimos tan potentes,</l>
+                  <l>di, Muerte, ¿do los escondes</l>
+                  <l>y traspones?</l>
+                  <l>Y las sus claras hazañas</l>
+                  <l>que hicieron en las guerras</l>
+                  <l>y en las paces,</l>
+                  <l>cuando tú, cruda, te ensañas,</l>
+                  <l>con tu fuerza las aterras</l>
+                  <l>y deshaces.</l>
+               </lg>
+               <lg>
+                  <l>Las huestes innumerables,</l>
+                  <l>los pendones, estandartes</l>
+                  <l>y banderas,</l>
+                  <l>los castillos impugnables,</l>
+                  <l>los muros y baluartes</l>
+                  <l>y barreras,</l>
+                  <l>la cava honda, chapada,</l>
+                  <l>o cualquier otro reparo,</l>
+                  <l>¿qué aprovecha?</l>
+                  <l>Cuando tú vienes airada,</l>
+                  <l>todo lo pasas de claro</l>
+                  <l>con tu flecha.</l>
+               </lg>
+               <lg>
+                  <l>Aquel de buenos abrigo,</l>
+                  <l>amado por virtuoso</l>
+                  <l>de la gente,</l>
+                  <l>el maestre Don Rodrigo</l>
+                  <l>Manrique, tanto famoso</l>
+                  <l>y tan valiente;</l>
+                  <l>sus hechos grandes y claros</l>
+                  <l>no cumple que los alabe,</l>
+                  <l>pues los vieron,</l>
+                  <l>ni los quiero hacer caros</l>
+                  <l>pues que el mundo todo sabe</l>
+                  <l>cuáles fueron.</l>
+               </lg>
+               <lg>
+                  <l>Amigos de sus amigos,</l>
+                  <l>¡qué señor para criados</l>
+                  <l>y parientes!</l>
+                  <l>¡Qué enemigo de enemigos!</l>
+                  <l>¡Qué maestro de esforzados</l>
+                  <l>y valientes!</l>
+                  <l>¡Que seso para discretos!</l>
+                  <l>¡Qué gracia para donosos!</l>
+                  <l>¡Qué razón!</l>
+                  <l>¡Qué benigno a los sujetos!</l>
+                  <l>¡A los bravos y dañosos,</l>
+                  <l>qué león!</l>
+               </lg>
+               <lg>
+                  <l>En ventura Octaviano;</l>
+                  <l>Julio César en vencer</l>
+                  <l>y batallar;</l>
+                  <l>en la virtud, Africano;</l>
+                  <l>Aníbal en el saber</l>
+                  <l>y trabajar;</l>
+                  <l>en la bondad, un Trajano;</l>
+                  <l>Tito en liberalidad</l>
+                  <l>con alegría,</l>
+                  <l>en su brazo, Aureliano;</l>
+                  <l>Marco Atilio en la verdad</l>
+                  <l>que prometía.</l>
+               </lg>
+               <lg>
+                  <l>Antonio Pío en clemencia;</l>
+                  <l>Marco Aurelio en igualdad</l>
+                  <l>del semblante;</l>
+                  <l>Adriano en elocuencia,</l>
+                  <l>Teodosio en humanidad</l>
+                  <l>y buen talante;</l>
+                  <l>Aurelio Alejandro fue</l>
+                  <l>en disciplina y rigor</l>
+                  <l>de la guerra;</l>
+                  <l>un Constantino en la fe,</l>
+                  <l>Camilo en el gran amor</l>
+                  <l>de su tierra.</l>
+               </lg>
+               <lg>
+                  <l>No dejó grandes tesoros,</l>
+                  <l>ni alcanzó muchas riquezas</l>
+                  <l>ni vajillas;</l>
+                  <l>mas hizo guerra a los moros,</l>
+                  <l>ganando sus fortalezas</l>
+                  <l>y sus villas;</l>
+                  <l>y en las lides que venció,</l>
+                  <l>cuántos moros y caballos</l>
+                  <l>se perdieron;</l>
+                  <l>y en este oficio ganó</l>
+                  <l>las rentas y los vasallos</l>
+                  <l>que le dieron.</l>
+               </lg>
+               <lg>
+                  <l>Pues por su honra y estado,</l>
+                  <l>en otros tiempos pasados,</l>
+                  <l>¿cómo se hubo?</l>
+                  <l>Quedando desamparado,</l>
+                  <l>con hermanos y criados</l>
+                  <l>se sostuvo.</l>
+                  <l>Después que hechos famosos</l>
+                  <l>hizo en esta misma guerra</l>
+                  <l>que hacía,</l>
+                  <l>hizo tratos tan honrosos</l>
+                  <l>que le dieron aun más tierra</l>
+                  <l>que tenía.</l>
+               </lg>
+               <lg>
+                  <l>Estas sus viejas historias</l>
+                  <l>que con su brazo pintó</l>
+                  <l>en juventud,</l>
+                  <l>con otras nuevas victorias</l>
+                  <l>ahora las renovó</l>
+                  <l>en senectud.</l>
+                  <l>Por su grande habilidad,</l>
+                  <l>por méritos y ancianía</l>
+                  <l>bien gastada,</l>
+                  <l>alcanzó la dignidad</l>
+                  <l>de la gran Caballería</l>
+                  <l>de la Espada.</l>
+               </lg>
+               <lg>
+                  <l>Y sus villas y sus tierras</l>
+                  <l>ocupadas de tiranos</l>
+                  <l>las halló;</l>
+                  <l>mas por cercos y por guerras</l>
+                  <l>y por fuerza de sus manos</l>
+                  <l>las cobró.</l>
+                  <l>Pues nuestro rey natural,</l>
+                  <l>si de las obras que obró</l>
+                  <l>fue servido,</l>
+                  <l>dígalo el de Portugal</l>
+                  <l>y en Castilla quien siguió</l>
+                  <l>su partido.</l>
+               </lg>
+               <lg>
+                  <l>Después de puesta la vida</l>
+                  <l>tantas veces por su ley</l>
+                  <l>al tablero;</l>
+                  <l>después de tan bien servida</l>
+                  <l>la corona de su rey</l>
+                  <l>verdadero;</l>
+                  <l>después de tanta hazaña</l>
+                  <l>a que no puede bastar</l>
+                  <l>cuenta cierta,</l>
+                  <l>en la su villa de Ocaña</l>
+                  <l>vino la Muerte a llamar</l>
+                  <l>a su puerta</l>
+               </lg>
+               <lg>
+                  <l>diciendo: —Buen caballero</l>
+                  <l>dejad el mundo engañoso</l>
+                  <l>y su halago;</l>
+                  <l>vuestro corazón de acero</l>
+                  <l>muestre su esfuerzo famoso</l>
+                  <l>en este trago;</l>
+                  <l>y pues de vida y salud</l>
+                  <l>hicisteis tan poca cuenta</l>
+                  <l>por la fama,</l>
+                  <l>esfuércese la virtud</l>
+                  <l>para sufrir esta afrenta</l>
+                  <l>que os llama.</l>
+               </lg>
+               <lg>
+                  <l>No se os haga tan amarga</l>
+                  <l>la batalla temerosa</l>
+                  <l>que esperáis,</l>
+                  <l>pues otra vida más larga</l>
+                  <l>de la fama gloriosa</l>
+                  <l>acá dejáis,</l>
+                  <l>(aunque esta vida de honor</l>
+                  <l>tampoco no es eternal</l>
+                  <l>ni verdadera);</l>
+                  <l>mas, con todo, es muy mejor</l>
+                  <l>que la otra temporal</l>
+                  <l>perecedera.</l>
+               </lg>
+               <lg>
+                  <l>El vivir que es perdurable</l>
+                  <l>no se gana con estados</l>
+                  <l>mundanales,</l>
+                  <l>ni con vida delectable</l>
+                  <l>donde moran los pecados</l>
+                  <l>infernales;</l>
+                  <l>mas los buenos religiosos</l>
+                  <l>gánanlo con oraciones</l>
+                  <l>y con lloros;</l>
+                  <l>los caballeros famosos,</l>
+                  <l>con trabajos y aflicciones</l>
+                  <l>contra moros.</l>
+               </lg>
+               <lg>
+                  <l>Y pues vos, claro varón,</l>
+                  <l>tanta sangre derramasteis</l>
+                  <l>de paganos,</l>
+                  <l>esperad el galardón</l>
+                  <l>que en este mundo ganasteis</l>
+                  <l>por las manos;</l>
+                  <l>y con esta confianza,</l>
+                  <l>y con la fe tan entera</l>
+                  <l>que tenéis,</l>
+                  <l>partid con buena esperanza,</l>
+                  <l>que esta otra vida tercera</l>
+                  <l>ganaréis—.</l>
+               </lg>
+               <lg>
+                  <l>—No tengamos tiempo ya</l>
+                  <l>en esta vida mezquina</l>
+                  <l>por tal modo,</l>
+                  <l>que mi voluntad está</l>
+                  <l>conforme con la divina</l>
+                  <l>para todo;</l>
+                  <l>y consiento en mi morir</l>
+                  <l>con voluntad placentera,</l>
+                  <l>clara y pura,</l>
+                  <l>que querer hombre vivir</l>
+                  <l>cuando Dios quiere que muera,</l>
+                  <l>es locura.</l>
+               </lg>
+               <lg>
+                  <l>Tú, que, por nuestra maldad,</l>
+                  <l>tomaste forma servil</l>
+                  <l>y bajo nombre;</l>
+                  <l>tú, que a tu divinidad</l>
+                  <l>juntaste cosa tan vil</l>
+                  <l>como es el hombre;</l>
+                  <l>tú, que tan grandes tormentos</l>
+                  <l>sufriste sin resistencia</l>
+                  <l>en tu persona,</l>
+                  <l>no por mis merecimientos,</l>
+                  <l>mas por tu sola clemencia</l>
+                  <l>me perdona—.</l>
+               </lg>
+               <lg>
+                  <l>Así, con tal entender,</l>
+                  <l>todos sentidos humanos</l>
+                  <l>conservados,</l>
+                  <l>cercado de su mujer</l>
+                  <l>y de sus hijos y hermanos</l>
+                  <l>y criados,</l>
+                  <l>dio el alma a quien se la dio</l>
+                  <l>(el cual la dio en el cielo</l>
+                  <l>en su gloria),</l>
+                  <l>que aunque la vida perdió,</l>
+                  <l>dejonos harto consuelo</l>
+                  <l>su memoria.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Se conservan en el Cancionero de fray Íñigo de Mendoza. </note>
+      </body>
+   </text>
+</TEI>

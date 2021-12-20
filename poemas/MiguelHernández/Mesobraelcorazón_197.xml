@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Me sobra el corazón</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>[Poemas no recogidos en libros - Entre El rayo que no cesa y Viento del
+            pueblo]</title>
+               <date cert="high"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Círculo de la vida y Muerte</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Hoy estoy sin saber yo no sé cómo,</l>
+                  <l>hoy estoy para penas solamente,</l>
+                  <l>hoy no tengo amistad,</l>
+                  <l>hoy sólo tengo ansias</l>
+                  <l>de arrancarme de cuajo el corazón</l>
+                  <l>y ponerlo debajo de un zapato.</l>
+               </lg>
+               <lg>
+                  <l>Hoy reverdece aquella espina seca,</l>
+                  <l>hoy es día de llantos de mi reino,</l>
+                  <l>hoy descarga en mi pecho el desaliento</l>
+                  <l>plomo desalentado.</l>
+               </lg>
+               <lg>
+                  <l>No puedo con mi estrella.</l>
+                  <l>Y me busco la muerte por las manos</l>
+                  <l>mirando con cariño las navajas,</l>
+                  <l>y recuerdo aquel hacha compañera,</l>
+                  <l>y pienso en los más altos campanarios</l>
+                  <l>para un salto mortal serenamente.</l>
+               </lg>
+               <lg>
+                  <l>Si no fuera ¿por qué?… no sé por qué,</l>
+                  <l>mi corazón escribiría una postrera carta,</l>
+                  <l>una carta que llevo allí metida,</l>
+                  <l>haría un tintero de mi corazón,</l>
+                  <l>una fuente de sílabas, de adioses y relatos,</l>
+                  <l>y ahí le quedas, al mundo le diría.</l>
+               </lg>
+               <lg>
+                  <l>Yo nací en mala luna.</l>
+                  <l>Tengo la pena de una sola pena</l>
+                  <l>que vale más que toda la alegría.</l>
+               </lg>
+               <lg>
+                  <l>Un amor me ha dejado con los brazos caídos</l>
+                  <l>y no puedo tenderlos hacia más.</l>
+                  <l>¿No véis mi boca qué desengañada,</l>
+                  <l>qué inconformes mis ojos?</l>
+                  <l>Cuanto más me contemplo más me aflijo:</l>
+                  <l>cortar este dolor ¿con qué tijeras?</l>
+               </lg>
+               <lg>
+                  <l>Ayer, mañana, hoy</l>
+                  <l>padeciendo por todo</l>
+                  <l>mi corazón, pecera melancólica,</l>
+                  <l>penal de ruiseñores moribundos.</l>
+               </lg>
+               <lg>
+                  <l>Me sobra corazón.</l>
+               </lg>
+               <lg>
+                  <l>Hoy descorazonarme.</l>
+                  <l>yo el más corazonado de los hombres,</l>
+                  <l>y por el más. también el más amargo.</l>
+               </lg>
+               <lg>
+                  <l>No sé por qué, no sé por qué ni cómo</l>
+                  <l>me perdono la vida cada día.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

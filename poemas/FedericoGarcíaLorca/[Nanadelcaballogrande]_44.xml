@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Nana del caballo grande]</title>
+            <author>Federico García Lorca</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Bodas de sangre</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Revista Cruz y Raya</publisher>
+               <publisher n="used_edition">Teatro completo (Verbum, 2019)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Teatro en verso</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Nana</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <idno type="viaf">http://viaf.org/viaf/34456883</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1898</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1936</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>CUADRO SEGUNDO</l>
+                  <l>(Habitación pintada de rosa con cobres y ramos de flores populares. En el centro,
+                    una mesa con mantel. Es la mañana. Suegra de Leonardo con un niño en brazos. Lo
+                    mece. La Mujer, en la otra esquina, hace punto de media.)</l>
+                  <l>SUEGRA:</l>
+                  <l>Nana, niño, nana</l>
+                  <l>del caballo grande</l>
+                  <l>que no quiso el agua.</l>
+                  <l>El agua era negra</l>
+                  <l>dentro de las ramas.</l>
+                  <l>Cuando llega el puente</l>
+                  <l>se detiene y canta.</l>
+                  <l>¿Quién dirá, mi niño,</l>
+                  <l>lo que tiene el agua,</l>
+                  <l>con su larga cola</l>
+                  <l>por su verde sala?</l>
+                  <l>MUJER: (Bajo.)</l>
+                  <l>Duérmete, clavel,</l>
+                  <l>que el caballo no quiere beber.</l>
+                  <l>SUEGRA:</l>
+                  <l>Duérmete, rosal,</l>
+                  <l>que el caballo se pone a llorar.</l>
+                  <l>Las patas heridas,</l>
+                  <l>las crines heladas,</l>
+                  <l>dentro de los ojos</l>
+                  <l>un puñal de plata.</l>
+                  <l>Bajaban al río,</l>
+                  <l>¡ay, cómo bajaban!</l>
+                  <l>La sangre corría</l>
+                  <l>más fuerte que el agua.</l>
+                  <l>MUJER: </l>
+                  <l>Duérmete, clavel,</l>
+                  <l>que el caballo no quiere beber.</l>
+                  <l>SUEGRA: </l>
+                  <l>Duérmete, rosal,</l>
+                  <l>que el caballo se pone a llorar.</l>
+                  <l>MUJER: </l>
+                  <l>No quiso tocar</l>
+                  <l>la orilla mojada</l>
+                  <l>su belfo caliente</l>
+                  <l>con moscas de plata.</l>
+                  <l>A los montes duros</l>
+                  <l>solo relinchaba</l>
+                  <l>con el río muerto</l>
+                  <l>sobre la garganta.</l>
+                  <l>¡Ay, caballo grande</l>
+                  <l>que no quiso el agua!</l>
+                  <l>¡Ay, dolor de nieve,</l>
+                  <l>caballo del alba!</l>
+                  <l>SUEGRA:</l>
+                  <l>¡No vengas! Detente,</l>
+                  <l>cierra la ventana</l>
+                  <l>con rama de sueños</l>
+                  <l>y sueño de ramas.</l>
+                  <l>MUJER:</l>
+                  <l>Mi niño se duerme.</l>
+                  <l>SUEGRA:</l>
+                  <l>Mi niño se calla.</l>
+                  <l>MUJER:</l>
+                  <l>Caballo, mi niño</l>
+                  <l>tiene una almohada.</l>
+                  <l>SUEGRA: </l>
+                  <l>Su cuna de acero.</l>
+                  <l>MUJER:</l>
+                  <l>Su colcha de holanda.</l>
+                  <l>SUEGRA: </l>
+                  <l>Nana, niño, nana.</l>
+                  <l>MUJER: </l>
+                  <l>¡Ay, caballo grande</l>
+                  <l>que no quiso el agua!</l>
+                  <l>SUEGRA: </l>
+                  <l>¡No vengas, no entres!</l>
+                  <l>Vete a la montaña.</l>
+                  <l>Por los valles grises</l>
+                  <l>donde está la jaca.</l>
+                  <l>MUJER: (Mirando.)</l>
+                  <l>Mi niño se duerme.</l>
+                  <l>SUEGRA: </l>
+                  <l>Mi niño descansa.</l>
+                  <l>MUJER: (Bajito.)</l>
+                  <l>Duérmete, clavel,</l>
+                  <l>que el caballo no quiere beber.</l>
+                  <l>SUEGRA: (Levantándose, y muy bajito.)</l>
+                  <l>Duérmete, rosal,</l>
+                  <l>que el caballo se pone a llorar.</l>
+                  <l>[…]</l>
+                  <l>SUEGRA: (Enérgica, a su hija.) ¡Cállate! (Sale LEONARDO.) ¡El niño! (Entra y
+                    vuelve a salir con él en brazos. La MUJER ha permanecido de pie, inmóvil.)</l>
+                  <l>Las patas heridas,</l>
+                  <l>las crines heladas,</l>
+                  <l>dentro de los ojos</l>
+                  <l>un puñal de plata.</l>
+                  <l>Bajaban al río.</l>
+                  <l>La sangre corría</l>
+                  <l>más fuerte que el agua.</l>
+                  <l>MUJER: (Volviéndose lentamente y como soñando.)</l>
+                  <l>Duérmete, clavel,</l>
+                  <l>que el caballo no quiere beber.</l>
+                  <l>SUEGRA:</l>
+                  <l>Duérmete, rosal,</l>
+                  <l>que el caballo se pone a llorar.</l>
+                  <l>MUJER:</l>
+                  <l>Nana, niño, nana.</l>
+                  <l>SUEGRA:</l>
+                  <l>¡Ay, caballo grande,</l>
+                  <l>que no quiso el agua!</l>
+                  <l>MUJER: (Dramática.)</l>
+                  <l>¡No vengas, no entres!</l>
+                  <l>¡Vete a la montaña!</l>
+                  <l>¡Ay, dolor de nieve,</l>
+                  <l>caballo del alba!</l>
+                  <l>SUEGRA: (Llorando.)</l>
+                  <l>Mi niño se duerme…</l>
+                  <l>MUJER: (Llorando y acercándose lentamente.)</l>
+                  <l>Mi niño descansa…</l>
+                  <l>SUEGRA: </l>
+                  <l>Duérmete, clavel,</l>
+                  <l>que el caballo no quiere beber.</l>
+                  <l>MUJER: (Llorando y apoyándose sobre la mesa.)</l>
+                  <l>Duérmete, rosal,</l>
+                  <l>que el caballo se pone a llorar.</l>
+                  <l>TELÓN</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Camarón fue el primero en ponerle música a este fragmento de Bodas de sangre, de
+            Federico García Lorca, dándole el título de «Nana del caballo grande». Si bien no
+            aparece como tal en la obra original, el título se ha extendido popularmente para
+            referirse a la nana que le cantan la MUJER y la SUEGRA al niño al principio y al final
+            del cuadro segundo. Aquí se transcriben estas partes de la obra, elidiendo el texto
+            intermedio. La obra se publicó por la revista Cruz y Raya en 1935, pero fue escrita en
+            1931 y estrenada en 1933. </note>
+      </body>
+   </text>
+</TEI>

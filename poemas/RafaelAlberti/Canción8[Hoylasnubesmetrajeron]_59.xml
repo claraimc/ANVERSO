@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Canción 8 [Hoy las nubes me trajeron]</title>
+            <author>Rafael Alberti</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Baladas y canciones del Paraná</title>
+               <date cert="high"/>
+               <pubPlace>Buenos Aires</pubPlace>
+               <publisher n="first_editor">Losada</publisher>
+               <publisher n="used_edition">Obras completas. Poesía III (Seix Barral - 2006)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>España, Exilio y Infancia</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <idno type="viaf">http://viaf.org/viaf/51683733</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1902</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1999</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Hoy las nubes me trajeron,</l>
+                  <l>volando, el mapa de España.</l>
+                  <l>¡Qué pequeño sobre el río,</l>
+                  <l>y qué grande sobre el pasto</l>
+                  <l>la sombra que proyectaba!</l>
+               </lg>
+               <lg>
+                  <l>Se le llenó de caballos</l>
+                  <l>la sombra que proyectaba.</l>
+                  <l>Yo, a caballo, por su sombra</l>
+                  <l>busqué mi pueblo y mi casa.</l>
+               </lg>
+               <lg>
+                  <l>Entré en el patio que un día</l>
+                  <l>fuera una fuente con agua.</l>
+                  <l>Aunque no estaba la fuente,</l>
+                  <l>la fuente siempre sonaba.</l>
+                  <l>Y el agua que no corría</l>
+                  <l>volvió para darme agua.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Baladas y canciones del Paraná se publicó en 1953 junto con Ora marítima. Existe una
+            musicalización de este poema anterior a 1975, por eso no está recogida en esta base de
+            datos: Ricardo Cantalapiedra (Once canciones, 1970). </note>
+      </body>
+   </text>
+</TEI>

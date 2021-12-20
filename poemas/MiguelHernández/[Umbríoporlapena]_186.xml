@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Umbrío por la pena]</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>El rayo que no cesa</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Héroe</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Sonetos</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor y Pena</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Umbrío por la pena, casi bruno,</l>
+                  <l>porque la pena tizna cuando estalla,</l>
+                  <l>donde yo no me hallo no se halla</l>
+                  <l>hombre más apenado que ninguno.</l>
+               </lg>
+               <lg>
+                  <l>Sobre la pena duermo solo y uno,</l>
+                  <l>pena es mi paz y pena mi batalla,</l>
+                  <l>perro que ni me deja ni se calla,</l>
+                  <l>siempre a su dueño fiel, pero importuno.</l>
+               </lg>
+               <lg>
+                  <l>Cardos y penas llevo por corona,</l>
+                  <l>cardos y penas siembran sus leopardos</l>
+                  <l>y no me dejan bueno hueso alguno.</l>
+               </lg>
+               <lg>
+                  <l>No podrá con la pena mi persona</l>
+                  <l>rodeada de penas y de cardos:</l>
+                  <l>¡cuánto penar para morirse uno!</l>
+               </lg>
+            </lg>
+         </div>
+         <note>La primera versión de este poema la hizo Joan Manuel Serrat (Miguel Hernández, 1972),
+            pero, al ser anterior a 1975, no está recogida en esta base de datos. </note>
+      </body>
+   </text>
+</TEI>

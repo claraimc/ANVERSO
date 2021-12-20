@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La palomita</title>
+            <author>José Iglesias de la Casa</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Poesías póstumas 1</title>
+               <date cert="high"/>
+               <pubPlace>Barcelona</pubPlace>
+               <publisher n="first_editor">Imprenta de Sierra i Martí</publisher>
+               <publisher n="used_edition">1820-Imprenta de Sierra i Martí</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesías anacreónticas y Letrillas</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>José Iglesias de la Casa</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1748</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1791</date>
+                  </death>
+                  <floruit>Neoclasicismo</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>LETRILLA XXXIII</l>
+                  <l>     La palomita</l>
+                  <l>Una paloma blanca</l>
+                  <l>Como la nieve,</l>
+                  <l>Me ha picado en el alma:</l>
+                  <l>Mucho me duele.</l>
+                  <l>Dulce paloma,</l>
+                  <l>¿Cómo pretendes</l>
+                  <l>Herir el alma</l>
+                  <l>De quién te quiere?</l>
+                  <l>Tu pico hermoso</l>
+                  <l>Brindó placeres,</l>
+                  <l>Pero en mi pecho</l>
+                  <l>Picó cual sierpe.</l>
+                  <l>Pues dime, ingrata,</l>
+                  <l>¿Por qué pretendes</l>
+                  <l>Volverme males</l>
+                  <l>Dándote bienes?</l>
+                  <l>¡Ay! nadie fíe</l>
+                  <l>De aves aleves;</l>
+                  <l>Que a aquél que halagan</l>
+                  <l>Mucho más hieren.</l>
+                  <l>Una paloma blanca</l>
+                  <l>Como la nieve,</l>
+                  <l>Me ha picado en el alma:</l>
+                  <l>Mucho me duele.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rima XXXVIII</title>
+            <author>Gustavo Adolfo Bécquer</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Rimas</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Libro de los gorriones</publisher>
+               <publisher n="used_edition">2003 - Espasa Calpe [Austral]</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Gustavo Adolfo Bécquer</persName>
+                  <idno type="viaf">http://viaf.org/viaf/39390815</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1836</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1870</date>
+                  </death>
+                  <floruit>Romanticismo</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Los suspiros son aire, y van al aire.</l>
+                  <l>Las lágrimas son agua, y van al mar.</l>
+                  <l>Dime, mujer, cuando el amor se olvida,</l>
+                  <l>¿sabes tú adónde va?</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Parte del verso tres de la rima XXXVIII de Bécquer da título a la canción. Los versos
+            uno y dos se insertan, con variaciones mínimas, en la letra, de modo que el poema cobra
+            un sentido ligeramente distinto dentro de la canción. </note>
+      </body>
+   </text>
+</TEI>

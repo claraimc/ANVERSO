@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pensativo estaba el Cid</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Romancero viejo</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">Romancero de romances caballerescos e historicos anteriores
+                al siglo XVIII (Imprenta de don Eusebio Aguado, 1832)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>El Cid (Rodrigo Díaz de Vivar)</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Pensativo está Rodrigo</l>
+                  <l>viéndose de pocos años</l>
+                  <l>para vengar a su padre</l>
+                  <l>matando al conde Lozano.</l>
+                  <l>Miraba el bando temido</l>
+                  <l>del poderoso contrario,</l>
+                  <l>que tenía en las montañas</l>
+                  <l>mil amigos asturianos.</l>
+                  <l>Miraba cómo en las Cortes</l>
+                  <l>del rey de León, Fernando,</l>
+                  <l>era su voto primero</l>
+                  <l>y en guerras mejor su brazo.</l>
+                  <l>Todo le parece poco</l>
+                  <l>respecto de aquel agravio,</l>
+                  <l>el primero que se ha hecho</l>
+                  <l>a la sangre de Laín Calvo.</l>
+                  <l>Al cielo pide justicia,</l>
+                  <l>a la tierra pide campo,</l>
+                  <l>al viejo padre licencia,</l>
+                  <l>y a la honra esfuerzo y brazo.</l>
+                  <l>Non cuida de su niñez</l>
+                  <l>que, en naciendo, es costumbrado</l>
+                  <l>a morir por casos de honra</l>
+                  <l>el valiente fijodalgo.</l>
+                  <l>Descolgó una espada antigua</l>
+                  <l>de Mudarra el castellano,</l>
+                  <l>que estaba vieja y mohosa</l>
+                  <l>por la muerte de su amo.</l>
+                  <l>Y pensando que ella sola</l>
+                  <l>bastaba para el descargo,</l>
+                  <l>ante que se la ciñese</l>
+                  <l>así le dice turbado:</l>
+                  <l>—Faz cuenta, valiente espada,</l>
+                  <l>que es de Mudarra mi brazo,</l>
+                  <l>y que con su brazo riñes,</l>
+                  <l>porque suyo es el agravio.</l>
+                  <l>Bien sé que te correrás</l>
+                  <l>de verte así en la mi mano,</l>
+                  <l>mas no te podrás correr</l>
+                  <l>de volver atrás un paso.</l>
+                  <l>Tan fuerte como tu acero</l>
+                  <l>me verás en campo armado;</l>
+                  <l>tan bueno como el primero</l>
+                  <l>segundo dueño has cobrado;</l>
+                  <l>Y cuando alguno te venza</l>
+                  <l>del torpe fecho enojado,</l>
+                  <l>fasta la cruz en mi pecho</l>
+                  <l>te esconderé muy airado.</l>
+                  <l>Vamos al campo, que es hora</l>
+                  <l>de dar al conde Lozano</l>
+                  <l>el castigo que merece</l>
+                  <l>tan infame lengua y mano—.</l>
+                  <l>Determinado va el Cid,</l>
+                  <l>y va tan determinado,</l>
+                  <l>que en espacio de una hora</l>
+                  <l>quedó del Conde vengado.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Versión recogidas por Agustín Durán en Romancero de Romances caballerescos e
+            historicos anteriores al siglo XVIII (1832). </note>
+      </body>
+   </text>
+</TEI>

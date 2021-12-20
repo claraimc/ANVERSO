@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pequeño vals vienés</title>
+            <author>Federico García Lorca</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Poeta en Nueva York</title>
+               <date cert="high"/>
+               <pubPlace>México</pubPlace>
+               <publisher n="first_editor">Editorial Séneca</publisher>
+               <publisher n="used_edition">1983 Editorial Porrúa</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor, Dolor y Deseo</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <idno type="viaf">http://viaf.org/viaf/34456883</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1898</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1936</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>En Viena hay diez muchachas,</l>
+                  <l>un hombro donde solloza la muerte</l>
+                  <l>y un bosque de palomas disecadas.</l>
+                  <l>Hay un fragmento de la mañana</l>
+                  <l>en el museo de la escarcha.</l>
+                  <l>Hay un salón con mil ventanas.</l>
+                  <l>¡Ay, ay, ay, ay!</l>
+                  <l>Toma este vals con la boca cerrada.</l>
+               </lg>
+               <lg>
+                  <l>Este vals, este vals, este vals,</l>
+                  <l>de sí, de muerte y de coñac</l>
+                  <l>que moja su cola en el mar.</l>
+               </lg>
+               <lg>
+                  <l>Te quiero, te quiero, te quiero,</l>
+                  <l>con la butaca y el libro muerto,</l>
+                  <l>por el melancólico pasillo,</l>
+                  <l>en el oscuro desván del lirio,</l>
+                  <l>en nuestra cama de la luna</l>
+                  <l>y en la danza que sueña la tortuga.</l>
+                  <l>¡Ay, ay, ay, ay!</l>
+                  <l>Toma este vals de quebrada cintura.</l>
+               </lg>
+               <lg>
+                  <l>En Viena hay cuatro espejos</l>
+                  <l>donde juegan tu boca y los ecos.</l>
+                  <l>Hay una muerte para piano</l>
+                  <l>que pinta de azul a los muchachos.</l>
+                  <l>Hay mendigos por los tejados.</l>
+                  <l>Hay frescas guirnaldas de llanto.</l>
+                  <l>¡Ay, ay, ay, ay!</l>
+                  <l>Toma este vals que se muere en mis brazos.</l>
+               </lg>
+               <lg>
+                  <l>Porque te quiero, te quiero, amor mío,</l>
+                  <l>en el desván donde juegan los niños,</l>
+                  <l>soñando viejas luces de Hungría</l>
+                  <l>por los rumores de la tarde tibia,</l>
+                  <l>viendo ovejas y lirios de nieve</l>
+                  <l>por el silencio oscuro de tu frente.</l>
+                  <l>¡Ay, ay, ay, ay!</l>
+                  <l>Toma este vals del «Te quiero siempre».</l>
+               </lg>
+               <lg>
+                  <l>En Viena bailaré contigo</l>
+                  <l>con un disfraz que tenga</l>
+                  <l>cabeza de río.</l>
+                  <l>¡Mira qué orilla tengo de jacintos!</l>
+                  <l>Dejaré mi boca entre tus piernas,</l>
+                  <l>mi alma en fotografías y azucenas,</l>
+                  <l>y en las ondas oscuras de tu andar</l>
+                  <l>quiero, amor mío, amor mío, dejar,</l>
+                  <l>violín y sepulcro, las cintas del vals.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>En 1986 Leonard Cohen musicalizó por primera vez este poema, en una versión traducida
+            al inglés, con el título de «Take this Waltz», de la que parten la mayoría de
+            musicalizaciones posteriores. Al ser en inglés, la versión de Cohen no está incluida en
+            esta base de datos. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Son de negros en Cuba</title>
+            <author>Federico García Lorca</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Poeta en Nueva York</title>
+               <date cert="high"/>
+               <pubPlace>México</pubPlace>
+               <publisher n="first_editor">Editorial Séneca</publisher>
+               <publisher n="used_edition">Obra completa II. Poesía, 2 (Akal, 2008)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Cuba y Muerte</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <idno type="viaf">http://viaf.org/viaf/34456883</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1898</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1936</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Cuando llegue la luna llena iré a Santiago de Cuba,</l>
+                  <l>iré a Santiago</l>
+                  <l>en un coche de agua negra,</l>
+                  <l>iré a Santiago,</l>
+                  <l>cantarán los techos de palmera,</l>
+                  <l>iré a Santiago.</l>
+                  <l>Cuando la palma quiere ser cigüeña</l>
+                  <l>iré a Santiago</l>
+                  <l>y cuando quiere ser medusa el plátano</l>
+                  <l>iré a Santiago.</l>
+                  <l>Iré a Santiago</l>
+                  <l>con la rubia cabeza de Fonseca.</l>
+                  <l>Iré a Santiago.</l>
+                  <l>Y con la rosa de Romeo y Julieta</l>
+                  <l>iré a Santiago.</l>
+                  <l>Mar de papel y plata de monedas.</l>
+                  <l>Iré a Santiago.</l>
+                  <l>¡Oh Cuba! ¡Oh ritmo de semillas secas!</l>
+                  <l>Iré a Santiago.</l>
+                  <l>¡Oh cintura caliente y gota de madera!</l>
+                  <l>Iré a Santiago.</l>
+                  <l>Arpa de troncos vivos. Caimán. Flor de tabaco.</l>
+                  <l>Iré a Santiago.</l>
+                  <l>Siempre he dicho que yo iría a Santiago</l>
+                  <l>en un coche de agua negra.</l>
+                  <l>Iré a Santiago.</l>
+                  <l>Brisa y alcohol en las ruedas</l>
+                  <l>iré a Santiago.</l>
+                  <l>Mi coral en la tiniebla</l>
+                  <l>iré a Santiago.</l>
+                  <l>El mar ahogado en la arena</l>
+                  <l>iré a Santiago,</l>
+                  <l>calor blanco, fruta muerta.</l>
+                  <l>Iré a Santiago.</l>
+                  <l>¡Oh bovino frescor de cañavera!</l>
+                  <l>¡Oh Cuba! ¡Oh curva de suspiro y barro!</l>
+                  <l>Iré a Santiago.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

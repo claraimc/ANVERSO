@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Casi nada</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>[Poemas no recogidos en libro - Poemas varios 1933-1934]</title>
+               <date cert="high"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Sonetos</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Naturaleza, Ser y Dios</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Manantial casi fuente; casi río</l>
+                  <l>fuente; ya casi mar casi río apenas;</l>
+                  <l>mar casi-casi océano de frío.</l>
+                  <l>Principio y Fin del agua y las arenas.</l>
+               </lg>
+               <lg>
+                  <l>Casi azul, casi cano, casi umbrío,</l>
+                  <l>casi cielo salino con antenas,</l>
+                  <l>casi diafanidad, casi vacío</l>
+                  <l>casi lleno de arpones y ballenas.</l>
+               </lg>
+               <lg>
+                  <l>Participo del ave por el trino;</l>
+                  <l>por la proximidad, polvo, del lodo</l>
+                  <l>participas, desierto, del oasis,</l>
+               </lg>
+               <lg>
+                  <l>distancia, de la vena del camino:</l>
+                  <l>por la gracia de Dios —¡ved!—, casi todo.</l>
+                  <l>Gran-Todo-de-la-nada-de-los-casis.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

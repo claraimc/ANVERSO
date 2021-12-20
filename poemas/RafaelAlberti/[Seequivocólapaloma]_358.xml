@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Se equivocó la paloma]</title>
+            <author>Rafael Alberti</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Entre el clavel y la espada</title>
+               <date cert="high"/>
+               <pubPlace>Buenos Aires</pubPlace>
+               <publisher n="first_editor">Losada</publisher>
+               <publisher n="used_edition">Obras completas. Poesía II (Seix Barral - 2003)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Exilio</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Rafael Alberti</persName>
+                  <idno type="viaf">http://viaf.org/viaf/51683733</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1902</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1999</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Se equivocó la paloma.</l>
+                  <l>Se equivocaba.</l>
+               </lg>
+               <lg>
+                  <l>Por ir al Norte, fue al Sur.</l>
+                  <l>Creyó que el trigo era agua.</l>
+                  <l>Se equivocaba.</l>
+               </lg>
+               <lg>
+                  <l>Creyó que el mar era el cielo;</l>
+                  <l>que la noche, la mañana.</l>
+                  <l>Se equivocaba.</l>
+               </lg>
+               <lg>
+                  <l>Que las estrellas, rocío;</l>
+                  <l>que la calor, la nevada.</l>
+                  <l>Se equivocaba.</l>
+               </lg>
+               <lg>
+                  <l>Que tu falda era tu blusa;</l>
+                  <l>que tu corazón, su casa.</l>
+                  <l>Se equivocaba.</l>
+               </lg>
+               <lg>
+                  <l>(Ella se durmió en la orilla.</l>
+                  <l>Tú, en la cumbre de una rama.)</l>
+               </lg>
+            </lg>
+         </div>
+         <note>La musicalización original de esta canción la hizo Carlos Gustavino para el ballet
+            Suite Argentina (que se publicó como Se Equivocó La Paloma: Para Canto y Piano / Poesía
+            De Rafael Alberti, Buenos Aires: Ricordi Americana, 1941), y luego fue popularizada por
+            el cantante afrocubano Bola de Nieve en un álbum con su nombre (Bola de Nieve, 1955).
+            Estas versiones no están recogidas aquí, como tampoco otras que hubo anteriores a 1975.
+        </note>
+      </body>
+   </text>
+</TEI>

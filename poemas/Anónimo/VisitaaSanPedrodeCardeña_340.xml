@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Visita a San Pedro de Cardeña</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cantar de mio Cid</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">1913 - Ediciones de La Lectura</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Cantares de gesta</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>El Cid (Rodrigo Díaz de Vivar)</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Tornavas don Martino a Burgos e mió Çid aguijó</l>
+                  <l>pora San Pero de Cardeña quanto pudo a espolón,</l>
+                  <l>con estos cavalleros quel sirven a so sabor.</l>
+                  <l>Apriessa cantan los gallos e quieren crebar albores,</l>
+                  <l>quando llegó a San Pero el buen Campeador;</l>
+                  <l>el abbat don Sancho, cristiano del Criador;</l>
+                  <l>rezaba los matines abuelta de los albores.</l>
+                  <l>Y estava doña Ximena con çinco dueñas de pro,</l>
+                  <l>rogando a San Pero e al Criador :</l>
+                  <l>«Tú que a todos guías, val a mió Çid el Canpeador.»</l>
+                  <l>Llamavan a la puerta, i sopieron el mandado;</l>
+                  <l>Dios, qué alegre fo el abbat don Sancho !</l>
+                  <l>Con lumbres e con candelas al corral dieron salto,</l>
+                  <l>con tan grant gozo reçiben al que en buen ora nasco.</l>
+                  <l>«Gradéscolo a Dios, mió Çid», dixo el abbat don Sancho ;</l>
+                  <l>«pues que aquí vos veo, prendet de mí ospedado.»</l>
+                  <l>Dixo el Cid, el que en buen ora nasco :</l>
+                  <l>«graçias, don abbat, e so vuestro pagado;</l>
+                  <l>«yo adobaré conducho pora mí e pora mios vasallos ;</l>
+                  <l>«mas por que me vo de tierra, dovos çinquaenta marcos,</l>
+                  <l>«si yo algún día visquiere, seervos han doblados.</l>
+                  <l>«Non quiero far en el monesterio un dinero de daño ;</l>
+                  <l>«evades aquí pora doña Ximena dovos çient marcos ;</l>
+                  <l>«a ella e a sus fijas e a sus dueñas sirvádeslas est año.</l>
+                  <l>«Dues fijas dexo niñas e prendetlas en los bracos;</l>
+                  <l>«aquí vos las acomiendo a vos, abbat don Sancho;</l>
+                  <l>«dellas e de mi mugier fagades todo recabdo.</l>
+                  <l>«Si essa despenssa vos falleçiere o vos menguare algo,</l>
+                  <l>«bien las abastad, yo assí vos lo mando;</l>
+                  <l>«por un marco que despendades al monesterio daré yo quatro.»</l>
+                  <l>Otorgado gelo avie el abbat de grado,</l>
+                  <l>Afevos doña Ximena con sus fijas do va llegando ;</l>
+                  <l>señas dueñas las traen e adúzenlas en los braços.</l>
+                  <l>Ant el Campeador doña Ximena fincó los inojos amos,</l>
+                  <l>llorava de los ojos, quísol besar las manos:</l>
+                  <l>«Merçed, Canpeador, en ora buena fostes nado !</l>
+                  <l>«Por malos mestureros de tierra sodes echado.</l>
+                  <l>«Merqed, ya Çid, barba tan complida !</l>
+                  <l>«Fem ante vos yo e vuestras ffijas,</l>
+                  <l>«iffantes son e de días chicas,</l>
+                  <l>«con aquestas mis dueñas de quien so yo servida,</l>
+                  <l>«Yo lo veo que estades vos en ida</l>
+                  <l>«e nos de vos partir nos hemos en vida.</l>
+                  <l>«Dandos consejo por amor de santa María !»</l>
+                  <l>Enclinó las manos la barba vellida,</l>
+                  <l>a las sues fijas en braço’ las prendía,</l>
+                  <l>llególas al coraçón, ca mucho las quería.</l>
+                  <l>Llora de los ojos, tan fuerte mientre sospira:</l>
+                  <l>«Ya doña Ximena, la mi mugier tan complida,</l>
+                  <l>«commo a la míe alma yo tanto vos quería.</l>
+                  <l>«Ya lo veedes que partir nos emos en vida,</l>
+                  <l>«yo iré y vos fincaredes remanida.</l>
+                  <l>«Plega a Dios e a santa María,</l>
+                  <l>«que aun con mis manos case estas mis fijas,</l>
+                  <l>«e quede ventura y algunos días vida,</l>
+                  <l>«e vos, mugier ondrada, de mí seades servida !»</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Vv. 231-284 del Cantar de mio Cid. </note>
+      </body>
+   </text>
+</TEI>

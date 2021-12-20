@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vals de los enamorados y unidos hasta siempre</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cancionero y romancero de ausencias</title>
+               <date cert="high"/>
+               <pubPlace>Buenos Aires</pubPlace>
+               <publisher n="first_editor">Lautaro</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>No salieron jamás</l>
+                  <l>del vergel del abrazo,</l>
+                  <l>y ante el rojo rosal</l>
+                  <l>de los besos rodaron.</l>
+               </lg>
+               <lg>
+                  <l>Huracanes quisieron</l>
+                  <l>con rencor separarlos.</l>
+                  <l>Y las hachas tajantes</l>
+                  <l>y los rígidos rayos.</l>
+               </lg>
+               <lg>
+                  <l>Aumentaron la tierra</l>
+                  <l>de las pálidas manos.</l>
+                  <l>Precipicios midieron,</l>
+                  <l>por el viento impulsados</l>
+                  <l>entre bocas deshechas.</l>
+                  <l>Recorrieron naufragios,</l>
+                  <l>cada vez más profundos</l>
+                  <l>en sus cuerpos sus brazos.</l>
+                  <l>Perseguidos, hundidos</l>
+                  <l>por un gran desamparo</l>
+                  <l>de recuerdos y lunas</l>
+                  <l>de noviembres y marzos,</l>
+                  <l>aventados se vieron</l>
+                  <l>como polvo liviano:</l>
+                  <l>aventados se vieron,</l>
+                  <l>pero siempre abrazados.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Aunque publicado póstumamente por primera vez en 1958, el poema fue escrito en la
+            cárcel en 1938 sin título. En 1939, Miguel Hernández lo manuscribió sobre el álbum de un
+            amigo, poniéndole entonces el título de «Vals de los enamorados y unidos hasta siempre»,
+            con algunas variantes. Hubo una primera musicalización de Francisco Curto (Miguel
+            Hernández, 1974), pero, al ser anterior a 1975, no está recogida en esta base de datos.
+        </note>
+      </body>
+   </text>
+</TEI>

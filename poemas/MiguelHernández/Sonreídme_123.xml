@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sonreídme</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>[Poemas no recogidos en libros - Entre El rayo que no cesa y Viento del
+            pueblo]</title>
+               <date cert="high"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Anticlericalismo, Lucha de clases y Justicia social</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Vengo muy satisfecho de librarme</l>
+                  <l>de la serpiente de las múltiples cúpulas,</l>
+                  <l>la serpiente escamada de casullas y cálices;</l>
+                  <l>su cola puso en mi boca acíbar, sus anillos verdugos</l>
+                  <l>reprimieron y malaventuraron la nudosa sangre de mi corazón.</l>
+                  <l>Vengo muy dolorido de aquel infierno de incensarios locos,</l>
+                  <l>de aquella boba gloria: sonreídme.</l>
+                  <l>Sonreídme, que voy</l>
+                  <l>a donde estáis vosotros los de siempre,</l>
+                  <l>los que cubrís de espigas y racimos la boca del que nos escupe,</l>
+                  <l>los que conmigo en surcos, andamios, fraguas, hornos,</l>
+                  <l>os arrancáis la corona del sudor a diario.</l>
+               </lg>
+               <lg>
+                  <l>Me libré de los templos, sonreídme,</l>
+                  <l>donde me consumía con tristeza de lámpara</l>
+                  <l>encerrado en el poco aire de los sagrarios;</l>
+                  <l>salté al monte de donde procedo,</l>
+                  <l>a las viñas donde halla tanta hermana mi sangre,</l>
+                  <l>a vuestra compañía de relativo barro.</l>
+                  <l>Agrupo mi hambre, mis penas y estas cicatrices</l>
+                  <l>que llevo de tratar piedras y hachas,</l>
+                  <l>a vuestras hambres, vuestras penas y vuestra herrada carne,</l>
+                  <l>porque para calmar nuestra desesperación de toros castigados,</l>
+                  <l>habremos de agruparnos oceánicamente.</l>
+               </lg>
+               <lg>
+                  <l>Nubes tempestuosas de herramientas</l>
+                  <l>para un cielo de manos vengativas</l>
+                  <l>no es preciso. Ya relampaguean</l>
+                  <l>las hachas y las hoces con su metal crispado,</l>
+                  <l>ya truenan los martillos y los mazos</l>
+                  <l>sobre los pensamientos de los que nos han hecho</l>
+                  <l>burros de carga y bueyes de labor.</l>
+                  <l>Salta el capitalista de su cochino lujo,</l>
+                  <l>huyen los arzobispos de sus mitras obscenas,</l>
+                  <l>los notarios y los registradores de la propiedad</l>
+                  <l>caen aplastados bajo furiosos protocolos,</l>
+                  <l>los curas se deciden a ser hombres,</l>
+                  <l>y abierta ya la jaula donde actúa de león</l>
+                  <l>queda el oro en la más espantosa miseria.</l>
+               </lg>
+               <lg>
+                  <l>En vuestros puños quiero ver rayos contrayéndose,</l>
+                  <l>quiero ver a la cólera tirándoos de las cejas,</l>
+                  <l>la cólera me nubla todas las cosas dentro del corazón</l>
+                  <l>sintiendo el martillazo del hambre en el ombligo,</l>
+                  <l>viendo a mi hermana helarse mientras lava la ropa,</l>
+                  <l>viendo a mi madre siempre en ayuno forzoso,</l>
+                  <l>viéndoos en este estado capaz de impacientar</l>
+                  <l>a los mismos corderos que jamás se impacientan.</l>
+               </lg>
+               <lg>
+                  <l>Habrá que ver la tierra estercolada</l>
+                  <l>con las injustas sangres,</l>
+                  <l>habrá que ver la media vuelta fiera</l>
+                  <l>de la hoz ajustándose a las nucas,</l>
+                  <l>habrá que verlo todo notablemente impasibles,</l>
+                  <l>habrá que hacerlo todo sufriendo un poco menos de lo que ahora sufrimos bajo el
+                    hambre,</l>
+                  <l>que nos hace alargar las inocentes manos animales</l>
+                  <l>hacia el robo y el crimen salvadores.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

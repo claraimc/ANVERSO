@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bésame y abrázame</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cancionero de Upsala y Tradicional</title>
+               <date cert="high"/>
+               <pubPlace>Venecia</pubPlace>
+               <publisher n="first_editor">Girolamo Scotto</publisher>
+               <publisher n="used_edition">Lírica española de tipo popular (Cátedra, 2004) + The
+                Spanish Traditional Lyric (Pergamon Press, 1977)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Villancicos (Literatura)</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Erotismo y Matrimonio</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Bésame y abrázame,</l>
+                  <l>marido mío,</l>
+                  <l>y daros [he] en la mñana</l>
+                  <l>camisón limpio.</l>
+               </lg>
+               <lg>
+                  <l>Yo nunca vi hombre</l>
+                  <l>vivo estar tan muerto,</l>
+                  <l>ni hazer el dormido</l>
+                  <l>estando despierto.</l>
+                  <l>Andad, marido, alerta,</l>
+                  <l>y tened brío,</l>
+                  <l>y daros [he] en la mañana</l>
+                  <l>camisón limpio.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Aunque composición tradicional, lo que importa es que está recogida en uno de los
+            cancioneros musicales, el Cancionero de Upsala. </note>
+      </body>
+   </text>
+</TEI>

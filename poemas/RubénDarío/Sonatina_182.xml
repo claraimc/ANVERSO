@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sonatina</title>
+            <author>Rubén Darío</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Prosas profanas y otros poemas</title>
+               <date cert="high"/>
+               <pubPlace>Buenos Aires</pubPlace>
+               <publisher n="first_editor">Pablo Coni e Hijos</publisher>
+               <publisher n="used_edition">2017-UNED [Los raros y Prosas profanas y otros
+                poemas]</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesías narrativas</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Leyenda y Tristeza</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Rubén Darío</persName>
+                  <idno type="viaf">http://viaf.org/viaf/7399994</idno>
+                  <nationality>Nicaragua</nationality>
+                  <birth>
+                     <date cert="low">1867</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1916</date>
+                  </death>
+                  <floruit>Modernismo</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>La princesa está triste… ¿qué tendrá la princesa?</l>
+                  <l>Los suspiros se escapan de su boca de fresa,</l>
+                  <l>que ha perdido la risa, que ha perdido el color.</l>
+                  <l>La princesa está pálida en su silla de oro,</l>
+                  <l>está mudo el teclado de su clave sonoro;</l>
+                  <l>y en un vaso olvidada se desmaya una flor.</l>
+               </lg>
+               <lg>
+                  <l>El jardín puebla el triunfo de los pavos-reales.</l>
+                  <l>Parlanchina, la dueña dice cosas banales,</l>
+                  <l>y, vestido de rojo, piruetea el bufón.</l>
+                  <l>La princesa no ríe, la princesa no siente;</l>
+                  <l>la princesa persigue por el cielo de Oriente</l>
+                  <l>la libélula vaga de una vaga ilusión.</l>
+               </lg>
+               <lg>
+                  <l>¿Piensa acaso en el príncipe de Golconda o de China,</l>
+                  <l>o en el que ha detenido su carroza argentina</l>
+                  <l>para ver de sus ojos la dulzura de luz?</l>
+                  <l>¿O en el rey de las Islas de las Rosas fragantes,</l>
+                  <l>o en el que es soberano de los claros diamantes,</l>
+                  <l>o en el dueño orgulloso de las perlas de Ormuz?</l>
+               </lg>
+               <lg>
+                  <l>¡Ay! La pobre princesa de la boca de rosa,</l>
+                  <l>quiere ser golondrina, quiere ser mariposa,</l>
+                  <l>tener alas ligeras, bajo el cielo volar,</l>
+                  <l>ir al sol por la escala luminosa de un rayo,</l>
+                  <l>saludar a los lirios con los versos de mayo,</l>
+                  <l>o perderse en el viento sobre el trueno del mar.</l>
+               </lg>
+               <lg>
+                  <l>Ya no quiere el palacio, ni la rueca de plata,</l>
+                  <l>ni el halcón encantado, ni el bufón escarlata,</l>
+                  <l>ni los cisnes unánimes en el lago de azur.</l>
+                  <l>Y están tristes las flores por la flor de la corte,</l>
+                  <l>los jazmines de Oriente, los nelumbos del Norte,</l>
+                  <l>de Occidente las dalias y las rosas del Sur.</l>
+               </lg>
+               <lg>
+                  <l>¡Pobrecita princesa de los ojos azules!</l>
+                  <l>Está presa en sus oros, está presa en sus tules,</l>
+                  <l>en la jaula de mármol del palacio real;</l>
+                  <l>el palacio soberbio que vigilan los guardas,</l>
+                  <l>que custodian cien negros con sus cien alabardas,</l>
+                  <l>un lebrel que no duerme y un dragón colosal.</l>
+               </lg>
+               <lg>
+                  <l>¡Oh quién fuera hipsipila que dejó la crisálida!</l>
+                  <l>(La princesa está triste. La princesa está pálida)</l>
+                  <l>¡Oh visión adorada de oro, rosa y marfil!</l>
+                  <l>¡Quién volara a la tierra donde un príncipe existe</l>
+                  <l>(La princesa está pálida. La princesa está triste)</l>
+                  <l>más brillante que el alba, más hermoso que abril!</l>
+               </lg>
+               <lg>
+                  <l>—¡Calla, calla, princesa —dice el hada madrina—,</l>
+                  <l>en caballo con alas, hacia acá se encamina,</l>
+                  <l>en el cinto la espada y en la mano el azor,</l>
+                  <l>el feliz caballero que te adora sin verte,</l>
+                  <l>y que llega de lejos, vencedor de la Muerte,</l>
+                  <l>a encenderte los labios con su beso de amor!</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Antes de en este libro, el poema había sido publicado suelto en La Nación de Buenos
+            Aires, el 17 de junio de 1895, y su composición está fechada en 1893. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Canción del jinete (1860)</title>
+            <author>Federico García Lorca</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Canciones (1921-1924)</title>
+               <date cert="high"/>
+               <pubPlace>Málaga</pubPlace>
+               <publisher n="first_editor">Litoral. Primer suplemento [Imprenta Sur]</publisher>
+               <publisher n="used_edition">Obra completa I. Poesía 1 (Akal, 2008)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Muerte</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <idno type="viaf">http://viaf.org/viaf/34456883</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1898</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1936</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>En la luna negra</l>
+                  <l>de los bandoleros,</l>
+                  <l>cantan las espuelas.</l>
+               </lg>
+               <lg>
+                  <l>Caballito negro.</l>
+                  <l>¿Dónde llevas tu jinete muerto?</l>
+               </lg>
+               <lg>
+                  <l>… Las duras espuelas</l>
+                  <l>del bandido inmóvil</l>
+                  <l>que perdió las riendas.</l>
+               </lg>
+               <lg>
+                  <l>Caballito frío.</l>
+                  <l>¡Qué perfume de flor de cuchillo!</l>
+               </lg>
+               <lg>
+                  <l>En la luna negra,</l>
+                  <l>sangraba el costado</l>
+                  <l>de Sierra Morena.</l>
+               </lg>
+               <lg>
+                  <l>Caballito negro.</l>
+                  <l>¿Dónde llevas tu jinete muerto?</l>
+               </lg>
+               <lg>
+                  <l>La noche espolea</l>
+                  <l>sus negros ijares</l>
+                  <l>clavándose estrellas.</l>
+               </lg>
+               <lg>
+                  <l>Caballito frío.</l>
+                  <l>¡Qué perfume de flor de cuchillo!</l>
+               </lg>
+               <lg>
+                  <l>En la luna negra,</l>
+                  <l>¡un grito! y el cuerno</l>
+                  <l>largo de la hoguera.</l>
+               </lg>
+               <lg>
+                  <l>Caballito negro.</l>
+                  <l>¿Dónde llevas tu jinete muerto?</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Hubo una musicalización anterior a 1975, por eso no está recogida en esta base de
+            datos: Paco Ibáñez (España de hoy y de siempre, 1964). </note>
+      </body>
+   </text>
+</TEI>

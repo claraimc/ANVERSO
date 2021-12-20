@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nuestra vecina</title>
+            <author>Luis Alberto de Cuenca</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Por fuertes y fronteras</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Visor Libros</publisher>
+               <publisher n="used_edition">2017-Verbum [Antología: El valor y los sueños]</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Sonetos</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Luis Alberto de Cuenca</persName>
+                  <idno type="viaf">http://viaf.org/viaf/114982630</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1950</date>
+                  </birth>
+                  <death>
+                     <date cert="low">Hasta la actualidad</date>
+                  </death>
+                  <floruit>Generación del 70/Novísimos</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>A Javier del Prado</l>
+               </lg>
+               <lg>
+                  <l>Tiene, Javier, nuestra vecina un talle</l>
+                  <l>que resucita a un muerto, y unos ojos</l>
+                  <l>que derriten el plomo y dan antojos</l>
+                  <l>a quien se los tropieza por la calle.</l>
+               </lg>
+               <lg>
+                  <l>Hay que trazar un plan que no nos falle</l>
+                  <l>para descerrajarle los cerrojos</l>
+                  <l>y pasear en triunfo sus despojos</l>
+                  <l>cuidando hasta el más mínimo detalle.</l>
+               </lg>
+               <lg>
+                  <l>Tú en el portal y yo en el descansillo,</l>
+                  <l>siempre al acecho, cristalina media</l>
+                  <l>velándonos la cara y un cuchillo</l>
+               </lg>
+               <lg>
+                  <l>afilado. Si Dios no lo remedia,</l>
+                  <l>de la vecina haremos picadillo</l>
+                  <l>y de un cuento vulgar una tragedia.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

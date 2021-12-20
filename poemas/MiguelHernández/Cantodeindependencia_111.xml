@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Canto de independencia</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>[Poemas no recogidos en libro - 1937-1939]</title>
+               <date cert="high"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesías de guerra</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Guerra Civil</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Paso a paso, mi tierra vuelve a mí. Trozo a trozo,</l>
+                  <l>vuelven la claridad y el día y el centeno.</l>
+                  <l>Han querido arrojar tanta luz en un pozo,</l>
+                  <l>en un pozo guardado por un puño de cieno.</l>
+               </lg>
+               <lg>
+                  <l>Por una madrugada de gallos iracundos,</l>
+                  <l>un ejército joven como las madrugadas</l>
+                  <l>conquista, paso a paso, los arados profundos,</l>
+                  <l>los pueblos invadidos, los hijos, las azadas.</l>
+               </lg>
+               <lg>
+                  <l>Soplan los toros y hacen temblar la luz del cielo:</l>
+                  <l>los hombres que yo digo la aumentan y la aclaran,</l>
+                  <l>hasta cuando la sombra viene a invadir el suelo</l>
+                  <l>y a la sombra estos hombres que he dicho le disparan.</l>
+               </lg>
+               <lg>
+                  <l>Haciendo luz la luz y luz la sombra densa,</l>
+                  <l>van los padres del sol, los padres del granito,</l>
+                  <l>que hacen la espiga grande, y hacen la vida inmensa</l>
+                  <l>y el vientre de las madres poblado de infinito.</l>
+               </lg>
+               <lg>
+                  <l>Aprende en estas vidas, aprende como aprendo:</l>
+                  <l>aprende a ser un hombre bien clavado en el barro,</l>
+                  <l>lo mismo que estos hombres que mueren encendiendo</l>
+                  <l>la mecha, la sonrisa, la muerte y el cigarro.</l>
+               </lg>
+               <lg>
+                  <l>Dejad el pie descalzo para pisar el punto</l>
+                  <l>donde cayó la sangre de las mejores venas:</l>
+                  <l>para besar la tierra donde recojo y junto</l>
+                  <l>los huesos orgullosos de rodar sin cadenas.</l>
+               </lg>
+               <lg>
+                  <l>Los huesos de los que antes de entregarse al verdugo</l>
+                  <l>prefieren enterrarse bajo su misma mano,</l>
+                  <l>sobre la boca donde sólo habitó el mendrugo</l>
+                  <l>echándose una tierra que no podrá el gusano.</l>
+               </lg>
+               <lg>
+                  <l>Vergüenza en tus mejillas mientras que tú no obres</l>
+                  <l>como estas anchas vidas que hasta los astros llegan.</l>
+                  <l>Dulce es la sangre, dulce, la sangre de los pobres,</l>
+                  <l>la sangre de los pueblos con la que tantos juegan.</l>
+               </lg>
+               <lg>
+                  <l>Los cuervos la devoran a duros picotazos,</l>
+                  <l>ávidos la reclaman los ricos con embudos:</l>
+                  <l>hasta que, amargamente, se encrespa por los brazos</l>
+                  <l>y ataca a quien la absorbe con aletazos rudos.</l>
+               </lg>
+               <lg>
+                  <l>Hoy, mientras esta sangre recorre España entera</l>
+                  <l>y apenas por sus hombres prueba el pan, prueba el beso,</l>
+                  <l>vosotros, los llegados de un hambre carnicera,</l>
+                  <l>como los perros mismos os disputáis un hueso.</l>
+               </lg>
+               <lg>
+                  <l>Sois los que nunca abrís la mano, la mirada,</l>
+                  <l>el corazón, la boca, para sembrar verdades:</l>
+                  <l>los que siempre pedís, los que jamás dais nada,</l>
+                  <l>cosecheros que sólo sembráis oscuridades.</l>
+               </lg>
+               <lg>
+                  <l>¡Fuera de aquí, egoístas de retorcidas manos,</l>
+                  <l>dispuestos a negar la pureza en la nieve!</l>
+                  <l>Sois también invasores como los italianos,</l>
+                  <l>como la dinamita que sobre España llueve.</l>
+               </lg>
+               <lg>
+                  <l>La vida que prorrumpe como una llamarada</l>
+                  <l>comunicando al cielo su resplandor de avena,</l>
+                  <l>vuestra existencia seca de cárcel encerrada</l>
+                  <l>que no sabe obtener la libertad, condena.</l>
+               </lg>
+               <lg>
+                  <l>Blandos de peticiones y blandos de lamentos,</l>
+                  <l>se mueven vuestros labios que tan sólo provoca</l>
+                  <l>una voracidad brutal por los sustentos,</l>
+                  <l>sucia y abierta en tanto que otros cierran la boca.</l>
+               </lg>
+               <lg>
+                  <l>Ellos cierran la boca como una piedra brava</l>
+                  <l>y aprietan las cabezas como un siglo de puños,</l>
+                  <l>cerrados, agresivos, llenos de espuma y lava,</l>
+                  <l>contra aquellos que quieren robar nuestros terruños.</l>
+               </lg>
+               <lg>
+                  <l>Rayos de carne y hueso, carbonizan a aquellos</l>
+                  <l>que atacan su pobreza, su trabajo, su casa.</l>
+                  <l>Yo voy con este soplo que exige mis cabellos,</l>
+                  <l>yo alimento este fuego creciente que me abrasa.</l>
+               </lg>
+               <lg>
+                  <l>Escoged bien la piedra para grabar los nombres,</l>
+                  <l>la eternidad, los rasgos, la vida, la figura</l>
+                  <l>de la definitiva materia de estos hombres,</l>
+                  <l>hasta volverla carne de siglos y hermosura.</l>
+               </lg>
+               <lg>
+                  <l>Escoged bien la mano y el cincel decisivo</l>
+                  <l>donde de estos soldados la historia resplandezca,</l>
+                  <l>porque el avance sigue de la encina al olivo</l>
+                  <l>por más que el perro ladre y el cuervo se oscurezca.</l>
+               </lg>
+               <lg>
+                  <l>España se levanta limpia como las hojas,</l>
+                  <l>limpias con el sudor del hombre y las mañanas,</l>
+                  <l>y aún sonarán los nombres y las pisadas rojas</l>
+                  <l>cuando el bronce no suene y el cañón eche canas.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Hubo una primera musicalización de Francisco Curto (Miguel Hernández, 1974), pero no
+            está incluida en esta base de datos por ser anterior a 1975. </note>
+      </body>
+   </text>
+</TEI>

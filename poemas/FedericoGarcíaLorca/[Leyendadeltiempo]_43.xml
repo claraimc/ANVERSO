@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Leyenda del tiempo]</title>
+            <author>Federico García Lorca</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Así que pasen cinco años</title>
+               <date cert="high"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">Teatro completo (Verbum, 2019)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Teatro en verso</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor, Muerte, Tiempo y Sueño</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Federico García Lorca</persName>
+                  <idno type="viaf">http://viaf.org/viaf/34456883</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1898</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1936</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>ACTO TERCERO. Cuadro primero</l>
+               </lg>
+               <lg>
+                  <l>(Bosque. Grandes troncos. En el centro, un teatro rodeado de cortinas barrocas
+                    con el telón echado. Una escalerita une el tabladillo con el escenario. Al
+                    levantarse el letón cruzan entre los troncos dos FIGURAS vestidas de negro, con
+                    las caras blancas de yeso y las manos también blancas. Suena una música lejana.
+                    Sale el ARLEQUÍN. Viste de negro y verde. Lleva dos caretas, una en cada mano y
+                    ocultas en la espalda. Acciona de modo rítmico, como un bailarín.)</l>
+               </lg>
+               <lg>
+                  <l>ARLEQUÍN:</l>
+                  <l>El Sueño va sobre el Tiempo</l>
+                  <l>flotando como un velero.</l>
+                  <l>Nadie puede abrir semillas</l>
+                  <l>en el corazón del Sueño.</l>
+               </lg>
+               <lg>
+                  <l>(Se pone una careta de alegrísima expresión.)</l>
+               </lg>
+               <lg>
+                  <l>¡Ay, cómo canta el alba! ¡Cómo canta!</l>
+                  <l>¡Qué témpanos de hielo azul levanta!</l>
+               </lg>
+               <lg>
+                  <l>(Se quita la careta.)</l>
+               </lg>
+               <lg>
+                  <l>El Tiempo va sobre el Sueño</l>
+                  <l>hundido hasta los cabellos.</l>
+                  <l>Ayer y mañana comen</l>
+                  <l>oscuras flores de duelo.</l>
+               </lg>
+               <lg>
+                  <l>(Se pone una careta de expresión dormida.)</l>
+               </lg>
+               <lg>
+                  <l>¡Ay, cómo canta la noche! ¡Cómo canta!</l>
+                  <l>¡Qué espesura de anémonas levanta!</l>
+               </lg>
+               <lg>
+                  <l>(Se la quita.)</l>
+               </lg>
+               <lg>
+                  <l>Sobre la misma columna,</l>
+                  <l>abrazados Sueño y Tiempo,</l>
+                  <l>cruza el gemido del niño,</l>
+                  <l>la lengua rota del viejo.</l>
+               </lg>
+               <lg>
+                  <l>(Con una careta.)</l>
+               </lg>
+               <lg>
+                  <l>¡Ay, cómo canta el alba! ¡Cómo canta!</l>
+               </lg>
+               <lg>
+                  <l>(Con la otra careta.)</l>
+               </lg>
+               <lg>
+                  <l>¡Qué espesura de anémonas levanta!</l>
+               </lg>
+               <lg>
+                  <l>Y si el Sueño finge muros</l>
+                  <l>en la llanura del Tiempo,</l>
+                  <l>el Tiempo le hace creer</l>
+                  <l>que nace en aquel momento.</l>
+               </lg>
+               <lg>
+                  <l>¡Ay, cómo canta la noche! ¡Cómo canta!</l>
+                  <l>¡Qué témpanos de hielo azul levanta!</l>
+                  <l>[…]</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Camarón fue el primero en ponerle música a este fragmento de Así que pasen cinco años,
+            de Federico García Lorca, que se encuentra al comienzo del cuadro primero del acto
+            tercero, en boca del ARLEQUÍN. Camarón le puso este título, pero no aparece como tal en
+            la obra original, y desde entonces es el título que se ha popularizado. La obra fue
+            escrita en 1931, pero no llegó a representarse ni publicarse en vida del Lorca. </note>
+      </body>
+   </text>
+</TEI>

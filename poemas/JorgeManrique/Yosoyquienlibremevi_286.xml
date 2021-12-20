@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Yo soy quien libre me vi</title>
+            <author>Jorge Manrique</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cancionero General</title>
+               <date cert="high"/>
+               <pubPlace>Valencia</pubPlace>
+               <publisher n="first_editor">Hernando del Castillo</publisher>
+               <publisher n="used_edition">An Electronic Corpus of 15th Century Castilian Cancionero
+                Manuscripts</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Glosas (Literatura) y Poesía cortés</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Jorge Manrique</persName>
+                  <idno type="viaf">http://viaf.org/viaf/51692805</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1440</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1479</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Gloſa de don jorge manrrique</l>
+               </lg>
+               <lg>
+                  <l>¶Yo ſoy quien libre me vi</l>
+                  <l>yo quien pudiera oluidaros</l>
+                  <l>yo ſo el que por amaros</l>
+                  <l>eſtoy deſque os conoſci</l>
+                  <l>ſin dios y ſin vos y mi</l>
+               </lg>
+               <lg>
+                  <l>Sin dios porquen vos adoro</l>
+                  <l>ſin vos pues no me quereys</l>
+                  <l>pues ſin mi ya eſta de coro</l>
+                  <l>que vos ſoys quien me teneys</l>
+                  <l>Aſſi que triſte naſci</l>
+                  <l>pues que pudiera oluidaros</l>
+                  <l>yo ſo el que por amaros</l>
+                  <l>eſto deſque os conoſci</l>
+                  <l>ſin dios y ſin vos y mi</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Glosa al mote de Jorge Manrique «Sin Dios y sin vos y mí». </note>
+      </body>
+   </text>
+</TEI>

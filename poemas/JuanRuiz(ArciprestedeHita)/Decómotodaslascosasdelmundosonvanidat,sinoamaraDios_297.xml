@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De cómo todas las cosas del mundo son vanidat, sino amar a Dios</title>
+            <author>Juan Ruiz (Arcipreste de Hita)</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Libro de buen amor</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">2000 - Biblioteca Virtual Miguel de Cervantes</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Mester de clerecía</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor y Naturalismo amoroso</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Juan Ruiz (Arcipreste de Hita)</persName>
+                  <idno type="viaf">http://viaf.org/viaf/163823217</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1283</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1350</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Como dise Salomón, e dise la verdat,</l>
+                  <l>que las cosas del mundo todas son vanidat,</l>
+                  <l>todas son pasaderas, vanse con la edat;</l>
+                  <l>salvo amor de Dios, todas son liviandat.</l>
+               </lg>
+               <lg>
+                  <l>Et yo desque vi la dueña partida e mudada,</l>
+                  <l>dixe: «Querer do non me quieren, faría una nada:</l>
+                  <l>»responder do non me llaman, es vanidat probada.»</l>
+                  <l>Partime de su pleyto, pues de mí es redrada.</l>
+               </lg>
+               <lg>
+                  <l>Sabe Dios, que aquesta dueña e quantas yo vi,</l>
+                  <l>siempre quise guardarlas, et siempre las serví,</l>
+                  <l>si servir non las pude, nunca las deserví,</l>
+                  <l>de dueña mesurada siempre bien escrebí.</l>
+               </lg>
+               <lg>
+                  <l>Mucho sería villano e torpe pajés,</l>
+                  <l>si de la mujer noble dixiese cosa refés;</l>
+                  <l>ca en muger loçana, fermosa e cortés</l>
+                  <l>todo bien del mundo e todo plaser es.</l>
+               </lg>
+               <lg>
+                  <l>Si Dios, quando formó el ome entendiera</l>
+                  <l>que era mala cosa la mujer, non la diera</l>
+                  <l>al ome por compañera, nin d’él non la fesiera,</l>
+                  <l>si para bien non fuera, tan noble non saliera.</l>
+               </lg>
+               <lg>
+                  <l>Si omen a la mujer non la quisiese bien,</l>
+                  <l>non ternía tantos presos el amor quantos tien’,</l>
+                  <l>por santo nin santa que seya, non sé quién,</l>
+                  <l>non codiçie compaña, si solo se mantien’.</l>
+               </lg>
+               <lg>
+                  <l>Una fabla lo dise, que vos digo agora:</l>
+                  <l>que una ave sola nin bien canta, nin bien llora,</l>
+                  <l>el mástel sin la vela non puede estar toda hora,</l>
+                  <l>nin las verças non se crían tan bien sin la noria.</l>
+               </lg>
+               <lg>
+                  <l>Et yo como estava solo sin compañía,</l>
+                  <l>codiçiaba tener lo que otro para sí tenía,</l>
+                  <l>puse el ojo en otra non santa, más sentía,</l>
+                  <l>yo cruisiava por ella, otro la avíe valdía.</l>
+               </lg>
+               <lg>
+                  <l>Et porque yo non podía con ella ansí fablar,</l>
+                  <l>puse por mí mensagero, coydando recabdar</l>
+                  <l>a un mi compañero, sópome el clavo echar,</l>
+                  <l>él comió la vianda, e a mí fiso rumiar.</l>
+               </lg>
+               <lg>
+                  <l>Fis’ con el grand pesar esta trova cazurra,</l>
+                  <l>la dueña que la oyere, por ella non me aburra,</l>
+                  <l>ca debríen me desir neçio, et más que bestia burra,</l>
+                  <l>si de tan grand escarnio yo non trovase burla.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Cuadernas 105-114 del LIbro de buen amor. </note>
+      </body>
+   </text>
+</TEI>

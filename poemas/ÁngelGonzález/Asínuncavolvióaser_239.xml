@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Así nunca volvió a ser</title>
+            <author>Ángel González</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Breves acotaciones para una biografía</title>
+               <date cert="high"/>
+               <pubPlace>Las Palmas de Gran Canaria</pubPlace>
+               <publisher n="first_editor">Inventarios provisionales</publisher>
+               <publisher n="used_edition">2017-Planeta [Austral]</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Infancia y Recuerdo</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Ángel González</persName>
+                  <idno type="viaf">http://viaf.org/viaf/84475449</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1925</date>
+                  </birth>
+                  <death>
+                     <date cert="low">2008</date>
+                  </death>
+                  <floruit>Generación del 50</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Como llevaba trenza</l>
+                  <l>la llamábamos trencita en la tarde del jueves.</l>
+                  <l>Jugábamos a montarnos en ella y nos llevaba</l>
+                  <l>a una extraña región de la que nunca volveríamos.</l>
+               </lg>
+               <lg>
+                  <l>Porque es casi imposible abandonar</l>
+                  <l>aquel olor a tierra de su cabello sucio,</l>
+                  <l>sus ásperas rodillas todavía con polvo</l>
+                  <l>y con sangre de la última caída</l>
+                  <l>y, sobre todo,</l>
+                  <l>la nacarada nuca donde se demoraban</l>
+                  <l>unas gotas de luz cuando ya luz no había.</l>
+               </lg>
+               <lg>
+                  <l>Allí me dejó un día de verano</l>
+                  <l>y jamás regresó</l>
+                  <l>a recoger mi insomne pensamiento</l>
+                  <l>que desde entonces vaga por sus brazos</l>
+                  <l>corrigiendo su ruta, terco y contradictorio,</l>
+                  <l>lo mismo que una hormiga que no sabe salir</l>
+                  <l>de la rama de un árbol en el que se ha perdido.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>La canción musicaliza el poema original sin alteraciones textuales, excepto que se
+            repiten algunos versos. </note>
+      </body>
+   </text>
+</TEI>

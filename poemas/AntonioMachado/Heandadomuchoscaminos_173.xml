@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>He andado muchos caminos</title>
+            <author>Antonio Machado</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Soledades. Galerías. Otros poemas</title>
+               <date cert="high"/>
+               <pubPlace>Madrid</pubPlace>
+               <publisher n="first_editor">Librería de Pueyo</publisher>
+               <publisher n="used_edition">1999-Espasa [Austral]</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Sentido de la vida</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Antonio Machado</persName>
+                  <idno type="viaf">http://viaf.org/viaf/7385547</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1875</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1939</date>
+                  </death>
+                  <floruit>Generación del 98</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>He andado muchos caminos,</l>
+                  <l>he abierto muchas veredas;</l>
+                  <l>he navegado en cien mares,</l>
+                  <l>y atracado en cien riberas.</l>
+               </lg>
+               <lg>
+                  <l>En todas partes he visto</l>
+                  <l>caravanas de tristeza,</l>
+                  <l>soberbios y melancólicos</l>
+                  <l>borrachos de sombra negra,</l>
+               </lg>
+               <lg>
+                  <l>y pedantones al paño</l>
+                  <l>que miran, callan, y piensan</l>
+                  <l>que saben, porque no beben</l>
+                  <l>el vino de las tabernas.</l>
+               </lg>
+               <lg>
+                  <l>Mala gente que camina</l>
+                  <l>y va apestando la tierra…</l>
+               </lg>
+               <lg>
+                  <l>Y en todas partes he visto</l>
+                  <l>gentes que danzan o juegan,</l>
+                  <l>cuando pueden, y laboran</l>
+                  <l>sus cuatro palmos de tierra.</l>
+               </lg>
+               <lg>
+                  <l>Nunca, si llegan a un sitio,</l>
+                  <l>preguntan a dónde llegan.</l>
+                  <l>Cuando caminan, cabalgan</l>
+                  <l>a lomos de mula vieja,</l>
+               </lg>
+               <lg>
+                  <l>y no conocen la prisa</l>
+                  <l>ni aun en los días de fiesta.</l>
+                  <l>Donde hay vino, beben vino;</l>
+                  <l>donde no hay vino, agua fresca.</l>
+               </lg>
+               <lg>
+                  <l>Son buenas gentes que viven,</l>
+                  <l>laboran, pasan y sueñan,</l>
+                  <l>y en un día como tantos,</l>
+                  <l>descansan bajo la tierra.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>En la primera edición de Soledades (1903) no apareció este poema, sino en la edición
+            aumentada en 1907 como Soledades. Galerías. Otros poemas. </note>
+      </body>
+   </text>
+</TEI>

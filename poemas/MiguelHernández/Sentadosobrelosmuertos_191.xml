@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sentado sobre los muertos</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Viento del pueblo</title>
+               <date cert="high"/>
+               <pubPlace>Valencia</pubPlace>
+               <publisher n="first_editor">Socorro Rojo</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Opresión</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Sentado sobre los muertos</l>
+                  <l>que se han callado en dos meses,</l>
+                  <l>beso zapatos vacíos</l>
+                  <l>y empuño rabiosamente</l>
+                  <l>la mano del corazón</l>
+                  <l>y el alma que lo mantiene</l>
+               </lg>
+               <lg>
+                  <l>Que mi voz suba a los montes</l>
+                  <l>y baje a la tierra y truene,</l>
+                  <l>eso pide mi garganta</l>
+                  <l>desde ahora y desde siempre.</l>
+               </lg>
+               <lg>
+                  <l>Acércate a mi clamor,</l>
+                  <l>pueblo de mi misma leche,</l>
+                  <l>árbol que con tus raíces</l>
+                  <l>encarcelado me tienes,</l>
+                  <l>que aquí estoy yo para amarte</l>
+                  <l>y estoy para defenderte</l>
+                  <l>con la sangre y con la boca</l>
+                  <l>como dos fusiles fieles.</l>
+               </lg>
+               <lg>
+                  <l>Si yo salí de la tierra,</l>
+                  <l>si yo he nacido de un vientre</l>
+                  <l>desdichado y con pobreza,</l>
+                  <l>no fue sino para hacerme</l>
+                  <l>ruiseñor de las desdichas,</l>
+                  <l>eco de la mala suerte,</l>
+                  <l>y cantar y repetir</l>
+                  <l>a quien escucharme debe</l>
+                  <l>cuanto a penas, cuanto a pobres,</l>
+                  <l>cuanto a tierra se refiere.</l>
+               </lg>
+               <lg>
+                  <l>Ayer amaneció el pueblo</l>
+                  <l>desnudo y sin qué ponerse,</l>
+                  <l>hambriento y sin qué comer,</l>
+                  <l>y el día de hoy amanece</l>
+                  <l>justamente aborrascado</l>
+                  <l>y sangriento justamente.</l>
+                  <l>En su mano los fusiles</l>
+                  <l>leones quieren volverse</l>
+                  <l>para acabar con las fieras</l>
+                  <l>que lo han sido tantas veces.</l>
+               </lg>
+               <lg>
+                  <l>Aunque te falten las armas,</l>
+                  <l>pueblo de cien mil poderes,</l>
+                  <l>no desfallezcan tus huesos,</l>
+                  <l>castiga a quien te malhiere</l>
+                  <l>mientras que te queden puños,</l>
+                  <l>uñas, saliva, y te queden</l>
+                  <l>corazón, entrañas, tripas,</l>
+                  <l>cosas de varón y dientes.</l>
+                  <l>Bravo como el viento bravo,</l>
+                  <l>leve como el aire leve,</l>
+                  <l>asesina al que asesina,</l>
+                  <l>aborrece al que aborrece</l>
+                  <l>la paz de tu corazón</l>
+                  <l>y el vientre de tus mujeres.</l>
+                  <l>No te hieran por la espalda,</l>
+                  <l>vive cara a cara y muere</l>
+                  <l>con el pecho ante las balas,</l>
+                  <l>ancho como las paredes.</l>
+               </lg>
+               <lg>
+                  <l>Canto con la voz de luto,</l>
+                  <l>pueblo de mí, por tus héroes:</l>
+                  <l>tus ansias como las mías,</l>
+                  <l>tus desventuras que tienen</l>
+                  <l>del mismo metal el llanto,</l>
+                  <l>las penas del mismo temple,</l>
+                  <l>y de la misma madera</l>
+                  <l>tu pensamiento y mi frente,</l>
+                  <l>tu corazón y mi sangre,</l>
+                  <l>tu dolor y mis laureles.</l>
+                  <l>Antemuro de la nada</l>
+                  <l>esta vida me parece.</l>
+               </lg>
+               <lg>
+                  <l>Aquí estoy para vivir</l>
+                  <l>mientras el alma me suene,</l>
+                  <l>y aquí estoy para morir,</l>
+                  <l>cuando la hora me llegue,</l>
+                  <l>en los veneros del pueblo</l>
+                  <l>desde ahora y desde siempre.</l>
+                  <l>Varios tragos es la vida</l>
+                  <l>y un solo trago la muerte.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

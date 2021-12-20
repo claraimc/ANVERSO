@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Flor del arroyo</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>[Poemas no recogidos en libro - primeros poemas]</title>
+               <date cert="high"/>
+               <pubPlace>Orihuela</pubPlace>
+               <publisher n="first_editor">Voluntad [30 de abril]</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesías narrativas</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor y Gitanas</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Alocada mariposa.</l>
+                  <l>Figurilla de marfil</l>
+                  <l>débil, morena y hermosa.</l>
+                  <l>La más primorosa rosa</l>
+                  <l>de un alba de bello Abril.</l>
+               </lg>
+               <lg>
+                  <l>Esto la gente decía</l>
+                  <l>que era una niña gitana</l>
+                  <l>que vieron llegar un día</l>
+                  <l>por los caminos de Hungría</l>
+                  <l>tras errante caravana.</l>
+               </lg>
+               <lg>
+                  <l>Mostrando un gallardo talle</l>
+                  <l>de venusina escultura</l>
+                  <l>y andares de ave de valle</l>
+                  <l>corría de plaza en calle</l>
+                  <l>a echar la buenaventura.</l>
+               </lg>
+               <lg>
+                  <l>Con la ropa de colores,</l>
+                  <l>la boca de risa prieta,</l>
+                  <l>llenos de extraños fulgores</l>
+                  <l>los ojos fascinadores,</l>
+                  <l>y la ronca pandereta.</l>
+               </lg>
+               <lg>
+                  <l>Al transeúnte detenía;</l>
+                  <l>mientras el cuerpo serrano</l>
+                  <l>arqueaba y retorcía,</l>
+                  <l>el porvenir le leía</l>
+                  <l>en los trazos de la mano.</l>
+               </lg>
+               <lg>
+                  <l>Siempre así: lúbrica y pura</l>
+                  <l>iba la flor del arroyo,</l>
+                  <l>toda vida y hermosura,</l>
+                  <l>sin que en su marcha insegura</l>
+                  <l>hallara ningún escollo.</l>
+               </lg>
+               <lg>
+                  <l>Pero llegó a detenerla</l>
+                  <l>en aquel camino un hombre:</l>
+                  <l>se enamoró de ella al verla,</l>
+                  <l>se acordó un día de quererla</l>
+                  <l>y al otro…, ni de su nombre.</l>
+               </lg>
+               <lg>
+                  <l>Y la pobre gitanilla</l>
+                  <l>que había puesto todo el fuego</l>
+                  <l>de su alma ardiente y sencilla</l>
+                  <l>al amar, no la mancilla,</l>
+                  <l>el desamor lloró luego.</l>
+               </lg>
+               <lg>
+                  <l>Su pandereta sonando,</l>
+                  <l>moviendo su grácil talle,</l>
+                  <l>su dolor disimulando,</l>
+                  <l>riente al transeúnte abordando,</l>
+                  <l>cayó muerta un día en la calle.</l>
+               </lg>
+               <lg>
+                  <l>Alocada mariposa.</l>
+                  <l>Figurilla de marfil</l>
+                  <l>débil, morena y hermosa.</l>
+                  <l>La más primorosa rosa</l>
+                  <l>de un alba del bello Abril.</l>
+               </lg>
+               <lg>
+                  <l>Esto sólo con voz huera,</l>
+                  <l>dijo de la sin apoyo</l>
+                  <l>la gente —siempre embustera—.</l>
+                  <l>No hubo nadie que dijera:</l>
+                  <l>¡Era una flor del arroyo!</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Se trata de uno de los primeros poemas de Miguel Hernández, publicado el 30 de abril
+            de 1930 en el diario Voluntad, de Orihuela. </note>
+      </body>
+   </text>
+</TEI>

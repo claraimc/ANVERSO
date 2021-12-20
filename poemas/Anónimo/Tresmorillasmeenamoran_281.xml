@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tres morillas me enamoran</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cancionero musical de Palacio</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">An Electronic Corpus of 15th Century Castilian Cancionero
+                Manuscripts</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Villancicos (Literatura)</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Relaciones cristiano-musulmanas</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Tres morillas menamoran</l>
+                  <l>en jaen</l>
+                  <l>axa y fatima y marien</l>
+                  <l>tres morillas tan garridas</l>
+                  <l>yvan a coger oliuas</l>
+                  <l>y hallavanlas cogidas</l>
+                  <l>en jaen</l>
+                  <l>axa y fatima y marien</l>
+                  <l>Y hallavanlas cogidas</l>
+                  <l>y tornavan deſmaidas</l>
+                  <l>y las colores perdidas</l>
+                  <l>en jaen</l>
+                  <l>axa y fatima y marien</l>
+                  <l>tres moricas tan loçanas</l>
+                  <l>yvan a coger mançanas</l>
+                  <l>a jaen</l>
+                  <l>axa i fatima y merien</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Interesa su presencia en el Cancionero musical de Palacio, ya que evidencia la
+            existencia de una musicación histórica. Probablemente parta de una composición
+            tradicional. </note>
+      </body>
+   </text>
+</TEI>

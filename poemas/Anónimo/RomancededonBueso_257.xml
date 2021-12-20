@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Romance de don Bueso</title>
+            <author>Anónimo</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Romancero viejo</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">Romancero (Biblioteca Nueva, 2004)</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Anagnórisis, Cautiverio, Don Bueso y Relaciones cristiano-musulmanas</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Anónimo</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">0000</date>
+                  </birth>
+                  <death>
+                     <date cert="low">0000</date>
+                  </death>
+                  <floruit>Edad Media</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Camina don Bueso mañanita fría</l>
+                  <l>a tierra de moros a buscar amiga;</l>
+                  <l>ni la encuentra en casa ni la encuentra en villa;</l>
+                  <l>la encontró lavando en una fuente fría:</l>
+                  <l>—Quítate de ahí, mora, hija de judía,</l>
+                  <l>que beba el caballo en esa fuente fría.</l>
+                  <l>—Reviente el caballo y el que en él venía,</l>
+                  <l>que yo ni soy mora ni hija de judía,</l>
+                  <l>que soy cristianita, bautizada en pila.</l>
+                  <l>—Si eres cristianita, yo te llevaría,</l>
+                  <l>si a las ancas, ancas, si a la silla, silla.</l>
+                  <l>—(Y) a las ancas, no, que es bajeza mía,</l>
+                  <l>y a la silla, silla, yo muy bien iría—.</l>
+                  <l>Y al subir al alto, dio un voz la niña,</l>
+                  <l>conoció la tierra donde fue nacida:</l>
+                  <l>—Mi padre buen rey plantó aquí esta oliva,</l>
+                  <l>mi madre la reina sentadita en silla,</l>
+                  <l>mi hermano don Bueso los toros corría,</l>
+                  <l>mi hermana mayor bordaba y cosía,</l>
+                  <l>yo, como chiquita, las hebras torcía.</l>
+                  <l>—Salga, la mi madre, salga, madre mía,</l>
+                  <l>que fui a buscar nuera, le traje una hija.</l>
+                  <l>—Si me traes nuera, sea bienvenida;</l>
+                  <l>si me traes la hija, mejor recibida.</l>
+                  <l>Mala color tiene para ser mi hija.</l>
+                  <l>—¡Qué color, mi madre, qué color quería,</l>
+                  <l>si ya hace siete años que pan no comía,</l>
+                  <l>no siendo berros de una fuente fría,</l>
+                  <l>y de esos, pocos, que no los había!</l>
+                  <l>Mi saya del oro, del oro tejida,</l>
+                  <l>que te dejé nueva y te hallé rompida.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Versión editada por Piñero; es una de las muchas versiones de este romance. </note>
+      </body>
+   </text>
+</TEI>

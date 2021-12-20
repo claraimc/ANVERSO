@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Es tu boca...</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>[Poemas no recogidos en libro - primeros poemas]</title>
+               <date cert="high"/>
+               <pubPlace>Orihuela</pubPlace>
+               <publisher n="first_editor">El Pueblo de Orihuela [21 de agosto]</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Sonetos</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Una herida sangrante y pequeña;</l>
+                  <l>del purpúreo coral doble rama;</l>
+                  <l>un clavel que en el alba se inflama;</l>
+                  <l>una fresa lozana y sedeña.</l>
+               </lg>
+               <lg>
+                  <l>Rubí, en dos dividido, que enseña</l>
+                  <l>si se entreabre, blanquísima escama;</l>
+                  <l>amapola, flor, cálida llama;</l>
+                  <l>nido donde el amor canta y sueña.</l>
+               </lg>
+               <lg>
+                  <l>Incendiado retazo de nube;</l>
+                  <l>corazón arrancado a un querube;</l>
+                  <l>fresco y rojo botón de rosal…</l>
+               </lg>
+               <lg>
+                  <l>Es tu boca, mujer, todo eso…</l>
+                  <l>Mas si cae dulcemente en un beso</l>
+                  <l>a la mía, se torna en puñal.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Se trata de uno de los primeros poemas de Miguel Hernández, publicado el 21 de agosto
+            de 1930 en el diario El Pueblo de Orihuela. </note>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Volver a los 17</title>
+            <author>Violeta Parra</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Las últimas composiciones</title>
+               <date cert="high"/>
+               <pubPlace>Chile</pubPlace>
+               <publisher n="first_editor">RCA/1966</publisher>
+               <publisher n="used_edition">1992-Los Andes</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Décimas</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor, Juventud y Destino</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Violeta Parra</persName>
+                  <idno type="viaf">http://viaf.org/viaf/98832002</idno>
+                  <nationality>Chile</nationality>
+                  <birth>
+                     <date cert="low">1917</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1967</date>
+                  </death>
+                  <floruit>Otro</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Volver a los diecisiete</l>
+                  <l>después de vivir un siglo</l>
+                  <l>es como descifrar signos</l>
+                  <l>sin ser sabio competente,</l>
+                  <l>volver a ser de repente</l>
+                  <l>tan frágil como un segundo,</l>
+                  <l>volver a sentir profundo</l>
+                  <l>como un niño frente a Dios,</l>
+                  <l>eso es lo que siento yo</l>
+                  <l>en este instante fecundo.</l>
+               </lg>
+               <lg>
+                  <l>Mi paso retrocedido</l>
+                  <l>cuando el de ustedes avanza,</l>
+                  <l>el arco de las alianzas</l>
+                  <l>ha penetrado en mi nido,</l>
+                  <l>con todo su colorido</l>
+                  <l>se ha paseado por mis venas</l>
+                  <l>y hasta la dura cadena</l>
+                  <l>con que nos ata el destino</l>
+                  <l>es como un diamante fino</l>
+                  <l>que alumbra mi alma serena.</l>
+               </lg>
+               <lg>
+                  <l>Lo que puede el sentimiento</l>
+                  <l>no lo ha podido el saber,</l>
+                  <l>ni el más claro proceder</l>
+                  <l>ni el más ancho pensamiento,</l>
+                  <l>todo lo cambia el momento</l>
+                  <l>cual mago condescendiente,</l>
+                  <l>nos aleja dulcemente</l>
+                  <l>de rencores y violencias,</l>
+                  <l>sólo el amor con su ciencia</l>
+                  <l>nos vuelve tan inocentes.</l>
+               </lg>
+               <lg>
+                  <l>El amor es torbellino</l>
+                  <l>de pureza original,</l>
+                  <l>hasta el feroz animal</l>
+                  <l>susurra su dulce trino,</l>
+                  <l>detiene a los peregrinos,</l>
+                  <l>libera a los prisioneros,</l>
+                  <l>el amor con sus esmeros</l>
+                  <l>al viejo lo vuelve niño</l>
+                  <l>y al malo sólo el cariño</l>
+                  <l>lo vuelve puro y sincero.</l>
+               </lg>
+               <lg>
+                  <l>De par en par la ventana</l>
+                  <l>se abrió como por encanto,</l>
+                  <l>entró el amor con su manto</l>
+                  <l>como una tibia mañana,</l>
+                  <l>al son de su bella diana</l>
+                  <l>hizo brotar el jazmín,</l>
+                  <l>volando cual serafín</l>
+                  <l>al cielo le puso aretes</l>
+                  <l>y mis años en diecisiete</l>
+                  <l>los convirtió el querubín.</l>
+               </lg>
+               <lg>
+                  <l>Se va enredando, enredando,</l>
+                  <l>como en el muro la hiedra,</l>
+                  <l>y va brotando, brotando,</l>
+                  <l>como el musguito en la piedra.</l>
+                  <l>Ay sí sí sí</l>
+                  <l>aay sí sí sí.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Este texto aparece primero como canción en el álbum de Violeta Parra Las últimas
+            composiciones de 1966. Esta canción no está recogida en esta base de datos dado que se
+            sale de los criterios marcados para el archivo. Luego, el texto ha circulado como poema
+            en diversas antologías, entre las que se encuentra la seleccionada para esta ficha. Se
+            trata de un libro editado por Juan Andrés Piña titulado 21 son los dolores, publicado en
+            Santiago con la editorial Los Andes en 1992 (pp. 17-18). </note>
+      </body>
+   </text>
+</TEI>

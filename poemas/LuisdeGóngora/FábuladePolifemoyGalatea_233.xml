@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fábula de Polifemo y Galatea</title>
+            <author>Luis de Góngora</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>--</title>
+               <date cert="high"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">Manuscrito Chacón 1612</publisher>
+               <publisher n="used_edition">2010 - Cátedra</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesías mitológicas</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Mitología</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Luis de Góngora</persName>
+                  <idno type="viaf">--</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1561</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1627</date>
+                  </death>
+                  <floruit>Barroco</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>XXIV</l>
+                  <l>Salamandria del sol, vestido estrellas,</l>
+                  <l>latiendo el Can del cielo estaba cuando</l>
+                  <l>(polvo el cabello, húmidas centellas,</l>
+                  <l>si no ardientes aljófares sudando)</l>
+                  <l>llegó Acis; y de ambas luces bellas</l>
+                  <l>dulce occidente viendo al sueño blando,</l>
+                  <l>su boca dio y sus ojos cuanto pudo</l>
+                  <l>al sonoro cristal, al cristal mudo.</l>
+                  <l>XLII</l>
+                  <l>No a las palomas concedió Cupido</l>
+                  <l>juntar de sus dos picos los rubíes,</l>
+                  <l>cuando al clavel el joven atrevido,</l>
+                  <l>las dos hojas le chupa, carmesíes.</l>
+                  <l>Cuantas produce Pafo, engendra Gnido,</l>
+                  <l>negras vïolas, blancos alhelíes,</l>
+                  <l>llueven sobre el que Amor quiere que sea</l>
+                  <l>tálamo de Acis ya y de Galatea.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>De este extenso poema, se reproducen solo las dos estrofas que se musicalizan en la
+            canción: XLII y XXIV. </note>
+      </body>
+   </text>
+</TEI>

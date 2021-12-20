@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Callo después de muerto]</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Cancionero y romancero de ausencias</title>
+               <date cert="high"/>
+               <pubPlace>Buenos Aires</pubPlace>
+               <publisher n="first_editor">Lautaro</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor y Ausencia de amor</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Callo después de muerto.</l>
+                  <l>Hablas después de viva.</l>
+                  <l>Pobres conversaciones</l>
+                  <l>desusadas por dichas,</l>
+                  <l>nos llevan lo mejor</l>
+                  <l>de la muerte y la vida.</l>
+               </lg>
+               <lg>
+                  <l>Con espadas fraguadas</l>
+                  <l>en silencio, fundidas</l>
+                  <l>en miradas, en besos,</l>
+                  <l>en pasiones invictas</l>
+                  <l>nos herimos, nos vamos</l>
+                  <l>a la lucha más íntima.</l>
+               </lg>
+               <lg>
+                  <l>Con silencio te ataco.</l>
+                  <l>Con silencio tú vibras.</l>
+                  <l>Con silencio reluce</l>
+                  <l>la verdad cristalina.</l>
+                  <l>Con silencio caemos</l>
+                  <l>en la noche, en el día.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Aunque publicado póstumamente por primera vez en 1958, el poema fue escrito en la
+            cárcel entre 1938 y 1941. En la Obra poética completa consultada aquí, se informa de
+            otra versión anotada en un manuscrito:   Callo después de muerto. Hablas después de
+            viva. Pobres conversaciones no expresadas y dichas, nos llenan lo mejor de la muerte y
+            la vida. Un silencio vibrante ata lenguas y vibra. Con espadas forjadas en silencio,
+            fundidas en miradas, en besos, alargadas en días, nuestros cuerpos se elevan, nuestros
+            cuerpos se abisman. Con silencio te bato. Con silencio me intimas. Con silencio vibrante
+            de silencios y sílabas. </note>
+      </body>
+   </text>
+</TEI>

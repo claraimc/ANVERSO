@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Canción del esposo soldado</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Viento del pueblo</title>
+               <date cert="high"/>
+               <pubPlace>Valencia</pubPlace>
+               <publisher n="first_editor">Socorro Rojo</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesías de guerra</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor, Esperanza y Guerra</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>He poblado tu vientre de amor y sementera,</l>
+                  <l>he prolongado el eco de sangre a que respondo</l>
+                  <l>y espero sobre el surco como el arado espera:</l>
+                  <l>he llegado hasta el fondo.</l>
+               </lg>
+               <lg>
+                  <l>Morena de altas torres, alta luz y altos ojos,</l>
+                  <l>esposa de mi piel, gran trago de mi vida,</l>
+                  <l>tus pechos locos crecen hacia mí dando saltos</l>
+                  <l>de cierva concebida.</l>
+               </lg>
+               <lg>
+                  <l>Ya me parece que eres un cristal delicado,</l>
+                  <l>temo que te me rompas al más leve tropiezo,</l>
+                  <l>y a retorzar tus venas con mi piel de soldado</l>
+                  <l>fuera como el cerezo.</l>
+               </lg>
+               <lg>
+                  <l>Espejo de mi carne, sustento de mis alas,</l>
+                  <l>te doy vida en la muerte que me dan y no tomo.</l>
+                  <l>Mujer, mujer, te quiero cercado por las balas,</l>
+                  <l>ansiado por el plomo.</l>
+               </lg>
+               <lg>
+                  <l>Sobre los ataúdes feroces en acecho,</l>
+                  <l>sobre los mismos muertos sin remedio y sin fosa</l>
+                  <l>te quiero, y te quisiera besar con todo el pecho</l>
+                  <l>hasta en el polvo, esposa.</l>
+               </lg>
+               <lg>
+                  <l>Cuando junto a los campos de combate te piensa</l>
+                  <l>mi frente que no enfría ni aplaca tu figura,</l>
+                  <l>le acercas hacia mí como una boca inmensa</l>
+                  <l>de hambrienta dentadura.</l>
+               </lg>
+               <lg>
+                  <l>Escríbeme a la lucha, siénteme en la trinchera:</l>
+                  <l>aquí con el fusil tu nombre evoco y fijo,</l>
+                  <l>y defiendo tu vientre de pobre que me espera,</l>
+                  <l>y defiendo tu hijo.</l>
+               </lg>
+               <lg>
+                  <l>Nacerá nuestro hijo con el puño cerrado,</l>
+                  <l>envuelto en un clamor de victoria y guitarras,</l>
+                  <l>y dejare a tu puerta mi vida de soldado</l>
+                  <l>sin colmillos ni garras.</l>
+               </lg>
+               <lg>
+                  <l>Es preciso matar para seguir viviendo.</l>
+                  <l>Un día iré a la sombra de tu pelo lejano,</l>
+                  <l>y dormiré en la sábana de almidón y de estruendo</l>
+                  <l>cosida por tu mano.</l>
+               </lg>
+               <lg>
+                  <l>Tus piernas implacables al parto van derechas,</l>
+                  <l>y tu implacable boca de labios indomables,</l>
+                  <l>y ante mi soledad de explosiones y brechas</l>
+                  <l>recorres un camino de besos implacables.</l>
+               </lg>
+               <lg>
+                  <l>Para el hijo será la paz que estoy forjando.</l>
+                  <l>Y al fin en un océano de irremediables huesos</l>
+                  <l>tu corazón y el mío naufragarán, quedando</l>
+                  <l>una mujer y un hombre gastados por los besos.</l>
+               </lg>
+            </lg>
+         </div>
+         <note/>
+      </body>
+   </text>
+</TEI>

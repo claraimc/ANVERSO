@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Carta</title>
+            <author>Miguel Hernández</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>El hombre acecha</title>
+               <date cert="high"/>
+               <pubPlace>Valencia</pubPlace>
+               <publisher n="first_editor">Delegación de la Secretaría de Propaganda / Imprenta
+                Moderna</publisher>
+               <publisher n="used_edition">Obra poética completa - 2017 - Alianza Editorial</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Poesía lírica y Poesías de guerra</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>Amor, Ausencia de amor, Guerra Civil y Muerte</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Miguel Hernández</persName>
+                  <idno type="viaf">http://viaf.org/viaf/64032485</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1910</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1942</date>
+                  </death>
+                  <floruit>Generación del 27</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>El palomar de las cartas</l>
+                  <l>abre su imposible vuelo</l>
+                  <l>desde las trémulas mesas</l>
+                  <l>donde se apoya el recuerdo,</l>
+                  <l>la gravedad de la ausencia,</l>
+                  <l>el corazón, el silencio.</l>
+               </lg>
+               <lg>
+                  <l>Oigo un latido de cartas</l>
+                  <l>navegando hacia su centro.</l>
+               </lg>
+               <lg>
+                  <l>Donde voy, con las mujeres</l>
+                  <l>y con los hombres me encuentro,</l>
+                  <l>malheridos por la ausencia,</l>
+                  <l>desgastados por el tiempo.</l>
+               </lg>
+               <lg>
+                  <l>Cartas, relaciones, cartas:</l>
+                  <l>tarjetas postales, sueños,</l>
+                  <l>fragmentos de la ternura,</l>
+                  <l>proyectados en el cielo,</l>
+                  <l>lanzados de sangre a sangre</l>
+                  <l>y de deseo a deseo.</l>
+               </lg>
+               <lg>
+                  <l>Aunque bajo la tierra</l>
+                  <l>mi amante cuerpo esté,</l>
+                  <l>escríbeme a la tierra</l>
+                  <l>que yo te escribiré.</l>
+               </lg>
+               <lg>
+                  <l>En un rincón enmudecen</l>
+                  <l>cartas viejas, sobres viejos,</l>
+                  <l>con el color de la edad</l>
+                  <l>sobre la escritura puesto.</l>
+                  <l>Allí perecen las cartas</l>
+                  <l>llenas de estremecimientos.</l>
+                  <l>Allí agoniza la tinta</l>
+                  <l>y desfallecen los pliegos,</l>
+                  <l>y el papel se agujerea</l>
+                  <l>como un breve cementerio</l>
+                  <l>de las pasiones de antes,</l>
+                  <l>de los amores de luego.</l>
+               </lg>
+               <lg>
+                  <l>Aunque bajo la tierra</l>
+                  <l>mi amante cuerpo esté,</l>
+                  <l>escríbeme a la tierra,</l>
+                  <l>que yo te escribiré.</l>
+               </lg>
+               <lg>
+                  <l>Cuando te voy a escribir</l>
+                  <l>se emocionan los tinteros:</l>
+                  <l>los negros tinteros fríos</l>
+                  <l>se ponen rojos y trémulos,</l>
+                  <l>y un claro calor humano</l>
+                  <l>sube desde el fondo negro.</l>
+                  <l>Cuando te voy a escribir,</l>
+                  <l>te van a escribir mis huesos:</l>
+                  <l>te escribo con la imborrable</l>
+                  <l>tinta de mi sentimiento.</l>
+               </lg>
+               <lg>
+                  <l>Allá va mi carta cálida,</l>
+                  <l>paloma forjada al fuego,</l>
+                  <l>con las dos alas plegadas</l>
+                  <l>y la dirección en medio.</l>
+                  <l>Ave que sólo persigue,</l>
+                  <l>para nido y aire y cielo,</l>
+                  <l>carne, manos, ojos tuyos,</l>
+                  <l>y el espacio de tu aliento.</l>
+               </lg>
+               <lg>
+                  <l>Y te quedarás desnuda</l>
+                  <l>dentro de tus sentimientos,</l>
+                  <l>sin ropa, para sentirla</l>
+                  <l>del todo contra tu pecho.</l>
+               </lg>
+               <lg>
+                  <l>Aunque bajo la tierra</l>
+                  <l>mi amante cuerpo esté,</l>
+                  <l>escríbeme a la tierra</l>
+                  <l>que yo te escribiré.</l>
+               </lg>
+               <lg>
+                  <l>Ayer se quedó una carta</l>
+                  <l>abandonada y sin dueño,</l>
+                  <l>volando sobre los ojos</l>
+                  <l>de alguien que perdió su cuerpo.</l>
+                  <l>Cartas que se quedan vivas</l>
+                  <l>hablando para los muertos:</l>
+                  <l>papel anhelante, humano,</l>
+                  <l>sin ojos que puedan serlo.</l>
+               </lg>
+               <lg>
+                  <l>Mientras los colmillos crecen,</l>
+                  <l>cada vez más cerca siento</l>
+                  <l>la leve voz de tu carta</l>
+                  <l>igual que un clamor inmenso.</l>
+                  <l>La recibiré dormido,</l>
+                  <l>si no es posible despierto.</l>
+                  <l>Y mis heridas serán</l>
+                  <l>los derramados tinteros,</l>
+                  <l>las bocas estremecidas</l>
+                  <l>de rememorar tus besos,</l>
+                  <l>y con su inaudita voz</l>
+                  <l>han de repetir: te quiero.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>El hombre acecha fue editado por la Delegación de la Secretaría de Propaganda en la
+            Imprenta Moderna de Valencia; sin embargo, con la derrota de la II República en la
+            Guerra Civil, no se completaron los trabajos y la edición desapareció. </note>
+      </body>
+   </text>
+</TEI>

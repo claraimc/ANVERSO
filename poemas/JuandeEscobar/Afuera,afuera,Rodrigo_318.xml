@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Afuera, afuera, Rodrigo</title>
+            <author>Juan de Escobar</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="book">
+               <title>Romancero e historia del muy noble y valeroso cavallero, el Cid Ruy Diez
+            de Bivar en romances en lenguaje antiguo</title>
+               <date cert="low"/>
+               <pubPlace>--</pubPlace>
+               <publisher n="first_editor">--</publisher>
+               <publisher n="used_edition">1706 - Martín de Zavala</publisher>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>Romances</term>
+            </keywords>
+         </textClass>
+         <textClass n="topic">
+            <keywords>
+               <list>
+                  <item>El Cid (Rodrigo Díaz de Vivar)</item>
+               </list>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Juan de Escobar</persName>
+                  <idno type="viaf">http://viaf.org/viaf/71438109</idno>
+                  <nationality>España</nationality>
+                  <birth>
+                     <date cert="low">1500</date>
+                  </birth>
+                  <death>
+                     <date cert="low">1600</date>
+                  </death>
+                  <floruit>Renacimiento</floruit>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="poem">
+               <lg>
+                  <l>Afuera, afuera, Rodrigo</l>
+                  <l>el sobervio Castellano,</l>
+                  <l>acordásete deviera</l>
+                  <l>de aquel buen tiempo passado,</l>
+                  <l>que te armaron Cavallero</l>
+                  <l>en el Altar de Santiago,</l>
+                  <l>quando el Rey fue tu padrino,</l>
+                  <l>tu Rodrigo el afijado:</l>
+                  <l>Mi padre te dio las armas,</l>
+                  <l>mi madre te dio el cavallo,</l>
+                  <l>yo te calçé espuela de oro,</l>
+                  <l>porque fuesses más honrado.</l>
+                  <l>Pensé de casar contigo,</l>
+                  <l>no lo quiso mi pecado,</l>
+                  <l>casaste con Ximena Gómez,</l>
+                  <l>hija del Conde Lozano.</l>
+                  <l>Con ella huvistes dineros,</l>
+                  <l>conmigo fueras honrado,</l>
+                  <l>porque si la renta es buena,</l>
+                  <l>muy mejor es el Estado.</l>
+                  <l>Si bien casaste, Rodrigo,</l>
+                  <l>muy mejor fueras casado,</l>
+                  <l>dexaste hija de Rey</l>
+                  <l>por tomar de su vasallo.</l>
+                  <l>En oír esto Rodrigo</l>
+                  <l>quedó dello algo turbado,</l>
+                  <l>con la turbación que tiene,</l>
+                  <l>esta respuesta le ha dado.</l>
+                  <l>Si os parece, mi señora,</l>
+                  <l>bien podemos desviarlo.</l>
+                  <l>Respondiole doña Vrraca:</l>
+                  <l>con rostro muy sossegado:</l>
+                  <l>No lo mande Dios del Cielo,</l>
+                  <l>que por mí se haga tal caso.</l>
+                  <l>Que mi alma penaría,</l>
+                  <l>si yo fuesse en discrepallo;</l>
+                  <l>bolviose presto Rodrigo</l>
+                  <l>y dixo muy angustiado:</l>
+                  <l>Afuera, afuera los míos,</l>
+                  <l>los de a pie y los de a cavallo,</l>
+                  <l>que de aquella torre mocha</l>
+                  <l>vna vira me han tirado,</l>
+                  <l>y aunque no traía fierro,</l>
+                  <l>el coraçón me ha passado,</l>
+                  <l>ya ningún remedio siento,</l>
+                  <l>sino vivir más penado.</l>
+               </lg>
+            </lg>
+         </div>
+         <note>Se considera que esta versión concreta del romance, donde las espuelas del Cid son de
+            oro, es fruto de los retoques de Juan de Escobar. </note>
+      </body>
+   </text>
+</TEI>
