@@ -53,12 +53,12 @@
                             </sourceDesc>
                         </fileDesc>
                         <profileDesc>
-                            <textClass type="genre">
+                            <textClass n="genre">
                                 <keywords>
                                     <xsl:apply-templates select="genre"/>
                                 </keywords>
                             </textClass>
-                            <textClass type="topic">
+                            <textClass n="topic">
                                 <keywords>
                                     <list>
                                         <xsl:apply-templates select="topic"/>
