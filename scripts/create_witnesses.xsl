@@ -4,8 +4,9 @@
     exclude-result-prefixes="xs"
     xpath-default-namespace="http://www.tei-c.org/ns/1.0"
     version="3.0">
-    <xsl:output method="text"></xsl:output>
+    <xsl:output method="text"/>
     <xsl:template match="/">
+        <xsl:variable name="poem" select="current()"/>
         <xsl:variable name="author" select="base-uri(.) => substring-after('poemas/') => substring-before('/')"/>
         <xsl:variable name="folderName" select="base-uri(.) => substring-after('poemas/') => 
             replace('/', '_') => substring-before('.xml')"/>
@@ -14,12 +15,13 @@
         <xsl:result-document href="{$folderName}/poema.txt">
             <xsl:apply-templates select="//l"/>
         </xsl:result-document>
-        <xsl:for-each select="collection($path)//TEI[base-uri(.)[matches(., $title)]]">
+        <xsl:for-each select="collection($path)//TEI[descendant::person[@role eq 'poet']/bibl = $poem/descendant::titleStmt/title]">
             <xsl:variable name="id" select="base-uri(.) => substring-after('_')"/>
             <xsl:result-document href="{$folderName}/cancion_{$id}.txt"><xsl:apply-templates select="//l"/></xsl:result-document>
         </xsl:for-each>
     </xsl:template>
     <xsl:template match="l">
-        <xsl:value-of select="."/>
+        <xsl:apply-templates/><xsl:text>
+</xsl:text>
     </xsl:template>
 </xsl:stylesheet>
