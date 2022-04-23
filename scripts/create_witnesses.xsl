@@ -15,7 +15,7 @@
         <xsl:result-document href="{$folderName}/poema.txt">
             <xsl:apply-templates select="//l"/>
         </xsl:result-document>
-        <xsl:for-each select="collection($path)//TEI[descendant::person[@role eq 'poet']/bibl = $poem/descendant::titleStmt/title]">
+        <xsl:for-each select="collection($path)//TEI[descendant::person[@role eq 'poet']/bibl/replace(., '[\[\]]+', '') = $poem/descendant::titleStmt/title/replace(., '[\[\]]+', '')]">
             <xsl:variable name="id" select="base-uri(.) => substring-after('_')"/>
             <xsl:result-document href="{$folderName}/cancion_{$id}.txt"><xsl:apply-templates select="//l"/></xsl:result-document>
         </xsl:for-each>
