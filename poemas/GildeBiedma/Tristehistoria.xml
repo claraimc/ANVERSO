@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Triste historia</title>
+            <author>Gil de Biedma</author>
+         </titleStmt>
+         <publicationStmt>
+            <authority>UNED</authority>
+         </publicationStmt>
+         <sourceDesc>
+            <p>A completar</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass n="genre">
+            <keywords>
+               <term>--</term>
+            </keywords>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person role="poet">
+                  <persName>Gil de Biedma</persName>
+                  <bibl>Apología y petición</bibl>
+                  <relation>Musicalización similar</relation>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <lg type="lyrics">
+               <l>De todas las historias de la Historia</l>
+               <l>Y qué decir de nuestra madre España, </l>
+               <l>este país de todos los demonios </l>
+               <l>en donde el mal gobierno, la pobreza</l>
+               <l>no son, sin más, pobreza y mal gobierno</l>
+               <l>sino un estado místico del hombre,</l>
+               <l>la absolución final de nuestra historia?</l>
+               <l>De todas las historias de la Historia</l>
+               <l>sin duda la más triste es la de España,</l>
+               <l>porque termina mal. Como si el hombre,</l>
+               <l>harto ya de luchar con sus demonios,</l>
+               <l>decidiese encargarles el gobierno</l>
+               <l>y la administración de su pobreza.</l>
+               <l>Nuestra famosa inmemorial pobreza,</l>
+               <l>cuyo origen se pierde en las historias</l>
+               <l>que dicen que no es culpa del gobierno</l>
+               <l>sino terrible maldición de España,</l>
+               <l>triste precio pagado a los demonios</l>
+               <l>con hambre y con trabajo de sus hombres.</l>
+               <l>A menudo he pensado en esos hombres,</l>
+               <l>a menudo he pensado en la pobreza</l>
+               <l>de este país de todos los demonios.</l>
+               <l>Y a menudo he pensado en otra historia</l>
+               <l>distinta y menos simple, en otra España</l>
+               <l>en donde sí que importa un mal gobierno.</l>
+               <l>Quiero creer que nuestro mal gobierno</l>
+               <l>es un vulgar negocio de los hombres</l>
+               <l>y no una metafísica, que España</l>
+               <l>debe y puede salir de la pobreza,</l>
+               <l>que es tiempo aún para cambiar su historia</l>
+               <l>antes que se la lleven los demonios.</l>
+               <l>Porque quiero creer que no hay demonios.</l>
+               <l>Son hombres los que pagan al gobierno,</l>
+               <l>los empresarios de la falsa historia,</l>
+               <l>son hombres quienes han vendido al hombre,</l>
+               <l>los que le han convertido a la pobreza</l>
+               <l>y secuestrado la salud de España.</l>
+               <l>Pido que España expulse a esos demonios.</l>
+               <l>Que la pobreza suba hasta el gobierno.</l>
+               <l>Que sea el hombre el dueño de su historia.</l>
+
+            </lg>
+         </div>
+         <note>Paco Ibáñez selecciona tan solo algunos versos, los reordena y los modifica
+            ligeramente. </note>
+      </body>
+   </text>
+</TEI>
