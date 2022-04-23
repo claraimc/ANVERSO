@@ -17,7 +17,7 @@ jo = json.load(open(nbpath))
 cells = jo["cells"][0]["outputs"]
 
 with open(outindex, "w") as idxfile:
-    idxfile.write("<html><head/><body><div><h3>Collations</h3><ul>\n")
+    idxfile.write("<html><head/><body><div><h3>Collations (pairwise)</h3><ul>\n")
     for idx, cell in enumerate(cells):
         #breakpoint()
         if "name" in cell:
