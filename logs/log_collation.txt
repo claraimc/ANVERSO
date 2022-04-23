@@ -1,0 +1,1561 @@
+In [36]: %run /home/ruizfabo/projects/o/poemas/ANVERSO/scripts/collation.py                                                         
+== AgustinGarciaCalvo_Libretequiero_361
+---------------------------------------------------------------------------
+FileNotFoundError                         Traceback (most recent call last)
+~/projects/o/poemas/ANVERSO/scripts/collation.py in <module>
+     15     collation = collatex.Collation()
+     16     ofname = os.path.join(collations_out, f"{dname}_coll.{outformat}")
+---> 17     if os.path.exists(ofname) and os.stat("file").st_size > 0:
+     18         print(" - Skip", fdname)
+     19     for idx, fname in sorted(enumerate(os.listdir(fdname))):
+
+FileNotFoundError: [Errno 2] No such file or directory: 'file'
+
+In [37]: %run /home/ruizfabo/projects/o/poemas/ANVERSO/scripts/collation.py                                                         
+== AgustinGarciaCalvo_Libretequiero_361
+ - Skip ../witnesses/AgustinGarciaCalvo_Libretequiero_361
+ +  ../witnesses/AgustinGarciaCalvo_Libretequiero_361/poema.txt
+ +  ../witnesses/AgustinGarciaCalvo_Libretequiero_361/cancion_AmancioPrada_1.xml.txt
+== AlfonsinaStorni_Hombrepequeñito_6
+ - Skip ../witnesses/AlfonsinaStorni_Hombrepequeñito_6
+ +  ../witnesses/AlfonsinaStorni_Hombrepequeñito_6/poema.txt
+ +  ../witnesses/AlfonsinaStorni_Hombrepequeñito_6/cancion_RosaLeón_2.xml.txt
+== AngelGonzalez_Asínuncavolvióaser_239
+ - Skip ../witnesses/AngelGonzalez_Asínuncavolvióaser_239
+ +  ../witnesses/AngelGonzalez_Asínuncavolvióaser_239/cancion_PedroGuerra_15.xml.txt
+ +  ../witnesses/AngelGonzalez_Asínuncavolvióaser_239/poema.txt
+== AngelGonzalez_Aveces,enoctubre,esloquepasa..._226
+ - Skip ../witnesses/AngelGonzalez_Aveces,enoctubre,esloquepasa..._226
+ +  ../witnesses/AngelGonzalez_Aveces,enoctubre,esloquepasa..._226/poema.txt
+ +  ../witnesses/AngelGonzalez_Aveces,enoctubre,esloquepasa..._226/cancion_PedroGuerra_4.xml.txt
+== AngelGonzalez_Dondepongolavidapongoelfuego_234
+ - Skip ../witnesses/AngelGonzalez_Dondepongolavidapongoelfuego_234
+ +  ../witnesses/AngelGonzalez_Dondepongolavidapongoelfuego_234/poema.txt
+ +  ../witnesses/AngelGonzalez_Dondepongolavidapongoelfuego_234/cancion_PedroGuerra_11.xml.txt
+ +  ../witnesses/AngelGonzalez_Dondepongolavidapongoelfuego_234/cancion_MiguelPoveda_3.xml.txt
+== AngelGonzalez_Estospoemas_240
+ - Skip ../witnesses/AngelGonzalez_Estospoemas_240
+ +  ../witnesses/AngelGonzalez_Estospoemas_240/poema.txt
+ +  ../witnesses/AngelGonzalez_Estospoemas_240/cancion_PedroGuerra_16.xml.txt
+== AngelGonzalez_Lapaloma(versiónlibre)_232
+ - Skip ../witnesses/AngelGonzalez_Lapaloma(versiónlibre)_232
+ +  ../witnesses/AngelGonzalez_Lapaloma(versiónlibre)_232/poema.txt
+ +  ../witnesses/AngelGonzalez_Lapaloma(versiónlibre)_232/cancion_PedroGuerra_10.xml.txt
+== AngelGonzalez_Mebastaasí_227
+ - Skip ../witnesses/AngelGonzalez_Mebastaasí_227
+ +  ../witnesses/AngelGonzalez_Mebastaasí_227/poema.txt
+ +  ../witnesses/AngelGonzalez_Mebastaasí_227/cancion_PedroGuerra_5.xml.txt
+== AngelGonzalez_Tangodemadrugada_235
+ - Skip ../witnesses/AngelGonzalez_Tangodemadrugada_235
+ +  ../witnesses/AngelGonzalez_Tangodemadrugada_235/poema.txt
+ +  ../witnesses/AngelGonzalez_Tangodemadrugada_235/cancion_PedroGuerra_12.xml.txt
+== AngelGonzalez_Todosustedesparecenfelices_249
+ - Skip ../witnesses/AngelGonzalez_Todosustedesparecenfelices_249
+ +  ../witnesses/AngelGonzalez_Todosustedesparecenfelices_249/poema.txt
+ +  ../witnesses/AngelGonzalez_Todosustedesparecenfelices_249/cancion_Disidencia_17.xml.txt
+== AngelGonzalez_Valsdelatardecer_228
+ - Skip ../witnesses/AngelGonzalez_Valsdelatardecer_228
+ +  ../witnesses/AngelGonzalez_Valsdelatardecer_228/cancion_PedroGuerra_6.xml.txt
+ +  ../witnesses/AngelGonzalez_Valsdelatardecer_228/poema.txt
+== AngelGonzalez_[Enesteinstante,breveyduroinstante,]_231
+ - Skip ../witnesses/AngelGonzalez_[Enesteinstante,breveyduroinstante,]_231
+ +  ../witnesses/AngelGonzalez_[Enesteinstante,breveyduroinstante,]_231/poema.txt
+ +  ../witnesses/AngelGonzalez_[Enesteinstante,breveyduroinstante,]_231/cancion_PedroGuerra_9.xml.txt
+== AngelGonzalez_[Mehequedadosinpulsoysinaliento]_236
+ - Skip ../witnesses/AngelGonzalez_[Mehequedadosinpulsoysinaliento]_236
+ +  ../witnesses/AngelGonzalez_[Mehequedadosinpulsoysinaliento]_236/poema.txt
+ +  ../witnesses/AngelGonzalez_[Mehequedadosinpulsoysinaliento]_236/cancion_PedroGuerra_13.xml.txt
+== AngelGonzalez_[Mientrastúexistas]_229
+ - Skip ../witnesses/AngelGonzalez_[Mientrastúexistas]_229
+ +  ../witnesses/AngelGonzalez_[Mientrastúexistas]_229/poema.txt
+ +  ../witnesses/AngelGonzalez_[Mientrastúexistas]_229/cancion_PedroGuerra_7.xml.txt
+== AngelGonzalez_[Poraquípasaunrío]_238
+ - Skip ../witnesses/AngelGonzalez_[Poraquípasaunrío]_238
+ +  ../witnesses/AngelGonzalez_[Poraquípasaunrío]_238/poema.txt
+ +  ../witnesses/AngelGonzalez_[Poraquípasaunrío]_238/cancion_PedroGuerra_14.xml.txt
+== AngelGonzalez_[Sonlasgaviotas,amor]_230
+ - Skip ../witnesses/AngelGonzalez_[Sonlasgaviotas,amor]_230
+ +  ../witnesses/AngelGonzalez_[Sonlasgaviotas,amor]_230/cancion_PedroGuerra_8.xml.txt
+ +  ../witnesses/AngelGonzalez_[Sonlasgaviotas,amor]_230/poema.txt
+== Anonimo_AfrentadeCorpes_328
+ - Skip ../witnesses/Anonimo_AfrentadeCorpes_328
+ +  ../witnesses/Anonimo_AfrentadeCorpes_328/cancion_Isengard_54.xml.txt
+ +  ../witnesses/Anonimo_AfrentadeCorpes_328/poema.txt
+ +  ../witnesses/Anonimo_AfrentadeCorpes_328/cancion_EmilioValdeolivas_57.xml.txt
+== Anonimo_Alalbavenid,buenamigo_270
+ - Skip ../witnesses/Anonimo_Alalbavenid,buenamigo_270
+ +  ../witnesses/Anonimo_Alalbavenid,buenamigo_270/poema.txt
+ +  ../witnesses/Anonimo_Alalbavenid,buenamigo_270/cancion_AmancioPrada_46.xml.txt
+== Anonimo_AlfonsocasalashijasdelCid_332
+ - Skip ../witnesses/Anonimo_AlfonsocasalashijasdelCid_332
+ +  ../witnesses/Anonimo_AlfonsocasalashijasdelCid_332/poema.txt
+ +  ../witnesses/Anonimo_AlfonsocasalashijasdelCid_332/cancion_EmilioValdeolivas_59.xml.txt
+== Anonimo_Ay,lindaamiga_256
+ - Skip ../witnesses/Anonimo_Ay,lindaamiga_256
+ +  ../witnesses/Anonimo_Ay,lindaamiga_256/cancion_AuraMusica_31.xml.txt
+ +  ../witnesses/Anonimo_Ay,lindaamiga_256/cancion_Music4aWhile_36.xml.txt
+ +  ../witnesses/Anonimo_Ay,lindaamiga_256/cancion_AlaVia_28.xml.txt
+ +  ../witnesses/Anonimo_Ay,lindaamiga_256/poema.txt
+ +  ../witnesses/Anonimo_Ay,lindaamiga_256/cancion_AmancioPrada_29.xml.txt
+ +  ../witnesses/Anonimo_Ay,lindaamiga_256/cancion_AnDanzza_30.xml.txt
+ +  ../witnesses/Anonimo_Ay,lindaamiga_256/cancion_Jaramar_35.xml.txt
+ +  ../witnesses/Anonimo_Ay,lindaamiga_256/cancion_PhatManDee_37.xml.txt
+ +  ../witnesses/Anonimo_Ay,lindaamiga_256/cancion_ColleenKattau_34.xml.txt
+ +  ../witnesses/Anonimo_Ay,lindaamiga_256/cancion_Annwn_32.xml.txt
+ +  ../witnesses/Anonimo_Ay,lindaamiga_256/cancion_CorvusCorax_33.xml.txt
+^C---------------------------------------------------------------------------
+KeyboardInterrupt                         Traceback (most recent call last)
+~/projects/o/poemas/ANVERSO/scripts/collation.py in <module>
+     30     try:
+     31         alignment_table = collatex.collate(collation,
+---> 32                                            output=outformat)
+     33     except Exception:
+     34         print("* Error with", ffname)
+
+~/anaconda3/lib/python3.7/site-packages/collatex/core_functions.py in collate(collation, output, layout, segmentation, near_match, astar, detect_transpositions, debug_scores, properties_filter, indent)
+     49     # build graph
+     50     graph = VariantGraph()
+---> 51     algorithm.collate(graph)
+     52     ranking = VariantGraphRanking.of(graph)
+     53     if near_match:
+
+~/anaconda3/lib/python3.7/site-packages/collatex/edit_graph_aligner.py in collate(self, graph)
+    228                                    self.properties_filter)
+    229             # print("> match_cube.matches=", match_cube.matches)
+--> 230             self.fill_needleman_wunsch_table(variant_graph_ranks, tokens_as_index_list, match_cube)
+    231 
+    232             aligned = self.align_matching_tokens(match_cube)
+
+~/anaconda3/lib/python3.7/site-packages/collatex/edit_graph_aligner.py in fill_needleman_wunsch_table(self, variant_graph_ranks, tokens_as_index_list, match_cube)
+    304                 previous_x = x - 1
+    305                 from_upper_left = scorer.score(x, y, self.cells[previous_y][previous_x])
+--> 306                 from_left = scorer.gap(x, y, self.cells[y][previous_x])
+    307                 from_upper = self.calculate_from_upper(scorer, y, x, previous_y, match_cube)
+    308                 max_score = max(from_upper_left, from_left, from_upper, key=lambda s: s.global_score)
+
+~/anaconda3/lib/python3.7/site-packages/collatex/edit_graph_aligner.py in gap(self, x, y, parent)
+    139     def gap(self, x, y, parent):
+    140         score_type = self.determine_type(x, y, parent)
+--> 141         return Score(score_type, x, y, parent, parent.global_score - 1)
+    142 
+    143     def score(self, x, y, parent):
+
+~/anaconda3/lib/python3.7/site-packages/collatex/edit_graph_aligner.py in __init__(self, score_type, x, y, parent, global_score)
+    120 
+    121 class Score():
+--> 122     def __init__(self, score_type, x, y, parent, global_score=None):
+    123         self.type = score_type
+    124         self.x = x
+
+KeyboardInterrupt: 
+
+In [38]: %run /home/ruizfabo/projects/o/poemas/ANVERSO/scripts/collation.py                                                         
+== AgustinGarciaCalvo_Libretequiero_361
+ - Skip ../witnesses/AgustinGarciaCalvo_Libretequiero_361
+== AlfonsinaStorni_Hombrepequeñito_6
+ - Skip ../witnesses/AlfonsinaStorni_Hombrepequeñito_6
+== AngelGonzalez_Asínuncavolvióaser_239
+ - Skip ../witnesses/AngelGonzalez_Asínuncavolvióaser_239
+== AngelGonzalez_Aveces,enoctubre,esloquepasa..._226
+ - Skip ../witnesses/AngelGonzalez_Aveces,enoctubre,esloquepasa..._226
+== AngelGonzalez_Dondepongolavidapongoelfuego_234
+ - Skip ../witnesses/AngelGonzalez_Dondepongolavidapongoelfuego_234
+== AngelGonzalez_Estospoemas_240
+ - Skip ../witnesses/AngelGonzalez_Estospoemas_240
+== AngelGonzalez_Lapaloma(versiónlibre)_232
+ - Skip ../witnesses/AngelGonzalez_Lapaloma(versiónlibre)_232
+== AngelGonzalez_Mebastaasí_227
+ - Skip ../witnesses/AngelGonzalez_Mebastaasí_227
+== AngelGonzalez_Tangodemadrugada_235
+ - Skip ../witnesses/AngelGonzalez_Tangodemadrugada_235
+== AngelGonzalez_Todosustedesparecenfelices_249
+ - Skip ../witnesses/AngelGonzalez_Todosustedesparecenfelices_249
+== AngelGonzalez_Valsdelatardecer_228
+ - Skip ../witnesses/AngelGonzalez_Valsdelatardecer_228
+== AngelGonzalez_[Enesteinstante,breveyduroinstante,]_231
+ - Skip ../witnesses/AngelGonzalez_[Enesteinstante,breveyduroinstante,]_231
+== AngelGonzalez_[Mehequedadosinpulsoysinaliento]_236
+ - Skip ../witnesses/AngelGonzalez_[Mehequedadosinpulsoysinaliento]_236
+== AngelGonzalez_[Mientrastúexistas]_229
+ - Skip ../witnesses/AngelGonzalez_[Mientrastúexistas]_229
+== AngelGonzalez_[Poraquípasaunrío]_238
+ - Skip ../witnesses/AngelGonzalez_[Poraquípasaunrío]_238
+== AngelGonzalez_[Sonlasgaviotas,amor]_230
+ - Skip ../witnesses/AngelGonzalez_[Sonlasgaviotas,amor]_230
+== Anonimo_AfrentadeCorpes_328
+ - Skip ../witnesses/Anonimo_AfrentadeCorpes_328
+== Anonimo_Alalbavenid,buenamigo_270
+ - Skip ../witnesses/Anonimo_Alalbavenid,buenamigo_270
+== Anonimo_AlfonsocasalashijasdelCid_332
+ - Skip ../witnesses/Anonimo_AlfonsocasalashijasdelCid_332
+== Anonimo_Ay,lindaamiga_256
+ - Skip ../witnesses/Anonimo_Ay,lindaamiga_256
+== Anonimo_Bésameyabrázame_263
+ - Skip ../witnesses/Anonimo_Bésameyabrázame_263
+== Anonimo_CantardelAbadDonJuandeMontemayor_302
+ - Skip ../witnesses/Anonimo_CantardelAbadDonJuandeMontemayor_302
+== Anonimo_CantardemioCid_320
+ +  ../witnesses/Anonimo_CantardemioCid_320/poema.txt
+ +  ../witnesses/Anonimo_CantardemioCid_320/cancion_Trauma_51.xml.txt
+ +  ../witnesses/Anonimo_CantardemioCid_320/cancion_LeoMasliah_52.xml.txt
+* Error with ../witnesses/Anonimo_CantardemioCid_320/cancion_LeoMasliah_52.xml.txt
+== Anonimo_Cantodelhonor_221
+ - Skip ../witnesses/Anonimo_Cantodelhonor_221
+== Anonimo_Conclusión_322
+ - Skip ../witnesses/Anonimo_Conclusión_322
+== Anonimo_ElCidreclamaaTizónyColada_327
+ - Skip ../witnesses/Anonimo_ElCidreclamaaTizónyColada_327
+== Anonimo_Elcaballoyelazor_345
+ - Skip ../witnesses/Anonimo_Elcaballoyelazor_345
+== Anonimo_Elpastordesesperado_244
+ - Skip ../witnesses/Anonimo_Elpastordesesperado_244
+== Anonimo_EnCastillanohabíarey_350
+ - Skip ../witnesses/Anonimo_EnCastillanohabíarey_350
+== Anonimo_EpisodiodeRachelyVidas_341
+ - Skip ../witnesses/Anonimo_EpisodiodeRachelyVidas_341
+== Anonimo_EpisodiodelcondedeBarcelona_343
+ - Skip ../witnesses/Anonimo_EpisodiodelcondedeBarcelona_343
+== Anonimo_Episodiodelleón_329
+ - Skip ../witnesses/Anonimo_Episodiodelleón_329
+== Anonimo_Glosaa“Ven,muerte,tanescondida”_321
+ - Skip ../witnesses/Anonimo_Glosaa“Ven,muerte,tanescondida”_321
+== Anonimo_IntroducciónalCantardelasbodas_337
+ - Skip ../witnesses/Anonimo_IntroducciónalCantardelasbodas_337
+== Anonimo_LaconquistadeValencia_336
+ - Skip ../witnesses/Anonimo_LaconquistadeValencia_336
+== Anonimo_LajuradeSantaGadea_315
+ - Skip ../witnesses/Anonimo_LajuradeSantaGadea_315
+== Anonimo_Levaysme,amor,d'aquestaterra_264
+ - Skip ../witnesses/Anonimo_Levaysme,amor,d'aquestaterra_264
+== Anonimo_Nacidonoshaunbailico_306
+ - Skip ../witnesses/Anonimo_Nacidonoshaunbailico_306
+== Anonimo_Paraquées,dama,tantoquereros_265
+ - Skip ../witnesses/Anonimo_Paraquées,dama,tantoquereros_265
+== Anonimo_PensativoestabaelCid_313
+ - Skip ../witnesses/Anonimo_PensativoestabaelCid_313
+== Anonimo_Propuestadematrimonio_334
+ - Skip ../witnesses/Anonimo_Propuestadematrimonio_334
+== Anonimo_Quedito,nometoquéis_267
+ - Skip ../witnesses/Anonimo_Quedito,nometoquéis_267
+== Anonimo_Quierodormirynopuedo_276
+ - Skip ../witnesses/Anonimo_Quierodormirynopuedo_276
+== Anonimo_Riu,riuchiu_255
+ - Skip ../witnesses/Anonimo_Riu,riuchiu_255
+== Anonimo_RomancedeBernardodelCarpio_259
+ - Skip ../witnesses/Anonimo_RomancedeBernardodelCarpio_259
+== Anonimo_RomancedeBlancaniña_261
+ - Skip ../witnesses/Anonimo_RomancedeBlancaniña_261
+== Anonimo_RomancededonBueso_257
+ - Skip ../witnesses/Anonimo_RomancededonBueso_257
+== Anonimo_RomancededonBueso_258
+ - Skip ../witnesses/Anonimo_RomancededonBueso_258
+== Anonimo_RomancedelCondeOlinos_305
+ - Skip ../witnesses/Anonimo_RomancedelCondeOlinos_305
+== Anonimo_Romancedelamisadeamor_275
+ - Skip ../witnesses/Anonimo_Romancedelamisadeamor_275
+== Anonimo_Romancedelamormáspoderosoquelamuerte_243
+ - Skip ../witnesses/Anonimo_Romancedelamormáspoderosoquelamuerte_243
+== Anonimo_Romancedelastrescautivas_307
+ - Skip ../witnesses/Anonimo_Romancedelastrescautivas_307
+== Anonimo_RomancedelcondeArnaldos_260
+ - Skip ../witnesses/Anonimo_RomancedelcondeArnaldos_260
+== Anonimo_Romancedelprisionero_273
+ - Skip ../witnesses/Anonimo_Romancedelprisionero_273
+== Anonimo_Romancedelprisionero_304
+ - Skip ../witnesses/Anonimo_Romancedelprisionero_304
+== Anonimo_RomancedelreyChico_303
+ - Skip ../witnesses/Anonimo_RomancedelreyChico_303
+== Anonimo_Romancederosafresca_277
+ - Skip ../witnesses/Anonimo_Romancederosafresca_277
+== Anonimo_SalidadeBurgos_342
+ - Skip ../witnesses/Anonimo_SalidadeBurgos_342
+== Anonimo_Segundoregaloparaelrey_335
+ - Skip ../witnesses/Anonimo_Segundoregaloparaelrey_335
+== Anonimo_Tresmorillasmeenamoran_281
+ - Skip ../witnesses/Anonimo_Tresmorillasmeenamoran_281
+== Anonimo_VisitaaSanPedrodeCardeña_340
+ - Skip ../witnesses/Anonimo_VisitaaSanPedrodeCardeña_340
+== Anonimo_VisióndelángelGabriel_339
+ - Skip ../witnesses/Anonimo_VisióndelángelGabriel_339
+== Anonimo_¡ReydonSancho,reyDonSancho!_274
+ - Skip ../witnesses/Anonimo_¡ReydonSancho,reyDonSancho!_274
+== Anonimo_Éxplicit_338
+ - Skip ../witnesses/Anonimo_Éxplicit_338
+== AntonioMachado_Aunolmoseco_172
+ - Skip ../witnesses/AntonioMachado_Aunolmoseco_172
+== AntonioMachado_Heandadomuchoscaminos_173
+ - Skip ../witnesses/AntonioMachado_Heandadomuchoscaminos_173
+== AntonioMachado_Lasaeta_223
+ - Skip ../witnesses/AntonioMachado_Lasaeta_223
+== AntonioMachado_PortierrasdeEspaña_157
+ - Skip ../witnesses/AntonioMachado_PortierrasdeEspaña_157
+== AntonioMachado_Proverbiosycantares_251
+ - Skip ../witnesses/AntonioMachado_Proverbiosycantares_251
+== AntonioMachado_Retrato_176
+ - Skip ../witnesses/AntonioMachado_Retrato_176
+== AntonioMachado_[Guitarradelmesónquehoysuenasjota]_175
+ - Skip ../witnesses/AntonioMachado_[Guitarradelmesónquehoysuenasjota]_175
+== AntonioMachado_[Yoescucholoscantos]_225
+ - Skip ../witnesses/AntonioMachado_[Yoescucholoscantos]_225
+== AntonioMachado_[Yovoysoñandocaminos]_174
+ - Skip ../witnesses/AntonioMachado_[Yovoysoñandocaminos]_174
+== BlasdeOtero_Campodeamor_10
+ - Skip ../witnesses/BlasdeOtero_Campodeamor_10
+== CesarVallejo_Piedranegrasobreunapiedrablanca_180
+ - Skip ../witnesses/CesarVallejo_Piedranegrasobreunapiedrablanca_180
+== ClaraJanes_[Yo]_1
+ - Skip ../witnesses/ClaraJanes_[Yo]_1
+== EmilioPrados_Romancedeldesterrado_241
+ +  ../witnesses/EmilioPrados_Romancedeldesterrado_241/poema.txt
+ +  ../witnesses/EmilioPrados_Romancedeldesterrado_241/cancion_PacoIbáñez_137.xml.txt
+== FedericoGarciaLorca_Andajaleo_224
+ +  ../witnesses/FedericoGarciaLorca_Andajaleo_224/poema.txt
+ +  ../witnesses/FedericoGarciaLorca_Andajaleo_224/cancion_MedinaAzahara_310.xml.txt
+== FedericoGarciaLorca_Baladilladelostresríos_42
+ +  ../witnesses/FedericoGarciaLorca_Baladilladelostresríos_42/cancion_EsperanzaFernández_273.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Baladilladelostresríos_42/poema.txt
+ +  ../witnesses/FedericoGarciaLorca_Baladilladelostresríos_42/cancion_FabioZanon,CarlosFernándezAransayyCoroCervantes_271.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Baladilladelostresríos_42/cancion_Eskóbula_268.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Baladilladelostresríos_42/cancion_FranciscoCurto_267.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Baladilladelostresríos_42/cancion_PataNegra_274.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Baladilladelostresríos_42/cancion_Arcángel,CorodeNuevasVocesBúlgarasyGeorgiPetkov_266.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Baladilladelostresríos_42/cancion_Valen_269.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Baladilladelostresríos_42/cancion_AntónGarcíaAbril,ChikyMartínyMaríaOrán_272.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Baladilladelostresríos_42/cancion_MiguelLópez_270.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Baladilladelostresríos_42/cancion_LaRêverie_265.xml.txt
+== FedericoGarciaLorca_Cancióndelamuertepequeña_41
+ +  ../witnesses/FedericoGarciaLorca_Cancióndelamuertepequeña_41/poema.txt
+ +  ../witnesses/FedericoGarciaLorca_Cancióndelamuertepequeña_41/cancion_MigueldePoveda_152.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Cancióndelamuertepequeña_41/cancion_ChuchoMerchán_154.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Cancióndelamuertepequeña_41/cancion_AntonioPortanet_151.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Cancióndelamuertepequeña_41/cancion_AriannaSavall_153.xml.txt
+== FedericoGarciaLorca_Cancióndelgitanoapaleado_253
+ +  ../witnesses/FedericoGarciaLorca_Cancióndelgitanoapaleado_253/poema.txt
+ +  ../witnesses/FedericoGarciaLorca_Cancióndelgitanoapaleado_253/cancion_ElÚltimoKeZierre_312.xml.txt
+== FedericoGarciaLorca_Cancióndeljinete(1860)_52
+ +  ../witnesses/FedericoGarciaLorca_Cancióndeljinete(1860)_52/poema.txt
+ +  ../witnesses/FedericoGarciaLorca_Cancióndeljinete(1860)_52/cancion_ToniXuclàyAdolfoOsta_168.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Cancióndeljinete(1860)_52/cancion_Jolís_166.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Cancióndeljinete(1860)_52/cancion_AmancioPrada_165.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Cancióndeljinete(1860)_52/cancion_Nuestropequeñomundo_167.xml.txt
+== FedericoGarciaLorca_Casidadelamanoimposible_22
+ +  ../witnesses/FedericoGarciaLorca_Casidadelamanoimposible_22/poema.txt
+ +  ../witnesses/FedericoGarciaLorca_Casidadelamanoimposible_22/cancion_CarlosCano_226.xml.txt
+== FedericoGarciaLorca_Casidadelamuchachadorada_20
+ +  ../witnesses/FedericoGarciaLorca_Casidadelamuchachadorada_20/cancion_CarlosCano_228.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Casidadelamuchachadorada_20/poema.txt
+ +  ../witnesses/FedericoGarciaLorca_Casidadelamuchachadorada_20/cancion_VicentePradal,RafaelPradalyServaneSolane_150.xml.txt
+== FedericoGarciaLorca_Casidadelamujerdesnuda_24
+ +  ../witnesses/FedericoGarciaLorca_Casidadelamujerdesnuda_24/poema.txt
+ +  ../witnesses/FedericoGarciaLorca_Casidadelamujerdesnuda_24/cancion_CarlosCano_281.xml.txt
+== FedericoGarciaLorca_Casidadelarosa_21
+ +  ../witnesses/FedericoGarciaLorca_Casidadelarosa_21/poema.txt
+ +  ../witnesses/FedericoGarciaLorca_Casidadelarosa_21/cancion_CarlosCano_227.xml.txt
+== FedericoGarciaLorca_Casidadelaspalomasoscuras_19
+ +  ../witnesses/FedericoGarciaLorca_Casidadelaspalomasoscuras_19/poema.txt
+ +  ../witnesses/FedericoGarciaLorca_Casidadelaspalomasoscuras_19/cancion_Jarcha_229.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Casidadelaspalomasoscuras_19/cancion_CarlosCano_283.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Casidadelaspalomasoscuras_19/cancion_CamaróndelaIsla_230.xml.txt
+== FedericoGarciaLorca_Casidadelheridoporelagua_27
+ +  ../witnesses/FedericoGarciaLorca_Casidadelheridoporelagua_27/cancion_LagartijaNick_149.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Casidadelheridoporelagua_27/poema.txt
+ +  ../witnesses/FedericoGarciaLorca_Casidadelheridoporelagua_27/cancion_CarlosCano_278.xml.txt
+== FedericoGarciaLorca_Casidadelllanto_26
+ +  ../witnesses/FedericoGarciaLorca_Casidadelllanto_26/poema.txt
+ +  ../witnesses/FedericoGarciaLorca_Casidadelllanto_26/cancion_AlbertoGarcíayVicentePradal_315.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Casidadelllanto_26/cancion_CarlosCano_282.xml.txt
+== FedericoGarciaLorca_Casidadelosramos_25
+ +  ../witnesses/FedericoGarciaLorca_Casidadelosramos_25/poema.txt
+ +  ../witnesses/FedericoGarciaLorca_Casidadelosramos_25/cancion_CarlosCano_279.xml.txt
+== FedericoGarciaLorca_Casidadelsueñoalairelibre_23
+ +  ../witnesses/FedericoGarciaLorca_Casidadelsueñoalairelibre_23/cancion_CarlosCano_280.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Casidadelsueñoalairelibre_23/poema.txt
+== FedericoGarciaLorca_Gaceladelahuida_30
+ +  ../witnesses/FedericoGarciaLorca_Gaceladelahuida_30/cancion_CarlosCano_225.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Gaceladelahuida_30/poema.txt
+== FedericoGarciaLorca_Gaceladelamorconcienaños_28
+ +  ../witnesses/FedericoGarciaLorca_Gaceladelamorconcienaños_28/poema.txt
+ +  ../witnesses/FedericoGarciaLorca_Gaceladelamorconcienaños_28/cancion_CarlosCano_277.xml.txt
+== FedericoGarciaLorca_Gaceladelamordesesperado_37
+ +  ../witnesses/FedericoGarciaLorca_Gaceladelamordesesperado_37/poema.txt
+ +  ../witnesses/FedericoGarciaLorca_Gaceladelamordesesperado_37/cancion_CarlosCano_219.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Gaceladelamordesesperado_37/cancion_ManoloSanlúcaryCarmenLinares_158.xml.txt
+== FedericoGarciaLorca_Gaceladelamorimprevisto_39
+ +  ../witnesses/FedericoGarciaLorca_Gaceladelamorimprevisto_39/cancion_MayteMartín_146.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Gaceladelamorimprevisto_39/poema.txt
+ +  ../witnesses/FedericoGarciaLorca_Gaceladelamorimprevisto_39/cancion_EnriqueMorente_148.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Gaceladelamorimprevisto_39/cancion_TríoArbósyRafaelUtrera_141.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Gaceladelamorimprevisto_39/cancion_MayteMartín_142.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Gaceladelamorimprevisto_39/cancion_PalomaPradal,VicentePradalyRafaelPradal_145.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Gaceladelamorimprevisto_39/cancion_CarlosCano_217.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Gaceladelamorimprevisto_39/cancion_AlbaMolina_147.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Gaceladelamorimprevisto_39/cancion_JoséMaríaVitieryMartirio_144.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Gaceladelamorimprevisto_39/cancion_LasNavesdelAntogafasta_143.xml.txt
+== FedericoGarciaLorca_Gaceladelamormaravilloso_32
+ +  ../witnesses/FedericoGarciaLorca_Gaceladelamormaravilloso_32/poema.txt
+ +  ../witnesses/FedericoGarciaLorca_Gaceladelamormaravilloso_32/cancion_CarlosCano_223.xml.txt
+== FedericoGarciaLorca_Gaceladelamorquenosedejaver_36
+ +  ../witnesses/FedericoGarciaLorca_Gaceladelamorquenosedejaver_36/poema.txt
+ +  ../witnesses/FedericoGarciaLorca_Gaceladelamorquenosedejaver_36/cancion_CarlosCano_220.xml.txt
+== FedericoGarciaLorca_Gaceladelamuerteoscura_33
+ +  ../witnesses/FedericoGarciaLorca_Gaceladelamuerteoscura_33/poema.txt
+ +  ../witnesses/FedericoGarciaLorca_Gaceladelamuerteoscura_33/cancion_CarlosCano_222.xml.txt
+== FedericoGarciaLorca_Gaceladelaraízamarga_34
+ +  ../witnesses/FedericoGarciaLorca_Gaceladelaraízamarga_34/poema.txt
+ +  ../witnesses/FedericoGarciaLorca_Gaceladelaraízamarga_34/cancion_CarlosCano_221.xml.txt
+== FedericoGarciaLorca_Gaceladelaterriblepresencia_38
+ +  ../witnesses/FedericoGarciaLorca_Gaceladelaterriblepresencia_38/poema.txt
+ +  ../witnesses/FedericoGarciaLorca_Gaceladelaterriblepresencia_38/cancion_CarlosCano_218.xml.txt
+== FedericoGarciaLorca_Gaceladelmercadomatutino_29
+ +  ../witnesses/FedericoGarciaLorca_Gaceladelmercadomatutino_29/poema.txt
+ +  ../witnesses/FedericoGarciaLorca_Gaceladelmercadomatutino_29/cancion_CarlosCano_276.xml.txt
+== FedericoGarciaLorca_Gaceladelniñomuerto_35
+ +  ../witnesses/FedericoGarciaLorca_Gaceladelniñomuerto_35/poema.txt
+ +  ../witnesses/FedericoGarciaLorca_Gaceladelniñomuerto_35/cancion_CarlosCano_275.xml.txt
+== FedericoGarciaLorca_Gaceladelrecuerdodeamor_31
+ +  ../witnesses/FedericoGarciaLorca_Gaceladelrecuerdodeamor_31/poema.txt
+ +  ../witnesses/FedericoGarciaLorca_Gaceladelrecuerdodeamor_31/cancion_CarlosCano_224.xml.txt
+== FedericoGarciaLorca_Laaurora_46
+ +  ../witnesses/FedericoGarciaLorca_Laaurora_46/cancion_AlexisCuadrado_211.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Laaurora_46/cancion_LoquilloyLuisEduardoAute_213.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Laaurora_46/poema.txt
+ +  ../witnesses/FedericoGarciaLorca_Laaurora_46/cancion_Ribàs_212.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Laaurora_46/cancion_MagosHerrerayMigueldePoveda_209.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Laaurora_46/cancion_CompañíaRafaelAmargo_140.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Laaurora_46/cancion_ManuelLombo_210.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Laaurora_46/cancion_EnriqueMorenteyLagargijaNick_214.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Laaurora_46/cancion_Arcángel,CorodeNuevasVocesBúlgarasyGeorgiPetkov_208.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Laaurora_46/cancion_ManoloTena_160.xml.txt
+== FedericoGarciaLorca_Lacasadainfiel_49
+ +  ../witnesses/FedericoGarciaLorca_Lacasadainfiel_49/cancion_RomeroSanJuan_199.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Lacasadainfiel_49/poema.txt
+ +  ../witnesses/FedericoGarciaLorca_Lacasadainfiel_49/cancion_Valen_197.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Lacasadainfiel_49/cancion_LosRomerosdelaPuebla_200.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Lacasadainfiel_49/cancion_JuliánEstrada_196.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Lacasadainfiel_49/cancion_J.J.Fuentes_194.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Lacasadainfiel_49/cancion_ToniXuclàyAdolfoOsta_198.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Lacasadainfiel_49/cancion_LaRêverie_195.xml.txt
+== FedericoGarciaLorca_MuertedeAntoñitoelCamborio_47
+ +  ../witnesses/FedericoGarciaLorca_MuertedeAntoñitoelCamborio_47/cancion_Valen_205.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_MuertedeAntoñitoelCamborio_47/poema.txt
+ +  ../witnesses/FedericoGarciaLorca_MuertedeAntoñitoelCamborio_47/cancion_VicentePradal_206.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_MuertedeAntoñitoelCamborio_47/cancion_Manzanita_207.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_MuertedeAntoñitoelCamborio_47/cancion_SergiPérezyFernandoAcedo_204.xml.txt
+== FedericoGarciaLorca_OdaaWaltWhitman_45
+ +  ../witnesses/FedericoGarciaLorca_OdaaWaltWhitman_45/poema.txt
+ +  ../witnesses/FedericoGarciaLorca_OdaaWaltWhitman_45/cancion_MiguelPoveda_215.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_OdaaWaltWhitman_45/cancion_PatxiAndión_216.xml.txt
+== FedericoGarciaLorca_Pequeñovalsvienés_184
+ +  ../witnesses/FedericoGarciaLorca_Pequeñovalsvienés_184/poema.txt
+ +  ../witnesses/FedericoGarciaLorca_Pequeñovalsvienés_184/cancion_SheilaPatricia_296.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Pequeñovalsvienés_184/cancion_Argentina_299.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Pequeñovalsvienés_184/cancion_EnriqueMorente_307.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Pequeñovalsvienés_184/cancion_SilviaPérezCruz_308.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Pequeñovalsvienés_184/cancion_IdanToledano_293.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Pequeñovalsvienés_184/cancion_AnaBelén_306.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Pequeñovalsvienés_184/cancion_AdamCohen_304.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Pequeñovalsvienés_184/cancion_LaBlasa_297.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Pequeñovalsvienés_184/cancion_Barahúnda_295.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Pequeñovalsvienés_184/cancion_IsabeldeSebastián_294.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Pequeñovalsvienés_184/cancion_EsterFormosa&AdolfoOsta_300.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Pequeñovalsvienés_184/cancion_PachiGarcía_298.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Pequeñovalsvienés_184/cancion_TiramisúLetalconVilla-Toro_302.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Pequeñovalsvienés_184/cancion_MarisaSannia_303.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Pequeñovalsvienés_184/cancion_CompañíaRafaelAmargo_305.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Pequeñovalsvienés_184/cancion_Ribàs_301.xml.txt
+== FedericoGarciaLorca_PrendimientodeAntoñitoelCamborioenelcaminodeSevilla_48
+ +  ../witnesses/FedericoGarciaLorca_PrendimientodeAntoñitoelCamborioenelcaminodeSevilla_48/poema.txt
+ +  ../witnesses/FedericoGarciaLorca_PrendimientodeAntoñitoelCamborioenelcaminodeSevilla_48/cancion_NiñoRicardoyManuelMairena_203.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_PrendimientodeAntoñitoelCamborioenelcaminodeSevilla_48/cancion_DanzaFuego_201.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_PrendimientodeAntoñitoelCamborioenelcaminodeSevilla_48/cancion_Valen_202.xml.txt
+== FedericoGarciaLorca_RomancedelaGuardiaCivilespañola_357
+ +  ../witnesses/FedericoGarciaLorca_RomancedelaGuardiaCivilespañola_357/poema.txt
+ +  ../witnesses/FedericoGarciaLorca_RomancedelaGuardiaCivilespañola_357/cancion_Marea_314.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_RomancedelaGuardiaCivilespañola_357/cancion_IxoRai!_313.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_RomancedelaGuardiaCivilespañola_357/cancion_SoleáMorente_231.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_RomancedelaGuardiaCivilespañola_357/cancion_VicentePradal_232.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_RomancedelaGuardiaCivilespañola_357/cancion_BillyBoomBand_309.xml.txt
+== FedericoGarciaLorca_Romancedelaluna,luna_50
+ +  ../witnesses/FedericoGarciaLorca_Romancedelaluna,luna_50/cancion_JuanCarmona_181.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Romancedelaluna,luna_50/cancion_MiguelHerrero_192.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Romancedelaluna,luna_50/cancion_LluísSintes_182.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Romancedelaluna,luna_50/poema.txt
+ +  ../witnesses/FedericoGarciaLorca_Romancedelaluna,luna_50/cancion_ElBache_176.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Romancedelaluna,luna_50/cancion_Marina_188.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Romancedelaluna,luna_50/cancion_Saurom_179.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Romancedelaluna,luna_50/cancion_CamaróndelaIsla,PacodeLucíayTomatito_193.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Romancedelaluna,luna_50/cancion_Potito_189.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Romancedelaluna,luna_50/cancion_CarmenParís_186.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Romancedelaluna,luna_50/cancion_AnaBelén_190.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Romancedelaluna,luna_50/cancion_JuanAmador,Danilo,ElCharro,AlejandroyJ.A.Andujar_187.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Romancedelaluna,luna_50/cancion_VicentePradal_185.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Romancedelaluna,luna_50/cancion_EsperanzaFernández_177.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Romancedelaluna,luna_50/cancion_SergiPérezyFernandoAcedo_180.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Romancedelaluna,luna_50/cancion_AlbaMolina_191.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Romancedelaluna,luna_50/cancion_LolaFlores_175.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Romancedelaluna,luna_50/cancion_ManueldePaula_184.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Romancedelaluna,luna_50/cancion_BaltaCano_178.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Romancedelaluna,luna_50/cancion_IsabelMonteroySantiagoGómezValverde_183.xml.txt
+== FedericoGarciaLorca_Romancedelapenanegra_51
+ +  ../witnesses/FedericoGarciaLorca_Romancedelapenanegra_51/poema.txt
+ +  ../witnesses/FedericoGarciaLorca_Romancedelapenanegra_51/cancion_LaRêverie_169.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Romancedelapenanegra_51/cancion_MarionaFont_171.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Romancedelapenanegra_51/cancion_MiguelHerrero_174.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Romancedelapenanegra_51/cancion_ManuelMolina_172.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Romancedelapenanegra_51/cancion_LluísSintes_170.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Romancedelapenanegra_51/cancion_AnaBelén_173.xml.txt
+== FedericoGarciaLorca_Romancesonámbulo_246
+ +  ../witnesses/FedericoGarciaLorca_Romancesonámbulo_246/cancion_AlbaMolinayJoselitoAcedo_286.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Romancesonámbulo_246/poema.txt
+ +  ../witnesses/FedericoGarciaLorca_Romancesonámbulo_246/cancion_ManuelCarrasco_288.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Romancesonámbulo_246/cancion_Manzanita_311.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Romancesonámbulo_246/cancion_DaviddeJacoba,IsraelFernándezyJuanCarmona_316.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Romancesonámbulo_246/cancion_ManzanitayKetama_291.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Romancesonámbulo_246/cancion_Dikelaos_285.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Romancesonámbulo_246/cancion_LosIberia_290.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Romancesonámbulo_246/cancion_JavierJurado_287.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Romancesonámbulo_246/cancion_TutiFernández_289.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_Romancesonámbulo_246/cancion_AnaBelényManzanita_292.xml.txt
+== FedericoGarciaLorca_SondenegrosenCuba_53
+ +  ../witnesses/FedericoGarciaLorca_SondenegrosenCuba_53/cancion_ManoloTena_161.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_SondenegrosenCuba_53/cancion_AnaBelén_162.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_SondenegrosenCuba_53/cancion_AntonioPortanet_155.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_SondenegrosenCuba_53/poema.txt
+ +  ../witnesses/FedericoGarciaLorca_SondenegrosenCuba_53/cancion_EnriqueMorenteyLagargijaNick_164.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_SondenegrosenCuba_53/cancion_ManoloSanlúcaryCarmenLinares_159.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_SondenegrosenCuba_53/cancion_CompañíaRafaelAmargo_157.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_SondenegrosenCuba_53/cancion_EsperanzaFernández_163.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_SondenegrosenCuba_53/cancion_MigueldePoveda_156.xml.txt
+== FedericoGarciaLorca_TierrayLuna_72
+ +  ../witnesses/FedericoGarciaLorca_TierrayLuna_72/poema.txt
+ +  ../witnesses/FedericoGarciaLorca_TierrayLuna_72/cancion_Martirio_284.xml.txt
+== FedericoGarciaLorca_[Leyendadeltiempo]_43
+ +  ../witnesses/FedericoGarciaLorca_[Leyendadeltiempo]_43/cancion_LuisdelaCarrasca_236.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_[Leyendadeltiempo]_43/cancion_ManuelCástulo_240.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_[Leyendadeltiempo]_43/cancion_Euphoria_248.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_[Leyendadeltiempo]_43/cancion_MyriamLatrece_238.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_[Leyendadeltiempo]_43/cancion_Fariña_245.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_[Leyendadeltiempo]_43/cancion_BarrioManoucheyIvánRondón_237.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_[Leyendadeltiempo]_43/poema.txt
+ +  ../witnesses/FedericoGarciaLorca_[Leyendadeltiempo]_43/cancion_SamnessyNachoMur_234.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_[Leyendadeltiempo]_43/cancion_TonyTunait_233.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_[Leyendadeltiempo]_43/cancion_Alhandal_249.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_[Leyendadeltiempo]_43/cancion_EnriqueMorente_253.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_[Leyendadeltiempo]_43/cancion_JonathanSantiago_244.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_[Leyendadeltiempo]_43/cancion_MiguelPoveda_243.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_[Leyendadeltiempo]_43/cancion_KikoVeneno_254.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_[Leyendadeltiempo]_43/cancion_Arcángel,CorodeNuevasVocesBúlgarasyGeorgiPetkov_239.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_[Leyendadeltiempo]_43/cancion_Akasha_246.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_[Leyendadeltiempo]_43/cancion_CamaróndelaIsla_264.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_[Leyendadeltiempo]_43/cancion_AlexConde_251.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_[Leyendadeltiempo]_43/cancion_HugoCobo_235.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_[Leyendadeltiempo]_43/cancion_EladioylosSeresQueridos_241.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_[Leyendadeltiempo]_43/cancion_Apenino_242.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_[Leyendadeltiempo]_43/cancion_JuanJesúsQuintero_247.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_[Leyendadeltiempo]_43/cancion_TheSecretSociety_252.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_[Leyendadeltiempo]_43/cancion_PonchoKyJuanjoBallesta_250.xml.txt
+== FedericoGarciaLorca_[Nanadelcaballogrande]_44
+ +  ../witnesses/FedericoGarciaLorca_[Nanadelcaballogrande]_44/poema.txt
+ +  ../witnesses/FedericoGarciaLorca_[Nanadelcaballogrande]_44/cancion_CamaróndelaIsla_263.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_[Nanadelcaballogrande]_44/cancion_AlAlba_260.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_[Nanadelcaballogrande]_44/cancion_CarmenParís_258.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_[Nanadelcaballogrande]_44/cancion_Alameda_262.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_[Nanadelcaballogrande]_44/cancion_GrupoTarancón_138.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_[Nanadelcaballogrande]_44/cancion_LaSusi_261.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_[Nanadelcaballogrande]_44/cancion_IndiaMartínez_259.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_[Nanadelcaballogrande]_44/cancion_ÁngelesToledano_255.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_[Nanadelcaballogrande]_44/cancion_DerbyMotoreta'sBurritoKachimba_257.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_[Nanadelcaballogrande]_44/cancion_AlbertoCortez_139.xml.txt
+ +  ../witnesses/FedericoGarciaLorca_[Nanadelcaballogrande]_44/cancion_JorgeMolero_256.xml.txt
+== FelixMariadeSamaniego_Lalechera_219
+ +  ../witnesses/FelixMariadeSamaniego_Lalechera_219/poema.txt
+ +  ../witnesses/FelixMariadeSamaniego_Lalechera_219/cancion_PacoIbáñez_317.xml.txt
+== FlorenciaPinar_Elamorhatalesmañas_279
+ +  ../witnesses/FlorenciaPinar_Elamorhatalesmañas_279/poema.txt
+ +  ../witnesses/FlorenciaPinar_Elamorhatalesmañas_279/cancion_PacoDamas_318.xml.txt
+== GabrielaMistral_Miedo_13
+ +  ../witnesses/GabrielaMistral_Miedo_13/poema.txt
+ +  ../witnesses/GabrielaMistral_Miedo_13/cancion_RosaLeón_319.xml.txt
+== GarciSanchezdeBadajoz_Sideamorlibreestuviera_282
+ +  ../witnesses/GarciSanchezdeBadajoz_Sideamorlibreestuviera_282/poema.txt
+ +  ../witnesses/GarciSanchezdeBadajoz_Sideamorlibreestuviera_282/cancion_PacoDamasyClaraMontes_320.xml.txt
+== GarcilasodelaVega_SonetoV_217
+ +  ../witnesses/GarcilasodelaVega_SonetoV_217/poema.txt
+ +  ../witnesses/GarcilasodelaVega_SonetoV_217/cancion_SoleGiménezyPedroGuerra_321.xml.txt
+== GilVicente_Fraguadeamor_280
+ +  ../witnesses/GilVicente_Fraguadeamor_280/poema.txt
+ +  ../witnesses/GilVicente_Fraguadeamor_280/cancion_PacoDamas_323.xml.txt
+== GildeBiedma_Tristehistoria
+ +  ../witnesses/GildeBiedma_Tristehistoria/cancion_PacoIbáñez_322.xml.txt
+ +  ../witnesses/GildeBiedma_Tristehistoria/poema.txt
+== GloriaFuertes_24dediciembre_17
+ +  ../witnesses/GloriaFuertes_24dediciembre_17/poema.txt
+ +  ../witnesses/GloriaFuertes_24dediciembre_17/cancion_MonchoOtero_324.xml.txt
+== GloriaFuertes_Alosquetragólatierraantesdetiempo.(Murierondefríomásquedebala)_171
+ +  ../witnesses/GloriaFuertes_Alosquetragólatierraantesdetiempo.(Murierondefríomásquedebala)_171/poema.txt
+ +  ../witnesses/GloriaFuertes_Alosquetragólatierraantesdetiempo.(Murierondefríomásquedebala)_171/cancion_MonchoOteroyRafaMora_327.xml.txt
+== GloriaFuertes_Cancióndelnegro_18
+ +  ../witnesses/GloriaFuertes_Cancióndelnegro_18/poema.txt
+ +  ../witnesses/GloriaFuertes_Cancióndelnegro_18/cancion_MonchoOtero_325.xml.txt
+== GloriaFuertes_Cuandoelecodelecohueleagrito_177
+ +  ../witnesses/GloriaFuertes_Cuandoelecodelecohueleagrito_177/poema.txt
+ +  ../witnesses/GloriaFuertes_Cuandoelecodelecohueleagrito_177/cancion_SilviaComes_328.xml.txt
+== GloriaFuertes_Cuatropoemasrecuperados_122
+ +  ../witnesses/GloriaFuertes_Cuatropoemasrecuperados_122/poema.txt
+ +  ../witnesses/GloriaFuertes_Cuatropoemasrecuperados_122/cancion_LucíaCaramés_326.xml.txt
+== GustavoAdolfoBecquer_RimaLIII_237
+ +  ../witnesses/GustavoAdolfoBecquer_RimaLIII_237/poema.txt
+ +  ../witnesses/GustavoAdolfoBecquer_RimaLIII_237/cancion_JoaquínSabina_329.xml.txt
+== GustavoAdolfoBecquer_RimaXXIII_351
+ +  ../witnesses/GustavoAdolfoBecquer_RimaXXIII_351/poema.txt
+ +  ../witnesses/GustavoAdolfoBecquer_RimaXXIII_351/cancion_DanzaInvisible_331.xml.txt
+== GustavoAdolfoBecquer_RimaXXXVIII_349
+ +  ../witnesses/GustavoAdolfoBecquer_RimaXXXVIII_349/poema.txt
+ +  ../witnesses/GustavoAdolfoBecquer_RimaXXXVIII_349/cancion_LaBienQuerida_330.xml.txt
+== IsabelLogroño_Seríadelicioso_222
+ +  ../witnesses/IsabelLogroño_Seríadelicioso_222/cancion_Entertainiment_332.xml.txt
+ +  ../witnesses/IsabelLogroño_Seríadelicioso_222/poema.txt
+== JaimeGildeBiedma_Novolveréaserjoven_359
+ +  ../witnesses/JaimeGildeBiedma_Novolveréaserjoven_359/poema.txt
+ +  ../witnesses/JaimeGildeBiedma_Novolveréaserjoven_359/cancion_Loquillo_333.xml.txt
+== JorgeManrique_Coplasporlamuertedesupadre_288
+ +  ../witnesses/JorgeManrique_Coplasporlamuertedesupadre_288/cancion_AmancioPrada_340.xml.txt
+ +  ../witnesses/JorgeManrique_Coplasporlamuertedesupadre_288/cancion_HierbadelCampo_350.xml.txt
+ +  ../witnesses/JorgeManrique_Coplasporlamuertedesupadre_288/cancion_AmancioPrada_342.xml.txt
+ +  ../witnesses/JorgeManrique_Coplasporlamuertedesupadre_288/cancion_AmancioPrada_339.xml.txt
+ +  ../witnesses/JorgeManrique_Coplasporlamuertedesupadre_288/poema.txt
+ +  ../witnesses/JorgeManrique_Coplasporlamuertedesupadre_288/cancion_AmancioPrada_341.xml.txt
+ +  ../witnesses/JorgeManrique_Coplasporlamuertedesupadre_288/cancion_JoséIgnacioHernándezToquero_348.xml.txt
+ +  ../witnesses/JorgeManrique_Coplasporlamuertedesupadre_288/cancion_AmancioPrada_338.xml.txt
+ +  ../witnesses/JorgeManrique_Coplasporlamuertedesupadre_288/cancion_AmancioPrada_343.xml.txt
+ +  ../witnesses/JorgeManrique_Coplasporlamuertedesupadre_288/cancion_AmancioPrada_346.xml.txt
+ +  ../witnesses/JorgeManrique_Coplasporlamuertedesupadre_288/cancion_AmancioPrada_347.xml.txt
+ +  ../witnesses/JorgeManrique_Coplasporlamuertedesupadre_288/cancion_HeliumVola_352.xml.txt
+ +  ../witnesses/JorgeManrique_Coplasporlamuertedesupadre_288/cancion_PacoDamas_349.xml.txt
+ +  ../witnesses/JorgeManrique_Coplasporlamuertedesupadre_288/cancion_AmancioPrada_345.xml.txt
+ +  ../witnesses/JorgeManrique_Coplasporlamuertedesupadre_288/cancion_JavierKrahe_353.xml.txt
+ +  ../witnesses/JorgeManrique_Coplasporlamuertedesupadre_288/cancion_JuliánPolitoylosLiriosdelcampoyLauraPeralta_351.xml.txt
+ +  ../witnesses/JorgeManrique_Coplasporlamuertedesupadre_288/cancion_AmancioPrada_344.xml.txt
+== JorgeManrique_Esamorfuerçatanfuerte_287
+ +  ../witnesses/JorgeManrique_Esamorfuerçatanfuerte_287/cancion_AmparoGarcíaOteroyNinoSánchez_337.xml.txt
+ +  ../witnesses/JorgeManrique_Esamorfuerçatanfuerte_287/poema.txt
+ +  ../witnesses/JorgeManrique_Esamorfuerçatanfuerte_287/cancion_PacoDamas_335.xml.txt
+== JorgeManrique_Yosoyquienlibremevi_286
+ +  ../witnesses/JorgeManrique_Yosoyquienlibremevi_286/cancion_PacoDamas_334.xml.txt
+ +  ../witnesses/JorgeManrique_Yosoyquienlibremevi_286/poema.txt
+ +  ../witnesses/JorgeManrique_Yosoyquienlibremevi_286/cancion_AmparoGarcíaOteroyNinoSánchez_336.xml.txt
+== JoseAgustinGoytisolo_PalabrasparaJulia_248
+ +  ../witnesses/JoseAgustinGoytisolo_PalabrasparaJulia_248/cancion_ReinaRoja_367.xml.txt
+ +  ../witnesses/JoseAgustinGoytisolo_PalabrasparaJulia_248/poema.txt
+ +  ../witnesses/JoseAgustinGoytisolo_PalabrasparaJulia_248/cancion_MercedesSosa_364.xml.txt
+ +  ../witnesses/JoseAgustinGoytisolo_PalabrasparaJulia_248/cancion_NachaGuevara_354.xml.txt
+ +  ../witnesses/JoseAgustinGoytisolo_PalabrasparaJulia_248/cancion_IsmaelSerrano_362.xml.txt
+ +  ../witnesses/JoseAgustinGoytisolo_PalabrasparaJulia_248/cancion_LourdesPastor_363.xml.txt
+ +  ../witnesses/JoseAgustinGoytisolo_PalabrasparaJulia_248/cancion_LilianaHerrero_355.xml.txt
+ +  ../witnesses/JoseAgustinGoytisolo_PalabrasparaJulia_248/cancion_Falete_357.xml.txt
+ +  ../witnesses/JoseAgustinGoytisolo_PalabrasparaJulia_248/cancion_Rosalía_365.xml.txt
+ +  ../witnesses/JoseAgustinGoytisolo_PalabrasparaJulia_248/cancion_LosSuaves_368.xml.txt
+ +  ../witnesses/JoseAgustinGoytisolo_PalabrasparaJulia_248/cancion_IvánFerreiro_361.xml.txt
+ +  ../witnesses/JoseAgustinGoytisolo_PalabrasparaJulia_248/cancion_SoleáMorente_366.xml.txt
+ +  ../witnesses/JoseAgustinGoytisolo_PalabrasparaJulia_248/cancion_Níquel_360.xml.txt
+ +  ../witnesses/JoseAgustinGoytisolo_PalabrasparaJulia_248/cancion_TaniaLibertad_356.xml.txt
+ +  ../witnesses/JoseAgustinGoytisolo_PalabrasparaJulia_248/cancion_RosaLeón_359.xml.txt
+ +  ../witnesses/JoseAgustinGoytisolo_PalabrasparaJulia_248/cancion_KikoVeneno_358.xml.txt
+== JoseBergamin_[Haytantísimoscaminos]_2
+ +  ../witnesses/JoseBergamin_[Haytantísimoscaminos]_2/poema.txt
+ +  ../witnesses/JoseBergamin_[Haytantísimoscaminos]_2/cancion_JoséMenese_369.xml.txt
+== JoseIglesiasdelaCasa_Lapalomita_242
+ +  ../witnesses/JoseIglesiasdelaCasa_Lapalomita_242/poema.txt
+ +  ../witnesses/JoseIglesiasdelaCasa_Lapalomita_242/cancion_PacoIbáñez_376.xml.txt
+== JoseMarti_ParaTomasaFigueredo_8
+ +  ../witnesses/JoseMarti_ParaTomasaFigueredo_8/poema.txt
+ +  ../witnesses/JoseMarti_ParaTomasaFigueredo_8/cancion_VicenteSoto_377.xml.txt
+== JoseZorrilla_Oriental(2)_346
+ +  ../witnesses/JoseZorrilla_Oriental(2)_346/poema.txt
+ +  ../witnesses/JoseZorrilla_Oriental(2)_346/cancion_Manzanita_378.xml.txt
+== JosedeEspronceda_Cancióndelpirata_254
+ +  ../witnesses/JosedeEspronceda_Cancióndelpirata_254/cancion_TierraSanta_375.xml.txt
+ +  ../witnesses/JosedeEspronceda_Cancióndelpirata_254/poema.txt
+ +  ../witnesses/JosedeEspronceda_Cancióndelpirata_254/cancion_DarkMoor_373.xml.txt
+ +  ../witnesses/JosedeEspronceda_Cancióndelpirata_254/cancion_TierraSanta_374.xml.txt
+ +  ../witnesses/JosedeEspronceda_Cancióndelpirata_254/cancion_JoaquínSabina_370.xml.txt
+ +  ../witnesses/JosedeEspronceda_Cancióndelpirata_254/cancion_Lancelot_371.xml.txt
+ +  ../witnesses/JosedeEspronceda_Cancióndelpirata_254/cancion_SangreAzul_372.xml.txt
+== JuanLopezdeMaldonado_¡Ay,amor,perjuro,falsoytraidor!_278
+ +  ../witnesses/JuanLopezdeMaldonado_¡Ay,amor,perjuro,falsoytraidor!_278/poema.txt
+ +  ../witnesses/JuanLopezdeMaldonado_¡Ay,amor,perjuro,falsoytraidor!_278/cancion_PacoDamas_394.xml.txt
+== JuanRuiz_AquídisedecómofuefablarcondoñaEndrinaelarçipreste_295
+ +  ../witnesses/JuanRuiz_AquídisedecómofuefablarcondoñaEndrinaelarçipreste_295/poema.txt
+ +  ../witnesses/JuanRuiz_AquídisedecómofuefablarcondoñaEndrinaelarçipreste_295/cancion_JavierBergia_399.xml.txt
+ +  ../witnesses/JuanRuiz_AquídisedecómofuefablarcondoñaEndrinaelarçipreste_295/cancion_¡Ayojos,losmisojos!_PatxiAndión_402.xml.txt
+== JuanRuiz_Aquídisedecómosegundnaturalosomeselasotrasanimaliasquierenavercompañíaconlasfembras_301
+ +  ../witnesses/JuanRuiz_Aquídisedecómosegundnaturalosomeselasotrasanimaliasquierenavercompañíaconlasfembras_301/poema.txt
+ +  ../witnesses/JuanRuiz_Aquídisedecómosegundnaturalosomeselasotrasanimaliasquierenavercompañíaconlasfembras_301/cancion_PacoIbáñez_404.xml.txt
+ +  ../witnesses/JuanRuiz_Aquídisedecómosegundnaturalosomeselasotrasanimaliasquierenavercompañíaconlasfembras_301/cancion_PatxiAndión_403.xml.txt
+== JuanRuiz_Cantigadelacuartaserrana_293
+ +  ../witnesses/JuanRuiz_Cantigadelacuartaserrana_293/poema.txt
+ +  ../witnesses/JuanRuiz_Cantigadelacuartaserrana_293/cancion_Ñu_401.xml.txt
+== JuanRuiz_Decómoclérigoselegos,eflayresemonjas,edueñas,ejoglaressalieronareçebiradonAmor_291
+ +  ../witnesses/JuanRuiz_Decómoclérigoselegos,eflayresemonjas,edueñas,ejoglaressalieronareçebiradonAmor_291/poema.txt
+ +  ../witnesses/JuanRuiz_Decómoclérigoselegos,eflayresemonjas,edueñas,ejoglaressalieronareçebiradonAmor_291/cancion_JoséAntonioAlonso_398.xml.txt
+== JuanRuiz_Enxiemplodelapropiedatqueeldineroha_292
+ +  ../witnesses/JuanRuiz_Enxiemplodelapropiedatqueeldineroha_292/poema.txt
+ +  ../witnesses/JuanRuiz_Enxiemplodelapropiedatqueeldineroha_292/cancion_ÁngelParra_395.xml.txt
+ +  ../witnesses/JuanRuiz_Enxiemplodelapropiedatqueeldineroha_292/cancion_G.R.B._400.xml.txt
+== JuanRuiz_EnxiemplodeloquecontesçióadonPitasPajas,pintordeBretaña_290
+ +  ../witnesses/JuanRuiz_EnxiemplodeloquecontesçióadonPitasPajas,pintordeBretaña_290/poema.txt
+ +  ../witnesses/JuanRuiz_EnxiemplodeloquecontesçióadonPitasPajas,pintordeBretaña_290/cancion_PacoIbáñez_397.xml.txt
+ +  ../witnesses/JuanRuiz_EnxiemplodeloquecontesçióadonPitasPajas,pintordeBretaña_290/cancion_LaPalestra_396.xml.txt
+== JuandeEscobar_AcababaelreyFernando_311
+ +  ../witnesses/JuandeEscobar_AcababaelreyFernando_311/poema.txt
+ +  ../witnesses/JuandeEscobar_AcababaelreyFernando_311/cancion_Klanghör_381.xml.txt
+== JuandeEscobar_Afuera,afuera,Rodrigo_318
+ +  ../witnesses/JuandeEscobar_Afuera,afuera,Rodrigo_318/poema.txt
+ +  ../witnesses/JuandeEscobar_Afuera,afuera,Rodrigo_318/cancion_Klanghör_382.xml.txt
+== JuandeEscobar_DeZamorasaleelDolfos_312
+ +  ../witnesses/JuandeEscobar_DeZamorasaleelDolfos_312/poema.txt
+ +  ../witnesses/JuandeEscobar_DeZamorasaleelDolfos_312/cancion_Klanghör_380.xml.txt
+== JuandeEscobar_DespuésqueVellidoDolfos_309
+ +  ../witnesses/JuandeEscobar_DespuésqueVellidoDolfos_309/poema.txt
+ +  ../witnesses/JuandeEscobar_DespuésqueVellidoDolfos_309/cancion_Klanghör_384.xml.txt
+== JuandeEscobar_MuertoyaceesebuenCid_317
+ +  ../witnesses/JuandeEscobar_MuertoyaceesebuenCid_317/poema.txt
+ +  ../witnesses/JuandeEscobar_MuertoyaceesebuenCid_317/cancion_Metalthor_383.xml.txt
+== JuandelEncina_Ay,tristequevengo_285
+ +  ../witnesses/JuandelEncina_Ay,tristequevengo_285/poema.txt
+ +  ../witnesses/JuandelEncina_Ay,tristequevengo_285/cancion_AmparoGarcíaOteroyNinoSánchez_393.xml.txt
+== JuandelEncina_Notetardesquememuero_272
+ +  ../witnesses/JuandelEncina_Notetardesquememuero_272/poema.txt
+ +  ../witnesses/JuandelEncina_Notetardesquememuero_272/cancion_AmancioPrada_391.xml.txt
+== JuandelEncina_Partístesos,misamores_271
+ +  ../witnesses/JuandelEncina_Partístesos,misamores_271/cancion_AmancioPrada_390.xml.txt
+ +  ../witnesses/JuandelEncina_Partístesos,misamores_271/poema.txt
+== JuandelEncina_Puesamas,tristeamador_284
+ +  ../witnesses/JuandelEncina_Puesamas,tristeamador_284/poema.txt
+ +  ../witnesses/JuandelEncina_Puesamas,tristeamador_284/cancion_PacoDamas_392.xml.txt
+== JuandelEncina_Romancedelenamoradoylamuerte_269
+ +  ../witnesses/JuandelEncina_Romancedelenamoradoylamuerte_269/poema.txt
+ +  ../witnesses/JuandelEncina_Romancedelenamoradoylamuerte_269/cancion_AmancioPrada_389.xml.txt
+== JuandelaCruz_CantardelalmaquesehuelgadeconoceraDiosporfe_356
+ +  ../witnesses/JuandelaCruz_CantardelalmaquesehuelgadeconoceraDiosporfe_356/poema.txt
+ +  ../witnesses/JuandelaCruz_CantardelalmaquesehuelgadeconoceraDiosporfe_356/cancion_EnriqueMorente_388.xml.txt
+ +  ../witnesses/JuandelaCruz_CantardelalmaquesehuelgadeconoceraDiosporfe_356/cancion_Rosalía_387.xml.txt
+== JuandelaCruz_Cánticoespiritual_352
+ +  ../witnesses/JuandelaCruz_Cánticoespiritual_352/poema.txt
+ +  ../witnesses/JuandelaCruz_Cánticoespiritual_352/cancion_KikoVeneno_386.xml.txt
+== LeonFelipe_Sétodosloscuentos_250
+ +  ../witnesses/LeonFelipe_Sétodosloscuentos_250/poema.txt
+ +  ../witnesses/LeonFelipe_Sétodosloscuentos_250/cancion_AlarmaSocial_405.xml.txt
+== LopedeVega_RimaLXI_245
+ +  ../witnesses/LopedeVega_RimaLXI_245/poema.txt
+ +  ../witnesses/LopedeVega_RimaLXI_245/cancion_Imanol_406.xml.txt
+ +  ../witnesses/LopedeVega_RimaLXI_245/cancion_Suburbano_407.xml.txt
+== LorenzodeSepúlveda_Enmuysangrientabatalla_344
+ +  ../witnesses/LorenzodeSepúlveda_Enmuysangrientabatalla_344/poema.txt
+ +  ../witnesses/LorenzodeSepúlveda_Enmuysangrientabatalla_344/cancion_Lobera_408.xml.txt
+== LuciaSanchezSaornil_RomancedeDurruti_215
+ +  ../witnesses/LuciaSanchezSaornil_RomancedeDurruti_215/poema.txt
+ +  ../witnesses/LuciaSanchezSaornil_RomancedeDurruti_215/cancion_GuerrillaUrbana_409.xml.txt
+== LuisAlbertodeCuenca_AAlicia,disfrazadadeLeiaOrgana_165
+ +  ../witnesses/LuisAlbertodeCuenca_AAlicia,disfrazadadeLeiaOrgana_165/cancion_Loquillo_414.xml.txt
+ +  ../witnesses/LuisAlbertodeCuenca_AAlicia,disfrazadadeLeiaOrgana_165/poema.txt
+== LuisAlbertodeCuenca_CuandovivíasenlaCastellana_168
+ +  ../witnesses/LuisAlbertodeCuenca_CuandovivíasenlaCastellana_168/poema.txt
+ +  ../witnesses/LuisAlbertodeCuenca_CuandovivíasenlaCastellana_168/cancion_Loquillo_417.xml.txt
+== LuisAlbertodeCuenca_Elencuentro_167
+ +  ../witnesses/LuisAlbertodeCuenca_Elencuentro_167/poema.txt
+ +  ../witnesses/LuisAlbertodeCuenca_Elencuentro_167/cancion_Loquillo_416.xml.txt
+== LuisAlbertodeCuenca_Elolvido_160
+ +  ../witnesses/LuisAlbertodeCuenca_Elolvido_160/poema.txt
+ +  ../witnesses/LuisAlbertodeCuenca_Elolvido_160/cancion_Loquillo_420.xml.txt
+== LuisAlbertodeCuenca_Faraiunversdedreytnien_166
+ +  ../witnesses/LuisAlbertodeCuenca_Faraiunversdedreytnien_166/poema.txt
+ +  ../witnesses/LuisAlbertodeCuenca_Faraiunversdedreytnien_166/cancion_Loquillo_415.xml.txt
+== LuisAlbertodeCuenca_Inillotempore_216
+ +  ../witnesses/LuisAlbertodeCuenca_Inillotempore_216/poema.txt
+ +  ../witnesses/LuisAlbertodeCuenca_Inillotempore_216/cancion_LaBienQuerida_419.xml.txt
+== LuisAlbertodeCuenca_Lamalcasada_164
+ +  ../witnesses/LuisAlbertodeCuenca_Lamalcasada_164/poema.txt
+ +  ../witnesses/LuisAlbertodeCuenca_Lamalcasada_164/cancion_Loquillo_413.xml.txt
+== LuisAlbertodeCuenca_Lanocheblanca_169
+ +  ../witnesses/LuisAlbertodeCuenca_Lanocheblanca_169/poema.txt
+ +  ../witnesses/LuisAlbertodeCuenca_Lanocheblanca_169/cancion_Loquillo_418.xml.txt
+== LuisAlbertodeCuenca_Latempestad_163
+ +  ../witnesses/LuisAlbertodeCuenca_Latempestad_163/poema.txt
+ +  ../witnesses/LuisAlbertodeCuenca_Latempestad_163/cancion_Loquillo_412.xml.txt
+== LuisAlbertodeCuenca_Nuestravecina_158
+ +  ../witnesses/LuisAlbertodeCuenca_Nuestravecina_158/poema.txt
+ +  ../witnesses/LuisAlbertodeCuenca_Nuestravecina_158/cancion_Loquillo_410.xml.txt
+== LuisAlbertodeCuenca_Politicalincorrectness_159
+ +  ../witnesses/LuisAlbertodeCuenca_Politicalincorrectness_159/poema.txt
+ +  ../witnesses/LuisAlbertodeCuenca_Politicalincorrectness_159/cancion_Loquillo_411.xml.txt
+== LuisCernuda_Dondehabiteelolvido_355
+ +  ../witnesses/LuisCernuda_Dondehabiteelolvido_355/poema.txt
+ +  ../witnesses/LuisCernuda_Dondehabiteelolvido_355/cancion_JoaquínSabina_421.xml.txt
+ +  ../witnesses/LuisCernuda_Dondehabiteelolvido_355/cancion_EnriqueMorente_422.xml.txt
+== LuisGarciaMontero_Aunquetúnolosepas_360
+ +  ../witnesses/LuisGarciaMontero_Aunquetúnolosepas_360/poema.txt
+ +  ../witnesses/LuisGarciaMontero_Aunquetúnolosepas_360/cancion_EnriqueUrquijoyLosProblemas_429.xml.txt
+ +  ../witnesses/LuisGarciaMontero_Aunquetúnolosepas_360/cancion_QuiqueGonzález_428.xml.txt
+== LuisGarciaMontero_Cancióndebrujería_178
+ +  ../witnesses/LuisGarciaMontero_Cancióndebrujería_178/poema.txt
+ +  ../witnesses/LuisGarciaMontero_Cancióndebrujería_178/cancion_JoanManuelSerrat_427.xml.txt
+ +  ../witnesses/LuisGarciaMontero_Cancióndebrujería_178/cancion_DanielLópezyElConventillo_426.xml.txt
+ +  ../witnesses/LuisGarciaMontero_Cancióndebrujería_178/cancion_ToliMorilla_425.xml.txt
+== LuisGarciaMontero_Lifevestunderyourseat_170
+ +  ../witnesses/LuisGarciaMontero_Lifevestunderyourseat_170/poema.txt
+ +  ../witnesses/LuisGarciaMontero_Lifevestunderyourseat_170/cancion_MonchoOtero_424.xml.txt
+== LuisdeGongora_FábuladePolifemoyGalatea_233
+ +  ../witnesses/LuisdeGongora_FábuladePolifemoyGalatea_233/poema.txt
+ +  ../witnesses/LuisdeGongora_FábuladePolifemoyGalatea_233/cancion_Hidrogenesse_423.xml.txt
+== ManuelMachado_Castilla_319
+ +  ../witnesses/ManuelMachado_Castilla_319/cancion_Avalanch_430.xml.txt
+ +  ../witnesses/ManuelMachado_Castilla_319/poema.txt
+ +  ../witnesses/ManuelMachado_Castilla_319/cancion_TierraSanta_431.xml.txt
+== MariaElenaWalsh_Endechaespañola_4
+ +  ../witnesses/MariaElenaWalsh_Endechaespañola_4/poema.txt
+ +  ../witnesses/MariaElenaWalsh_Endechaespañola_4/cancion_RosaLeón_432.xml.txt
+== MarioBenedetti_Estanpoco_11
+ +  ../witnesses/MarioBenedetti_Estanpoco_11/poema.txt
+ +  ../witnesses/MarioBenedetti_Estanpoco_11/cancion_SoledadBravo_433.xml.txt
+== MarioBenedetti_Rostrodevos_183
+ +  ../witnesses/MarioBenedetti_Rostrodevos_183/poema.txt
+ +  ../witnesses/MarioBenedetti_Rostrodevos_183/cancion_JonathanPocoví_434.xml.txt
+== MiguelHernandez_Aceituneros_212
+ +  ../witnesses/MiguelHernandez_Aceituneros_212/cancion_ManoloEscobar_771.xml.txt
+ +  ../witnesses/MiguelHernandez_Aceituneros_212/cancion_SergeUtgéRoyo_765.xml.txt
+ +  ../witnesses/MiguelHernandez_Aceituneros_212/poema.txt
+ +  ../witnesses/MiguelHernandez_Aceituneros_212/cancion_JoséMiguelArranz_761.xml.txt
+ +  ../witnesses/MiguelHernandez_Aceituneros_212/cancion_ElCamperol_463.xml.txt
+ +  ../witnesses/MiguelHernandez_Aceituneros_212/cancion_ÁngelParra_764.xml.txt
+ +  ../witnesses/MiguelHernandez_Aceituneros_212/cancion_LiliaSantos_769.xml.txt
+ +  ../witnesses/MiguelHernandez_Aceituneros_212/cancion_EnriqueMorente_464.xml.txt
+ +  ../witnesses/MiguelHernandez_Aceituneros_212/cancion_LosJuglares_775.xml.txt
+ +  ../witnesses/MiguelHernandez_Aceituneros_212/cancion_CarmenLinares_824.xml.txt
+ +  ../witnesses/MiguelHernandez_Aceituneros_212/cancion_WashingtonCarrascoyCristinaFernández_768.xml.txt
+ +  ../witnesses/MiguelHernandez_Aceituneros_212/cancion_SoleCandela&SitohOrtega_462.xml.txt
+ +  ../witnesses/MiguelHernandez_Aceituneros_212/cancion_VozdelPueblo_772.xml.txt
+ +  ../witnesses/MiguelHernandez_Aceituneros_212/cancion_Jarcha_776.xml.txt
+ +  ../witnesses/MiguelHernandez_Aceituneros_212/cancion_ElNegroOjeda_767.xml.txt
+ +  ../witnesses/MiguelHernandez_Aceituneros_212/cancion_ChristianeCourvoisier_766.xml.txt
+ +  ../witnesses/MiguelHernandez_Aceituneros_212/cancion_Tierra_773.xml.txt
+ +  ../witnesses/MiguelHernandez_Aceituneros_212/cancion_ÁngelCorpa_760.xml.txt
+ +  ../witnesses/MiguelHernandez_Aceituneros_212/cancion_RocíoLopera_774.xml.txt
+ +  ../witnesses/MiguelHernandez_Aceituneros_212/cancion_CoropopularJabalón_770.xml.txt
+ +  ../witnesses/MiguelHernandez_Aceituneros_212/cancion_RocíoMárquezyKikoVeneno_836.xml.txt
+ +  ../witnesses/MiguelHernandez_Aceituneros_212/cancion_Variosartistas_763.xml.txt
+ +  ../witnesses/MiguelHernandez_Aceituneros_212/cancion_AnaCorbel_762.xml.txt
+== MiguelHernandez_AlsoldadointernacionalcaídoenEspaña_116
+ +  ../witnesses/MiguelHernandez_AlsoldadointernacionalcaídoenEspaña_116/poema.txt
+ +  ../witnesses/MiguelHernandez_AlsoldadointernacionalcaídoenEspaña_116/cancion_JoanManuelSerrat_707.xml.txt
+== MiguelHernandez_AmigranJosefinaadorada_135
+ +  ../witnesses/MiguelHernandez_AmigranJosefinaadorada_135/poema.txt
+ +  ../witnesses/MiguelHernandez_AmigranJosefinaadorada_135/cancion_ToyoGabarrús_442.xml.txt
+ +  ../witnesses/MiguelHernandez_AmigranJosefinaadorada_135/cancion_GrupoLuxAeterna_436.xml.txt
+ +  ../witnesses/MiguelHernandez_AmigranJosefinaadorada_135/cancion_PacoDamas_441.xml.txt
+ +  ../witnesses/MiguelHernandez_AmigranJosefinaadorada_135/cancion_Fraskito_439.xml.txt
+ +  ../witnesses/MiguelHernandez_AmigranJosefinaadorada_135/cancion_LiannyOtero_440.xml.txt
+ +  ../witnesses/MiguelHernandez_AmigranJosefinaadorada_135/cancion_SoledadJiménez_437.xml.txt
+ +  ../witnesses/MiguelHernandez_AmigranJosefinaadorada_135/cancion_SoleCandela&SitohOrtega_435.xml.txt
+ +  ../witnesses/MiguelHernandez_AmigranJosefinaadorada_135/cancion_JoanManuelSerrat_438.xml.txt
+ +  ../witnesses/MiguelHernandez_AmigranJosefinaadorada_135/cancion_LosdelYerbal_443.xml.txt
+== MiguelHernandez_Amorosa_147
+ +  ../witnesses/MiguelHernandez_Amorosa_147/cancion_Jarcha_733.xml.txt
+ +  ../witnesses/MiguelHernandez_Amorosa_147/poema.txt
+== MiguelHernandez_Andaluzas_112
+ +  ../witnesses/MiguelHernandez_Andaluzas_112/poema.txt
+ +  ../witnesses/MiguelHernandez_Andaluzas_112/cancion_SoleCandela&SitohOrtega_609.xml.txt
+== MiguelHernandez_Antesdelodio_107
+ +  ../witnesses/MiguelHernandez_Antesdelodio_107/cancion_YoelAlejandroMatos_630.xml.txt
+ +  ../witnesses/MiguelHernandez_Antesdelodio_107/cancion_RománLC_626.xml.txt
+ +  ../witnesses/MiguelHernandez_Antesdelodio_107/poema.txt
+ +  ../witnesses/MiguelHernandez_Antesdelodio_107/cancion_LosJuglares_634.xml.txt
+ +  ../witnesses/MiguelHernandez_Antesdelodio_107/cancion_Evoéh_629.xml.txt
+ +  ../witnesses/MiguelHernandez_Antesdelodio_107/cancion_AntonioRomán_627.xml.txt
+ +  ../witnesses/MiguelHernandez_Antesdelodio_107/cancion_HenryEngler_633.xml.txt
+ +  ../witnesses/MiguelHernandez_Antesdelodio_107/cancion_Labarberíadelsur_632.xml.txt
+ +  ../witnesses/MiguelHernandez_Antesdelodio_107/cancion_FranciscoCurto_631.xml.txt
+ +  ../witnesses/MiguelHernandez_Antesdelodio_107/cancion_JoséEnriqueMorente_628.xml.txt
+ +  ../witnesses/MiguelHernandez_Antesdelodio_107/cancion_AdolfoCeldrán_635.xml.txt
+== MiguelHernandez_Ascensióndelaescoba_143
+ +  ../witnesses/MiguelHernandez_Ascensióndelaescoba_143/poema.txt
+ +  ../witnesses/MiguelHernandez_Ascensióndelaescoba_143/cancion_OrianaQuintero_728.xml.txt
+== MiguelHernandez_Cancióndelespososoldado_188
+ +  ../witnesses/MiguelHernandez_Cancióndelespososoldado_188/cancion_ElviraCheca_550.xml.txt
+ +  ../witnesses/MiguelHernandez_Cancióndelespososoldado_188/poema.txt
+ +  ../witnesses/MiguelHernandez_Cancióndelespososoldado_188/cancion_PatriaLibre_553.xml.txt
+ +  ../witnesses/MiguelHernandez_Cancióndelespososoldado_188/cancion_SoleCandela&SitohOrtega_546.xml.txt
+ +  ../witnesses/MiguelHernandez_Cancióndelespososoldado_188/cancion_CuartetovocalVOXcuatro(conNuriaEspert)_548.xml.txt
+ +  ../witnesses/MiguelHernandez_Cancióndelespososoldado_188/cancion_ManuelGerena_549.xml.txt
+ +  ../witnesses/MiguelHernandez_Cancióndelespososoldado_188/cancion_AdolfoCeldran_551.xml.txt
+ +  ../witnesses/MiguelHernandez_Cancióndelespososoldado_188/cancion_JoséMercé_802.xml.txt
+ +  ../witnesses/MiguelHernandez_Cancióndelespososoldado_188/cancion_PedroFauras(BernardoFuster)_552.xml.txt
+ +  ../witnesses/MiguelHernandez_Cancióndelespososoldado_188/cancion_JoanManuelSerrat_547.xml.txt
+== MiguelHernandez_Canciónprimera_115
+ +  ../witnesses/MiguelHernandez_Canciónprimera_115/cancion_RománLC_708.xml.txt
+ +  ../witnesses/MiguelHernandez_Canciónprimera_115/poema.txt
+== MiguelHernandez_Canciónúltima_198
+ +  ../witnesses/MiguelHernandez_Canciónúltima_198/cancion_SoleCandela&SitohOrtega_526.xml.txt
+ +  ../witnesses/MiguelHernandez_Canciónúltima_198/poema.txt
+ +  ../witnesses/MiguelHernandez_Canciónúltima_198/cancion_LuchoRoa_531.xml.txt
+ +  ../witnesses/MiguelHernandez_Canciónúltima_198/cancion_NiñodeElche_820.xml.txt
+ +  ../witnesses/MiguelHernandez_Canciónúltima_198/cancion_InésFonseca_530.xml.txt
+ +  ../witnesses/MiguelHernandez_Canciónúltima_198/cancion_GrupoLuxAeterna_527.xml.txt
+ +  ../witnesses/MiguelHernandez_Canciónúltima_198/cancion_EduardoRincón_532.xml.txt
+ +  ../witnesses/MiguelHernandez_Canciónúltima_198/cancion_MartaEspinosa_528.xml.txt
+ +  ../witnesses/MiguelHernandez_Canciónúltima_198/cancion_ColectivodeMúsicasMestizas_529.xml.txt
+== MiguelHernandez_Cantar_101
+ +  ../witnesses/MiguelHernandez_Cantar_101/poema.txt
+ +  ../witnesses/MiguelHernandez_Cantar_101/cancion_FranciscoHinojosa_647.xml.txt
+ +  ../witnesses/MiguelHernandez_Cantar_101/cancion_PacoMoyano_649.xml.txt
+ +  ../witnesses/MiguelHernandez_Cantar_101/cancion_OlgaManzanoyManuelPicón_648.xml.txt
+== MiguelHernandez_Carta_114
+ +  ../witnesses/MiguelHernandez_Carta_114/cancion_Evoéh_712.xml.txt
+ +  ../witnesses/MiguelHernandez_Carta_114/poema.txt
+ +  ../witnesses/MiguelHernandez_Carta_114/cancion_JavierBergia&BegoñaOlavide_709.xml.txt
+ +  ../witnesses/MiguelHernandez_Carta_114/cancion_Karmona_711.xml.txt
+ +  ../witnesses/MiguelHernandez_Carta_114/cancion_ÁngelCorpa_575.xml.txt
+ +  ../witnesses/MiguelHernandez_Carta_114/cancion_InésFonseca_714.xml.txt
+ +  ../witnesses/MiguelHernandez_Carta_114/cancion_ElLondro_713.xml.txt
+ +  ../witnesses/MiguelHernandez_Carta_114/cancion_FranciscoCurto_574.xml.txt
+ +  ../witnesses/MiguelHernandez_Carta_114/cancion_ManuelGerena_710.xml.txt
+ +  ../witnesses/MiguelHernandez_Carta_114/cancion_Washington&Cristina_715.xml.txt
+== MiguelHernandez_Casidadelsediento_210
+ +  ../witnesses/MiguelHernandez_Casidadelsediento_210/cancion_Jarcha_741.xml.txt
+ +  ../witnesses/MiguelHernandez_Casidadelsediento_210/poema.txt
+ +  ../witnesses/MiguelHernandez_Casidadelsediento_210/cancion_CarmenLinares_742.xml.txt
+ +  ../witnesses/MiguelHernandez_Casidadelsediento_210/cancion_FranciscoCurto_524.xml.txt
+ +  ../witnesses/MiguelHernandez_Casidadelsediento_210/cancion_CarmenLinaresySilviaPérezCruz_834.xml.txt
+== MiguelHernandez_Casinada_155
+ +  ../witnesses/MiguelHernandez_Casinada_155/cancion_Duquenque_756.xml.txt
+ +  ../witnesses/MiguelHernandez_Casinada_155/poema.txt
+ +  ../witnesses/MiguelHernandez_Casinada_155/cancion_Laventa_758.xml.txt
+ +  ../witnesses/MiguelHernandez_Casinada_155/cancion_PacoDamas_757.xml.txt
+== MiguelHernandez_Demalenpeor_137
+ +  ../witnesses/MiguelHernandez_Demalenpeor_137/cancion_Extremoduro_726.xml.txt
+ +  ../witnesses/MiguelHernandez_Demalenpeor_137/poema.txt
+== MiguelHernandez_Despuésdelamor_95
+ +  ../witnesses/MiguelHernandez_Despuésdelamor_95/poema.txt
+ +  ../witnesses/MiguelHernandez_Despuésdelamor_95/cancion_InésFonseca_668.xml.txt
+== MiguelHernandez_Dátilesygloria_189
+ +  ../witnesses/MiguelHernandez_Dátilesygloria_189/poema.txt
+ +  ../witnesses/MiguelHernandez_Dátilesygloria_189/cancion_ManuelGerena_800.xml.txt
+== MiguelHernandez_Elegía[aRamónSijé]_211
+ +  ../witnesses/MiguelHernandez_Elegía[aRamónSijé]_211/cancion_JoséMercé_780.xml.txt
+ +  ../witnesses/MiguelHernandez_Elegía[aRamónSijé]_211/cancion_VicenteMonera_777.xml.txt
+ +  ../witnesses/MiguelHernandez_Elegía[aRamónSijé]_211/cancion_RicardoLeón_522.xml.txt
+ +  ../witnesses/MiguelHernandez_Elegía[aRamónSijé]_211/cancion_Verbo_778.xml.txt
+ +  ../witnesses/MiguelHernandez_Elegía[aRamónSijé]_211/poema.txt
+ +  ../witnesses/MiguelHernandez_Elegía[aRamónSijé]_211/cancion_RosaZaragoza_779.xml.txt
+ +  ../witnesses/MiguelHernandez_Elegía[aRamónSijé]_211/cancion_OrianaQuinteroyManuelRamos_520.xml.txt
+ +  ../witnesses/MiguelHernandez_Elegía[aRamónSijé]_211/cancion_JoséMiguelArranz_521.xml.txt
+ +  ../witnesses/MiguelHernandez_Elegía[aRamónSijé]_211/cancion_LosJuglares_523.xml.txt
+ +  ../witnesses/MiguelHernandez_Elegía[aRamónSijé]_211/cancion_GrupoLuxAeterna_519.xml.txt
+ +  ../witnesses/MiguelHernandez_Elegía[aRamónSijé]_211/cancion_NiñodeElcheyElChojin_819.xml.txt
+ +  ../witnesses/MiguelHernandez_Elegía[aRamónSijé]_211/cancion_Fraskito_782.xml.txt
+ +  ../witnesses/MiguelHernandez_Elegía[aRamónSijé]_211/cancion_Jarcha_783.xml.txt
+ +  ../witnesses/MiguelHernandez_Elegía[aRamónSijé]_211/cancion_SilviaPérezCruzyRaülFernandezMiró_803.xml.txt
+ +  ../witnesses/MiguelHernandez_Elegía[aRamónSijé]_211/cancion_CarmenLinaresyArcángel_835.xml.txt
+ +  ../witnesses/MiguelHernandez_Elegía[aRamónSijé]_211/cancion_EnriqueMorente_781.xml.txt
+== MiguelHernandez_Elegíaprimera(AFedericoGarcíaLorca,poeta)_121
+ +  ../witnesses/MiguelHernandez_Elegíaprimera(AFedericoGarcíaLorca,poeta)_121/poema.txt
+ +  ../witnesses/MiguelHernandez_Elegíaprimera(AFedericoGarcíaLorca,poeta)_121/cancion_JoséMiguelArranz_699.xml.txt
+== MiguelHernandez_Elegíasegunda(APablodelaTorriente,comisariopolítico)_120
+ +  ../witnesses/MiguelHernandez_Elegíasegunda(APablodelaTorriente,comisariopolítico)_120/cancion_SilvioRodríguez_702.xml.txt
+ +  ../witnesses/MiguelHernandez_Elegíasegunda(APablodelaTorriente,comisariopolítico)_120/poema.txt
+ +  ../witnesses/MiguelHernandez_Elegíasegunda(APablodelaTorriente,comisariopolítico)_120/cancion_ArielDíaz_576.xml.txt
+ +  ../witnesses/MiguelHernandez_Elegíasegunda(APablodelaTorriente,comisariopolítico)_120/cancion_ManuelArgudín_701.xml.txt
+ +  ../witnesses/MiguelHernandez_Elegíasegunda(APablodelaTorriente,comisariopolítico)_120/cancion_LuchoRoa_700.xml.txt
+== MiguelHernandez_Elhambre_252
+ +  ../witnesses/MiguelHernandez_Elhambre_252/poema.txt
+ +  ../witnesses/MiguelHernandez_Elhambre_252/cancion_Reincidentes_837.xml.txt
+== MiguelHernandez_Elherido_200
+ +  ../witnesses/MiguelHernandez_Elherido_200/cancion_LauraSimóyFrancescBurrull_784.xml.txt
+ +  ../witnesses/MiguelHernandez_Elherido_200/cancion_CasandraHernández_480.xml.txt
+ +  ../witnesses/MiguelHernandez_Elherido_200/cancion_CristinaFernández_479.xml.txt
+ +  ../witnesses/MiguelHernandez_Elherido_200/cancion_JoanManuelSerratyJoaquínSabina_788.xml.txt
+ +  ../witnesses/MiguelHernandez_Elherido_200/poema.txt
+ +  ../witnesses/MiguelHernandez_Elherido_200/cancion_MirielaMoreno_477.xml.txt
+ +  ../witnesses/MiguelHernandez_Elherido_200/cancion_PabloLópez_787.xml.txt
+ +  ../witnesses/MiguelHernandez_Elherido_200/cancion_Aceitunasinhueso_789.xml.txt
+ +  ../witnesses/MiguelHernandez_Elherido_200/cancion_ManoloGarcía_790.xml.txt
+ +  ../witnesses/MiguelHernandez_Elherido_200/cancion_ChristinaZirbrügg_478.xml.txt
+ +  ../witnesses/MiguelHernandez_Elherido_200/cancion_CarmenLinares_823.xml.txt
+ +  ../witnesses/MiguelHernandez_Elherido_200/cancion_MiguelPoveda_785.xml.txt
+ +  ../witnesses/MiguelHernandez_Elherido_200/cancion_ColectivodeMúsicasMestizas_475.xml.txt
+ +  ../witnesses/MiguelHernandez_Elherido_200/cancion_PacoDamas_786.xml.txt
+ +  ../witnesses/MiguelHernandez_Elherido_200/cancion_FranciscoPesqueira_476.xml.txt
+== MiguelHernandez_Elnazareno_145
+ +  ../witnesses/MiguelHernandez_Elnazareno_145/poema.txt
+ +  ../witnesses/MiguelHernandez_Elnazareno_145/cancion_EsmeraldaGrao_731.xml.txt
+ +  ../witnesses/MiguelHernandez_Elnazareno_145/cancion_FranciscoPesqueira_730.xml.txt
+== MiguelHernandez_ElniñoYuntero_208
+ +  ../witnesses/MiguelHernandez_ElniñoYuntero_208/cancion_ManuelGerena_805.xml.txt
+ +  ../witnesses/MiguelHernandez_ElniñoYuntero_208/cancion_ManuelGerena_807.xml.txt
+ +  ../witnesses/MiguelHernandez_ElniñoYuntero_208/cancion_LauraSimó-FrancescBurrull_467.xml.txt
+ +  ../witnesses/MiguelHernandez_ElniñoYuntero_208/poema.txt
+ +  ../witnesses/MiguelHernandez_ElniñoYuntero_208/cancion_LorenaAstudillo_468.xml.txt
+ +  ../witnesses/MiguelHernandez_ElniñoYuntero_208/cancion_NiñodeElche_822.xml.txt
+ +  ../witnesses/MiguelHernandez_ElniñoYuntero_208/cancion_ColectivodeMúsicasMestizas_466.xml.txt
+ +  ../witnesses/MiguelHernandez_ElniñoYuntero_208/cancion_CarmenLinares_832.xml.txt
+ +  ../witnesses/MiguelHernandez_ElniñoYuntero_208/cancion_Mocedades_470.xml.txt
+ +  ../witnesses/MiguelHernandez_ElniñoYuntero_208/cancion_ÁngelCorpa_465.xml.txt
+ +  ../witnesses/MiguelHernandez_ElniñoYuntero_208/cancion_ManuelGerena_806.xml.txt
+ +  ../witnesses/MiguelHernandez_ElniñoYuntero_208/cancion_PacoBandeira_473.xml.txt
+ +  ../witnesses/MiguelHernandez_ElniñoYuntero_208/cancion_ManuelGerena_804.xml.txt
+ +  ../witnesses/MiguelHernandez_ElniñoYuntero_208/cancion_VictorJara_474.xml.txt
+ +  ../witnesses/MiguelHernandez_ElniñoYuntero_208/cancion_LosJuglares_471.xml.txt
+ +  ../witnesses/MiguelHernandez_ElniñoYuntero_208/cancion_PacaQuintero_469.xml.txt
+ +  ../witnesses/MiguelHernandez_ElniñoYuntero_208/cancion_FranciscoCurto_472.xml.txt
+== MiguelHernandez_Elsilbodelallagaperfecta_193
+ +  ../witnesses/MiguelHernandez_Elsilbodelallagaperfecta_193/poema.txt
+ +  ../witnesses/MiguelHernandez_Elsilbodelallagaperfecta_193/cancion_ToyoGabarrús_725.xml.txt
+ +  ../witnesses/MiguelHernandez_Elsilbodelallagaperfecta_193/cancion_FranciscoHinojosa_538.xml.txt
+ +  ../witnesses/MiguelHernandez_Elsilbodelallagaperfecta_193/cancion_DiegoCarrasco_811.xml.txt
+== MiguelHernandez_Elsilbodeldale_204
+ +  ../witnesses/MiguelHernandez_Elsilbodeldale_204/poema.txt
+ +  ../witnesses/MiguelHernandez_Elsilbodeldale_204/cancion_Grau_799.xml.txt
+ +  ../witnesses/MiguelHernandez_Elsilbodeldale_204/cancion_JoséMiguelArranz_847.xml.txt
+ +  ../witnesses/MiguelHernandez_Elsilbodeldale_204/cancion_CarmenLinares_827.xml.txt
+ +  ../witnesses/MiguelHernandez_Elsilbodeldale_204/cancion_ToyoGabarrús_797.xml.txt
+ +  ../witnesses/MiguelHernandez_Elsilbodeldale_204/cancion_Jarcha_796.xml.txt
+ +  ../witnesses/MiguelHernandez_Elsilbodeldale_204/cancion_OrianaQuinteroyManuelRamos_720.xml.txt
+ +  ../witnesses/MiguelHernandez_Elsilbodeldale_204/cancion_Evoéh_721.xml.txt
+ +  ../witnesses/MiguelHernandez_Elsilbodeldale_204/cancion_JoanManuelSerrat_795.xml.txt
+ +  ../witnesses/MiguelHernandez_Elsilbodeldale_204/cancion_LoleyManuel_798.xml.txt
+== MiguelHernandez_Elúltimorincón_89
+ +  ../witnesses/MiguelHernandez_Elúltimorincón_89/cancion_PataNegra_841.xml.txt
+ +  ../witnesses/MiguelHernandez_Elúltimorincón_89/cancion_Evoéh_592.xml.txt
+ +  ../witnesses/MiguelHernandez_Elúltimorincón_89/poema.txt
+== MiguelHernandez_Eternasombra_74
+ +  ../witnesses/MiguelHernandez_Eternasombra_74/poema.txt
+ +  ../witnesses/MiguelHernandez_Eternasombra_74/cancion_FranciscoHinojosa_608.xml.txt
+== MiguelHernandez_Guerra_86
+ +  ../witnesses/MiguelHernandez_Guerra_86/cancion_ColectivodeMúsicasMestizas_599.xml.txt
+ +  ../witnesses/MiguelHernandez_Guerra_86/poema.txt
+ +  ../witnesses/MiguelHernandez_Guerra_86/cancion_ÁngelesLópezArtiga_596.xml.txt
+ +  ../witnesses/MiguelHernandez_Guerra_86/cancion_JavierBergia&BegoñaOlavide_598.xml.txt
+ +  ../witnesses/MiguelHernandez_Guerra_86/cancion_RománLC_597.xml.txt
+== MiguelHernandez_Hijodelaluzydelasombra_73
+ +  ../witnesses/MiguelHernandez_Hijodelaluzydelasombra_73/poema.txt
+ +  ../witnesses/MiguelHernandez_Hijodelaluzydelasombra_73/cancion_JoanManuelSerrat_722.xml.txt
+== MiguelHernandez_Imagendetuhuella_203
+ +  ../witnesses/MiguelHernandez_Imagendetuhuella_203/poema.txt
+ +  ../witnesses/MiguelHernandez_Imagendetuhuella_203/cancion_BenitodelaFuente_753.xml.txt
+ +  ../witnesses/MiguelHernandez_Imagendetuhuella_203/cancion_GuillermoRizzottoySabinaWitt_755.xml.txt
+ +  ../witnesses/MiguelHernandez_Imagendetuhuella_203/cancion_CarmenLinares_826.xml.txt
+ +  ../witnesses/MiguelHernandez_Imagendetuhuella_203/cancion_JuanValderrama_754.xml.txt
+== MiguelHernandez_Jornaleros_119
+ +  ../witnesses/MiguelHernandez_Jornaleros_119/poema.txt
+ +  ../witnesses/MiguelHernandez_Jornaleros_119/cancion_ManoloSanlúcar_703.xml.txt
+== MiguelHernandez_Laguerra,madre_196
+ +  ../witnesses/MiguelHernandez_Laguerra,madre_196/cancion_CoromixtodecámaradeValencia_537.xml.txt
+ +  ../witnesses/MiguelHernandez_Laguerra,madre_196/cancion_EmilianoZapata_536.xml.txt
+ +  ../witnesses/MiguelHernandez_Laguerra,madre_196/poema.txt
+ +  ../witnesses/MiguelHernandez_Laguerra,madre_196/cancion_NiñodeElche_817.xml.txt
+== MiguelHernandez_Lapalmeralevantina_144
+ +  ../witnesses/MiguelHernandez_Lapalmeralevantina_144/poema.txt
+ +  ../witnesses/MiguelHernandez_Lapalmeralevantina_144/cancion_JoanManuelSerrat_729.xml.txt
+== MiguelHernandez_Lascárceles_151
+ +  ../witnesses/MiguelHernandez_Lascárceles_151/poema.txt
+ +  ../witnesses/MiguelHernandez_Lascárceles_151/cancion_ColectivodeMúsicasMestizas_560.xml.txt
+ +  ../witnesses/MiguelHernandez_Lascárceles_151/cancion_Carmen,JesúseIñaki_744.xml.txt
+ +  ../witnesses/MiguelHernandez_Lascárceles_151/cancion_Primates_743.xml.txt
+== MiguelHernandez_Lasdesiertasabarcas_110
+ +  ../witnesses/MiguelHernandez_Lasdesiertasabarcas_110/cancion_ToyoGabarrús_619.xml.txt
+ +  ../witnesses/MiguelHernandez_Lasdesiertasabarcas_110/cancion_Filiu_618.xml.txt
+ +  ../witnesses/MiguelHernandez_Lasdesiertasabarcas_110/poema.txt
+ +  ../witnesses/MiguelHernandez_Lasdesiertasabarcas_110/cancion_FranciscoCurto_620.xml.txt
+ +  ../witnesses/MiguelHernandez_Lasdesiertasabarcas_110/cancion_PedroSoriano_612.xml.txt
+ +  ../witnesses/MiguelHernandez_Lasdesiertasabarcas_110/cancion_InésSaavedra_613.xml.txt
+ +  ../witnesses/MiguelHernandez_Lasdesiertasabarcas_110/cancion_BandaInaudita(conJuliánPáez)_616.xml.txt
+ +  ../witnesses/MiguelHernandez_Lasdesiertasabarcas_110/cancion_JoanManuelSerrat_615.xml.txt
+ +  ../witnesses/MiguelHernandez_Lasdesiertasabarcas_110/cancion_SoleCandela&SitohOrtega_610.xml.txt
+ +  ../witnesses/MiguelHernandez_Lasdesiertasabarcas_110/cancion_ColectivodeMúsicasMestizas_614.xml.txt
+ +  ../witnesses/MiguelHernandez_Lasdesiertasabarcas_110/cancion_Jarcha_617.xml.txt
+ +  ../witnesses/MiguelHernandez_Lasdesiertasabarcas_110/cancion_RománLC_611.xml.txt
+== MiguelHernandez_Llamoalajuventud_152
+ +  ../witnesses/MiguelHernandez_Llamoalajuventud_152/cancion_Senda_558.xml.txt
+ +  ../witnesses/MiguelHernandez_Llamoalajuventud_152/poema.txt
+ +  ../witnesses/MiguelHernandez_Llamoalajuventud_152/cancion_Jarcha_745.xml.txt
+ +  ../witnesses/MiguelHernandez_Llamoalajuventud_152/cancion_ÁngelCorpa_559.xml.txt
+== MiguelHernandez_Mesobraelcorazón_197
+ +  ../witnesses/MiguelHernandez_Mesobraelcorazón_197/cancion_JoséBarba_533.xml.txt
+ +  ../witnesses/MiguelHernandez_Mesobraelcorazón_197/poema.txt
+ +  ../witnesses/MiguelHernandez_Mesobraelcorazón_197/cancion_ColectivodeMúsicasMestizas_535.xml.txt
+ +  ../witnesses/MiguelHernandez_Mesobraelcorazón_197/cancion_JavierBergia&BegoñaOlavide_534.xml.txt
+ +  ../witnesses/MiguelHernandez_Mesobraelcorazón_197/cancion_NiñodeElche_818.xml.txt
+== MiguelHernandez_Nanasdelacebolla_194
+ +  ../witnesses/MiguelHernandez_Nanasdelacebolla_194/cancion_JoanManuelSerraryAlbertoCortez_498.xml.txt
+ +  ../witnesses/MiguelHernandez_Nanasdelacebolla_194/cancion_ColectivodeMúsicasMestizas_490.xml.txt
+ +  ../witnesses/MiguelHernandez_Nanasdelacebolla_194/cancion_NiñodeElche_815.xml.txt
+ +  ../witnesses/MiguelHernandez_Nanasdelacebolla_194/cancion_Mísia_488.xml.txt
+ +  ../witnesses/MiguelHernandez_Nanasdelacebolla_194/cancion_FranciscoCurto_493.xml.txt
+ +  ../witnesses/MiguelHernandez_Nanasdelacebolla_194/cancion_OrianaQuinteroyManuelRamos_481.xml.txt
+ +  ../witnesses/MiguelHernandez_Nanasdelacebolla_194/poema.txt
+ +  ../witnesses/MiguelHernandez_Nanasdelacebolla_194/cancion_Isamil9_484.xml.txt
+ +  ../witnesses/MiguelHernandez_Nanasdelacebolla_194/cancion_ÁngelCorpa_482.xml.txt
+ +  ../witnesses/MiguelHernandez_Nanasdelacebolla_194/cancion_EduardoRincón_497.xml.txt
+ +  ../witnesses/MiguelHernandez_Nanasdelacebolla_194/cancion_JoséMiguelArranz_483.xml.txt
+ +  ../witnesses/MiguelHernandez_Nanasdelacebolla_194/cancion_MaríadeMedeiros_492.xml.txt
+ +  ../witnesses/MiguelHernandez_Nanasdelacebolla_194/cancion_CoroI.B.PedroIbarra_500.xml.txt
+ +  ../witnesses/MiguelHernandez_Nanasdelacebolla_194/cancion_MiguelRivera_499.xml.txt
+ +  ../witnesses/MiguelHernandez_Nanasdelacebolla_194/cancion_CuartetovocalVOXcuatro_495.xml.txt
+ +  ../witnesses/MiguelHernandez_Nanasdelacebolla_194/cancion_JoséMercé_813.xml.txt
+ +  ../witnesses/MiguelHernandez_Nanasdelacebolla_194/cancion_EnriqueMorente_505.xml.txt
+ +  ../witnesses/MiguelHernandez_Nanasdelacebolla_194/cancion_LuísMarín_502.xml.txt
+ +  ../witnesses/MiguelHernandez_Nanasdelacebolla_194/cancion_Lole_496.xml.txt
+ +  ../witnesses/MiguelHernandez_Nanasdelacebolla_194/cancion_RomeroSanJuan_812.xml.txt
+ +  ../witnesses/MiguelHernandez_Nanasdelacebolla_194/cancion_LosJuglares_503.xml.txt
+ +  ../witnesses/MiguelHernandez_Nanasdelacebolla_194/cancion_ManuelGerena_485.xml.txt
+ +  ../witnesses/MiguelHernandez_Nanasdelacebolla_194/cancion_SergioValiente-GrupoTricomaSoundSystem_489.xml.txt
+ +  ../witnesses/MiguelHernandez_Nanasdelacebolla_194/cancion_Fraskito_491.xml.txt
+ +  ../witnesses/MiguelHernandez_Nanasdelacebolla_194/cancion_CacoSenante_501.xml.txt
+ +  ../witnesses/MiguelHernandez_Nanasdelacebolla_194/cancion_FranciscoPesqueira_487.xml.txt
+ +  ../witnesses/MiguelHernandez_Nanasdelacebolla_194/cancion_Síntesis_494.xml.txt
+ +  ../witnesses/MiguelHernandez_Nanasdelacebolla_194/cancion_JoanManuelSerrat_504.xml.txt
+ +  ../witnesses/MiguelHernandez_Nanasdelacebolla_194/cancion_JoseAntonioLabordeta_486.xml.txt
+== MiguelHernandez_Pastoril_148
+ +  ../witnesses/MiguelHernandez_Pastoril_148/poema.txt
+ +  ../witnesses/MiguelHernandez_Pastoril_148/cancion_FranciscoCurto_562.xml.txt
+ +  ../witnesses/MiguelHernandez_Pastoril_148/cancion_OrianaQuintero_734.xml.txt
+== MiguelHernandez_Primaveracelosa_206
+ +  ../witnesses/MiguelHernandez_Primaveracelosa_206/poema.txt
+ +  ../witnesses/MiguelHernandez_Primaveracelosa_206/cancion_CarmenLinares_829.xml.txt
+== MiguelHernandez_Primerodemayode1937_118
+ +  ../witnesses/MiguelHernandez_Primerodemayode1937_118/poema.txt
+ +  ../witnesses/MiguelHernandez_Primerodemayode1937_118/cancion_JoséLuisZorro_705.xml.txt
+ +  ../witnesses/MiguelHernandez_Primerodemayode1937_118/cancion_SoleCandela&SitohOrtega_704.xml.txt
+== MiguelHernandez_Romancillodemayo_156
+ +  ../witnesses/MiguelHernandez_Romancillodemayo_156/poema.txt
+ +  ../witnesses/MiguelHernandez_Romancillodemayo_156/cancion_EsmeraldaGrao_759.xml.txt
+== MiguelHernandez_Rosadealmendra_136
+ +  ../witnesses/MiguelHernandez_Rosadealmendra_136/cancion_Fraskito_718.xml.txt
+ +  ../witnesses/MiguelHernandez_Rosadealmendra_136/poema.txt
+== MiguelHernandez_Rosario,dinamitera_117
+ +  ../witnesses/MiguelHernandez_Rosario,dinamitera_117/poema.txt
+ +  ../witnesses/MiguelHernandez_Rosario,dinamitera_117/cancion_PedroFauras(BernardoFuster)_706.xml.txt
+== MiguelHernandez_Sentadosobrelosmuertos_191
+ +  ../witnesses/MiguelHernandez_Sentadosobrelosmuertos_191/cancion_DúoLaMar_542.xml.txt
+ +  ../witnesses/MiguelHernandez_Sentadosobrelosmuertos_191/cancion_ManuelGerena_809.xml.txt
+ +  ../witnesses/MiguelHernandez_Sentadosobrelosmuertos_191/poema.txt
+ +  ../witnesses/MiguelHernandez_Sentadosobrelosmuertos_191/cancion_GrupoLuxAeterna_541.xml.txt
+ +  ../witnesses/MiguelHernandez_Sentadosobrelosmuertos_191/cancion_RománLC_540.xml.txt
+ +  ../witnesses/MiguelHernandez_Sentadosobrelosmuertos_191/cancion_CeskFreixas_543.xml.txt
+ +  ../witnesses/MiguelHernandez_Sentadosobrelosmuertos_191/cancion_ColectivodeMúsicasMestizas_544.xml.txt
+ +  ../witnesses/MiguelHernandez_Sentadosobrelosmuertos_191/cancion_PedroSoriano_539.xml.txt
+ +  ../witnesses/MiguelHernandez_Sentadosobrelosmuertos_191/cancion_EnriqueMorente_545.xml.txt
+== MiguelHernandez_Sinosangriento_124
+ +  ../witnesses/MiguelHernandez_Sinosangriento_124/poema.txt
+ +  ../witnesses/MiguelHernandez_Sinosangriento_124/cancion_Labarberíadelsur_697.xml.txt
+== MiguelHernandez_Sonetofinal_129
+ +  ../witnesses/MiguelHernandez_Sonetofinal_129/poema.txt
+ +  ../witnesses/MiguelHernandez_Sonetofinal_129/cancion_DúoJatetyQuincoso_681.xml.txt
+== MiguelHernandez_Sonreídme_123
+ +  ../witnesses/MiguelHernandez_Sonreídme_123/poema.txt
+ +  ../witnesses/MiguelHernandez_Sonreídme_123/cancion_Fraskito_698.xml.txt
+== MiguelHernandez_Valsdelosenamoradosyunidoshastasiempre_149
+ +  ../witnesses/MiguelHernandez_Valsdelosenamoradosyunidoshastasiempre_149/cancion_SoleCandelaySitohOrtega_736.xml.txt
+ +  ../witnesses/MiguelHernandez_Valsdelosenamoradosyunidoshastasiempre_149/poema.txt
+ +  ../witnesses/MiguelHernandez_Valsdelosenamoradosyunidoshastasiempre_149/cancion_BandainauditaconJuliánPáez_737.xml.txt
+ +  ../witnesses/MiguelHernandez_Valsdelosenamoradosyunidoshastasiempre_149/cancion_Jefira_735.xml.txt
+== MiguelHernandez_Vientosdelpueblomellevan_192
+ +  ../witnesses/MiguelHernandez_Vientosdelpueblomellevan_192/cancion_LosJuglares_516.xml.txt
+ +  ../witnesses/MiguelHernandez_Vientosdelpueblomellevan_192/cancion_Labullonera_513.xml.txt
+ +  ../witnesses/MiguelHernandez_Vientosdelpueblomellevan_192/cancion_AzizaBrahim_508.xml.txt
+ +  ../witnesses/MiguelHernandez_Vientosdelpueblomellevan_192/cancion_ColectivodeMúsicasMestizas_509.xml.txt
+ +  ../witnesses/MiguelHernandez_Vientosdelpueblomellevan_192/cancion_ManuelGerena_810.xml.txt
+ +  ../witnesses/MiguelHernandez_Vientosdelpueblomellevan_192/poema.txt
+ +  ../witnesses/MiguelHernandez_Vientosdelpueblomellevan_192/cancion_Fraskito_510.xml.txt
+ +  ../witnesses/MiguelHernandez_Vientosdelpueblomellevan_192/cancion_RománLC_506.xml.txt
+ +  ../witnesses/MiguelHernandez_Vientosdelpueblomellevan_192/cancion_LosLobos_517.xml.txt
+ +  ../witnesses/MiguelHernandez_Vientosdelpueblomellevan_192/cancion_ChristianeCourvoisier_512.xml.txt
+ +  ../witnesses/MiguelHernandez_Vientosdelpueblomellevan_192/cancion_Solipalma_514.xml.txt
+ +  ../witnesses/MiguelHernandez_Vientosdelpueblomellevan_192/cancion_Loquillo_511.xml.txt
+ +  ../witnesses/MiguelHernandez_Vientosdelpueblomellevan_192/cancion_ÁngelCorpa_507.xml.txt
+ +  ../witnesses/MiguelHernandez_Vientosdelpueblomellevan_192/cancion_CoropopularJabalón_515.xml.txt
+== MiguelHernandez_Yonoquieromásluzquetucuerpoanteelmío_109
+ +  ../witnesses/MiguelHernandez_Yonoquieromásluzquetucuerpoanteelmío_109/poema.txt
+ +  ../witnesses/MiguelHernandez_Yonoquieromásluzquetucuerpoanteelmío_109/cancion_FranciscoHinojosa_623.xml.txt
+ +  ../witnesses/MiguelHernandez_Yonoquieromásluzquetucuerpoanteelmío_109/cancion_SoleCandela&SitohOrtega_622.xml.txt
+ +  ../witnesses/MiguelHernandez_Yonoquieromásluzquetucuerpoanteelmío_109/cancion_ÁngelCorpa_621.xml.txt
+ +  ../witnesses/MiguelHernandez_Yonoquieromásluzquetucuerpoanteelmío_109/cancion_JoaquínLera_624.xml.txt
+== MiguelHernandez_[Alalunavenidera]_108
+ +  ../witnesses/MiguelHernandez_[Alalunavenidera]_108/poema.txt
+ +  ../witnesses/MiguelHernandez_[Alalunavenidera]_108/cancion_BandaInaudita(conJuliánPáez)_625.xml.txt
+== MiguelHernandez_[Ausenciaentodoveo]_106
+ +  ../witnesses/MiguelHernandez_[Ausenciaentodoveo]_106/poema.txt
+ +  ../witnesses/MiguelHernandez_[Ausenciaentodoveo]_106/cancion_EduardoRincón_640.xml.txt
+ +  ../witnesses/MiguelHernandez_[Ausenciaentodoveo]_106/cancion_LosLobos_641.xml.txt
+ +  ../witnesses/MiguelHernandez_[Ausenciaentodoveo]_106/cancion_JavierBergia&BegoñaOlavide_636.xml.txt
+ +  ../witnesses/MiguelHernandez_[Ausenciaentodoveo]_106/cancion_JavierPelayo_637.xml.txt
+ +  ../witnesses/MiguelHernandez_[Ausenciaentodoveo]_106/cancion_BandaInaudita(conJuliánPáez)_638.xml.txt
+ +  ../witnesses/MiguelHernandez_[Ausenciaentodoveo]_106/cancion_ToyoGabarrús_639.xml.txt
+== MiguelHernandez_[Besarse,mujer]_104
+ +  ../witnesses/MiguelHernandez_[Besarse,mujer]_104/poema.txt
+ +  ../witnesses/MiguelHernandez_[Besarse,mujer]_104/cancion_BandaInaudita(conJuliánPáez)_644.xml.txt
+== MiguelHernandez_[Bocasdeira]_103
+ +  ../witnesses/MiguelHernandez_[Bocasdeira]_103/poema.txt
+ +  ../witnesses/MiguelHernandez_[Bocasdeira]_103/cancion_AdolfoCeldran_645.xml.txt
+== MiguelHernandez_[Cadavezmáspresente]_105
+ +  ../witnesses/MiguelHernandez_[Cadavezmáspresente]_105/poema.txt
+ +  ../witnesses/MiguelHernandez_[Cadavezmáspresente]_105/cancion_AlejandroOliva_642.xml.txt
+ +  ../witnesses/MiguelHernandez_[Cadavezmáspresente]_105/cancion_MaríaEvaAlbistur_643.xml.txt
+== MiguelHernandez_[Cadavezquepaso]_207
+ +  ../witnesses/MiguelHernandez_[Cadavezquepaso]_207/poema.txt
+ +  ../witnesses/MiguelHernandez_[Cadavezquepaso]_207/cancion_CarmenLinares_831.xml.txt
+ +  ../witnesses/MiguelHernandez_[Cadavezquepaso]_207/cancion_NiñodeElche_814.xml.txt
+== MiguelHernandez_[Callodespuésdemuerto]_102
+ +  ../witnesses/MiguelHernandez_[Callodespuésdemuerto]_102/poema.txt
+ +  ../witnesses/MiguelHernandez_[Callodespuésdemuerto]_102/cancion_Konsumorespeto_646.xml.txt
+== MiguelHernandez_[Cancióndelosvendimiadores]_201
+ +  ../witnesses/MiguelHernandez_[Cancióndelosvendimiadores]_201/cancion_CarmenLinares_825.xml.txt
+ +  ../witnesses/MiguelHernandez_[Cancióndelosvendimiadores]_201/poema.txt
+ +  ../witnesses/MiguelHernandez_[Cancióndelosvendimiadores]_201/cancion_JanireBermejo_792.xml.txt
+ +  ../witnesses/MiguelHernandez_[Cancióndelosvendimiadores]_201/cancion_Jarcha_794.xml.txt
+ +  ../witnesses/MiguelHernandez_[Cancióndelosvendimiadores]_201/cancion_Cuéntame[seriedetelevisión]_793.xml.txt
+ +  ../witnesses/MiguelHernandez_[Cancióndelosvendimiadores]_201/cancion_EliaCornejoyPedroQuirico_791.xml.txt
+== MiguelHernandez_[Cercadelaguatequierollevar]_100
+ +  ../witnesses/MiguelHernandez_[Cercadelaguatequierollevar]_100/cancion_MaríaLavalle_654.xml.txt
+ +  ../witnesses/MiguelHernandez_[Cercadelaguatequierollevar]_100/poema.txt
+ +  ../witnesses/MiguelHernandez_[Cercadelaguatequierollevar]_100/cancion_OrianaQuinteroyManuelRamos_650.xml.txt
+ +  ../witnesses/MiguelHernandez_[Cercadelaguatequierollevar]_100/cancion_FranciscoCurto_653.xml.txt
+ +  ../witnesses/MiguelHernandez_[Cercadelaguatequierollevar]_100/cancion_BandaInaudita(conJuliánPáez)_652.xml.txt
+ +  ../witnesses/MiguelHernandez_[Cercadelaguatequierollevar]_100/cancion_JoanManuelSerrat_651.xml.txt
+== MiguelHernandez_[Comoeltorohenacidoparaelluto]_154
+ +  ../witnesses/MiguelHernandez_[Comoeltorohenacidoparaelluto]_154/poema.txt
+ +  ../witnesses/MiguelHernandez_[Comoeltorohenacidoparaelluto]_154/cancion_ÁngelCorpa_749.xml.txt
+ +  ../witnesses/MiguelHernandez_[Comoeltorohenacidoparaelluto]_154/cancion_FranciscoHinojosa_751.xml.txt
+ +  ../witnesses/MiguelHernandez_[Comoeltorohenacidoparaelluto]_154/cancion_InésFonseca_752.xml.txt
+ +  ../witnesses/MiguelHernandez_[Comoeltorohenacidoparaelluto]_154/cancion_OrianaQuintero_750.xml.txt
+ +  ../witnesses/MiguelHernandez_[Comoeltorohenacidoparaelluto]_154/cancion_LolaMontenegro_846.xml.txt
+== MiguelHernandez_[Comolahiguerajoven]_99
+ +  ../witnesses/MiguelHernandez_[Comolahiguerajoven]_99/poema.txt
+ +  ../witnesses/MiguelHernandez_[Comolahiguerajoven]_99/cancion_InésFonseca_655.xml.txt
+== MiguelHernandez_[Condosaños,dosflores]_98
+ +  ../witnesses/MiguelHernandez_[Condosaños,dosflores]_98/poema.txt
+ +  ../witnesses/MiguelHernandez_[Condosaños,dosflores]_98/cancion_JesúsMárquez_660.xml.txt
+ +  ../witnesses/MiguelHernandez_[Condosaños,dosflores]_98/cancion_LuisPastor_662.xml.txt
+ +  ../witnesses/MiguelHernandez_[Condosaños,dosflores]_98/cancion_Jarcha_659.xml.txt
+ +  ../witnesses/MiguelHernandez_[Condosaños,dosflores]_98/cancion_JoséMiguelArranz_656.xml.txt
+ +  ../witnesses/MiguelHernandez_[Condosaños,dosflores]_98/cancion_ToyoGabarrús_661.xml.txt
+ +  ../witnesses/MiguelHernandez_[Condosaños,dosflores]_98/cancion_MiguelRíos_657.xml.txt
+ +  ../witnesses/MiguelHernandez_[Condosaños,dosflores]_98/cancion_AliciaBorrachero_658.xml.txt
+== MiguelHernandez_[Conozcobienloscaminos]_97
+ +  ../witnesses/MiguelHernandez_[Conozcobienloscaminos]_97/poema.txt
+ +  ../witnesses/MiguelHernandez_[Conozcobienloscaminos]_97/cancion_JavierBergiayBegoñaOlavide_724.xml.txt
+== MiguelHernandez_[Cuandopasoportupuerta]_96
+ +  ../witnesses/MiguelHernandez_[Cuandopasoportupuerta]_96/cancion_JoséMiguelArranz_664.xml.txt
+ +  ../witnesses/MiguelHernandez_[Cuandopasoportupuerta]_96/cancion_Jarcha_667.xml.txt
+ +  ../witnesses/MiguelHernandez_[Cuandopasoportupuerta]_96/poema.txt
+ +  ../witnesses/MiguelHernandez_[Cuandopasoportupuerta]_96/cancion_JavierBergia&BegoñaOlavide_665.xml.txt
+ +  ../witnesses/MiguelHernandez_[Cuandopasoportupuerta]_96/cancion_LolaMontenegro_666.xml.txt
+ +  ../witnesses/MiguelHernandez_[Cuandopasoportupuerta]_96/cancion_SoleCandela&SitohOrtega_663.xml.txt
+== MiguelHernandez_[Dimedesdealláabajo]_94
+ +  ../witnesses/MiguelHernandez_[Dimedesdealláabajo]_94/poema.txt
+ +  ../witnesses/MiguelHernandez_[Dimedesdealláabajo]_94/cancion_LolaMontenegro_669.xml.txt
+== MiguelHernandez_[Déjamequemevaya]_213
+ +  ../witnesses/MiguelHernandez_[Déjamequemevaya]_213/poema.txt
+ +  ../witnesses/MiguelHernandez_[Déjamequemevaya]_213/cancion_ArielBarreiros_845.xml.txt
+ +  ../witnesses/MiguelHernandez_[Déjamequemevaya]_213/cancion_FranciscoHinojosa_518.xml.txt
+== MiguelHernandez_[ElazahardeMurcia]_190
+ +  ../witnesses/MiguelHernandez_[ElazahardeMurcia]_190/poema.txt
+ +  ../witnesses/MiguelHernandez_[ElazahardeMurcia]_190/cancion_ManuelGerena_808.xml.txt
+== MiguelHernandez_[Elcementerioestácerca]_195
+ +  ../witnesses/MiguelHernandez_[Elcementerioestácerca]_195/poema.txt
+ +  ../witnesses/MiguelHernandez_[Elcementerioestácerca]_195/cancion_NiñodeElche_816.xml.txt
+== MiguelHernandez_[Elcorazónesagua]_93
+ +  ../witnesses/MiguelHernandez_[Elcorazónesagua]_93/poema.txt
+ +  ../witnesses/MiguelHernandez_[Elcorazónesagua]_93/cancion_JosePérez_673.xml.txt
+ +  ../witnesses/MiguelHernandez_[Elcorazónesagua]_93/cancion_DúoKarma_672.xml.txt
+ +  ../witnesses/MiguelHernandez_[Elcorazónesagua]_93/cancion_LolaMontenegro_671.xml.txt
+ +  ../witnesses/MiguelHernandez_[Elcorazónesagua]_93/cancion_TotiSoler-SilviaPérezCruz_670.xml.txt
+== MiguelHernandez_[Elmartambiénelige]_92
+ +  ../witnesses/MiguelHernandez_[Elmartambiénelige]_92/poema.txt
+ +  ../witnesses/MiguelHernandez_[Elmartambiénelige]_92/cancion_PacoDamas_589.xml.txt
+== MiguelHernandez_[Elmundoescomoaparece]_91
+ +  ../witnesses/MiguelHernandez_[Elmundoescomoaparece]_91/poema.txt
+ +  ../witnesses/MiguelHernandez_[Elmundoescomoaparece]_91/cancion_JoanManuelSerrat_590.xml.txt
+== MiguelHernandez_[Elpezmásviejodelrío]_90
+ +  ../witnesses/MiguelHernandez_[Elpezmásviejodelrío]_90/poema.txt
+ +  ../witnesses/MiguelHernandez_[Elpezmásviejodelrío]_90/cancion_CamaróndelaIsla_591.xml.txt
+== MiguelHernandez_[Elsol,larosayelniño]_205
+ +  ../witnesses/MiguelHernandez_[Elsol,larosayelniño]_205/cancion_MartaEspinosa_564.xml.txt
+ +  ../witnesses/MiguelHernandez_[Elsol,larosayelniño]_205/poema.txt
+ +  ../witnesses/MiguelHernandez_[Elsol,larosayelniño]_205/cancion_EugeniaLeón_568.xml.txt
+ +  ../witnesses/MiguelHernandez_[Elsol,larosayelniño]_205/cancion_FranciscoCurto_567.xml.txt
+ +  ../witnesses/MiguelHernandez_[Elsol,larosayelniño]_205/cancion_OrianaQuinteroyManuelRamos_563.xml.txt
+ +  ../witnesses/MiguelHernandez_[Elsol,larosayelniño]_205/cancion_PacoDamas_566.xml.txt
+ +  ../witnesses/MiguelHernandez_[Elsol,larosayelniño]_205/cancion_BandaInaudita(conJuliánPáez)_565.xml.txt
+ +  ../witnesses/MiguelHernandez_[Elsol,larosayelniño]_205/cancion_CarmenLinares_828.xml.txt
+== MiguelHernandez_[Enelfondodelhombre]_88
+ +  ../witnesses/MiguelHernandez_[Enelfondodelhombre]_88/cancion_LuchoRoa_594.xml.txt
+ +  ../witnesses/MiguelHernandez_[Enelfondodelhombre]_88/poema.txt
+ +  ../witnesses/MiguelHernandez_[Enelfondodelhombre]_88/cancion_AntonioRomán_593.xml.txt
+== MiguelHernandez_[Enestecampo]_87
+ +  ../witnesses/MiguelHernandez_[Enestecampo]_87/poema.txt
+ +  ../witnesses/MiguelHernandez_[Enestecampo]_87/cancion_EduardoRincón_595.xml.txt
+== MiguelHernandez_[Laboca]_187
+ +  ../witnesses/MiguelHernandez_[Laboca]_187/cancion_OrianaQuinteroyManuelRamos_554.xml.txt
+ +  ../witnesses/MiguelHernandez_[Laboca]_187/poema.txt
+ +  ../witnesses/MiguelHernandez_[Laboca]_187/cancion_PacoOrtega_801.xml.txt
+ +  ../witnesses/MiguelHernandez_[Laboca]_187/cancion_InésFonseca_739.xml.txt
+ +  ../witnesses/MiguelHernandez_[Laboca]_187/cancion_Pitingo_740.xml.txt
+== MiguelHernandez_[Llegócontresheridas]_214
+ +  ../witnesses/MiguelHernandez_[Llegócontresheridas]_214/cancion_CalixtoSánchez_838.xml.txt
+ +  ../witnesses/MiguelHernandez_[Llegócontresheridas]_214/cancion_CarmenLinares_830.xml.txt
+ +  ../witnesses/MiguelHernandez_[Llegócontresheridas]_214/cancion_CantaUPopuluCorsu_456.xml.txt
+ +  ../witnesses/MiguelHernandez_[Llegócontresheridas]_214/poema.txt
+ +  ../witnesses/MiguelHernandez_[Llegócontresheridas]_214/cancion_Lostrovadoressudamericanos_458.xml.txt
+ +  ../witnesses/MiguelHernandez_[Llegócontresheridas]_214/cancion_ErramunMartikorena_454.xml.txt
+ +  ../witnesses/MiguelHernandez_[Llegócontresheridas]_214/cancion_EliseoParra_453.xml.txt
+ +  ../witnesses/MiguelHernandez_[Llegócontresheridas]_214/cancion_BurritoPanza_444.xml.txt
+ +  ../witnesses/MiguelHernandez_[Llegócontresheridas]_214/cancion_AlikiKayaloglou_459.xml.txt
+ +  ../witnesses/MiguelHernandez_[Llegócontresheridas]_214/cancion_MercedesSosa_451.xml.txt
+ +  ../witnesses/MiguelHernandez_[Llegócontresheridas]_214/cancion_LosJuglares_460.xml.txt
+ +  ../witnesses/MiguelHernandez_[Llegócontresheridas]_214/cancion_NanaMouskouri_457.xml.txt
+ +  ../witnesses/MiguelHernandez_[Llegócontresheridas]_214/cancion_ColectivodeMúsicasMestizas_448.xml.txt
+ +  ../witnesses/MiguelHernandez_[Llegócontresheridas]_214/cancion_EleniPeta_447.xml.txt
+ +  ../witnesses/MiguelHernandez_[Llegócontresheridas]_214/cancion_SusannaCanessa_449.xml.txt
+ +  ../witnesses/MiguelHernandez_[Llegócontresheridas]_214/cancion_FranciscoPesqueira_446.xml.txt
+ +  ../witnesses/MiguelHernandez_[Llegócontresheridas]_214/cancion_CeciliaEcheniqueyEduardoPeralta_452.xml.txt
+ +  ../witnesses/MiguelHernandez_[Llegócontresheridas]_214/cancion_LuchoRoa_450.xml.txt
+ +  ../witnesses/MiguelHernandez_[Llegócontresheridas]_214/cancion_SoleCandela&SitohOrtega_445.xml.txt
+ +  ../witnesses/MiguelHernandez_[Llegócontresheridas]_214/cancion_SebastiánSolís_455.xml.txt
+ +  ../witnesses/MiguelHernandez_[Llegócontresheridas]_214/cancion_FranciscoCurto_461.xml.txt
+== MiguelHernandez_[MellamobarroaunqueMiguelmellame]_14
+ +  ../witnesses/MiguelHernandez_[MellamobarroaunqueMiguelmellame]_14/poema.txt
+ +  ../witnesses/MiguelHernandez_[MellamobarroaunqueMiguelmellame]_14/cancion_RománLC_674.xml.txt
+== MiguelHernandez_[Menostuvientre]_150
+ +  ../witnesses/MiguelHernandez_[Menostuvientre]_150/poema.txt
+ +  ../witnesses/MiguelHernandez_[Menostuvientre]_150/cancion_BandaInaudita(conJuliánPáez)_561.xml.txt
+ +  ../witnesses/MiguelHernandez_[Menostuvientre]_150/cancion_SilvioRodríguez_738.xml.txt
+== MiguelHernandez_[Metirasteunlimón,ytanamargo]_133
+ +  ../witnesses/MiguelHernandez_[Metirasteunlimón,ytanamargo]_133/cancion_OrianaQuinteroyManuelRamos_676.xml.txt
+ +  ../witnesses/MiguelHernandez_[Metirasteunlimón,ytanamargo]_133/poema.txt
+ +  ../witnesses/MiguelHernandez_[Metirasteunlimón,ytanamargo]_133/cancion_ÁngelCorpa_675.xml.txt
+ +  ../witnesses/MiguelHernandez_[Metirasteunlimón,ytanamargo]_133/cancion_Tierra_677.xml.txt
+== MiguelHernandez_[Nitelavasnitepeinas]_85
+ +  ../witnesses/MiguelHernandez_[Nitelavasnitepeinas]_85/poema.txt
+ +  ../witnesses/MiguelHernandez_[Nitelavasnitepeinas]_85/cancion_PacoMoyano_601.xml.txt
+ +  ../witnesses/MiguelHernandez_[Nitelavasnitepeinas]_85/cancion_BandaInaudita(conJuliánPáez)_600.xml.txt
+== MiguelHernandez_[Nomeconformo,nomedesespero]_131
+ +  ../witnesses/MiguelHernandez_[Nomeconformo,nomedesespero]_131/poema.txt
+ +  ../witnesses/MiguelHernandez_[Nomeconformo,nomedesespero]_131/cancion_InésFonseca_679.xml.txt
+== MiguelHernandez_[Nopuedoolvidar]_209
+ +  ../witnesses/MiguelHernandez_[Nopuedoolvidar]_209/poema.txt
+ +  ../witnesses/MiguelHernandez_[Nopuedoolvidar]_209/cancion_FranciscoCurto_525.xml.txt
+ +  ../witnesses/MiguelHernandez_[Nopuedoolvidar]_209/cancion_CarmenLinares_833.xml.txt
+== MiguelHernandez_[Portupie,lablancuramásbailable]_130
+ +  ../witnesses/MiguelHernandez_[Portupie,lablancuramásbailable]_130/poema.txt
+ +  ../witnesses/MiguelHernandez_[Portupie,lablancuramásbailable]_130/cancion_Jarcha_680.xml.txt
+== MiguelHernandez_[Porunasendavanloshortelanos]_153
+ +  ../witnesses/MiguelHernandez_[Porunasendavanloshortelanos]_153/poema.txt
+ +  ../witnesses/MiguelHernandez_[Porunasendavanloshortelanos]_153/cancion_IsabelMontero_748.xml.txt
+ +  ../witnesses/MiguelHernandez_[Porunasendavanloshortelanos]_153/cancion_AmancioPrada_717.xml.txt
+ +  ../witnesses/MiguelHernandez_[Porunasendavanloshortelanos]_153/cancion_Fraskito_747.xml.txt
+== MiguelHernandez_[Ropasconsuolor]_82
+ +  ../witnesses/MiguelHernandez_[Ropasconsuolor]_82/cancion_InésFonseca_723.xml.txt
+ +  ../witnesses/MiguelHernandez_[Ropasconsuolor]_82/poema.txt
+== MiguelHernandez_[Ruedaqueirásmuylejos]_81
+ +  ../witnesses/MiguelHernandez_[Ruedaqueirásmuylejos]_81/poema.txt
+ +  ../witnesses/MiguelHernandez_[Ruedaqueirásmuylejos]_81/cancion_PacoDamas_602.xml.txt
+== MiguelHernandez_[Seteperdiera]_80
+ +  ../witnesses/MiguelHernandez_[Seteperdiera]_80/poema.txt
+ +  ../witnesses/MiguelHernandez_[Seteperdiera]_80/cancion_EduardoRincón_603.xml.txt
+== MiguelHernandez_[Sinosotrosviviéramos]_79
+ +  ../witnesses/MiguelHernandez_[Sinosotrosviviéramos]_79/cancion_FranciscoHinojosa_604.xml.txt
+ +  ../witnesses/MiguelHernandez_[Sinosotrosviviéramos]_79/poema.txt
+== MiguelHernandez_[Tememueresdecastaydesencilla]_127
+ +  ../witnesses/MiguelHernandez_[Tememueresdecastaydesencilla]_127/poema.txt
+ +  ../witnesses/MiguelHernandez_[Tememueresdecastaydesencilla]_127/cancion_ColectivodeMúsicasMestizas_689.xml.txt
+ +  ../witnesses/MiguelHernandez_[Tememueresdecastaydesencilla]_127/cancion_ÁngelCorpa_688.xml.txt
+== MiguelHernandez_[Tengoestoshuesoshechosdepenas]_128
+ +  ../witnesses/MiguelHernandez_[Tengoestoshuesoshechosdepenas]_128/cancion_Fraskito_683.xml.txt
+ +  ../witnesses/MiguelHernandez_[Tengoestoshuesoshechosdepenas]_128/cancion_MiguelLópez_682.xml.txt
+ +  ../witnesses/MiguelHernandez_[Tengoestoshuesoshechosdepenas]_128/poema.txt
+ +  ../witnesses/MiguelHernandez_[Tengoestoshuesoshechosdepenas]_128/cancion_PacoDamas_686.xml.txt
+ +  ../witnesses/MiguelHernandez_[Tengoestoshuesoshechosdepenas]_128/cancion_PepeSuero_687.xml.txt
+ +  ../witnesses/MiguelHernandez_[Tengoestoshuesoshechosdepenas]_128/cancion_DanielMata_684.xml.txt
+ +  ../witnesses/MiguelHernandez_[Tengoestoshuesoshechosdepenas]_128/cancion_SallyRamos_685.xml.txt
+== MiguelHernandez_[Tierra.Ladespedida]_78
+ +  ../witnesses/MiguelHernandez_[Tierra.Ladespedida]_78/poema.txt
+ +  ../witnesses/MiguelHernandez_[Tierra.Ladespedida]_78/cancion_Jefira_844.xml.txt
+== MiguelHernandez_[Todaslascasassonojos]_202
+ +  ../witnesses/MiguelHernandez_[Todaslascasassonojos]_202/cancion_ToyoGabarrús_572.xml.txt
+ +  ../witnesses/MiguelHernandez_[Todaslascasassonojos]_202/poema.txt
+ +  ../witnesses/MiguelHernandez_[Todaslascasassonojos]_202/cancion_EmilianoZapata_571.xml.txt
+ +  ../witnesses/MiguelHernandez_[Todaslascasassonojos]_202/cancion_Arcángel_570.xml.txt
+ +  ../witnesses/MiguelHernandez_[Todaslascasassonojos]_202/cancion_Altapaco_573.xml.txt
+ +  ../witnesses/MiguelHernandez_[Todaslascasassonojos]_202/cancion_CarmenLinares_569.xml.txt
+== MiguelHernandez_[Todoestállenodeti]_77
+ +  ../witnesses/MiguelHernandez_[Todoestállenodeti]_77/poema.txt
+ +  ../witnesses/MiguelHernandez_[Todoestállenodeti]_77/cancion_RománLC_605.xml.txt
+== MiguelHernandez_[Tristesguerras]_76
+ +  ../witnesses/MiguelHernandez_[Tristesguerras]_76/cancion_PacoDamas_848.xml.txt
+ +  ../witnesses/MiguelHernandez_[Tristesguerras]_76/cancion_CoroI.B.&PedroIbarra_586.xml.txt
+ +  ../witnesses/MiguelHernandez_[Tristesguerras]_76/poema.txt
+ +  ../witnesses/MiguelHernandez_[Tristesguerras]_76/cancion_EduardoRincón_585.xml.txt
+ +  ../witnesses/MiguelHernandez_[Tristesguerras]_76/cancion_JoséMiguelArranz_579.xml.txt
+ +  ../witnesses/MiguelHernandez_[Tristesguerras]_76/cancion_Evohé_580.xml.txt
+ +  ../witnesses/MiguelHernandez_[Tristesguerras]_76/cancion_LuchoRoa_581.xml.txt
+ +  ../witnesses/MiguelHernandez_[Tristesguerras]_76/cancion_InésFonseca_582.xml.txt
+ +  ../witnesses/MiguelHernandez_[Tristesguerras]_76/cancion_OrianaQuinteroyManuelRamos_578.xml.txt
+ +  ../witnesses/MiguelHernandez_[Tristesguerras]_76/cancion_MichèleBernard_587.xml.txt
+ +  ../witnesses/MiguelHernandez_[Tristesguerras]_76/cancion_LosJuglares_588.xml.txt
+ +  ../witnesses/MiguelHernandez_[Tristesguerras]_76/cancion_ToyoGabarrús_583.xml.txt
+ +  ../witnesses/MiguelHernandez_[Tristesguerras]_76/cancion_NiloSoruco_584.xml.txt
+ +  ../witnesses/MiguelHernandez_[Tristesguerras]_76/cancion_Almaria,FarahSiraj,IsraelFernández,JoséEnriqueMorente,JuanCarmona,LasBautistayPedroelGranaíno_842.xml.txt
+== MiguelHernandez_[Tusojosparecen]_75
+ +  ../witnesses/MiguelHernandez_[Tusojosparecen]_75/poema.txt
+ +  ../witnesses/MiguelHernandez_[Tusojosparecen]_75/cancion_EduardoRincón_607.xml.txt
+ +  ../witnesses/MiguelHernandez_[Tusojosparecen]_75/cancion_LuchoRoa_606.xml.txt
+== MiguelHernandez_[Umbríoporlapena]_186
+ +  ../witnesses/MiguelHernandez_[Umbríoporlapena]_186/poema.txt
+ +  ../witnesses/MiguelHernandez_[Umbríoporlapena]_186/cancion_Dúoaireymadera_555.xml.txt
+ +  ../witnesses/MiguelHernandez_[Umbríoporlapena]_186/cancion_ConchaBuika_839.xml.txt
+ +  ../witnesses/MiguelHernandez_[Umbríoporlapena]_186/cancion_RicardoLeón_557.xml.txt
+ +  ../witnesses/MiguelHernandez_[Umbríoporlapena]_186/cancion_FranciscoCurto_556.xml.txt
+ +  ../witnesses/MiguelHernandez_[Umbríoporlapena]_186/cancion_JoséMiguelArranz_746.xml.txt
+== MiguelHernandez_[Unaquerenciatengoportuacento]_126
+ +  ../witnesses/MiguelHernandez_[Unaquerenciatengoportuacento]_126/poema.txt
+ +  ../witnesses/MiguelHernandez_[Unaquerenciatengoportuacento]_126/cancion_JavierBergia&BegoñaOlavide_690.xml.txt
+== MiguelHernandez_[Uncarnívorocuchillo]_125
+ +  ../witnesses/MiguelHernandez_[Uncarnívorocuchillo]_125/poema.txt
+ +  ../witnesses/MiguelHernandez_[Uncarnívorocuchillo]_125/cancion_GabrielPrieto_694.xml.txt
+ +  ../witnesses/MiguelHernandez_[Uncarnívorocuchillo]_125/cancion_RománLC_691.xml.txt
+ +  ../witnesses/MiguelHernandez_[Uncarnívorocuchillo]_125/cancion_LosJuglares_696.xml.txt
+ +  ../witnesses/MiguelHernandez_[Uncarnívorocuchillo]_125/cancion_PonchoK_695.xml.txt
+ +  ../witnesses/MiguelHernandez_[Uncarnívorocuchillo]_125/cancion_EsmeraldaGrao_577.xml.txt
+ +  ../witnesses/MiguelHernandez_[Uncarnívorocuchillo]_125/cancion_ColectivodeMúsicasMestizas_693.xml.txt
+ +  ../witnesses/MiguelHernandez_[Uncarnívorocuchillo]_125/cancion_JavierBergia&BegoñaOlavide_692.xml.txt
+== MiguelHernandez_[Yoséqueveryoírauntristeenfada]_134
+ +  ../witnesses/MiguelHernandez_[Yoséqueveryoírauntristeenfada]_134/cancion_Jerónimo_719.xml.txt
+ +  ../witnesses/MiguelHernandez_[Yoséqueveryoírauntristeenfada]_134/poema.txt
+== MiguelHernandez_[¡Lunas!Comogobiernas,comobronces]_142
+ +  ../witnesses/MiguelHernandez_[¡Lunas!Comogobiernas,comobronces]_142/poema.txt
+ +  ../witnesses/MiguelHernandez_[¡Lunas!Comogobiernas,comobronces]_142/cancion_Fraskito_840.xml.txt
+== MiguelHernandez_[¿Nocesaráesterayoquemehabita?]_132
+ +  ../witnesses/MiguelHernandez_[¿Nocesaráesterayoquemehabita?]_132/poema.txt
+ +  ../witnesses/MiguelHernandez_[¿Nocesaráesterayoquemehabita?]_132/cancion_Jarcha_843.xml.txt
+ +  ../witnesses/MiguelHernandez_[¿Nocesaráesterayoquemehabita?]_132/cancion_RománLC_678.xml.txt
+== NicolasFernandezdeMoratin_Sabersinestudiar_347
+ +  ../witnesses/NicolasFernandezdeMoratin_Sabersinestudiar_347/poema.txt
+ +  ../witnesses/NicolasFernandezdeMoratin_Sabersinestudiar_347/cancion_NiñaPastori_850.xml.txt
+== NicolasGuillen_Caminando_3
+ +  ../witnesses/NicolasGuillen_Caminando_3/cancion_AnaBelén_851.xml.txt
+ +  ../witnesses/NicolasGuillen_Caminando_3/poema.txt
+== NicolasdeGuevara_¡Oh,desastradaventura!_283
+ +  ../witnesses/NicolasdeGuevara_¡Oh,desastradaventura!_283/poema.txt
+ +  ../witnesses/NicolasdeGuevara_¡Oh,desastradaventura!_283/cancion_PacoDamasyMarinaRossell_849.xml.txt
+== PabloCesardelRio_Hueleacafé_220
+ +  ../witnesses/PabloCesardelRio_Hueleacafé_220/poema.txt
+ +  ../witnesses/PabloCesardelRio_Hueleacafé_220/cancion_Entertainiment_852.xml.txt
+== PabloNeruda_Explicoalgunascosas_247
+ +  ../witnesses/PabloNeruda_Explicoalgunascosas_247/poema.txt
+ +  ../witnesses/PabloNeruda_Explicoalgunascosas_247/cancion_Puagh_857.xml.txt
+== PabloNeruda_Lahuelga_7
+ +  ../witnesses/PabloNeruda_Lahuelga_7/poema.txt
+ +  ../witnesses/PabloNeruda_Lahuelga_7/cancion_LuisPastor_854.xml.txt
+== PabloNeruda_Terecuerdocomoerasenelúltimootoño_9
+ +  ../witnesses/PabloNeruda_Terecuerdocomoerasenelúltimootoño_9/poema.txt
+ +  ../witnesses/PabloNeruda_Terecuerdocomoerasenelúltimootoño_9/cancion_PacoIbáñez_855.xml.txt
+== PabloNeruda_XXV.ManuelRodríguez.Cueca_5
+ +  ../witnesses/PabloNeruda_XXV.ManuelRodríguez.Cueca_5/poema.txt
+ +  ../witnesses/PabloNeruda_XXV.ManuelRodríguez.Cueca_5/cancion_AnaBelén_853.xml.txt
+== RafaelAlberti_BaladadelquenuncafueaGranada_56
+ +  ../witnesses/RafaelAlberti_BaladadelquenuncafueaGranada_56/poema.txt
+ +  ../witnesses/RafaelAlberti_BaladadelquenuncafueaGranada_56/cancion_MarinaHeredia_881.xml.txt
+ +  ../witnesses/RafaelAlberti_BaladadelquenuncafueaGranada_56/cancion_JoséMenese_884.xml.txt
+ +  ../witnesses/RafaelAlberti_BaladadelquenuncafueaGranada_56/cancion_LaurenPostigo_882.xml.txt
+ +  ../witnesses/RafaelAlberti_BaladadelquenuncafueaGranada_56/cancion_RosaLeón_883.xml.txt
+== RafaelAlberti_Canción17[Alasoledadmevine]_58
+ +  ../witnesses/RafaelAlberti_Canción17[Alasoledadmevine]_58/cancion_MiguelPoveda_913.xml.txt
+ +  ../witnesses/RafaelAlberti_Canción17[Alasoledadmevine]_58/poema.txt
+ +  ../witnesses/RafaelAlberti_Canción17[Alasoledadmevine]_58/cancion_SoledadBravoyRafaelAlberti_885.xml.txt
+ +  ../witnesses/RafaelAlberti_Canción17[Alasoledadmevine]_58/cancion_LosZucará_886.xml.txt
+== RafaelAlberti_Canción8[Hoylasnubesmetrajeron]_59
+ +  ../witnesses/RafaelAlberti_Canción8[Hoylasnubesmetrajeron]_59/poema.txt
+ +  ../witnesses/RafaelAlberti_Canción8[Hoylasnubesmetrajeron]_59/cancion_MiguelPoveda_888.xml.txt
+ +  ../witnesses/RafaelAlberti_Canción8[Hoylasnubesmetrajeron]_59/cancion_ÁngelCorpa_887.xml.txt
+== RafaelAlberti_Dimequesí_68
+ +  ../witnesses/RafaelAlberti_Dimequesí_68/poema.txt
+ +  ../witnesses/RafaelAlberti_Dimequesí_68/cancion_LasMigas_867.xml.txt
+ +  ../witnesses/RafaelAlberti_Dimequesí_68/cancion_LaurenPostigo_868.xml.txt
+== RafaelAlberti_Elegíadelniñomarinero_67
+ +  ../witnesses/RafaelAlberti_Elegíadelniñomarinero_67/cancion_MaryLambourne_869.xml.txt
+ +  ../witnesses/RafaelAlberti_Elegíadelniñomarinero_67/poema.txt
+ +  ../witnesses/RafaelAlberti_Elegíadelniñomarinero_67/cancion_EmilioJosé_870.xml.txt
+ +  ../witnesses/RafaelAlberti_Elegíadelniñomarinero_67/cancion_HelenaBianco_911.xml.txt
+ +  ../witnesses/RafaelAlberti_Elegíadelniñomarinero_67/cancion_RosaLeón_872.xml.txt
+ +  ../witnesses/RafaelAlberti_Elegíadelniñomarinero_67/cancion_Valen_871.xml.txt
+== RafaelAlberti_Elniñodelapalma(Chuflillas)_65
+ +  ../witnesses/RafaelAlberti_Elniñodelapalma(Chuflillas)_65/poema.txt
+ +  ../witnesses/RafaelAlberti_Elniñodelapalma(Chuflillas)_65/cancion_ÁngelCorpa_875.xml.txt
+ +  ../witnesses/RafaelAlberti_Elniñodelapalma(Chuflillas)_65/cancion_GabrielaOrteaga_877.xml.txt
+ +  ../witnesses/RafaelAlberti_Elniñodelapalma(Chuflillas)_65/cancion_LaurenPostigo_876.xml.txt
+== RafaelAlberti_Galope_363
+ +  ../witnesses/RafaelAlberti_Galope_363/cancion_Niñosmutantes_912.xml.txt
+ +  ../witnesses/RafaelAlberti_Galope_363/poema.txt
+ +  ../witnesses/RafaelAlberti_Galope_363/cancion_Pájaro_909.xml.txt
+ +  ../witnesses/RafaelAlberti_Galope_363/cancion_Sínkope_908.xml.txt
+ +  ../witnesses/RafaelAlberti_Galope_363/cancion_CoropopularJabalón_896.xml.txt
+ +  ../witnesses/RafaelAlberti_Galope_363/cancion_Ataque77_906.xml.txt
+ +  ../witnesses/RafaelAlberti_Galope_363/cancion_ÁngelCorpa_895.xml.txt
+ +  ../witnesses/RafaelAlberti_Galope_363/cancion_NuriaEspert_892.xml.txt
+ +  ../witnesses/RafaelAlberti_Galope_363/cancion_LosmuertosdeCristo_905.xml.txt
+* Error with ../witnesses/RafaelAlberti_Galope_363/cancion_LosmuertosdeCristo_905.xml.txt
+== RafaelAlberti_Joselitoensugloria_66
+ +  ../witnesses/RafaelAlberti_Joselitoensugloria_66/poema.txt
+ +  ../witnesses/RafaelAlberti_Joselitoensugloria_66/cancion_GabrielaOrteaga_873.xml.txt
+ +  ../witnesses/RafaelAlberti_Joselitoensugloria_66/cancion_RosaLeón_874.xml.txt
+== RafaelAlberti_Micorza_70
+ +  ../witnesses/RafaelAlberti_Micorza_70/cancion_FranciscoCurto_863.xml.txt
+ +  ../witnesses/RafaelAlberti_Micorza_70/poema.txt
+ +  ../witnesses/RafaelAlberti_Micorza_70/cancion_LaurenPostigo_865.xml.txt
+== RafaelAlberti_Nocturno_64
+ +  ../witnesses/RafaelAlberti_Nocturno_64/poema.txt
+ +  ../witnesses/RafaelAlberti_Nocturno_64/cancion_DiegoSánchezZamora_878.xml.txt
+== RafaelAlberti_Pregónsubmarino_69
+ +  ../witnesses/RafaelAlberti_Pregónsubmarino_69/poema.txt
+ +  ../witnesses/RafaelAlberti_Pregónsubmarino_69/cancion_FernandoPolavieja_866.xml.txt
+== RafaelAlberti_[Cornearásaúnymásquenunca]_63
+ +  ../witnesses/RafaelAlberti_[Cornearásaúnymásquenunca]_63/poema.txt
+ +  ../witnesses/RafaelAlberti_[Cornearásaúnymásquenunca]_63/cancion_Laurentino_880.xml.txt
+ +  ../witnesses/RafaelAlberti_[Cornearásaúnymásquenunca]_63/cancion_MigueldePoveda_879.xml.txt
+== RafaelAlberti_[Erasjardíndenaranjas]_62
+ +  ../witnesses/RafaelAlberti_[Erasjardíndenaranjas]_62/poema.txt
+ +  ../witnesses/RafaelAlberti_[Erasjardíndenaranjas]_62/cancion_MiguelPoveda_910.xml.txt
+ +  ../witnesses/RafaelAlberti_[Erasjardíndenaranjas]_62/cancion_Laurentino_889.xml.txt
+== RafaelAlberti_[Seequivocólapaloma]_358
+ +  ../witnesses/RafaelAlberti_[Seequivocólapaloma]_358/poema.txt
+ +  ../witnesses/RafaelAlberti_[Seequivocólapaloma]_358/cancion_PalomaBerganza_900.xml.txt
+ +  ../witnesses/RafaelAlberti_[Seequivocólapaloma]_358/cancion_LosSabandeñosyMaríaDoloresPradera_902.xml.txt
+ +  ../witnesses/RafaelAlberti_[Seequivocólapaloma]_358/cancion_ÁngelCorpa_894.xml.txt
+ +  ../witnesses/RafaelAlberti_[Seequivocólapaloma]_358/cancion_MartirioyChanoDomínguez_897.xml.txt
+ +  ../witnesses/RafaelAlberti_[Seequivocólapaloma]_358/cancion_RosaLeónyRafaelAlberti_891.xml.txt
+ +  ../witnesses/RafaelAlberti_[Seequivocólapaloma]_358/cancion_ManoloTena_898.xml.txt
+ +  ../witnesses/RafaelAlberti_[Seequivocólapaloma]_358/cancion_NuriaEspert_893.xml.txt
+ +  ../witnesses/RafaelAlberti_[Seequivocólapaloma]_358/cancion_AnaBelényJoanManuelSerrat_903.xml.txt
+ +  ../witnesses/RafaelAlberti_[Seequivocólapaloma]_358/cancion_AnaBelén_907.xml.txt
+ +  ../witnesses/RafaelAlberti_[Seequivocólapaloma]_358/cancion_JoséCarreras_904.xml.txt
+ +  ../witnesses/RafaelAlberti_[Seequivocólapaloma]_358/cancion_ElCigala_899.xml.txt
+ +  ../witnesses/RafaelAlberti_[Seequivocólapaloma]_358/cancion_Labarberíadelsur_890.xml.txt
+ +  ../witnesses/RafaelAlberti_[Seequivocólapaloma]_358/cancion_CarmenLinares_901.xml.txt
+* Error with ../witnesses/RafaelAlberti_[Seequivocólapaloma]_358/cancion_CarmenLinares_901.xml.txt
+== RafaelAlberti_[Simivozmurieraentierra]_71
+ +  ../witnesses/RafaelAlberti_[Simivozmurieraentierra]_71/cancion_VicenteMorera_859.xml.txt
+ +  ../witnesses/RafaelAlberti_[Simivozmurieraentierra]_71/poema.txt
+ +  ../witnesses/RafaelAlberti_[Simivozmurieraentierra]_71/cancion_RafaelAlberti_864.xml.txt
+ +  ../witnesses/RafaelAlberti_[Simivozmurieraentierra]_71/cancion_EnriqueMorente_862.xml.txt
+ +  ../witnesses/RafaelAlberti_[Simivozmurieraentierra]_71/cancion_FernandoPolavieja_860.xml.txt
+ +  ../witnesses/RafaelAlberti_[Simivozmurieraentierra]_71/cancion_Lossabadeños_861.xml.txt
+== RubenDario_Sonatina_182
+ +  ../witnesses/RubenDario_Sonatina_182/poema.txt
+ +  ../witnesses/RubenDario_Sonatina_182/cancion_JoaquínSabina_914.xml.txt
+== VioletaParra_Volveralos17_12
+ +  ../witnesses/VioletaParra_Volveralos17_12/poema.txt
+ +  ../witnesses/VioletaParra_Volveralos17_12/cancion_RosaLeón_915.xml.txt
+== YosefibnSaddiq_¿Kéfaré,mamma?_316
+ +  ../witnesses/YosefibnSaddiq_¿Kéfaré,mamma?_316/poema.txt
+ +  ../witnesses/YosefibnSaddiq_¿Kéfaré,mamma?_316/cancion_PapáLevante_916.xml.txt
