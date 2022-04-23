@@ -53,12 +53,8 @@
    <text>
       <body>
          <div>
-            <lg type="poem">
-               <lg>
-                  <l>No se proporciona el texto debido a su extensión. Puede verse el texto en edición
-                    de Menéndez Pidal en la Biblioteca Virtual Miguel de Cervantes.</l>
-               </lg>
-            </lg>
+           <p> No se proporciona el texto debido a su extensión. Puede verse el texto en edición
+                    de Menéndez Pidal en la Biblioteca Virtual Miguel de Cervantes.</p>
          </div>
          <note>Debido a su carácter canónico durante décadas, la edición de Menéndez Pidal suele ser
             a la que más recurren los artistas. </note>
