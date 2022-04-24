@@ -22,7 +22,13 @@ for dname in sorted(os.listdir(witdir)):
     if os.path.exists(ofname) and os.stat(ofname).st_size > 0:
         print(" - Skip", fdname)
         continue
+    poem_ffname = os.path.join(fdname, "poema.txt")
+    with open(poem_ffname) as poem_fd:
+        wid = "poema"
+        collation.add_plain_witness(wid, poem_fd.read().strip())
     for idx, fname in sorted(enumerate(os.listdir(fdname))):
+        if fname == "poema.txt":
+            continue
         ffname = os.path.join(fdname, fname)
         print(" + ", ffname)
         with open(ffname) as wfn:

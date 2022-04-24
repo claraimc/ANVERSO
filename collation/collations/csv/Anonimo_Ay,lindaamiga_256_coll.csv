@@ -1,15 +1,35 @@
+poema,¡,,,,,,,,,,,,,,,,,,,,,,"Ay, linda amiga",",
+",que no ,vuelvo ,a verte,"!
+Cuerpo ","garrido
+que me lleva ",a ,la muerte,".
+",No hay amor sin pena,,,,",
+",pena sin dolor,",
+","ni dolor tan agudo
+como el del ",amor,";
+ni ",,"dolor tan agudo
+como el del ",amor,".
+¡",,,,,,,,,,,,,,,,,,"Ay, linda amiga",",
+",que ,no ,vuelvo ,a ,verte,"!
+Cuerpo ","garrido
+que me lleva ",a ,la muerte,,,,,,,,".
+","Levantéme madre
+al salir el sol",,",
+",fui ,,,,,,,,"por los campos verdes
+a buscar mi ",amor,";
+",,,,,,,,,,fui ,,,,"por los campos verdes
+a buscar mi ",amor,.
 cancion_AuraMusica_31,¡,"Ay, linda amiga",",
  ",que ,no ,vuelvo ,a ,verte,"!
  Cuerpo ","garrido
- que me lleva ",a ,la muerte,,,,,,,,,,,".
+ que me lleva ",a ,la muerte,,,,,,,,,,".
  ¡","Ay, linda amiga",",
  ",que no ,vuelvo ,a verte,"!
  Cuerpo ","garrido
  que me lleva ",a ,la muerte,".
- ",No hay ,amor ,sin pena,,",
+ ",No hay amor sin pena,,,,",
  ",pena sin dolor,",
- ",ni ,"dolor tan agudo
- como el del ","amor.
+ ","ni dolor tan agudo
+ como el del ",amor,".
  ",Ni ,"dolor tan agudo
  como el del ",amor,,,,,,,,,".
  ¡Ay",", ",linda amiga,",
@@ -45,7 +65,7 @@ cancion_Music4aWhile_36,¡,"Ay, linda amiga",",
  ",ni ,"dolor tan agudo
  como el del amor.
  Ni ","dolor tan agudo
- como el del ",amor,".
+ como el del amor",".
  ¡","Ay, linda amiga",",
  ",que no ,vuelvo ,a verte,"!
  Cuerpo ","garrido
@@ -53,7 +73,7 @@ cancion_Music4aWhile_36,¡,"Ay, linda amiga",",
  ",Levantéme ,"madre
  al salir ",el ,sol,",
  ","fui por los campos verdes
- a buscar mi ",,,,"amor.
+ a buscar mi ",,,amor,".
  ",Fui ,"por los campos verdes
  a buscar mi ",amor,".
  ¡","Ay, linda amiga",",
@@ -96,7 +116,7 @@ cancion_AlaVia_28,¡,"Ay, linda amiga",",
  ",ni ,"dolor tan agudo
  como el del amor.
  Ni ","dolor tan agudo
- como el del ",amor,".
+ como el del amor",".
  ¡","Ay, linda amiga",",
  ",que no ,voy ,a verte,"!
  Cuerpo ","garrido
@@ -104,7 +124,7 @@ cancion_AlaVia_28,¡,"Ay, linda amiga",",
  ",Levanté mi ,"madre
  al salir ",de ,sol,",
  ","fui por los campos verdes
- a buscar mi ",,,,"amor.
+ a buscar mi ",,,amor,".
  ",Fui ,"por los campos verdes
  a buscar mi ",amor,,,,,,,,,,,,,,,,,,".
  ¡","Ay, linda amiga",",
@@ -117,26 +137,6 @@ cancion_AlaVia_28,¡,"Ay, linda amiga",",
  como el del amor.
  Ni ","dolor tan agudo
  como el del ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,amor,.
-poema,¡,"Ay, linda amiga",",
-",que ,no ,vuelvo ,a ,verte,"!
-Cuerpo ","garrido
-que me lleva ",a ,la muerte,".
-",No hay amor sin pena,",
-",,pena sin dolor,",
-",ni ,,"dolor tan agudo
-como el del ",,,,,,,,,,,,,,amor,";
-",,,,,ni ,,,,"dolor tan agudo
-como el del ",amor,".
-¡",,,,,,,,,,,,,,,,,,"Ay, linda amiga",",
-",que ,no ,vuelvo ,a ,verte,"!
-Cuerpo ","garrido
-que me lleva ",a ,la muerte,,,,,,,,".
-","Levantéme madre
-al salir el sol",,",
-",fui ,,,,,,,,"por los campos verdes
-a buscar mi ",amor,";
-",,,,,,,,,,fui ,,,,"por los campos verdes
-a buscar mi ",amor,.
 cancion_AmancioPrada_29,,"Ay, linda amiga ",,que ,no ,vuelvo ,a ,verte,",
  cuerpo ",garrido que me lleva ,,la muerte,".
  ","Me hiela la sangre
@@ -145,7 +145,7 @@ cancion_AmancioPrada_29,,"Ay, linda amiga ",,que ,no ,vuelvo ,a ,verte,",
  ","me seca la piel,
  los ojos se me nublan,
  ni lloran ni ven.
- ",,,,,"Ay, linda amiga ",,que no ,vuelvo ,a verte,",
+ ",,,,"Ay, linda amiga ",,que no ,vuelvo ,a verte,",
  cuerpo ",garrido que me lleva ,,la muerte,".
  ",Preso me conducen,,,,",
  ",me echan en prisión,",
@@ -180,7 +180,7 @@ cancion_AnDanzza_30,¡,"Ay, linda amiga",",
  ",ni ,"dolor tan agudo
  como el del amor.
  Ni ","dolor tan agudo
- como el del ",amor,".
+ como el del amor",".
  ¡","Ay, linda amiga",",
  ",que no ,vuelvo ,a verte,"!
  Cuerpo ","garrido
@@ -188,7 +188,7 @@ cancion_AnDanzza_30,¡,"Ay, linda amiga",",
  ",Levantéme ,"madre
  al salir ",el ,sol,",
  ","fui por los campos verdes
- a buscar mi ",,,,"amor.
+ a buscar mi ",,,amor,".
  ",Fui ,"por los campos verdes
  a buscar mi ",amor,".
  ¡","Ay, linda amiga",",
@@ -223,11 +223,11 @@ cancion_Jaramar_35,¡,"Ay, linda amiga",",
  ",No hay amor sin pena,",
  ",,pena sin dolor,",
  ",ni ,,"dolor tan agudo
- como el del ",amor,,,,,,,,,,,".
- ",No hay ,amor ,sin pena,,",
+ como el del amor",,,,,,,,,,,".
+ ",No hay amor sin pena,,,,",
  ",pena sin dolor,",
- ",ni ,"dolor tan agudo
- como el del ","amor.
+ ","ni dolor tan agudo
+ como el del ",amor,".
  ","Levantéme madre
  al salir el sol,
  fui ","por los campos verdes
@@ -242,7 +242,7 @@ cancion_Jaramar_35,¡,"Ay, linda amiga",",
  como el del amor.
  Ni ","dolor tan agudo
  como el del ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,amor,.
-cancion_PhatManDee_37,¡,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ay, linda amiga",",
+cancion_PhatManDee_37,¡,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ay, linda amiga",",
  ",que ,no ,vuelvo ,a ,verte,"!
  Cuerpo ","garrido
  que me lleva ",a ,la muerte,".
@@ -260,14 +260,14 @@ cancion_PhatManDee_37,¡,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
  ",a ,"buscar mi amor.
  Fui ","por los campos verdes
  a buscar mi ",amor,.
-cancion_ColleenKattau_34,¡,,,,,,,,,,,,,,,,,,,,,,,"Ay, linda amiga",",
+cancion_ColleenKattau_34,¡,,,,,,,,,,,,,,,,,,,,,,"Ay, linda amiga",",
  ",que no ,vuelvo ,a verte,"!
  Cuerpo ","garrido
  que me lleva ",a ,la muerte,".
- ",No hay ,amor ,sin pena,,",
+ ",No hay amor sin pena,,,,",
  ",pena sin dolor,",
- ",ni ,"dolor tan agudo
- como el del ","amor.
+ ","ni dolor tan agudo
+ como el del ",amor,".
  ",Ni ,"dolor tan agudo
  como el del ",amor,,,,,,,,,,,,,,,,,,".
  ¡","Ay, linda amiga",",
@@ -284,7 +284,7 @@ cancion_ColleenKattau_34,¡,,,,,,,,,,,,,,,,,,,,,,,"Ay, linda amiga",",
  ",que no vuelvo a verte,"!
  Cuerpo ","garrido
  que me lleva ",a ,la muerte,,,,,,,,,.
-cancion_Annwn_32,¡,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ay, linda amiga",",
+cancion_Annwn_32,¡,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ay, linda amiga",",
  ",que ,no ,vuelvo ,a ,verte,"!
  Cuerpo ","garrido
  que me lleva ",a ,la muerte,".
@@ -304,7 +304,7 @@ cancion_Annwn_32,¡,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
  ",a ,"buscar mi amor.
  Fui ","por los campos verdes
  a buscar mi ",amor,.
-cancion_CorvusCorax_33,¡,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ay, linda amiga",", ",que ,no ,vuelvo ,a ,verte,"!
+cancion_CorvusCorax_33,¡,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Ay, linda amiga",", ",que ,no ,vuelvo ,a ,verte,"!
  Cuerpo ",garrido que me lleva ,,la muerte,".
  ","No hay amor sin pena, ",,"pena sin dolor,
  ni ","dolor tan agudo como el del amor.
