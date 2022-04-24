@@ -4,7 +4,7 @@ import os
 import json
 
 nbpath = "collation.ipynb"
-outdir = "../collations/html2/files"
+outdir = "../collation/collations/html2/files"
 
 outindex = os.path.join(outdir.replace("/files", ""), "index.html")
 if not os.path.exists(outdir):

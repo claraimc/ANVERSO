@@ -6,7 +6,7 @@ import re
 
 
 nbpath = "collation_pairwise.ipynb"
-outdir = "../collations_pairwise/html2/files"
+outdir = "../collation/collations_pairwise/html2/files"
 
 outindex = os.path.join(outdir.replace("/files", ""), "index.html")
 if not os.path.exists(outdir):

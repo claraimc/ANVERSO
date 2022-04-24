@@ -8,7 +8,7 @@ import os
 
 witdir = "../witnesses"
 outformat = "csv"
-collations_out = f"../collations/{outformat}"
+collations_out = f"../collation/collations/{outformat}"
 
 
 if not os.path.exists(collations_out):
