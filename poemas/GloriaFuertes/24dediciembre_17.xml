@@ -54,10 +54,9 @@
       <body>
          <div>
             <lg type="poem">
-               <lg>
-                  <l>A una mujer de alterne</l>
-                  <l>(alias) Sor Telaraña del Portal de Belén.</l>
-               </lg>
+                  <head>A una mujer de alterne</head>
+                  <head>(alias) Sor Telaraña del Portal de Belén.</head>
+               
                <lg>
                   <l>Humilde hermana monja</l>
                   <l>de hábito raído y toca de retales,</l>
