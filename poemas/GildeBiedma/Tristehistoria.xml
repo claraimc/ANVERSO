@@ -24,7 +24,7 @@
                <person role="poet">
                   <persName>Gil de Biedma</persName>
                   <bibl>Apología y petición</bibl>
-                  <relation>Musicalización similar</relation>
+                <!--  <relation>Musicalización similar</relation>-->
                </person>
             </listPerson>
          </particDesc>
